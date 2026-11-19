@@ -1,0 +1,33 @@
+name: Update timetables
+
+on:
+  schedule:
+    - cron: "17 3 * * 1,4"   # Monday and Thursday, 03:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["build.py", ".github/workflows/update.yml"]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Download official timetables and build the area file
+        run: python build.py
+      - name: Smoke test
+        run: python query.py --data data/area.json.gz --to Granollers --day weekday --shift 08:00-17:00
+      - name: Commit
+        run: |
+          git config user.name "timetable-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Update timetables $(date -u +%F)" || echo "No changes"
+          git push
