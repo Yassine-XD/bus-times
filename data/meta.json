@@ -1,0 +1,13 @@
+{
+ "built": "2026-11-19T15:35Z",
+ "start": "2026-11-19",
+ "days": 28,
+ "sources": {
+  "atm": "FAILED",
+  "gencat": "https://territori.gencat.cat/web/.content/home/serveis/visors-cartografia/bases-cartografiques/infraestructures-mobilitat/autobusos-interurbans/busos-interurbans-GTFS.zip",
+  "renfe": "https://ssl.renfe.com/ftransit/Fichero_CER_FOMENTO/fomento_transit.zip"
+ },
+ "stops": 2570,
+ "trips": 27229,
+ "routes": 230
+}
