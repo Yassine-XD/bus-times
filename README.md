@@ -3,7 +3,6 @@
 Checks whether a job can be reached by public transport from **Mataró station** for the real shift times: at most 2 vehicles (one change) and at most 90 minutes door to door, both for the shift start and for the trip home after it ends.
 
 The timetables come from official open data (GTFS):
-- ATM Barcelona, buses and trains in Catalonia (via the Mobility Database mirror)
 - Generalitat de Catalunya, interurban buses
 - Renfe, Rodalies
 
@@ -22,4 +21,4 @@ python3 query.py --to "41.6012,2.2950" --date 2026-11-24 --shift 22:00-06:00
 
 Each shift prints a GO line, a BACK line, a VERDICT (✅ / ⚠️ / ❌) and a one-line SUMMARY.
 
-Not covered: Barcelona city (outside the area) and services that are not in the open data. Always confirm in a journey planner before an interview.
+Not covered: Barcelona city (outside the area), Mataró's own city buses, and services that are not in the open data. Always confirm in a journey planner before an interview.

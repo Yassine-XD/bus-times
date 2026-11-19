@@ -16,9 +16,8 @@ BBOX = (41.40, 41.75, 2.05, 2.80)  # lat_min, lat_max, lon_min, lon_max
 DAYS = 28
 
 FEEDS = [
-    ("atm", [
-        "https://storage.googleapis.com/storage/v1/b/mdb-latest/o/es-atm-autobuses-trains-complete-gtfs-2826.zip?alt=media",
-    ]),
+    # ATM's full feed (incl. Mataró urban buses) needs a free API key from nap.transportes.gob.es;
+    # add it here as ("atm", ["https://nap.transportes.gob.es/api/Fichero/download/2060?ApiKey=..."]) if ever needed.
     ("gencat", [
         "https://territori.gencat.cat/web/.content/home/serveis/visors-cartografia/bases-cartografiques/infraestructures-mobilitat/autobusos-interurbans/busos-interurbans-GTFS.zip",
         "https://storage.googleapis.com/storage/v1/b/mdb-latest/o/es-catalonia-autobusos-interurbans-gtfs-2926.zip?alt=media",

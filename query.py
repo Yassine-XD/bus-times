@@ -255,7 +255,9 @@ def main():
     label, dst = resolve(net, a.to, a.near, a.radius)
     src = net.around(HOME[1], HOME[2], HOME[3])
     if not dst:
-        raise SystemExit(f"No bus or train stop found near {label}.")
+        print(f"No bus or train stop near {label}: it is outside the area this tool covers (Maresme, Vallès, Badalona).")
+        print("OVERALL ❌ outside the covered area — treat as too far unless a journey planner proves otherwise")
+        return
     print(f"From {HOME[0]} to {label} · {day.strftime('%a %d/%m/%Y')} · max {a.max} min, max 2 vehicles")
     worst = "✅"
     for sh in a.shift:
