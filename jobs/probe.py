@@ -39,84 +39,48 @@ def ldjson(t):
         except Exception: pass
     return out
 
-print("==== FEINA ACTIVA")
-t = get("https://feinaactiva.gencat.cat/api/offers/offers-xml")
-if t:
-    root = ET.fromstring(t)
-    ads = root.findall(".//ad")
-    print("ads", len(ads), "status", Counter(a.findtext("status") for a in ads).most_common(4),
-          "origin", Counter(a.findtext("origin") for a in ads).most_common(6))
-    dates = sorted(a.findtext("date") or "" for a in ads)
-    print("dates sample", Counter(d[-7:] for d in dates).most_common(6))
-    cities = Counter((a.findtext("city") or "").upper() for a in ads)
-    for c in ["MATARÓ", "GRANOLLERS", "ARGENTONA", "VILASSAR DE MAR", "PREMIÀ DE MAR", "LLIÇÀ DE VALL", "LES FRANQUESES DEL VALLÈS", "MOLLET DEL VALLÈS", "BADALONA", "SABADELL", "MONTORNÈS DEL VALLÈS", "CALELLA"]:
-        print("  ", c, cities.get(c, 0))
-    print("  similar:", [c for c in cities if "MATAR" in c or "FRANQUESES" in c or "LLI" in c[:4]])
-    for a in ads:
-        if (a.findtext("city") or "").upper().startswith("MATAR"):
-            print("  EX:", ET.tostring(a, encoding="unicode")[:900]); break
 
-print("==== XALOC Mataró card")
-t = get("https://xaloc.diba.cat/ofertes-de-feina?offer_type%5Bxaloc%5D=xaloc&offer_type%5Bpublic%5D=0&municipality%5B0%5D=08121&disability=All&day=All&map=false")
+print("==== RANDSTAD sub-sitemap")
+t = get("https://www.randstad.es/candidate-offers_sitemap_1.xml")
 if t:
-    i = t.find("ofertes-de-feina/39")
-    print(sq(re.sub(r"<[^>]+>", " | ", t[i-1500:i+2500]), 2000))
-    print("pager:", re.findall(r'[?&]page=(\d+)', t)[:10])
-    opts = re.findall(r'<option value="(08\d{3})"[^>]*>([^<]+)</option>', t)
-    print("municipality options", len(opts), opts[:5])
-    want = ["Mataró","Argentona","Cabrera de Mar","Cabrils","Vilassar de Mar","Vilassar de Dalt","Premià de Mar","Premià de Dalt","Teià","Masnou","Alella","Montgat","Tiana","Badalona","Sant Adrià de Besòs","Sant Andreu de Llavaneres","Sant Vicenç de Montalt","Caldes d'Estrac","Arenys de Mar","Arenys de Munt","Canet de Mar","Sant Pol de Mar","Calella","Pineda de Mar","Santa Susanna","Malgrat de Mar","Palafolls","Tordera","Dosrius","Granollers","Franqueses","Canovelles","Roca del Vallès","Lliçà d'Amunt","Lliçà de Vall","Parets del Vallès","Montmeló","Montornès del Vallès","Mollet del Vallès","Martorelles","Vilanova del Vallès","Cardedeu","Llinars del Vallès","Sant Celoni","Sabadell"]
-    print("CODES", json.dumps({n: c for c, n in opts if any(w.lower() in n.lower() for w in want)}, ensure_ascii=False))
+    locs = re.findall(r"<loc>(?:<!\[CDATA\[)?([^<\]]+)", t); lm = re.findall(r"<lastmod>(?:<!\[CDATA\[)?([^<\]]+)", t)
+    print("locs", len(locs), locs[:4], lm[:2])
+    p = get(locs[0]) if locs else None
+    for j in ldjson(p):
+        if "JobPosting" in json.dumps(j): print("  ld:", sq(json.dumps(j, ensure_ascii=False), 1200))
 
-print("==== ADECCO")
-t = get("https://www.adecco.com/jobsindex.xml")
+print("==== RAS rss")
+t = get("https://empleo.ras-interim.es/jobs.rss")
 if t:
-    locs = re.findall(r"<loc>([^<]+)</loc>", t); print("jobsindex locs", len(locs), [l for l in locs if "es-es" in l][:5], locs[:3])
-t = get("https://www.adecco.com/es-es/ofertas-trabajo?l=Matar%C3%B3")
-if t:
-    m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', t, re.S)
-    if m:
-        d = json.loads(m.group(1)); s = json.dumps(d, ensure_ascii=False)
-        print("NEXT_DATA size", len(s))
-        for k in ["jobTitle", "title", "jobId", "city", "postedDate", "datePosted", "location"]:
-            i = s.find('"' + k + '"'); print(" ", k, "->", s[i:i+200] if i >= 0 else None)
-        print("  total hints:", re.findall(r'"(?:totalCount|total|numFound|count)":\s*\d+', s)[:5])
-
-print("==== RANDSTAD")
-t = get("https://www.randstad.es/offers_sitemap.xml")
-if t:
-    locs = re.findall(r"<loc>(?:<!\[CDATA\[)?([^<\]]+)", t); print("offers locs", len(locs), locs[:3])
-    print("lastmods", re.findall(r"<lastmod>(?:<!\[CDATA\[)?([^<\]]+)", t)[:3])
-    print("mataro/granollers urls", [l for l in locs if "mataro" in l or "granollers" in l][:6])
-t = get("https://www.randstad.es/candidatos/ofertas-empleo/p-barcelona/c-mataro/")
-for j in ldjson(t): print("  ld:", sq(json.dumps(j, ensure_ascii=False), 600))
-
-print("==== EUROFIRMS")
-t = get("https://jobs.eurofirms.com/sitemap_es-ES_offers.xml")
-if t:
-    locs = re.findall(r"<loc>([^<]+)</loc>", t); print("offers", len(locs), locs[:3])
-    mt = [l for l in locs if "mataro" in l or "granollers" in l]; print("mataro/granollers", len(mt), mt[:4])
-    if mt:
-        p = get(mt[0])
-        for j in ldjson(p): print("  ld:", sq(json.dumps(j, ensure_ascii=False), 900))
-
-print("==== RAS")
-t = get("https://empleo.ras-interim.es/sitemap.xml")
-if t:
-    pairs = re.findall(r"<loc>([^<]+/jobs/[^<]+)</loc>\s*(?:<lastmod>([^<]+)</lastmod>)?", t)
-    print("job urls", len(pairs), pairs[:3])
-    if pairs:
-        p = get(pairs[0][0])
-        for j in ldjson(p): print("  ld:", sq(json.dumps(j, ensure_ascii=False), 900))
-get("https://empleo.ras-interim.es/jobs.rss")
+    items = re.findall(r"<item>(.*?)</item>", t, re.S); print("items", len(items)); print(sq(items[0], 1500))
 
 print("==== IMAN")
 t = get("https://empleo.imancorp.es/jobs")
 if t:
-    print("teamtailor" in t, "pager", re.findall(r'href="([^"]*page=\d+[^"]*)"', t)[:4])
-    print("location filter", re.findall(r'href="([^"]*location[^"]*)"', t)[:6])
-get("https://empleo.imancorp.es/jobs.rss")
+    print("inputs", re.findall(r'<(?:input|select)[^>]+name="([^"]+)"', t)[:20])
+    print("forms", re.findall(r'<form[^>]+action="([^"]*)"', t)[:5])
+    i = t.find("/jobs/operario"); print(sq(re.sub(r"<[^>]+>", " | ", t[i-800:i+1200]), 1200))
+    p = get("https://empleo.imancorp.es/jobs/customer-service-sat-english-speaking")
+    for j in ldjson(p): print("  ld:", sq(json.dumps(j, ensure_ascii=False), 900))
+for q in ["https://empleo.imancorp.es/jobs?search=Matar%C3%B3", "https://empleo.imancorp.es/jobs?q=Matar%C3%B3", "https://empleo.imancorp.es/jobs?location=Barcelona"]:
+    t = get(q)
+    if t: print("  links", len(re.findall(r'href="https://empleo\.imancorp\.es/jobs/[^"]+"', t)), "matar" , t.lower().count("matar"))
 
-print("==== MEDITEMPUS")
-t = get("https://www.meditempus.com/oferta-sitemap.xml")
+print("==== ADECCO endpoints in NEXT_DATA")
+t = get("https://www.adecco.com/es-es/ofertas-trabajo?l=Matar%C3%B3")
 if t:
-    pairs = re.findall(r"<loc>([^<]+)</loc>\s*<lastmod>([^<]+)</lastmod>", t); print("ofertas", len(pairs), pairs[-3:])
+    urls = set(re.findall(r'https?://[^"\s\\]+', t))
+    print([u for u in urls if any(k in u.lower() for k in ["api", "search", "job", "solr", "graphql"])][:30])
+    print(re.findall(r'"[^"]*(?:[Ee]ndpoint|[Aa]pi[Uu]rl|searchUrl|serviceUrl)[^"]*":\s*"[^"]*"', t)[:15])
+
+print("==== MEDITEMPUS offer")
+p = get("https://www.meditempus.com/oferta/soldador-a-mig-mag-tig-estable-manana-tarde/")
+for j in ldjson(p):
+    if "JobPosting" in json.dumps(j): print("  ld:", sq(json.dumps(j, ensure_ascii=False), 900))
+if p: i = p.find("Ubicaci"); print(sq(re.sub(r"<[^>]+>", " | ", p[i-300:i+800]), 800))
+
+print("==== XALOC detail")
+p = get("https://xaloc.diba.cat/ofertes-de-feina/397227")
+if p:
+    txt = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", p))
+    i = txt.find("Obligatoris"); print(txt[max(0,i-1500):i+1500])
