@@ -19,7 +19,7 @@ jobs:
       - name: collect
         run: python jobs/collect.py
       - name: smoke test
-        run: python jobs/list.py --data jobs/data/offers.json --days 3 --text 0 | head -30
+        run: python jobs/list.py --data jobs/data/offers.json --days 3 --text 0 | head -40
       - name: commit
         run: |
           git config user.name "github-actions[bot]"

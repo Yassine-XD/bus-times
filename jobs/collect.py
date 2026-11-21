@@ -91,24 +91,38 @@ def towns_in_text(s):
 
 # ---------------------------------------------------------------- flags
 FLAG_RX = {
-    "forklift": r"carretiller|carreto elevador|carretilla|retractil|toro mecanic|transpalet electric|apilador",
+    "forklift": r"carretiller|carreto elevador|carreto|carretilla|\bretractil\b|toro mecanic|transpalet electric|apilador electric",
     "car": r"vehicle propi|vehiculo propio|cotxe propi|coche propio|carnet de conduir|carnet de conducir|"
-           r"permiso de conducir|permis de conduir|carnet b\b|carne b\b|carnet tipus b|disponer de vehiculo|mitja de transport propi|medio de transporte propio",
-    "lang_level": r"(catala|castella|castellano|espanol|catalan|idioma)[^.;]{0,45}\b(b1|b2|c1|c2|mitja|alt|nivel medio|nivel alto|"
-                  r"avanzado|fluido|fluid|nativo|natiu|correctamente|correctament|imprescindible)\b|\b(b1|b2|c1)\b",
+           r"permiso de conducir|permis de conduir|carnet b\b|carne b\b|carnet tipus b|disponer de vehiculo|"
+           r"mitja de transport propi|medio de transporte propio|transporte propio|transport propi",
+    "lang_level": r"(catala|castella|castellano|espanol|catalan)[^.;]{0,45}\b(b1|b2|c1|c2|mitja|alt|nivel medio|nivel alto|"
+                  r"avanzado|fluido|fluid|nativo|natiu|correctamente|correctament)\b|\b(b1|b2|c1)\b|"
+                  r"catala[^.;]{0,30}imprescindible|imprescindible[^.;]{0,30}catala",
     "diploma": r"\bcfgm\b|\bcfgs\b|cicle formatiu|ciclo formativo|grau mitja|grado medio|grau superior|grado superior|"
                r"\bfp ?(i|ii|1|2)\b|formacion profesional|formacio professional|titulacio universit|titulacion universit|grado universit|llicenciat|licenciad",
     "kitchen_meat_alcohol": r"cuiner|cocinero|\bcuina\b|cocina|cambrer|camarer|carnisser|carnicer|xarcut|charcut|sommelier|"
                             r"barman|bartender|escorxador|matadero|porcino|elaborats carnis|productos carnicos|bodega|celler|vinos",
-    "english": r"\bangles\b|\bingles\b|english",
 }
+HARD_FLAGS = ("forklift", "car", "lang_level", "diploma", "kitchen_meat_alcohol")
+SOFT_RX = r"valora|valorable|es valorar|se valorar|deseable|preferible|\bplus\b|no imprescindible|no es imprescindible|opcional"
 
 def flags_for(title, text):
-    t = norm(title + " . " + text)
-    f = [k for k, rx in FLAG_RX.items() if re.search(rx, t)]
+    """Returns (flags, why). Checked sentence by sentence: if every sentence with the blocker word
+    also says 'valorable/deseable/…', the flag becomes '<flag>?' (soft, not mandatory)."""
+    raw = html.unescape(title + ". " + text)
+    sents = [norm(x) for x in re.split(r"[.;:\n•·\-–]\s|\n|[!?]", raw) if x.strip()]
+    t = " ".join(sents)
+    f, why = [], {}
+    for k, rx in FLAG_RX.items():
+        hits = [x for x in sents if re.search(rx, x)]
+        if not hits: continue
+        soft = all(re.search(SOFT_RX, x) for x in hits)
+        f.append(k + ("?" if soft else ""))
+        why[k] = " … ".join(x[:160] for x in hits[:3])
+    if re.search(r"\bangles\b|\bingles\b|english", t): f.append("english")
     m = re.search(r"experiencia (?:en l ocupacio )?(?:mesos |meses )?(\d{1,2})\b", t)
     if m and m.group(1) != "0": f.append(f"exp:{m.group(1)}")
-    return f
+    return f, why
 
 # ---------------------------------------------------------------- http
 _robots, _last = {}, {}
@@ -189,11 +203,12 @@ def salary_jp(jp):
     return ""
 
 def offer(src, oid, title, town, url, text, published="", modified="", company="", salary="", town_note=""):
+    fl, why = flags_for(title or "", text or "")
     return {"src": src, "id": str(oid), "title": re.sub(r"\s+", " ", html.unescape(title or "")).strip(),
             "town": town, "town_note": town_note, "url": url, "published": published, "modified": modified,
             "company": company, "salary": salary,
             "text": re.sub(r"\n\s*\n+", "\n", text or "").strip()[:2500],
-            "flags": flags_for(title or "", text or "")}
+            "flags": fl, "why": why}
 
 # ---------------------------------------------------------------- sources
 def src_xaloc(cache):
@@ -247,9 +262,16 @@ def src_eurofirms(cache):
         if d is None:
             h = get(u, 0.8)
             jp = jobposting(h) if h else None
-            d = cache[u] = {"title": jp.get("title", ""), "text": text_of(jp.get("description", "")),
-                            "published": iso(jp.get("datePosted")), "loc": jp_locality(jp),
-                            "salary": salary_jp(jp)} if jp else {"dead": True}
+            if jp:
+                d = {"title": jp.get("title", ""), "text": text_of(jp.get("description", "")),
+                     "published": iso(jp.get("datePosted")), "loc": jp_locality(jp), "salary": salary_jp(jp)}
+            elif h:
+                ti = re.search(r"<h1[^>]*>(.*?)</h1>", h, re.S) or re.search(r"<title>([^<|]+)", h)
+                d = {"title": text_of(ti.group(1)) if ti else u.rsplit("/", 1)[-1], "published": "", "loc": "",
+                     "salary": "", "text": text_of(h)[:2500], "no_jobposting": True}
+            else:
+                d = {"dead": True}
+            cache[u] = d
         if d.get("dead"): continue
         code = re.search(r"(\d{3}-\d{6})$", u.rstrip("/"))
         out.append(offer("eurofirms", code.group(1) if code else u, d["title"], town_of(d.get("loc", "")) or town, u,
@@ -388,6 +410,7 @@ SOURCES = [("xaloc", src_xaloc), ("feinaactiva", src_feinaactiva), ("eurofirms",
 
 # ---------------------------------------------------------------- main
 def main():
+    sys.stdout.reconfigure(line_buffering=True)
     only = set(sys.argv[1:])
     prev = {}
     if os.path.exists(OUT):

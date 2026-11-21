@@ -1,8 +1,7 @@
 """Show recent job offers from the daily feed (jobs/data/offers.json).
 
   curl -sL https://raw.githubusercontent.com/Yassine-XD/bus-times/main/jobs/list.py -o /tmp/jobs.py
-  python3 /tmp/jobs.py --days 3            # offers new/updated in the last 3 days, blockers hidden
-  python3 /tmp/jobs.py --days 8 --blocked  # also list the offers hidden by a hard blocker
+  python3 /tmp/jobs.py --days 3            # offers new/updated in the last 3 days (A no blocker, B soft, C blocker word)
   python3 /tmp/jobs.py --id xaloc:397227   # full text of one offer
 Options: --text N (chars of offer text per offer, default 500), --src xaloc,ras, --all (ignore dates)
 """
@@ -15,7 +14,6 @@ ap = argparse.ArgumentParser()
 ap.add_argument("--days", type=int, default=3)
 ap.add_argument("--text", type=int, default=500)
 ap.add_argument("--src", default="")
-ap.add_argument("--blocked", action="store_true")
 ap.add_argument("--all", action="store_true")
 ap.add_argument("--id", default="")
 ap.add_argument("--data", default="")
@@ -42,9 +40,13 @@ def fresh(o):
     return max(o.get("published") or "", o.get("modified") or "", o.get("first_seen") or "")
 srcs = set(a.src.split(",")) if a.src else None
 rows = [o for o in data["offers"] if (a.all or fresh(o) >= since) and (not srcs or o["src"] in srcs)]
-ok = [o for o in rows if not (set(o["flags"]) & HARD)]
-bad = [o for o in rows if set(o["flags"]) & HARD]
-print(f"\nWINDOW: {'all dates' if a.all else 'new or updated since ' + since} · {len(ok)} without hard blocker · {len(bad)} with a blocker word (verify on the page before excluding)\n")
+def hard(o): return [f for f in o["flags"] if f in HARD]
+def soft(o): return [f for f in o["flags"] if f.endswith("?")]
+A = [o for o in rows if not hard(o) and not soft(o)]
+B = [o for o in rows if not hard(o) and soft(o)]
+C = [o for o in rows if hard(o)]
+print(f"\nWINDOW: {'all dates' if a.all else 'new or updated since ' + since} · {len(rows)} offers: "
+      f"A {len(A)} no blocker word · B {len(B)} blocker only 'valorable' · C {len(C)} blocker word (check if MANDATORY)\n")
 
 def show(o, text=True):
     dates = " ".join(x for x in [f"pub {o['published']}" if o.get("published") else "",
@@ -53,15 +55,16 @@ def show(o, text=True):
     print(f"[{o['src']}:{o['id']}] {o['title']} — {o['town']}{' (' + o['town_note'] + ')' if o.get('town_note') else ''}")
     print(f"   {dates} · {o.get('company') or ''} {('· ' + o['salary']) if o.get('salary') else ''} · flags: {', '.join(o['flags']) or '-'}")
     print(f"   {o['url']}")
+    for k, w in (o.get("why") or {}).items():
+        print(f"   why {k}: {w}")
     if text and a.text:
         print("   " + o["text"][:a.text].replace("\n", " / "))
     print()
 
-for o in sorted(ok, key=lambda o: (o["town"] != "Mataró", o["town"], o["src"])):
-    show(o)
-if a.blocked and bad:
-    print("---- WITH A BLOCKER WORD (forklift / car / language level / diploma / kitchen-meat-alcohol) ----\n")
-    for o in sorted(bad, key=lambda o: o["town"]):
-        show(o, text=False)
-elif bad:
-    print(f"({len(bad)} offers hidden because of a blocker word — run with --blocked to see them)")
+order = lambda o: (o["town"] != "Mataró", o["town"], o["src"])
+print("==== A · NO BLOCKER WORD ====\n")
+for o in sorted(A, key=order): show(o)
+print("==== B · BLOCKER ONLY 'VALORABLE' (soft) ====\n")
+for o in sorted(B, key=order): show(o)
+print("==== C · BLOCKER WORD FOUND — read the 'why' line; exclude only if it is MANDATORY ====\n")
+for o in sorted(C, key=order): show(o, text=False)
