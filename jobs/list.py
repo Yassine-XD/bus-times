@@ -21,7 +21,7 @@ a = ap.parse_args()
 
 data = json.load(open(a.data, encoding="utf-8")) if a.data else json.load(urllib.request.urlopen(URL, timeout=60))
 built = dt.datetime.strptime(data["built"], "%Y-%m-%d %H:%M UTC")
-age_h = (dt.datetime.utcnow() - built).total_seconds() / 3600
+age_h = (dt.datetime.now(dt.timezone.utc).replace(tzinfo=None) - built).total_seconds() / 3600
 print(f"FEED built {data['built']} ({age_h:.0f}h ago){'  ⚠️ STALE — older than 30h, also check sources by hand' if age_h > 30 else ''}")
 for k, s in data["sources"].items():
     print(f"  {k:12s} {'✔ ' + str(s.get('count')) + ' offers in reachable towns' if s.get('ok') else '✖ ' + s.get('error', '')}")

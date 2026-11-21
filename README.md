@@ -22,3 +22,16 @@ python3 query.py --to "41.6012,2.2950" --date 2026-11-24 --shift 22:00-06:00
 Each shift prints a GO line, a BACK line, a VERDICT (✅ / ⚠️ / ❌) and a one-line SUMMARY.
 
 Not covered: Barcelona city (outside the area), Mataró's own city buses, and services that are not in the open data. Always confirm in a journey planner before an interview.
+
+## Job-offer feed (`jobs/`)
+`jobs/collect.py` runs every day on GitHub Actions (~05:23 Madrid) and reads, in full and respecting robots.txt:
+Xaloc (per-town pages + every offer page), Feina Activa (official open-data XML), Eurofirms (offers sitemap),
+Randstad (per-town pages), IMAN (per-town filter), RAS (sitemap), Meditempus (sitemap).
+It keeps only towns reachable from Mataró and writes `jobs/data/offers.json`.
+
+```
+curl -sL https://raw.githubusercontent.com/Yassine-XD/bus-times/main/jobs/list.py -o /tmp/jobs.py
+python3 /tmp/jobs.py --days 3          # A: no blocker word · B: only "valorable" · C: blocker word + the sentence
+python3 /tmp/jobs.py --id xaloc:397227 # full text of one offer
+```
+Not covered (JavaScript-only or robots.txt forbids): Adecco, Manpower, Crit — use web searches for those.

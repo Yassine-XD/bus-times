@@ -259,6 +259,7 @@ def src_eurofirms(cache):
         town = town_of(m.group(1).replace("-", " ")) if m else None
         if not town: continue
         d = cache.get(u)
+        if d is not None and d.get("dead") and not d.get("v2"): d = None   # retry pre-fix dead markers
         if d is None:
             h = get(u, 0.8)
             jp = jobposting(h) if h else None
@@ -270,7 +271,7 @@ def src_eurofirms(cache):
                 d = {"title": text_of(ti.group(1)) if ti else u.rsplit("/", 1)[-1], "published": "", "loc": "",
                      "salary": "", "text": text_of(h)[:2500], "no_jobposting": True}
             else:
-                d = {"dead": True}
+                d = {"dead": True, "v2": True}
             cache[u] = d
         if d.get("dead"): continue
         code = re.search(r"(\d{3}-\d{6})$", u.rstrip("/"))
@@ -405,6 +406,21 @@ def src_meditempus(cache):
         out.append(offer("meditempus", u.rstrip("/").rsplit("/", 1)[-1], d["title"], town, u, d["text"], d["published"]))
     return out
 
+class SeenDict(dict):
+    """Cache wrapper: any entry read or written gets _seen=today (so it is kept)."""
+    def __init__(self, base):
+        super().__init__(); self.base = base
+    def get(self, k, default=None):
+        d = self.base.get(k, default)
+        if isinstance(d, dict): d["_seen"] = TODAY
+        return d
+    def __setitem__(self, k, v):
+        if isinstance(v, dict): v["_seen"] = TODAY
+        self.base[k] = v
+    def setdefault(self, k, v):
+        if k not in self.base: self[k] = v
+        return self.get(k)
+
 SOURCES = [("xaloc", src_xaloc), ("feinaactiva", src_feinaactiva), ("eurofirms", src_eurofirms),
            ("randstad", src_randstad), ("iman", src_iman), ("ras", src_ras), ("meditempus", src_meditempus)]
 
@@ -427,15 +443,15 @@ def main():
             offers += [o for o in prev_offers.values() if o["src"] == name]
             status[name] = prev_status.get(name, {"ok": False, "error": "not run"}); continue
         t0 = time.time()
-        sc = cache.setdefault(name, {})
+        sc = SeenDict(cache.setdefault(name, {}))
         try:
             got = fn(sc)
-            status[name] = {"ok": True, "count": len(got), "secs": int(time.time() - t0), "at": dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M")}
+            status[name] = {"ok": True, "count": len(got), "secs": int(time.time() - t0), "at": dt.datetime.now(dt.timezone.utc).replace(tzinfo=None).strftime("%Y-%m-%d %H:%M")}
             offers += got
         except Exception as e:
             traceback.print_exc()
             status[name] = {"ok": False, "error": f"{type(e).__name__}: {e}"[:300],
-                            "at": dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M")}
+                            "at": dt.datetime.now(dt.timezone.utc).replace(tzinfo=None).strftime("%Y-%m-%d %H:%M")}
             offers += [o for o in prev_offers.values() if o["src"] == name]   # keep yesterday's
         print(f"{name}: {status[name]}")
     # dedupe and first_seen tracking
@@ -445,14 +461,12 @@ def main():
         p = prev_offers.get(k)
         o["first_seen"] = p.get("first_seen", "") if p else ("" if baseline else TODAY)
         final[k] = o
-    # prune cache to URLs still listed (keep dead markers 30 days via size cap)
-    live = {o["url"] for o in final.values()}
+    # prune cache entries not seen in any source listing for 21 days
+    cutoff = (dt.date.today() - dt.timedelta(days=21)).isoformat()
     for name in cache:
-        cache[name] = {u: d for u, d in cache[name].items() if u in live or d.get("dead")}
-        if len(cache[name]) > 20000:
-            cache[name] = dict(list(cache[name].items())[-20000:])
+        cache[name] = {u: d for u, d in cache[name].items() if d.get("_seen", TODAY) >= cutoff}
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    data = {"built": dt.datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC"), "sources": status,
+    data = {"built": dt.datetime.now(dt.timezone.utc).replace(tzinfo=None).strftime("%Y-%m-%d %H:%M UTC"), "sources": status,
             "offers": sorted(final.values(), key=lambda o: (o["src"], o["town"], o["id"]))}
     json.dump(data, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     json.dump(cache, gzip.open(CACHE, "wt", encoding="utf-8"), ensure_ascii=False)
