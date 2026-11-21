@@ -1,0 +1,29 @@
+name: Collect job offers
+on:
+  schedule:
+    - cron: "23 4 * * *"   # every day ~05:23 Madrid, before the 08:47 job alert
+  workflow_dispatch:
+  push:
+    paths: ["jobs/collect.py", ".github/workflows/jobs.yml"]
+concurrency: { group: jobs-feed, cancel-in-progress: false }
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: collect
+        run: python jobs/collect.py
+      - name: smoke test
+        run: python jobs/list.py --data jobs/data/offers.json --days 3 --text 0 | head -30
+      - name: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add jobs/data
+          git diff --cached --quiet || git commit -m "Job offers $(date -u +%F)"
+          git pull --rebase -q && git push
