@@ -1,47 +1,47 @@
 {
-"built": "2026-11-21 14:30 UTC",
+"built": "2026-11-22 12:53 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
-"count": 186,
-"secs": 367,
-"at": "2026-11-21 14:10"
+"count": 184,
+"secs": 401,
+"at": "2026-11-22 12:50"
 },
 "feinaactiva": {
 "ok": true,
 "count": 701,
-"secs": 5,
-"at": "2026-11-21 14:10"
+"secs": 4,
+"at": "2026-11-22 12:50"
 },
 "eurofirms": {
 "ok": true,
-"count": 77,
-"secs": 122,
-"at": "2026-11-21 14:12"
+"count": 73,
+"secs": 1,
+"at": "2026-11-22 12:50"
 },
 "randstad": {
 "ok": true,
-"count": 171,
-"secs": 155,
-"at": "2026-11-21 14:15"
+"count": 167,
+"secs": 152,
+"at": "2026-11-22 12:52"
 },
 "iman": {
 "ok": true,
 "count": 253,
-"secs": 45,
-"at": "2026-11-21 14:16"
+"secs": 44,
+"at": "2026-11-22 12:53"
 },
 "ras": {
 "ok": true,
 "count": 56,
-"secs": 377,
-"at": "2026-11-21 14:22"
+"secs": 3,
+"at": "2026-11-22 12:53"
 },
 "meditempus": {
 "ok": true,
 "count": 36,
-"secs": 487,
-"at": "2026-11-21 14:30"
+"secs": 1,
+"at": "2026-11-22 12:53"
 }
 },
 "offers": [
@@ -427,28 +427,6 @@
 "flags": [],
 "why": {},
 "first_seen": ""
-},
-{
-"src": "eurofirms",
-"id": "021-021921",
-"title": "Empleo de Técnico/a control de calidad, Llinars Del Vallès",
-"town": "Llinars del Vallès",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/llinars-del-valles/tecnico-a-control-de-calidad-021-021921",
-"published": "",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Oferta de Empleo de Técnico/a control de calidad - 23/10/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Técnico/a control de calidad\n Llinars Del Vallès, Barcelona\n Empleo de Técnico/a control de calidad, Llinars Del Vallès\n Fecha de publicación:\n 23/10/2026\n Horario:\n Jornada completa de 40 horas semanales entre lunes y domingo se trabaja en 4º turno, se trabajan 3 dias y se descansan cuatro.Con los descansos establecidos por ley.\n-De 06:00h a 18:00h\n-De 18:00h a 06:00h\n Vacantes:\n1\n Salario:\n A concretar\n Población:\n Llinars Del Vallès\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Técnico/a control de calidad en Llinars Del Vallès\n Desde Eurofirms buscamos incorporar un/a Técnico/a de Calidad para una empresa del sector metal dedica a la fabricación de envases de aluminio.\n - Inspeccionar, verificar y controlar la calidad del proceso y la seguridad del producto en las diferentes fases de la fabricación y en producto final.\n- Asesorar al personal de otras áreas respecto a los estándares de calidad.\n- Mantener registro y archivo de la documentación del análisis de la calidad del proceso de producción y la seguridad del producto que de él resultado.\n-Respetar y cumplir las normas y medidas de Seguridad y Salud y Gestión Medioambiental aplicables al puesto de verificador de calidad.\n- Entre otras tareas propias del puesto de trabajo.\n Función:\n Técnico/a control de calidad\n Requisitos:\n - Experiencia previa de al menos 1 año.\n- Buscamos a una persona dinámica.\n- Valorable residencia cercana al puesto de trabajo.\n Formación:\n - GM\n- Carné de carretilla en vigor.\n Idiomas:\n Castellano hablado y escrito correctamente\n Iniciar sesión para inscribirte\n 26\n inscritos\n Otras ofertas de empleo de Técnico/a control de calidad",
-"flags": [
-"forklift",
-"lang_level"
-],
-"why": {
-"forklift": "carne de carretilla en vigor",
-"lang_level": "castellano hablado y escrito correctamente"
-},
-"first_seen": "2026-11-21"
 },
 {
 "src": "eurofirms",
@@ -905,22 +883,6 @@
 },
 {
 "src": "eurofirms",
-"id": "062-017215",
-"title": "Empleo de Auxiliar de servicios, Mataró",
-"town": "Mataró",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/mataro/auxiliar-de-servicios-062-017215",
-"published": "",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Oferta de Empleo de Auxiliar de servicios - 23/10/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Auxiliar de servicios\n Mataró, Barcelona\n Empleo de Auxiliar de servicios, Mataró\n Fecha de publicación:\n 23/10/2026\n Horario:\n - Jornada completa de 40 horas semanales entre lunes y viernes en turno partido en horario entre 07:30h y 18:30h con los descansos establecidos por ley.\n Vacantes:\n1\n Salario:\n 13,48€ Bruto/hora\n Población:\n Mataró\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Auxiliar de servicios en Mataró\n 🚛 Oferta de Empleo: Recambista / Repartidor de Recambios\n🔧\n¿Tienes conocimientos de mecánica y te gusta el trato con clientes? ¡Esta puede ser tu oportunidad!\n Buscamos un/a Recambista para incorporarse a una empresa del sector de la automoción, realizando funciones tanto de gestión de recambios como de reparto y soporte en taller. Las tareas a realizar serán las siguientes:\n - Atención al cliente para la gestión y solicitud de recambios.\n- Identificación de referencias en catálogos de piezas.\n- Realización y seguimiento de pedidos a proveedores externos.\n- Control de plazos de entrega y resolución de incidencias.\n- Registro de entradas de material en el sistema.\n- Control y gestión de stock.\n- Mantenimiento del orden y la limpieza del almacén.\n- Preparación y entrega de pedidos mediante furgoneta.\n- Gestión de albaranes y documentación de entrega.\n- Soporte puntual al equipo de mecánicos.\n- Entre otras tareas propias del puesto de trabajo.\n Función:\n Auxiliar de servicios\n Requisitos:\n - Conocimientos en mecánica.\n- Experiencia realizando tareas de transporte o reparto.\n- Carné de conducir B con una antigüedad mínima de 3 años.\n- Persona organizada, responsable y con orientación al cliente.\n- Valorable experiencia previa co",
-"flags": [],
-"why": {},
-"first_seen": "2026-11-21"
-},
-{
-"src": "eurofirms",
 "id": "062-017217",
 "title": "Empleo de Cocinero/a, Mataró",
 "town": "Mataró",
@@ -1086,26 +1048,6 @@
 ],
 "why": {
 "diploma": "grado medio o grado superior en administracion y finanzas o similares"
-},
-"first_seen": "2026-11-21"
-},
-{
-"src": "eurofirms",
-"id": "036-023393",
-"title": "Empleo de Electricista, Mollet Del Vallès",
-"town": "Mollet del Vallès",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/mollet-del-valles/electricista-036-023393",
-"published": "",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Oferta de Empleo de Electricista - 23/10/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Electricista\n Mollet Del Vallès, Barcelona\n Empleo de Electricista, Mollet Del Vallès\n Fecha de publicación:\n 23/10/2026\n Horario:\n Jornada completa de 40 horas semanales entre lunes y viernes en turno mañana en horario entre 06:00h y 14:00h con los descansos establecidos por ley.\n Vacantes:\n1\n Salario:\n A concretar\n Población:\n Mollet Del Vallès\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Electricista en Mollet Del Vallès\n Empresa del sector electricidad busca un/a Técnico/a Eléctricista para trabajar en Mollet dle Vallés y realizar las siguientes tareas:\n - Mantenimiento eléctrico de instalaciones.\n- Interpretación de planos.\n- Realizar cableado, conectar bornes, montar cajas.\n- Puesta en marcha de componentes eléctricos en taller.\n- Entre otras tareas propias del lugar de trabajo.\n Función:\n Electricista\n Requisitos:\n - Experiencia mínima de 3 años en puesto similar al ofertado.\n- Buscamos a una persona responsable, polivalente, proactiva.\n- Valorable residencia cercana al puesto de trabajo.\n Formación:\n - GM/GS Electricidad y Electrónica.\n Idiomas:\n - Castellano y/o catalán hablados y escritos correctamente\n Iniciar sesión para inscribirte\n 39\n inscritos\n Otras ofertas de empleo de Electricista en Barcelona\n Selección\n Empleo de Electricista en Rubí, Barcelona\n Rubí, Barcelona\n Salario A concretar\n 19/11/2026\n Empleo de Electricista en Vic, Barcelona\n Vic, Barcelona\n Salario A concretar\n 19/11/2026\n Empleo de Electricista en Vallirana, Barcelona\n Vallirana, Barcelona\n Salario 16,54€ Bruto/hora\n 12/11/2026",
-"flags": [
-"lang_level"
-],
-"why": {
-"lang_level": "castellano y o catalan hablados y escritos correctamente"
 },
 "first_seen": "2026-11-21"
 },
@@ -1369,22 +1311,6 @@
 "flags": [],
 "why": {},
 "first_seen": "2026-11-21"
-},
-{
-"src": "eurofirms",
-"id": "042-015406",
-"title": "Operario/a de metal",
-"town": "Sabadell",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/sabadell/operario-a-de-metal-042-015406",
-"published": "2026-10-23",
-"modified": "",
-"company": "",
-"salary": "15.87 EUR/HOUR",
-"text": "Desde Eurofirms buscamos un/a Operairo/a de Montaje para un empresa importante ubicada en Sabadell del sector ferroviario para trabajar en jornada completa de lunes a viernes. Las tareas que tendrá que realizar serán las siguientes:\n Montaje manual.\n Conocimiento de herramientas de taller.\n Interpretación de planos.\n Montaje de elementos en el vagón.\n Entre otras tareas propias del puesto de trabajo.",
-"flags": [],
-"why": {},
-"first_seen": ""
 },
 {
 "src": "eurofirms",
@@ -20628,22 +20554,6 @@
 },
 {
 "src": "randstad",
-"id": "3017049",
-"title": "Operario u operaria sector textil horario nocturno",
-"town": "Argentona",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/operario-u-operaria-sector-textil-horario-nocturno-3017049/",
-"published": "2026-10-22",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Trabaja como Operario u operaria sector textil horario nocturno en Argentona, Barcelona. Encuentra tu empleo en Industrial\nOferta de empleo Operario u operaria sector textil horario nocturno, Barcelona\n contáctanos\n acceso empresas\n acceso candidatos\n randstad\n encuentra empleo\n busca tu empleo\n ofertas de empleo\n Más de 5.000 ofertas de empleo disponibles para ti.\n crea tu cuenta\n Encuentra empleo y desarróllate profesionalmente.\n trabaja en randstad\n Consulta las ofertas para formar parte de nuestro equipo interno.\n calculadora salarial\n Conoce tu salario ideal en tan sólo 5 pasos.\n preguntas frecuentes\n Consulta las preguntas más frecuentes y resuelve tus dudas.\n desarróllate\n escuelas de talento\n Desarrolla tus habilidades para los puestos más demandados.\n perfiles profesionales\n Impulsa tu talento conociendo tu perfil profesional.\n consejos para tu desarrollo\n desarrollo personal\n desarrollo profesional\n orientación laboral\n recursos y herramientas\n test de competencias\n Descubre tus áreas de mejora y fortalezas profesionales.\n comunidades de talento\n finance & accounting\n Accede a contenido exclusivo para profesionales financieros.\n ingeniería\n Accede a contenido exclusivo para profesionales ingenieros.\n salud\n Accede a contenido exclusivo para profesionales de la salud.\n nuestra app\n randstad app\n mejora tu candidatura\n impulsa tu carrera\n encuentra empleo\n trabaja ya\n descargar app\n soluciones para empresas\n por necesidad\n selección de talento\n perfiles operativos\n perfiles de oficios cualificados\n perfiles de alta cualificación\n perfiles digitales\n perfiles de dirección general\n contratación de talento\n temporal perfiles operativos\n temporal perfiles de alta cualificación\n temporal de gran volumen\n outsourcing\n servicios industriales y logísticos\n servicios admi",
-"flags": [],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "randstad",
 "id": "3018082",
 "title": "Cosedor o cosedora textil",
 "town": "Argentona",
@@ -21147,22 +21057,6 @@
 "company": "",
 "salary": "",
 "text": "Trabaja como Agente Comercial - Canet de Mar (Barcelona) en Canet de Mar, Barcelona. Encuentra tu empleo en Banca, Seguros y Consultoría\nOferta de empleo Agente Comercial - Canet de Mar (Barcelona), Barcelona\n contáctanos\n acceso empresas\n acceso candidatos\n randstad\n encuentra empleo\n busca tu empleo\n ofertas de empleo\n Más de 5.000 ofertas de empleo disponibles para ti.\n crea tu cuenta\n Encuentra empleo y desarróllate profesionalmente.\n trabaja en randstad\n Consulta las ofertas para formar parte de nuestro equipo interno.\n calculadora salarial\n Conoce tu salario ideal en tan sólo 5 pasos.\n preguntas frecuentes\n Consulta las preguntas más frecuentes y resuelve tus dudas.\n desarróllate\n escuelas de talento\n Desarrolla tus habilidades para los puestos más demandados.\n perfiles profesionales\n Impulsa tu talento conociendo tu perfil profesional.\n consejos para tu desarrollo\n desarrollo personal\n desarrollo profesional\n orientación laboral\n recursos y herramientas\n test de competencias\n Descubre tus áreas de mejora y fortalezas profesionales.\n comunidades de talento\n finance & accounting\n Accede a contenido exclusivo para profesionales financieros.\n ingeniería\n Accede a contenido exclusivo para profesionales ingenieros.\n salud\n Accede a contenido exclusivo para profesionales de la salud.\n nuestra app\n randstad app\n mejora tu candidatura\n impulsa tu carrera\n encuentra empleo\n trabaja ya\n descargar app\n soluciones para empresas\n por necesidad\n selección de talento\n perfiles operativos\n perfiles de oficios cualificados\n perfiles de alta cualificación\n perfiles digitales\n perfiles de dirección general\n contratación de talento\n temporal perfiles operativos\n temporal perfiles de alta cualificación\n temporal de gran volumen\n outsourcing\n servicios industriales y logísticos\n servicios administrat",
-"flags": [],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "randstad",
-"id": "3016937",
-"title": "Montador mecánico",
-"town": "Canet de Mar",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/montador-mecanico-3016937/",
-"published": "2026-10-22",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Trabaja como Montador mecánico en Canet de Mar, Barcelona. Encuentra tu empleo en Industrial\nOferta de empleo Montador mecánico, Barcelona\n contáctanos\n acceso empresas\n acceso candidatos\n randstad\n encuentra empleo\n busca tu empleo\n ofertas de empleo\n Más de 5.000 ofertas de empleo disponibles para ti.\n crea tu cuenta\n Encuentra empleo y desarróllate profesionalmente.\n trabaja en randstad\n Consulta las ofertas para formar parte de nuestro equipo interno.\n calculadora salarial\n Conoce tu salario ideal en tan sólo 5 pasos.\n preguntas frecuentes\n Consulta las preguntas más frecuentes y resuelve tus dudas.\n desarróllate\n escuelas de talento\n Desarrolla tus habilidades para los puestos más demandados.\n perfiles profesionales\n Impulsa tu talento conociendo tu perfil profesional.\n consejos para tu desarrollo\n desarrollo personal\n desarrollo profesional\n orientación laboral\n recursos y herramientas\n test de competencias\n Descubre tus áreas de mejora y fortalezas profesionales.\n comunidades de talento\n finance & accounting\n Accede a contenido exclusivo para profesionales financieros.\n ingeniería\n Accede a contenido exclusivo para profesionales ingenieros.\n salud\n Accede a contenido exclusivo para profesionales de la salud.\n nuestra app\n randstad app\n mejora tu candidatura\n impulsa tu carrera\n encuentra empleo\n trabaja ya\n descargar app\n soluciones para empresas\n por necesidad\n selección de talento\n perfiles operativos\n perfiles de oficios cualificados\n perfiles de alta cualificación\n perfiles digitales\n perfiles de dirección general\n contratación de talento\n temporal perfiles operativos\n temporal perfiles de alta cualificación\n temporal de gran volumen\n outsourcing\n servicios industriales y logísticos\n servicios administrativos\n sales & trade ma",
 "flags": [],
 "why": {},
 "first_seen": ""
@@ -21714,22 +21608,6 @@
 },
 {
 "src": "randstad",
-"id": "3017023",
-"title": "Operario/a de calidad",
-"town": "Llinars del Vallès",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/operario-a-calidad-3017023/",
-"published": "2026-10-22",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Trabaja como Operario/a de calidad en Llinars del Vallès, Barcelona. Encuentra tu empleo en Industrial\nOferta de empleo Operario/a de calidad, Barcelona\n contáctanos\n acceso empresas\n acceso candidatos\n randstad\n encuentra empleo\n busca tu empleo\n ofertas de empleo\n Más de 5.000 ofertas de empleo disponibles para ti.\n crea tu cuenta\n Encuentra empleo y desarróllate profesionalmente.\n trabaja en randstad\n Consulta las ofertas para formar parte de nuestro equipo interno.\n calculadora salarial\n Conoce tu salario ideal en tan sólo 5 pasos.\n preguntas frecuentes\n Consulta las preguntas más frecuentes y resuelve tus dudas.\n desarróllate\n escuelas de talento\n Desarrolla tus habilidades para los puestos más demandados.\n perfiles profesionales\n Impulsa tu talento conociendo tu perfil profesional.\n consejos para tu desarrollo\n desarrollo personal\n desarrollo profesional\n orientación laboral\n recursos y herramientas\n test de competencias\n Descubre tus áreas de mejora y fortalezas profesionales.\n comunidades de talento\n finance & accounting\n Accede a contenido exclusivo para profesionales financieros.\n ingeniería\n Accede a contenido exclusivo para profesionales ingenieros.\n salud\n Accede a contenido exclusivo para profesionales de la salud.\n nuestra app\n randstad app\n mejora tu candidatura\n impulsa tu carrera\n encuentra empleo\n trabaja ya\n descargar app\n soluciones para empresas\n por necesidad\n selección de talento\n perfiles operativos\n perfiles de oficios cualificados\n perfiles de alta cualificación\n perfiles digitales\n perfiles de dirección general\n contratación de talento\n temporal perfiles operativos\n temporal perfiles de alta cualificación\n temporal de gran volumen\n outsourcing\n servicios industriales y logísticos\n servicios administrativos\n sales & trad",
-"flags": [],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "randstad",
 "id": "3022108",
 "title": "Carretillero/a retráctil turno tarde (contrato de 6 meses)",
 "town": "Llinars del Vallès",
@@ -22008,22 +21886,6 @@
 "company": "",
 "salary": "",
 "text": "Trabaja como Agente Comercial - Mataró (Barcelona) en Mataró, Barcelona. Encuentra tu empleo en Banca, Seguros y Consultoría\nOferta de empleo Agente Comercial - Mataró (Barcelona), Barcelona\n contáctanos\n acceso empresas\n acceso candidatos\n randstad\n encuentra empleo\n busca tu empleo\n ofertas de empleo\n Más de 5.000 ofertas de empleo disponibles para ti.\n crea tu cuenta\n Encuentra empleo y desarróllate profesionalmente.\n trabaja en randstad\n Consulta las ofertas para formar parte de nuestro equipo interno.\n calculadora salarial\n Conoce tu salario ideal en tan sólo 5 pasos.\n preguntas frecuentes\n Consulta las preguntas más frecuentes y resuelve tus dudas.\n desarróllate\n escuelas de talento\n Desarrolla tus habilidades para los puestos más demandados.\n perfiles profesionales\n Impulsa tu talento conociendo tu perfil profesional.\n consejos para tu desarrollo\n desarrollo personal\n desarrollo profesional\n orientación laboral\n recursos y herramientas\n test de competencias\n Descubre tus áreas de mejora y fortalezas profesionales.\n comunidades de talento\n finance & accounting\n Accede a contenido exclusivo para profesionales financieros.\n ingeniería\n Accede a contenido exclusivo para profesionales ingenieros.\n salud\n Accede a contenido exclusivo para profesionales de la salud.\n nuestra app\n randstad app\n mejora tu candidatura\n impulsa tu carrera\n encuentra empleo\n trabaja ya\n descargar app\n soluciones para empresas\n por necesidad\n selección de talento\n perfiles operativos\n perfiles de oficios cualificados\n perfiles de alta cualificación\n perfiles digitales\n perfiles de dirección general\n contratación de talento\n temporal perfiles operativos\n temporal perfiles de alta cualificación\n temporal de gran volumen\n outsourcing\n servicios industriales y logísticos\n servicios administrativos",
-"flags": [],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "randstad",
-"id": "3016895",
-"title": "Promotor o promotora PAE (Pequeño electrodoméstico) MATARO",
-"town": "Mataró",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/promotor-o-promotora-pae-pequeno-electrodomestico-mataro-3016895/",
-"published": "2026-10-22",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Trabaja como Promotor o promotora PAE (Pequeño electrodoméstico) MATARO en Mataró, Barcelona. Encuentra tu empleo en Ventas\nOferta de empleo Promotor o promotora PAE (Pequeño electrodoméstico) MATARO , Barcelona\n contáctanos\n acceso empresas\n acceso candidatos\n randstad\n encuentra empleo\n busca tu empleo\n ofertas de empleo\n Más de 5.000 ofertas de empleo disponibles para ti.\n crea tu cuenta\n Encuentra empleo y desarróllate profesionalmente.\n trabaja en randstad\n Consulta las ofertas para formar parte de nuestro equipo interno.\n calculadora salarial\n Conoce tu salario ideal en tan sólo 5 pasos.\n preguntas frecuentes\n Consulta las preguntas más frecuentes y resuelve tus dudas.\n desarróllate\n escuelas de talento\n Desarrolla tus habilidades para los puestos más demandados.\n perfiles profesionales\n Impulsa tu talento conociendo tu perfil profesional.\n consejos para tu desarrollo\n desarrollo personal\n desarrollo profesional\n orientación laboral\n recursos y herramientas\n test de competencias\n Descubre tus áreas de mejora y fortalezas profesionales.\n comunidades de talento\n finance & accounting\n Accede a contenido exclusivo para profesionales financieros.\n ingeniería\n Accede a contenido exclusivo para profesionales ingenieros.\n salud\n Accede a contenido exclusivo para profesionales de la salud.\n nuestra app\n randstad app\n mejora tu candidatura\n impulsa tu carrera\n encuentra empleo\n trabaja ya\n descargar app\n soluciones para empresas\n por necesidad\n selección de talento\n perfiles operativos\n perfiles de oficios cualificados\n perfiles de alta cualificación\n perfiles digitales\n perfiles de dirección general\n contratación de talento\n temporal perfiles operativos\n temporal perfiles de alta cualificación\n temporal de gran volumen\n outsourcing\n servicios industriales y logísticos\n servi",
 "flags": [],
 "why": {},
 "first_seen": ""
@@ -25604,54 +25466,6 @@
 },
 {
 "src": "xaloc",
-"id": "396651",
-"title": "Tècnic/a comptable fiscal.",
-"town": "Granollers",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/396651",
-"published": "2026-10-22",
-"modified": "2026-11-12",
-"company": "",
-"salary": "",
-"text": "Assessoria laboral, fiscal, mercantil cerca Tècnic/a comptable fiscal. Gestionar la comptabilitat (registre i revisió de factures, assentaments, conciliacions bancàries, control de saldos). Revisar balanços i comptes de resultats, tancaments comptables i elaboració de comptes anuals. Declaracions fiscals. Mantenir el contacte amb clients (sol·licitar documentació, incidències, atendre consultes comptables i fiscals). Anàlisi d'operacions i tractament tributari, amb el suport de l'equip. Horari: dilluns a dijous de 8:30 a 17:30, divendres de 8:30 a 14:30 Capacitats requerides Formació en Administració i Finances, Comptabilitat, ADE, Economia o similar. Experiència en Comptabilitat i preparació d'impostos (especialment en assessoria o gestoria). Coneixements del Pla General Comptable i fiscal de pymes i autònoms. Comunicació, treball en equip, organització. Coneixement de programes de comptabilitat, Excel, A3. SBA: Entre 28.000 i 32.000 eur Requisits Obligatoris Experiència en l'ocupació (mesos) 24 Titulació Cicle formatiu grau superior - Administració i Gestió - Administració i Finances Informàtica Programari d'Ofimàtica - Usuari Mitjà . Programari de gestió - Usuari Mitjà Llengua Català - Nivell Independent B2 . Castellà - Nivell Independent B2 Informació d'interès Data d’incorporació 02/11/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit",
-"flags": [
-"lang_level",
-"diploma",
-"exp:24"
-],
-"why": {
-"lang_level": "nivell independent b2 … nivell independent b2 informacio d interes data dincorporacio 02 11 2026 contracte tipus indefinit",
-"diploma": "entre 28 000 i 32 000 eur requisits obligatoris experiencia en l ocupacio mesos 24 titulacio cicle formatiu grau superior"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
-"id": "396658",
-"title": "Gestor/a delegació en mediació d'assegurances.",
-"town": "Granollers",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/396658",
-"published": "2026-10-22",
-"modified": "2026-11-17",
-"company": "",
-"salary": "",
-"text": "Gestor/a delegació en mediació d'assegurances. Atenció clients: informar sobre productes, identificar necessitats i proposar les cobertures més adequades. Gestió comercial: captar nous clients, fidelitzar existents, elaborar pressupostos i gestionar la contractació, renovació i modificació de les pòlisses amb la ERP. Control de documentació, tramitar pòlisses, seguiment de rebuts. Orientar els clients en la comunicació de sinistres, seguiment. Controlar indicadors, analitzar resultats i proposar accions de millora. Resolució incidències i reclamacions SBA:13.500 eur + comissions Capacitats requerides CFGS o Batxiller ICEA - Certificació d'accés a la distribució d'assegurances Office i gestió de ERP Carnet B no en cas que sigui de Granollers Requisits Obligatoris Experiència en l'ocupació (mesos) 24 Informàtica Programari de gestió - Usuari Mitjà . Programari d'Ofimàtica - Usuari Mitjà Llengua Català - Nivell Independent B2 . Castellà - Nivell Independent B2 Molt importants Nivell acadèmic Cicle formatiu grau superior Recomanables Permís de conduir B Informació d'interès Data d’incorporació 01/12/2026 Horari 9-14 hores de dilluns a divendres Contracte Tipus Indefinit: ordinari Durada Indefinit",
-"flags": [
-"car",
-"lang_level",
-"diploma",
-"exp:24"
-],
-"why": {
-"car": "certificacio d acces a la distribucio d assegurances office i gestio de erp carnet b no en cas que sigui de granollers requisits obligatoris experiencia en l oc … nivell independent b2 molt importants nivell academic cicle formatiu grau superior recomanables permis de conduir b informacio d interes data dincorporacio 01 1",
-"lang_level": "nivell independent b2 … nivell independent b2 molt importants nivell academic cicle formatiu grau superior recomanables permis de conduir b informacio d interes data dincorporacio 01 1",
-"diploma": "resolucio incidencies i reclamacions sba 13 500 eur comissions capacitats requerides cfgs o batxiller icea … nivell independent b2 molt importants nivell academic cicle formatiu grau superior recomanables permis de conduir b informacio d interes data dincorporacio 01 1"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
 "id": "396673",
 "title": "Soldador/a",
 "town": "Granollers",
@@ -25887,7 +25701,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397590",
 "published": "2026-11-20",
-"modified": "2026-11-20",
+"modified": "2026-11-21",
 "company": "",
 "salary": "",
 "text": "Promocionar i vendre tots els productes de jocs responsables de l'ONCE. Comunicar-se i relacionar-se amb el client per la seva tasca comercial. Assessorar i informar sobre qualsevol producte i servei relacionat amb la institució. Ús d'eines tecnològiques de treball: TPV i telèfon mòbil. Capacitats requerides Imprescindible Certificat discapacitat igual o superior al 33% o IPT. Autonomia per desplaçar-se. Habilitats comunicatives i orientació al client. Capacitat d'aprenentatge amb eines tecnològiques. Contracte inicial 1 any prorrogable. Sou mig: 25000 bruts/ any. 6 places a cobrir: 2 Granollers, 1 Cardedeu, 1 Caldes de Montbui, 1 Parets del Vallès Requisits Obligatoris Llengua Castellà - Nivell Independent B2 Certificat de discapacitats Sí Informació d'interès Data d’incorporació 03/01/2027 Salari mensual 1785€ Atenció al públic Sí Contracte Tipus Persones amb discapacitat en CET Durada Més de 6 i menys de 12 mesos Prorrogable Sí",
