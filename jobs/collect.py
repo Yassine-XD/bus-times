@@ -26,6 +26,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(HERE, "data", "offers.json")
 CACHE = os.path.join(HERE, "data", "cache.json.gz")
 TODAY = dt.date.today().isoformat()
+BUILD = dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%d %H:%M")
+HISTORY = os.path.join(HERE, "data", "history.json.gz")
 
 # ---------------------------------------------------------------- towns
 TOWNS = {  # canonical name: Xaloc municipality code
@@ -170,9 +172,12 @@ def text_of(h):
 def jobposting(h):
     for m in re.findall(r'<script[^>]*application/ld\+json[^>]*>(.*?)</script>', h or "", re.S | re.I):
         try:
-            d = json.loads(m.strip())
+            d = json.loads(m.strip(), strict=False)
         except Exception:
-            continue
+            try:
+                d = json.loads(re.sub(r"[\x00-\x1f]", " ", m.strip()), strict=False)
+            except Exception:
+                continue
         for x in (d if isinstance(d, list) else d.get("@graph", [d])):
             if isinstance(x, dict) and x.get("@type") == "JobPosting":
                 return x
@@ -298,12 +303,13 @@ def src_randstad(cache):
     for slug in seen:
         u = f"https://www.randstad.es/candidatos/ofertas-empleo/oferta/{slug}/"
         d = cache.get(u)
+        if d is not None and not d.get("dead") and not d.get("jp"): d = None   # pre-fix entry without real text
         if d is None:
             h = get(u, 1.0)
             jp = jobposting(h) if h else None
             if jp:
                 d = {"title": jp.get("title", ""), "text": text_of(jp.get("description", "")),
-                     "published": iso(jp.get("datePosted")), "loc": jp_locality(jp), "salary": salary_jp(jp)}
+                     "published": iso(jp.get("datePosted")), "loc": jp_locality(jp), "salary": salary_jp(jp), "jp": True}
             elif h:
                 loc = re.search(r'"addressLocality"\s*:\s*"([^"]+)"', h)
                 dp = re.search(r'"datePosted"\s*:\s*"([^"]+)"', h)
@@ -406,6 +412,11 @@ def src_meditempus(cache):
         out.append(offer("meditempus", u.rstrip("/").rsplit("/", 1)[-1], d["title"], town, u, d["text"], d["published"]))
     return out
 
+def sig_of(o):
+    """Same source + same normalised title + same town = probably the same job re-posted with a new id."""
+    t = re.sub(r"\b(h m x|hmx|m f|h m|a|o|x|el|la|de|del|en|y|i)\b", " ", norm(o.get("title", "")))
+    return f"{o['src']}|{re.sub(r'\s+', ' ', t).strip()}|{o.get('town', '')}"
+
 class SeenDict(dict):
     """Cache wrapper: any entry read or written gets _seen=today (so it is kept)."""
     def __init__(self, base):
@@ -454,19 +465,44 @@ def main():
                             "at": dt.datetime.now(dt.timezone.utc).replace(tzinfo=None).strftime("%Y-%m-%d %H:%M")}
             offers += [o for o in prev_offers.values() if o["src"] == name]   # keep yesterday's
         print(f"{name}: {status[name]}")
-    # dedupe and first_seen tracking
+    # first_seen (build time) + repost detection against 120 days of history
+    hist = json.load(gzip.open(HISTORY, "rt", encoding="utf-8")) if os.path.exists(HISTORY) else {}
+    if not hist:   # bootstrap history from the previous feed
+        for (src, oid), p in prev_offers.items():
+            hist[f"{src}:{oid}"] = {"sig": sig_of(p), "first": p.get("first_seen") or "", "last": TODAY, "title": p["title"], "town": p["town"]}
+    by_sig = {}
+    for k, h in hist.items():
+        by_sig.setdefault(h["sig"], []).append(k)
     final = {}
     for o in offers:
-        k = (o["src"], o["id"])
+        k = (o["src"], o["id"]); key = f"{o['src']}:{o['id']}"
         p = prev_offers.get(k)
-        o["first_seen"] = p.get("first_seen", "") if p else ("" if baseline else TODAY)
+        if p:
+            o["first_seen"] = p.get("first_seen", "")
+        elif key in hist:
+            o["first_seen"] = hist[key].get("first", "")
+        else:
+            o["first_seen"] = "" if baseline else BUILD
+        sg = sig_of(o)
+        if key not in hist:
+            olds = [x for x in by_sig.get(sg, []) if x != key]
+            if olds:
+                old = max(olds, key=lambda x: hist[x].get("first") or "")
+                o["repost_of"], o["repost_first_seen"] = old, hist[old].get("first", "")
+        elif hist[key].get("repost_of"):
+            o["repost_of"], o["repost_first_seen"] = hist[key]["repost_of"], hist[key].get("repost_first_seen", "")
+        hist[key] = {"sig": sg, "first": o["first_seen"], "last": TODAY, "title": o["title"], "town": o["town"],
+                     **({"repost_of": o["repost_of"], "repost_first_seen": o.get("repost_first_seen", "")} if o.get("repost_of") else {})}
         final[k] = o
+    cutoff_h = (dt.date.today() - dt.timedelta(days=120)).isoformat()
+    hist = {k: h for k, h in hist.items() if h.get("last", TODAY) >= cutoff_h}
+    json.dump(hist, gzip.open(HISTORY, "wt", encoding="utf-8"), ensure_ascii=False)
     # prune cache entries not seen in any source listing for 21 days
     cutoff = (dt.date.today() - dt.timedelta(days=21)).isoformat()
     for name in cache:
         cache[name] = {u: d for u, d in cache[name].items() if d.get("_seen", TODAY) >= cutoff}
     os.makedirs(os.path.dirname(OUT), exist_ok=True)
-    data = {"built": dt.datetime.now(dt.timezone.utc).replace(tzinfo=None).strftime("%Y-%m-%d %H:%M UTC"), "sources": status,
+    data = {"built": BUILD + " UTC", "sources": status,
             "offers": sorted(final.values(), key=lambda o: (o["src"], o["town"], o["id"]))}
     json.dump(data, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     json.dump(cache, gzip.open(CACHE, "wt", encoding="utf-8"), ensure_ascii=False)
