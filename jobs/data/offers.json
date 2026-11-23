@@ -1,47 +1,47 @@
 {
-"built": "2026-11-23 13:34 UTC",
+"built": "2026-11-23 15:50 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
 "count": 177,
-"secs": 342,
-"at": "2026-11-23 13:40"
+"secs": 816,
+"at": "2026-11-23 16:04"
 },
 "feinaactiva": {
 "ok": true,
 "count": 700,
-"secs": 7,
-"at": "2026-11-23 13:40"
+"secs": 6,
+"at": "2026-11-23 16:04"
 },
 "eurofirms": {
 "ok": true,
-"count": 74,
-"secs": 4,
-"at": "2026-11-23 13:40"
+"count": 76,
+"secs": 9,
+"at": "2026-11-23 16:04"
 },
 "randstad": {
 "ok": true,
-"count": 170,
-"secs": 195,
-"at": "2026-11-23 13:44"
+"count": 173,
+"secs": 194,
+"at": "2026-11-23 16:08"
 },
 "iman": {
 "ok": true,
-"count": 255,
-"secs": 47,
-"at": "2026-11-23 13:44"
+"count": 256,
+"secs": 49,
+"at": "2026-11-23 16:08"
 },
 "ras": {
 "ok": true,
-"count": 59,
-"secs": 19,
-"at": "2026-11-23 13:45"
+"count": 60,
+"secs": 10,
+"at": "2026-11-23 16:09"
 },
 "meditempus": {
 "ok": true,
 "count": 36,
 "secs": 1,
-"at": "2026-11-23 13:45"
+"at": "2026-11-23 16:09"
 }
 },
 "offers": [
@@ -302,6 +302,42 @@
 "flags": [],
 "why": {},
 "first_seen": "2026-11-21"
+},
+{
+"src": "eurofirms",
+"id": "021-022177",
+"title": "Electricista",
+"town": "Granollers",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/granollers/electricista-021-022177",
+"published": "2026-11-23",
+"modified": "",
+"company": "",
+"salary": "A convenir EUR/YEAR",
+"text": "Seleccionamos un/a oficial de 1ª Electricista Industrial para empresa especializada en servicios de mantenimiento e instalaciones eléctricas ubicada en granollers. La persona seleccionada realizará las siguientes funciones:\n Instalación y reparación de cableado, cuadros eléctricos y sistemas de iluminación.\n Diagnóstico y resolución de averías eléctricas.\n Mantenimiento preventivo y correctivo de instalaciones.\n Lectura e interpretación de planos y esquemas eléctricos.\n Verificación de continuidad, aislamiento y seguridad de circuitos.\n Montaje de canalizaciones, mecanismos y protecciones eléctricas.\n Cumplimiento de normativas de seguridad y protocolos de trabajo.\n Elaboración de informes técnicos y registro de intervenciones.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-23 15:50",
+"repost_of": "eurofirms:021-021913",
+"repost_first_seen": "2026-11-23 13:34"
+},
+{
+"src": "eurofirms",
+"id": "021-022188",
+"title": "Electricista",
+"town": "Granollers",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/granollers/electricista-021-022188",
+"published": "2026-11-23",
+"modified": "",
+"company": "",
+"salary": "A convenir EUR/YEAR",
+"text": "Desde Eurofirms estamos en búsqueda de un/a Oficial 1ª Electricista para incorporarse a una empresa en barcelona líder en su sector, especializada en servicios de mantenimiento e instalaciones eléctricas industriales. Las funciones ha realizar son las siguientes:\n Realizar mantenimientos preventivos y correctivos en instalaciones eléctricas industriales.\n Diagnosticar y reparar averías eléctricas.\n Ejecutar trabajos de instalaciones y montajes eléctricos.\n Interpretar esquemas eléctricos y documentación técnica.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-23 15:50",
+"repost_of": "eurofirms:021-021913",
+"repost_first_seen": "2026-11-23 13:34"
 },
 {
 "src": "eurofirms",
@@ -975,26 +1011,6 @@
 },
 {
 "src": "eurofirms",
-"id": "062-017250",
-"title": "Empleo de Manipulador/a, Mataró",
-"town": "Mataró",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/mataro/manipulador-a-062-017250",
-"published": "",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Oferta de Empleo de Manipulador/a - 17/11/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Manipulador/a\n Mataró, Barcelona\n Empleo de Manipulador/a, Mataró\n Fecha de publicación:\n 17/11/2026\n Horario:\n Jornada completa de 40 horas semanales entre lunes y viernes en turno mañana en horario entre 06:00h y 14:00h con los descansos establecidos por ley.\n Vacantes:\n1\n Salario:\n 11,6€ Bruto/hora\n Población:\n Mataró\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Manipulador/a en Mataró\n 🍽️ Manipulador/a de alimentos\nDesde Eurofirms tenemos una oferta de trabajo para un/a Manipulador/a de Alimentos en una empresa cárnica situada en Mataró.\n ¿Que harás en tu día a día?\n- Manipulación y preparación de productos cárnicos.\n- Elaboración de croquetas, pinchitos, libritos y otros preparados.\n- Control de calidad de los productos.\n- Limpieza y mantenimiento de la zona de trabajo.\n- Cumplimiento de las normas de higiene y seguridad alimentaria.\n- Entre otras tareas propias del puesto de trabajo.\n Función:\n Manipulador/a\n Requisitos:\n 🎯 Requisitos que buscamos\n:\n- Experiencia como Ayudante de cocina, Cocinero/a o Manipulador/a de alimentos.\n- Persona responsable, dinámica y con capacidad de trabajo en equipo.\n- Valorable residencia cercana al puesto de trabajo.\n Formación:\n - ESO finalizada.\n Idiomas:\n - Castellano: Alto.\n- Catalán: Alto.\n Iniciar sesión para inscribirte\n 146\n inscritos\n Otras ofertas de empleo de Manipulador/a en Barcelona\n Empleo de Manipulador/a en L'hospitalet De Llobregat, Barcelona\n L'hospitalet De Llobregat, Barcelona\n Salario 25.000€ Bruto/año\n 19/11/2026\n Empleo de Manipulador/a en Montornès Del Vallès, Barcelona\n Montornès Del Vallès, Barcelona\n Salar",
-"flags": [
-"kitchen_meat_alcohol"
-],
-"why": {
-"kitchen_meat_alcohol": "manipulacion y preparacion de productos carnicos … experiencia como ayudante de cocina cocinero a o manipulador a de alimentos"
-},
-"first_seen": "2026-11-21"
-},
-{
-"src": "eurofirms",
 "id": "062-017253",
 "title": "Empleo de Manipulador/a, Mataró",
 "town": "Mataró",
@@ -1192,23 +1208,35 @@
 },
 {
 "src": "eurofirms",
-"id": "021-022155",
-"title": "Empleo de Manipulador/a, Montornès Del Vallès",
+"id": "021-022209",
+"title": "Técnico/a control de calidad",
 "town": "Montornès del Vallès",
 "town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/montornes-del-valles/manipulador-a-021-022155",
-"published": "",
+"url": "https://jobs.eurofirms.com/es/es/montornes-del-valles/tecnico-a-control-de-calidad-021-022209",
+"published": "2026-11-23",
 "modified": "",
 "company": "",
-"salary": "",
-"text": "Oferta de Empleo de Manipulador/a - 17/11/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Manipulador/a\n Montornès Del Vallès, Barcelona\n Empleo de Manipulador/a, Montornès Del Vallès\n Fecha de publicación:\n 17/11/2026\n Horario:\n - Jornada completa de 40 horas semanales entre lunes y viernes en turno rotativo en horario entre 06:15h y 06:15h con los descansos establecidos por ley.\n Vacantes:\n1\n Salario:\n de 11,25€ a 12,75€ Bruto/hora\n Población:\n Montornès Del Vallès\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Manipulador/a en Montornès Del Vallès\n Desde Eurofirms buscamos Manipuladores/as para montaje de plástico para una importante empresa ubicada en Montornès del Vallès.\nSi tienes experiencia en manipulación y buscas una oportunidad estable en entorno industrial, ¡queremos conocerte!\nLas tareas que tendrás que realizar serán las siguientes:\n - Montaje de productos de plástico según plano.\n-\nOrganización y mantenimiento del espacio de trabajo.\n-\nVerificación y control de calidad de las piezas producidas.\n- Entre otras tareas propias del puesto de trabajo.\n Función:\n Manipulador/a\n Requisitos:\n - Experiencia previa en manipulación y/o montaje en entorno industrial.\n- Buscamos a una persona responsable.\n- Valorable residencia cercana al puesto de trabajo.\n Formación:\n - ESO valorable.\n Idiomas:\n - Castellano hablado y escrito correctamente.\n- Castellano - Medio.\n Iniciar sesión para inscribirte\n 203\n inscritos\n Otras ofertas de empleo de Manipulador/a en Barcelona\n Empleo de Manipulador/a en L'hospitalet De Llobregat, Barcelona\n L'hospitalet De Llobregat, Barcelona\n Salario 25.000€ Bruto/año\n 19/11/2026\n Empleo de Manipulador/a en Mataró, Barcelona\n Mataró, Barc",
-"flags": [
-"lang_level"
-],
-"why": {
-"lang_level": "castellano hablado y escrito correctamente"
+"salary": "13.51 EUR/HOUR",
+"text": "Nuestro cliente se dedica a Farmacéutico. Buscamos un/a Técnico/a control de calidad para incorporar en la zona de Montornés del Vallès. Las funciones que tendrá que desarrollar son:\n Conseguir la producción asignada al turno siguiendo los estándares de HSE, QA y LEAN y eliminar las pérdidas de la línea durante el turno.\n Realizar controles y verificaciones de calidad en materias primas, procesos y producto terminado, asegurando el cumplimiento de los estándares establecidos.\n Detectar, registrar y gestionar incidencias de calidad, colaborando en la implantación de acciones correctivas y preventivas.\n Elaborar y mantener actualizada la documentación técnica y los registros relacionados con el sistema de calidad.\n Supervisar el cumplimiento de los procedimientos de calidad, seguridad alimentaria y normativas aplicables dentro del proceso productivo.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-23 15:50"
 },
-"first_seen": "2026-11-21"
+{
+"src": "eurofirms",
+"id": "011-012036",
+"title": "Técnico/a de mantenimiento",
+"town": "Palafolls",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/palafolls/tecnico-a-de-mantenimiento-011-012036",
+"published": "2026-11-23",
+"modified": "",
+"company": "",
+"salary": "A convenir EUR/YEAR",
+"text": "Eurofirms selecciona un/a Técnico/a de Mantenimiento para empresa del sector metal, ubicada en la zona de Palafolls. La persona seleccionada desempeñará las siguientes funciones:\n Realización de tareas en el mantenimiento de un edificio, tanto preventivo como correctivo y normativo.\n Reparaciones integrales (electricidad, fontanería, carpintería, climatización, etc.).\n Pequeños trabajos y/o reparaciones eléctricas (cambio de alumbrado, reparación o cambio de enchufes interruptores, etc.).\n Pequeños trabajos de albañilería, cerrajería y pintura.\n Trabajos de mantenimiento de señalización, identificación y etiquetado de equipo y/o espacios.\n Orden y conservación de los diferentes espacios.\n Trabajos de mantenimiento conductivo y preventivo según tareas asignadas por su encargado.\n Trabajos de mantenimiento correctivo por la detección y resolución de averías durante su jornada de trabajo.\n Entre otras tareas propias del lugar de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-23 15:50"
 },
 {
 "src": "eurofirms",
@@ -4117,24 +4145,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "09202629439",
-"title": "ELECTROMECÀNIC/A DE MANTENIMENT INDUSTRIAL",
-"town": "Canovelles",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202629439",
-"published": "2026-10-07",
-"modified": "",
-"company": "Oficina de Treball del SOC",
-"salary": "2407-2407 €/mes",
-"text": "- Reparació de màquines industrials\n- Muntatge\n- Soldadura\nExperiència: Experiència 12 mesos. Es valorarà coneixements en cintes transportadores, trituradores, etc.\nRequisits: \nEstudis: Manteniment Electromecànic\nContracte laboral indefinit\nJornada completa",
-"flags": [
-"exp:12"
-],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "09202632204",
 "title": "COMERCIAL DE SUBMINISTRAMENTS INDUSTRIALS",
 "town": "Canovelles",
@@ -4997,6 +5007,24 @@
 ],
 "why": {},
 "first_seen": "2026-11-23 13:34"
+},
+{
+"src": "feinaactiva",
+"id": "09202632754",
+"title": "OFICIAL/A DE PRIMERA EN FEINES DE PALETA",
+"town": "Granollers",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202632754",
+"published": "2026-11-23",
+"modified": "",
+"company": "Oficina de Treball del SOC",
+"salary": "2285- €/mes",
+"text": "Execució de treballs de reforma integral, rehabilitació i manteniment d'habitatges, locals comercials i edificis.\nTreballs de paleta, construcció de parets, enguixats, reparacions i acabats.\nCol·locació de paviments, revestiment de ceràmics, rajoles, sòcols i treballs d'anivellament de superfície.\nReformes de cuines, banys, terres i altres espais.\nExperiència: Experiència 2 mesos. Experiència demostrable com a oficial/a de primera en reformes i feines de paleta.\nRequisits: Disponibilitat per viatjar, Permisos de conduir: b\nEstudis: \nContracte laboral indefinit\nJornada completa",
+"flags": [
+"exp:2"
+],
+"why": {},
+"first_seen": "2026-11-23 15:50"
 },
 {
 "src": "feinaactiva",
@@ -18287,6 +18315,26 @@
 },
 {
 "src": "iman",
+"id": "mozo-a-con-carnet-de-carretillero-a-picking-e12e1b0f-2fa4-4fbb-80c0-f82d129a147c",
+"title": "MOZO/A CON CARNET DE CARRETILLERO/A - PICKING",
+"town": "Montgat",
+"town_note": "",
+"url": "https://empleo.imancorp.es/jobs/mozo-a-con-carnet-de-carretillero-a-picking-e12e1b0f-2fa4-4fbb-80c0-f82d129a147c",
+"published": "",
+"modified": "",
+"company": "",
+"salary": "",
+"text": "Volver\n Volver\n Iniciar sesión\n ¡Aplica ahora!\n Montgat\n Compras, logística y almacén\n Almacén\n Industria textil, moda y calzado\n Indiferente\n Presencial\n Especialista\n Transporte\n MOZO/A CON CARNET DE CARRETILLERO/A - PICKING\n Publicada\n 23 de Noviembre\n Desde IMAN TEMPORING, empresa especializada en Recursos Humanos, queremos acompañarte en tu trayectoria laboral.\n Desde nuestra delegación de Barcelona buscamos incorporar 2 mozos/as de almacén con experiencia en picking y carnet de carretillero/a para trabajar en una empresa ubicada en Montgat (Barcelona).\n FUNCIONES\n Preparación de pedidos (picking) mediante terminal o herramientas de radiofrecuencia.\n Recepción de mercancías.\n Comprobación de mercancías recibidas con albaranes y documentación correspondiente.\n Ubicación y organización de mercancías dentro del almacén.\n Preparación de expediciones.\n Carga y descarga de mercancías.\n Manejo de carretillas elevadoras.\n Registro de movimientos y operaciones mediante los sistemas informáticos de la empresa.\n Control del orden y mantenimiento de las instalaciones del almacén.\n Otras tareas propias del puesto.\n OFRECEMOS\n Contrato inicial de 3 meses a través de ETT, con posibilidad de incorporación a empresa.\n Jornada completa.\n Horario de lunes a viernes de 9:00h a 14:00h y de 15:30h a 18:30h\n Salario: 12,66 € brutos/hora.\n Incorporación a un equipo de trabajo estable.\n Centro de trabajo ubicado en Montgat (Barcelona).\n Requisitos mínimos\n Experiencia previa en picking y preparación de pedidos.\n Carnet de carretillero/a en vigor.\n Conocimientos de informática a nivel usuario.\n Castellano y catalán nivel bilingüe\n Incorporación Inmediata\n Experiencia utilizando terminales de radiofrecuencia (RF).\n Conocimientos de sistemas de gestión de almacén.",
+"flags": [
+"forklift"
+],
+"why": {
+"forklift": "mozo a con carnet de carretillero a … mozo a con carnet de carretillero a … desde nuestra delegacion de barcelona buscamos incorporar 2 mozos as de almacen con experiencia en picking y carnet de carretillero a para trabajar en una empre"
+},
+"first_seen": "2026-11-23 15:50"
+},
+{
+"src": "iman",
 "id": "controladores-de-acceso-zona-montmelo-diurno",
 "title": "Controladores de acceso zona Montmeló - Diurno",
 "town": "Montmeló",
@@ -20930,6 +20978,27 @@
 },
 {
 "src": "randstad",
+"id": "3025592",
+"title": "Manipulador u Manipuladora Industrial",
+"town": "Argentona",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/manipulador-u-manipuladora-industrial-3025592/",
+"published": "2026-11-23",
+"modified": "",
+"company": "",
+"salary": "9.67-12 EUR/HOUR",
+"text": "Preparación y abastecimiento de las materias primas necesarias para el proceso productivo.\nConducción y supervisión del proceso de revisado y tapeado de producto.\nOperación y manejo de la maquinaria asignada en la línea de producción.\nPreparación, verificación y acondicionamiento del material fabricado para su posterior envío y expedición. Requisitos del puesto: Experiencia previa demostrable como manipulador o manipuladora en entornos industriales.\nConocimientos y experiencia en el manejo de maquinaria de producción.\nDisponer de vehículo o movilidad propia para desplazarse hasta el centro de trabajo en Argentona.\nDisponibilidad horaria para trabajar en turnos rotativos de mañana y tarde, así como disponibilidad para cubrir turno fijo de noche si el puesto lo requiere. Formación: Educación primaria\n Conocimientos: manipulador en lidl barcelona\n Experiencia: 1 año\nTus beneficios: Salario competitivo de 9,67 ¿ brutos/hora para turnos rotativos, con posibilidad de alcanzar los 12,00 ¿ brutos/hora en caso de asignación a turno fijo de noche.\nJornada laboral en turnos rotativos de mañana (de 06:00 a 14:00 h) y de tarde (de 14:00 a 22:00 h), o posibilidad de turno fijo de noche según necesidades de producción.\nIncorporación a través de Randstad en una compañía referente de su sector, con acompañamiento continuo durante todo el proceso.",
+"flags": [
+"car",
+"exp:1"
+],
+"why": {
+"car": "disponer de vehiculo o movilidad propia para desplazarse hasta el centro de trabajo en argentona"
+},
+"first_seen": "2026-11-23 15:50"
+},
+{
+"src": "randstad",
 "id": "3008280",
 "title": "Jefe De Obra",
 "town": "Badalona",
@@ -21249,6 +21318,27 @@
 "car": "carnet de conducir tipo b con 8 o mas puntos … 2 anos de antiguedad en el carnet de conducir … permiso de conducir clase b"
 },
 "first_seen": ""
+},
+{
+"src": "randstad",
+"id": "3025565",
+"title": "Troquelador/a (arte gráficas)",
+"town": "Badalona",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/troquelador-a-arte-graficas-3025565/",
+"published": "2026-11-23",
+"modified": "",
+"company": "",
+"salary": "20000-24000 EUR/YEAR",
+"text": "-Preparación, ajuste y puesta en marcha de máquinas troqueladoras planas y rotativas.-Montaje y cambio de troqueles, cilindros magnéticos y utillajes asociados.-Ejecución de órdenes de fabricación y supervisión del proceso de troquelado.\nRealización de controles de calidad y cumplimentación de registros de producción.\nDetección y resolución de incidencias durante el proceso productivo.-Mantenimiento básico de la maquinaria y cuidado de herramientas y equipos.-Colaboración en la optimización de procesos y cumplimiento de los estándares de\ncalidad, seguridad y productividad Requisitos del puesto: Se valorará experiencia en el manejo de troqueladoras rotativas Rotatek, Guidolin y\nSysco, así como conocimientos en troquelado de materiales adhesivos y técnicos.\nBuscamos un perfil que se caracterice por su compromiso, implicación, proactividad Formación: Ciclo Formativo Grado Medio\n Idiomas: Catalán\n: A1\n Conocimientos: Troquelador\n Experiencia: 2 años\nTus beneficios: - Se ofrece contrato Fijo por empresa directamente.\n- Salario según valía entre 20.000 y 24.000 brutos anuales.\n- Jornada completa de lunes a viernes, turnos rotativos.\nTurno mañana de 6h a 14h\nTurno tardes: de lunes a jueves de 14h a 21:30h y viernes de 14h a 19:30h.\nDe cara a enero posibilidad turno de noche\n- Se ofrece un buen ambiente de trabajo",
+"flags": [
+"diploma",
+"exp:2"
+],
+"why": {
+"diploma": "ciclo formativo grado medio"
+},
+"first_seen": "2026-11-23 15:50"
 },
 {
 "src": "randstad",
@@ -21734,6 +21824,29 @@
 "diploma": "formacion profesional grado medio o superior en electromecanica de vehiculos automoviles o automocion … fp grado medio"
 },
 "first_seen": "2026-11-23 13:34"
+},
+{
+"src": "randstad",
+"id": "3025677",
+"title": "manipulador/a en cadena producción FINES DE SEMANA",
+"town": "Granollers",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/manipulador-a-cadena-produccion-fines-semana-3025677/",
+"published": "2026-11-23",
+"modified": "",
+"company": "",
+"salary": "12-12 EUR/HOUR",
+"text": "Como parte de nuestro equipo en planta, te encargarás de desempeñar las siguientes tareas clave para el correcto funcionamiento de la producción:\n- Manipulación de material en la línea de envasado, asegurando el flujo continuo del proceso\n- Empaquetado y acondicionamiento del producto final bajo los estándares establecidos\n- Control de calidad del producto, realizando las verificaciones necesarias para garantizar que cumple con los requisitos de la compañía\n- Conducción de transpaleta eléctrica para el traslado seguro de materiales y mercancías dentro de las instalaciones Requisitos del puesto: - Experiencia mínima de 2 años desempeñando funciones similares en el sector de envasado de producto cosmético o farmacéutico\n- Experiencia demostrable en la conducción de transpaleta eléctrica\n- Actitud proactiva, con muchas ganas, rápida capacidad de aprendizaje y alta capacidad de adaptación a entornos dinámicos de producción\n- Disponibilidad horaria para trabajar en turnos de fines de semana y festivos\n- Disponibilidad de vehículo propio para acceder a las instalaciones de la empresa Formación: Educación Secundaria Obligatoria\n Idiomas: Catalán\n: C1\n, Castellano\n: C1\n Conocimientos: Transpaleta eléctrica\n Experiencia: 2 años\nTus beneficios: - Retribución competitiva: salario de 12,02 ¿ brutos/hora, complementado con plus de sábados y domingos y/o festivos\n- Jornada y turnos: trabajo en turnos de fines de semana y festivos, de 10.50 a 22.55h\n- Entorno de trabajo: formarás parte de una empresa multinacional líder en su sector, con un buen ambiente de trabajo basado en la colaboración y el desarrollo profesional",
+"flags": [
+"car",
+"lang_level",
+"exp:2"
+],
+"why": {
+"car": "disponibilidad de vehiculo propio para acceder a las instalaciones de la empresa formacion",
+"lang_level": "c1 … c1"
+},
+"first_seen": "2026-11-23 15:50"
 },
 {
 "src": "randstad",
@@ -24829,6 +24942,26 @@
 },
 {
 "src": "ras",
+"id": "8782808",
+"title": "CARRETILLERO/A RETRACTIL",
+"town": "Mollet del Vallès",
+"town_note": "",
+"url": "https://empleo.ras-interim.es/jobs/8782808-carretillero-a-retractil",
+"published": "2026-11-23",
+"modified": "",
+"company": "",
+"salary": "12 EUR/HOUR",
+"text": "Desde la oficina RAS INTERIM MOLLET seleccionamos RETRACTILERO/A para empresa del sector logístico ubicada en SANTA PERPÈTUA DE MOGODA\n 👌 TUS RESPONSABILIDADES\n Conducir la carretilla retráctil para mover y ubicar mercancías en el almacén.\n Realizar la carga y descarga de mercancía y su correcta ubicación en estanterías.\n Preparar pedidos y colaborar en las tareas de recepción y expedición.\n 👍 ¿QUÉ NECESITAMOS DE TI?\n Experiencia previa en manejo de carretilla retráctil.\n Carnet de carretillas en vigor.\n Disponibilidad para adaptarte al horario partido y a las necesidades del puesto.\n 🤝 ¿QUÉ PODEMOS APORTARTE?\n I ncorporación inmediata.\n Jornada partida de lunes a jueves; e intensiva los viernes.\n Remuneración: 12 €/bruto hora.",
+"flags": [
+"forklift"
+],
+"why": {
+"forklift": "carretillero a retractil … conducir la carretilla retractil para mover y ubicar mercancias en el almacen … experiencia previa en manejo de carretilla retractil"
+},
+"first_seen": "2026-11-23 15:50"
+},
+{
+"src": "ras",
 "id": "8403798",
 "title": "OPERARIO/A QUIMICO/A",
 "town": "Sabadell",
@@ -27517,7 +27650,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396074",
 "published": "2026-10-05",
-"modified": "2026-11-16",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Gestió administrativa de l'activitat immobiliària, registre i control de facturació, tasques de comptabilitat, gestió d'incidències amb clients i proveïdors. Si t'interessa: 1) APUNTA'T. 2) ENVIA CURRÍCULUM INDICANT NÚMERO D'OFERTA 396074 A bt@ajmataro.cat Capacitats requerides IMPRESCINDIBLE formació professional en administració. VALORABLE ús d'eines ofimàtiques i software de gestió, organització i planificació, capacitat de resolució d'incidències, habilitats comunicatives, autonomia i treball en equip. Sou/brut/mensual 2000 eur/12 pagues. Jornada 40h/set. Horari de dll a dj de 8:30 a 13 i de 15 a 19h; dv de 8 a 14h. Requisits Obligatoris Experiència en l'ocupació (mesos) 12 Molt importants Nivell acadèmic FP II Titulació FPII - - Administratiu Branca C.Formatiu Grau Superior Administració i Gestió Informació d'interès Data d’incorporació 19/10/2026 Salari mensual 2000€ Horari dll a dj de 8:30 a 13 i de 15 a 19h; dv de 8 a 14h Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada partida",
@@ -27724,7 +27857,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397364",
 "published": "2026-11-12",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Garantir el bon estat de conservació, funcionament, seguretat i manteniment de les instal·lacions, espais, equipaments i mobiliari de l'escola, mitjançant la realització de tasques de manteniment preventiu i correctiu, la detecció i resolució d'incidències i la coordinació amb empreses i professionals externs. Conduir el vehicle de l'empresa. Possibilitat de jornada completa o parcial matins. Si t'interessa: 1) APUNTA'T. 2) ENVIA CURRÍCULUM INDICANT NÚMERO D'OFERTA 397364 A bt@ajmataro.cat Capacitats requerides IMPRESCINDIBLE Formació relacionada amb manteniment, instal·lacions, electricitat, electromecànica, climatització o àmbits afins. CARNET B i vehicle per arribar al centre. Català entès. VALORABLE formació en manteniment d'edificis i instal·lacions i haver treballat en centres educatius, instal·lacions o equipaments de gran afluència de persones. Salari 28000-32000 eur bruts/any segons vàlua. Requisits Obligatoris Experiència en l'ocupació (mesos) 24 Recomanables Nivell acadèmic Cicle formatiu grau mitjà Llengua Castellà - Nivell Independent B2 . Català - Nivell Bàsic A1 Informació d'interès Data d’incorporació 01/01/2027 Horari Dl a dv 8.30 a 17.30 h o parcial 8.30-13:30 h Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres",
@@ -28098,7 +28231,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397462",
 "published": "2026-11-16",
-"modified": "2026-11-17",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Neteja instal·llacions Circuit Montmeló Capacitats requerides Disponibilitat immediata i treballar de 6h a 18h o 18h a 6h des del 17/11 al 23/11 Contracte: Eventual. Salari: 560 euros bruts pels 6 dies treballats Informació d'interès Data d’incorporació 17/11/2026 Contracte Tipus Eventuals per circumstàncies de la producció Durada Menys d'un mes",
@@ -28312,7 +28445,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397012",
 "published": "2026-11-02",
-"modified": "2026-11-04",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Mecànic/a torner/a amb coneixements de soldadura. Capacitats requerides Amb experiència. Si t'interessa apunta't i envia el teu CV indicant número d'oferta 397012 a prmd.pdb.orientacio@premiadedalt.cat Informació d'interès Data d’incorporació 16/11/2026 Horari De 7 a 15h Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28328,7 +28461,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397443",
 "published": "2026-11-16",
-"modified": "2026-11-17",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Treballs amb rectificadores planes i cilíndriques, tasques bàsiques de taller mecànic i manipulació de peces tallants. Sou: Segons experiència i coneixements. Si t'interessa APUNTA'T i ENVIA CV a prmd.pdb.orientacio@premiadedalt.cat indicant referència 397443 Capacitats requerides Experiència amb rectificadores, nocions de mecànica industrial. Es valorarà la responsabilitat i el compromís amb la feina. Informació d'interès Data d’incorporació 01/12/2026 Horari de 6 a 14h Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28344,7 +28477,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397489",
 "published": "2026-11-17",
-"modified": "2026-11-17",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Manteniment de parc aquàtic en temes paleteria. Si t'interessa APUNTA'T i ENVIA el teu CV a prmd.pdb.orientacio@premiadedalt.cat Capacitats requerides Experiència, compromís amb la feina. Informació d'interès Data d’incorporació 01/12/2026 Horari a l'hivern de 8 a 16h de dl a dv, a l'estiu varia Contracte Tipus Indefinit: ordinari Durada Indefinit",
