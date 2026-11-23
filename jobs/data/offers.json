@@ -1,47 +1,47 @@
 {
-"built": "2026-11-23 08:37 UTC",
+"built": "2026-11-23 09:08 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
-"count": 180,
-"secs": 393,
-"at": "2026-11-23 08:44"
+"count": 181,
+"secs": 367,
+"at": "2026-11-23 09:14"
 },
 "feinaactiva": {
 "ok": true,
-"count": 697,
+"count": 696,
 "secs": 6,
-"at": "2026-11-23 08:44"
+"at": "2026-11-23 09:14"
 },
 "eurofirms": {
 "ok": true,
 "count": 73,
 "secs": 1,
-"at": "2026-11-23 08:44"
+"at": "2026-11-23 09:14"
 },
 "randstad": {
 "ok": true,
 "count": 167,
-"secs": 186,
-"at": "2026-11-23 08:47"
+"secs": 194,
+"at": "2026-11-23 09:17"
 },
 "iman": {
 "ok": true,
 "count": 253,
-"secs": 43,
-"at": "2026-11-23 08:48"
+"secs": 42,
+"at": "2026-11-23 09:18"
 },
 "ras": {
 "ok": true,
 "count": 56,
-"secs": 0,
-"at": "2026-11-23 08:48"
+"secs": 1,
+"at": "2026-11-23 09:18"
 },
 "meditempus": {
 "ok": true,
 "count": 36,
 "secs": 1,
-"at": "2026-11-23 08:48"
+"at": "2026-11-23 09:18"
 }
 },
 "offers": [
@@ -10063,24 +10063,6 @@
 "company": "Oficina de Treball del SOC",
 "salary": "1500-1500 €/mes",
 "text": "Per a feines de construcció d'edificis residencials\nExperiència: Experiència 24 mesos. FUSTERIA D'ALUMINI I PVC\nRequisits: Permisos de conduir: b\nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"exp:24"
-],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "09202632072",
-"title": "GUIXAIRES",
-"town": "Montornès del Vallès",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202632072",
-"published": "2026-11-12",
-"modified": "",
-"company": "Oficina de Treball del SOC",
-"salary": "1500-1500 €/mes",
-"text": "Per a feines de construcció d'edificis residencials\nExperiència: Experiència 24 mesos. GUIXAIRE\nRequisits: Permisos de conduir: b\nEstudis: \nContracte laboral indefinit\nJornada completa",
 "flags": [
 "exp:24"
 ],
@@ -25128,7 +25110,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397345",
 "published": "2026-11-11",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "VENEDOR/A taulell i preparació de comandes. Les seves funcions principals seran l'anteció al client, la reposició de producte de les prestatgeries, la preparació de comandes externes així com la recepció i col·locació de producte. S'ofereix contracte temporal de 6 mesos + possibilitat d'indefinit. Horari de 8:00h a 13:00h i de 16:00h a 19:00h de dilluns a divendres i 2 dissabtes matí de 9:30h a 13:30h. Salari de 2.044'09 E/bruts en 12 pagues. SI T'INTERESSA: 1) INSCRIU-TE A L'OFERTA 2) ENVIA EL TEU CV A sempre@argentona.cat indicant número d'oferta. Capacitats requerides Es requereix d'una persona amb experiència en el sector, que tingui uns coneixements bàsics per la gestió de programa de cobrament i albarans. Bona capacitat física ja que es mouen càrregues pesades. Es cerca una persona amb bona capacitat per el treball en equip, que sigui organitzada, pugui treballar de forma autònoma i amb proactivitat. Requisits Obligatoris Nivell acadèmic ESO Permís de conduir B Llengua Català - Nivell Experimentat C1 . Castellà - Nivell Experimentat C1 Importants Experiència en l'ocupació (mesos) 12 Recomanables Llengua Anglès - Nivell Independent B1 Informació d'interès Data d’incorporació 15/11/2026 Contracte Tipus Temporals bonificats Durada Més de 6 i menys de 12 mesos",
@@ -26164,7 +26146,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397223",
 "published": "2026-11-09",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Empresa d'atenció domiciliària cerca Conductor/a de vehicle per a trasllat de usuaris del centre de dia (furgoneta d'11 places) Itinerari de recollida i retorn dels usuaris amb vehicle adaptat (persones amb cadira rodes, amb ajut, etc). Acompanyar i donar suport a les persones usuàries durant els desplaçaments, facilitant la pujada i baixada del vehicle i vetllant per la seva seguretat, comoditat i benestar Horari: de dilluns a divendres horari partit. Salari brut mensual aproximat: 1.350 euros, amb pagues dobles prorratejades Capacitats requerides Tècnic/a en Atenció a Persones en Situació de Dependència o Tècnic/a en Emergències Sanitàries. Carnet de conduir B en vigor. Experiència en conducció i, preferiblement, en transport de persones. Es valorarà experiència en l'atenció a persones grans i/o persones en situació de dependència. Persona empàtica, organitzada, resolutiva, responsable. Amb habilitats de comunicació i autocontrol. Requisits Obligatoris Permís de conduir B Experiència en l'ocupació (mesos) 12 Llengua Castellà - Nivell Independent B2 . Català - Nivell Independent B2 Recomanables Certificat de professionalitat Atenció sociosanitària a persones dependents en institucions socials Informació d'interès Data d’incorporació 13/11/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -26187,7 +26169,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397257",
 "published": "2026-11-09",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Empresa que comercialitza producte i sistemes d'higiene professional cerca Tècnic/a per instal·lació i manteniment d'equips de dosificació. Salari brut anual: 22.000 euros Capacitats requerides Vocació de servei, bon tracte al client, disponibilitat immediata Requisits Obligatoris Permís de conduir B Experiència en l'ocupació (mesos) 36 Titulació Cicle formatiu grau mitjà - Electricitat i Electrònica - Instal·lacions Elèctriques i Automàtiques Llengua Castellà - Nivell Independent B2 . Català - Nivell Independent B2 Informació d'interès Data d’incorporació 23/11/2026 Horari de dilluns a divendres de 8 a 13:30 i de 15 a 18 h Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -26256,7 +26238,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397446",
 "published": "2026-11-16",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Industria dedicada a la fabricació de material i maquinaria d'embalatge cerca Responsable de magatzem per Recepcions i Expedicions. Recepcionar mercaderies de proveïdors, Entrar albarans al sistema, ubicar els materials a les gavetes corresponents, Preparació comandes de clients (palets, picking,...), Expedicions de comandes, Altres tasques de recolzament al departament de Compres. Horari: 08:00 a 13:00 i de 15:00 a 18:00h de dilluns a divendres. Salari brut: 21.000 - 22.000 eur (13 pagues) Capacitats requerides Conducció de carretons i toros mecànics (carnet necessari) Valorable coneixements de la Metodologia Lean. Resident al Vallès Oriental. Disponibilitat de vehicle propi per desplaçar-se fins al lloc de treball. Requisits Obligatoris Vehicle propi Sí Experiència en l'ocupació (mesos) 24 Llengua Castellà - Nivell Independent B2 . Català - Nivell Independent B2 Carnets especials Conductor/a de Carretó Elevador Informació d'interès Data d’incorporació 01/12/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -27780,6 +27762,28 @@
 "lang_level": "397625 capacitats requerides imprescindible eso o titulacio equivalent o superior nivell b1 de catala … nivell independent b1 informacio d interes data dincorporacio 01 12 2026 salari mensual 1934 horari de dl a ds 9 a 14h i 17 a 20h dia descans rotatiu atencio al"
 },
 "first_seen": ""
+},
+{
+"src": "xaloc",
+"id": "397638",
+"title": "NETEJADOR/A PER CENTRE ESPORTIU (4 MATINS, 14 HS/SETMANA)",
+"town": "Mataró",
+"town_note": "",
+"url": "https://xaloc.diba.cat/ofertes-de-feina/397638",
+"published": "2026-11-23",
+"modified": "2026-11-23",
+"company": "",
+"salary": "",
+"text": "Netejar i manteniment de les instal·lacions d'un centre esportiu seguint els protocols de neteja i higiene establerts. Aspirar i fregar terres: Eliminar pols de superfícies, mobiliari, màquines esportives i zones comunes. Netejar i desinfectar lavabos i vestidors. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia CURRICULUM a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397638 Capacitats requerides IMPRESCINDIBLE Formació o haver treballat en neteja d'immobles. Disponibilitat per començar jornada entre les 6-8 h del matí, preferentment aviat i per a futures ampliacions de jornada segons les necessitats de l'empresa. Persona autònoma, responsable i compromís amb la qualitat del servei. Residència a Mataró o rodalies. VALORABLE haver treballat en gimnasos o similar. Jornada 14 h/setmana. Requisits Obligatoris Llengua Castellà - Nivell Independent B2 Recomanables Nivell acadèmic Graduat escolar / Batxillerat elemental Formació professionalitzadora Neteja de superfícies i mobiliari en edificis i locals Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 450€ Horari Dilluns i dijous 4 h, Dimarts i divendres 3 h. Contracte Tipus Temps parcial: indefinit Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada parcial Jornada 3 Exclusivament matí",
+"flags": [
+"lang_level",
+"diploma"
+],
+"why": {
+"lang_level": "nivell independent b2 recomanables nivell academic graduat escolar batxillerat elemental formacio professionalitzadora neteja de superficies i mobiliari en edif",
+"diploma": "nivell independent b2 recomanables nivell academic graduat escolar batxillerat elemental formacio professionalitzadora neteja de superficies i mobiliari en edif"
+},
+"first_seen": "2026-11-23 09:08"
 },
 {
 "src": "xaloc",
