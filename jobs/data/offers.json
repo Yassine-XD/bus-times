@@ -1,47 +1,47 @@
 {
-"built": "2026-11-22 22:50 UTC",
+"built": "2026-11-23 08:37 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
-"count": 184,
-"secs": 424,
-"at": "2026-11-22 22:57"
+"count": 180,
+"secs": 393,
+"at": "2026-11-23 08:44"
 },
 "feinaactiva": {
 "ok": true,
-"count": 701,
-"secs": 5,
-"at": "2026-11-22 22:57"
+"count": 697,
+"secs": 6,
+"at": "2026-11-23 08:44"
 },
 "eurofirms": {
 "ok": true,
 "count": 73,
-"secs": 2,
-"at": "2026-11-22 22:57"
+"secs": 1,
+"at": "2026-11-23 08:44"
 },
 "randstad": {
 "ok": true,
 "count": 167,
-"secs": 167,
-"at": "2026-11-22 23:00"
+"secs": 186,
+"at": "2026-11-23 08:47"
 },
 "iman": {
 "ok": true,
 "count": 253,
-"secs": 46,
-"at": "2026-11-22 23:00"
+"secs": 43,
+"at": "2026-11-23 08:48"
 },
 "ras": {
 "ok": true,
 "count": 56,
-"secs": 3,
-"at": "2026-11-22 23:00"
+"secs": 0,
+"at": "2026-11-23 08:48"
 },
 "meditempus": {
 "ok": true,
 "count": 36,
 "secs": 1,
-"at": "2026-11-22 23:00"
+"at": "2026-11-23 08:48"
 }
 },
 "offers": [
@@ -2015,24 +2015,21 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92323124",
-"title": "AUXILIAR DE CUINA BADALONA (2 HORES DIARIES).",
+"id": "09202632805",
+"title": "PALETA OFICIAL DE 1ª",
 "town": "Badalona",
 "town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323124",
-"published": "2026-08-24",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202632805",
+"published": "2026-11-23",
 "modified": "",
-"company": "SANED",
-"salary": "",
-"text": "Servir aliments, neteja de la cuina i tot lo relacionat. Organització del material... Cuina molt bàsica.\nExperiència: Experiència 1 anys. Experiència en col·lectivitats.\nRequisits: català (parlat Superior, escrit Superior), espanyol (parlat Superior, escrit Superior)\nEstudis: \nContracte laboral indefinit\nJornada parcial (10 hores - jornada setmanal)",
+"company": "Oficina de Treball del SOC",
+"salary": "2285-2285 €/mes",
+"text": "Execució de treballs de reforma integral, rehabilitació i manteniment d'habitatges, locals i edificis. Feines de paleta, construcció de parets, enguixats, reparacions i acabats. Col·locació de paviments, revestiment de ceràmics, rajoles, sòcols i treballs d'anivellament de superfície. Execució de cuines, banys, terres i altres espais. Es valoraran coneixements en altres oficis relacionats amb les obres, com pladur, pintura, fontaneria, electricitat i impermeabilitzacions.\nExperiència: Experiència 36 mesos. Experiència demostrable com a oficial de primera en treballs de paleta, reformes integrals, rehabilitació d'habitatges i manteniment d'edificis.\nRequisits: Permisos de conduir: b. espanyol (parlat Mitjà, escrit Mitjà)\nEstudis: \nContracte laboral indefinit\nJornada completa",
 "flags": [
-"kitchen_meat_alcohol",
-"exp:1"
+"exp:36"
 ],
-"why": {
-"kitchen_meat_alcohol": "auxiliar de cuina badalona 2 hores diaries … servir aliments neteja de la cuina i tot lo relacionat … cuina molt basica"
-},
-"first_seen": ""
+"why": {},
+"first_seen": "2026-11-23 08:37"
 },
 {
 "src": "feinaactiva",
@@ -3560,6 +3557,24 @@
 },
 {
 "src": "feinaactiva",
+"id": "FA92329353",
+"title": "MONITOR/A LA CAFETERIA DEL PARQUE INFANTIL",
+"town": "Badalona",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329353",
+"published": "2026-11-23",
+"modified": "",
+"company": "LES GUIXERES PARK, S.L.",
+"salary": "650- €/mes",
+"text": "Atención y buen servicio a los clientes\nReposición neveras y expositor aperitivos\nRapideza y efectividad en el servicio a los clientes\nZona de trabajo limpia y ordenada\nPuntualidad\nResponsabilidad con lo que hace\nExperiència: Experiència 2 mesos. Saber servir cerveza, cafés y bebidas. Colocar los barriles. Competències / coneixements: Hablar castellano y catalán\nRequisits: \nEstudis: \nContracte laboral indefinit\nJornada parcial (18 hores - jornada setmanal)",
+"flags": [
+"exp:2"
+],
+"why": {},
+"first_seen": "2026-11-23 08:37"
+},
+{
+"src": "feinaactiva",
 "id": "09202628457",
 "title": "AUXILIAR DE CUINA (REF. 28457)",
 "town": "Cabrera de Mar",
@@ -3754,22 +3769,6 @@
 "why": {
 "diploma": "titulacio universitaria de grau"
 },
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92323110",
-"title": "INFERMERS/ INFERMERES",
-"town": "Calella",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323110",
-"published": "2026-08-24",
-"modified": "",
-"company": "RESIDENCIA LA MARESMA, S.L.",
-"salary": "",
-"text": "Les pròpies d'un/a infermer/a a una residència per a gent gran\nExperiència: Competències / coneixements: Es valorarà l'experiència\nRequisits: \nEstudis: infermeria\nContracte laboral indefinit\nJornada completa",
-"flags": [],
-"why": {},
 "first_seen": ""
 },
 {
@@ -4341,29 +4340,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92323138",
-"title": "TÈCNIC/A DE MANTENIMENT ZONA NORD",
-"town": "Cardedeu",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323138",
-"published": "2026-08-24",
-"modified": "",
-"company": "Ens d'Abastament d'Aigua Ter-Llobregat",
-"salary": "3500-3500 €/mes",
-"text": "Funcions principals\n1. Planificació, coordinació i desenvolupament de projectes d’enginyeria i manteniment\nEstudiar, dissenyar i coordinar, en col·laboració amb altres departaments, la implantació de noves tecnologies.\nPlanificar, actualitzar i centralitzar els projectes del departament.\nCoordinar els projectes amb la resta de departaments de l’organització.\nDirigir i executar els projectes i les obres assignades.\n2. Innovació i millora dels processos de manteniment\nCol·laborar en el disseny i l’establiment de criteris per a les gammes de manteniment preventiu i predictiu.\nAnalitzar i proposar millores en els procediments i metodologies de manteniment.\nImpulsar la incorporació de noves tecnologies orientades a l’optimització de la gestió del manteniment.\n3. Estandardització i coordinació del model de manteniment\nEstudiar i dissenyar la unificació dels criteris de manteniment entre plantes i xarxa.\nDefinir metodologies, criteris tècnics i formes d’organització comunes.\nPromoure l’homogeneïtzació dels processos de manteniment a nivell corporatiu.\n4. Gestió de contractacions, serveis i seguiment d’obres\nCol·laborar amb els responsables de manteniment de les plantes en la definició de necessitats de contractació.\nGestionar la contractació de serveis, assistències tècniques i obres dins del seu àmbit d’actuació.\nExperiència: Experiència 1 mesos. Experiència en lloc de treball i/o desenvolupament de tasques similars. Competències / coneixements: Requisits de participació\nRequisits imprescindibles\n•\tTitulació: Estar en possessió del títol universitari d’Enginyeria tècnica en electrònica, automàtica, industrial, telecomunicacions, altres Enginyeries o altres titulacions universitàries o estudis tècnics de nivell equivalent (nivell 2 del MECES) o superior, i en disciplines específiques habilitants per a la realització de les funcions del lloc de treball.  \n•\tConeixement oral i escrit de la llengua catalana de nivell C1 (certificat de nivell de suficiència de català) de la Direcció General de Política Lingüística, o l’equivalent. Aquesta circumstància s’acreditarà amb la possessió del corresponent certificat de nivell de suficiència de català (C1) o superior. En cas de no disposar d’aquest certificat, aquest coneixement es constatarà amb la superació d’una prova que s’efectuarà amb les mateixes garanties i requisits que les proves de coneixements de llengua catalana previstes per a l’obtenció del certificat esmentat.  \n•\tCarnet de conduir B vigent i capacitat per de",
-"flags": [
-"car",
-"lang_level",
-"exp:1"
-],
-"why": {
-"car": "carnet de conduir b vigent i capacitat per desplacar se habitualment per lambit geografic datl",
-"lang_level": "coneixement oral i escrit de la llengua catalana de nivell c1 certificat de nivell de suficiencia de catala de la direccio general de politica linguistica o leq … aquesta circumstancia sacreditara amb la possessio del corresponent certificat de nivell de suficiencia de catala c1 o superior"
-},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "FA92323584",
 "title": "LIMPIADOR/A",
 "town": "Cardedeu",
@@ -4910,27 +4886,6 @@
 "exp:36"
 ],
 "why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92323092",
-"title": "CAMARERO/A DE PISOS HOTEL EN GRANOLLERS",
-"town": "Granollers",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323092",
-"published": "2026-08-24",
-"modified": "",
-"company": "PACIFIC SPACE S.L.",
-"salary": "",
-"text": "Limpieza y puesta a punto de las habitaciones del hotel.\nCambio de ropa de cama y toallas.\nLimpieza y desinfección de baños.\nReposición de amenities y productos necesarios en las habitaciones.\nRevisión del estado general de las habitaciones antes de su entrega.\nLimpieza y mantenimiento de las zonas comunes asignadas.\nComunicación de posibles averías, desperfectos o incidencias detectadas durante el servicio.\nCumplimiento de los protocolos de limpieza, higiene y calidad establecidos por el hotel.\nOrganización y correcto mantenimiento del material y productos de limpieza.\nExperiència: Experiència 2 anys. Se valorará experiencia previa como Camarero/a de Piso, personal de limpieza de hoteles o puestos similares.\nPersona responsable, puntual y organizada.\nCapacidad para trabajar con agilidad manteniendo un buen nivel de detalle y calidad.\nBuena actitud y capacidad para trabajar en equipo.\nDisponibilidad para realizar turnos rotativos.\nRequisits: espanyol (parlat Superior, escrit Mitjà)\nEstudis: \nContracte laboral temporal (1 mesos)\nJornada completa",
-"flags": [
-"kitchen_meat_alcohol",
-"exp:2"
-],
-"why": {
-"kitchen_meat_alcohol": "camarero a de pisos hotel en granollers … se valorara experiencia previa como camarero a de piso personal de limpieza de hoteles o puestos similares"
-},
 "first_seen": ""
 },
 {
@@ -7002,16 +6957,16 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92328575",
-"title": "TÉCNICO/A DE MANTENIMIENTO INDUSTRIAL – TARDE FIJA | VALLÈS ORIENTAL",
+"id": "FA92329364",
+"title": "TÉCNICO/A DE MANTENIMIENTO INDUSTRIAL – TARDE FIJA",
 "town": "Les Franqueses del Vallès",
 "town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92328575",
-"published": "2026-11-10",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329364",
+"published": "2026-11-23",
 "modified": "",
-"company": "Empresa de manteniment",
+"company": "EMPRESA DE MANTENIMENT",
 "salary": "2300-2600 €/mes",
-"text": "Detalle de las funciones del puesto de trabajo\nMantenimiento en instalaciones farmacéuticas – Les Franqueses del Vallès\nRealizar mantenimiento preventivo y general de las instalaciones industriales.\nRevisar, mantener y reparar armarios y cuadros eléctricos.\nDiagnosticar y solucionar incidencias eléctricas en las instalaciones.\nRealizar mantenimiento y supervisión de sistemas de climatización industrial (HVAC).\nControlar y verificar las condiciones de presión de las instalaciones y salas blancas.\nRevisar los sistemas de presión positiva y el correcto funcionamiento de las instalaciones técnicas.\nRealizar inspecciones periódicas y detectar posibles anomalías.\nEjecutar pequeñas reparaciones, ajustes y sustituciones de componentes.\nGarantizar el correcto estado de conservación y funcionamiento de las instalaciones.\nMantenimiento en otros centros industriales – Vallès Oriental\nRealizar tareas de mantenimiento preventivo y correctivo de instalaciones industriales.\nColaborar en intervenciones de mantenimiento eléctrico y electromecánico.\nRevisar cuadros eléctricos, motores, sensores y otros componentes industriales.\nDar soporte al equipo técnico en la resolución de incidencias.\nParticipar en tareas de conservación y mantenimiento de instalaciones logísticas automatizadas.\nRegistrar las intervenciones realizadas y cumplir los procedimientos de seguridad establecidos.\nExperiència: Experiència 2 anys. Experiencia mínima de 2 años en mantenimiento de instalaciones industriales.\nExperiencia en revisión, mantenimiento y reparación de cuadros y armarios eléctricos.\nExperiencia en mantenimiento preventivo y diagnóstico de incidencias.\nValorable experiencia en instalaciones farmacéuticas, salas blancas y sistemas de control de presión.\nValorable experiencia en mantenimiento electromecánico o instalaciones logísticas automatizadas.. Competències / coneixements: CFGM o CFGS en Electricidad, Mantenimiento Industrial, Electromecánica, Climatización o similar.\nConocimientos sólidos de electricidad industrial.\nConocimientos de climatización industrial y sistemas HVAC.\nCapacidad para trabajar de manera autónoma y adaptarse a diferentes centros.\nRequisits: Disponibilitat de vehicle\nEstudis: \nContracte laboral indefinit\nJornada completa",
+"text": "Detalle de las funciones del puesto de trabajo\nMantenimiento en instalaciones farmacéuticas – Les Franqueses del Vallès\nRealizar mantenimiento preventivo y general de las instalaciones industriales.\nRevisar, mantener y reparar armarios y cuadros eléctricos.\nDiagnosticar y solucionar incidencias eléctricas en las instalaciones.\nRealizar mantenimiento y supervisión de sistemas de climatización industrial (HVAC).\nControlar y verificar las condiciones de presión de las instalaciones y salas blancas.\nRevisar los sistemas de presión positiva y el correcto funcionamiento de las instalaciones técnicas.\nRealizar inspecciones periódicas y detectar posibles anomalías.\nEjecutar pequeñas reparaciones, ajustes y sustituciones de componentes.\nGarantizar el correcto estado de conservación y funcionamiento de las instalaciones.\nMantenimiento en otros centros industriales – Vallès Oriental\nRealizar tareas de mantenimiento preventivo y correctivo de instalaciones industriales.\nColaborar en intervenciones de mantenimiento eléctrico y electromecánico.\nRevisar cuadros eléctricos, motores, sensores y otros componentes industriales.\nDar soporte al equipo técnico en la resolución de incidencias.\nParticipar en tareas de conservación y mantenimiento de instalaciones logísticas automatizadas.\nRegistrar las intervenciones realizadas y cumplir los procedimientos de seguridad establecidos.\nExperiència: Experiència 2 anys. Experiencia 2 años. Experiencia mínima de 2 años en mantenimiento de instalaciones industriales. Experiencia en revisión, mantenimiento y reparación de cuadros y armarios eléctricos. Experiencia en mantenimiento preventivo y diagnóstico de incidencias. Valorable experiencia en instalaciones farmacéuticas, salas blancas y sistemas de control de presión. Valorable experiencia en mantenimiento electromecánico o instalaciones logísticas automatizadas.. Competències / coneixements: CFGM o CFGS en Electricidad, Mantenimiento Industrial, Electromecánica, Climatización o similar. Conocimientos sólidos de electricidad industrial. Conocimientos de climatización industrial y sistemas HVAC. Capacidad para trabajar de manera autónoma y adaptarse a diferentes centros.\nRequisits: Disponibilitat de vehicle\nEstudis: \nContracte laboral indefinit\nJornada completa",
 "flags": [
 "diploma",
 "exp:2"
@@ -7019,7 +6974,7 @@
 "why": {
 "diploma": "cfgm o cfgs en electricidad mantenimiento industrial electromecanica climatizacion o similar"
 },
-"first_seen": ""
+"first_seen": "2026-11-23 08:37"
 },
 {
 "src": "feinaactiva",
@@ -7496,24 +7451,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92328953",
-"title": "TÉCNICO/A DE SALA DE CONTROL – 16H SEMANALES",
-"town": "Lliçà d'Amunt",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92328953",
-"published": "2026-11-16",
-"modified": "",
-"company": "Mimmng Mantenimiento Sl.",
-"salary": "900-1000 €/mes",
-"text": "-Supervisar y monitorizar instalaciones automatizadas mediante sistemas SCADA.\n-Controlar el funcionamiento de los equipos y detectar posibles anomalías.\n-Identificar, analizar y gestionar alarmas e incidencias técnicas.\n-Coordinar la resolución de incidencias con los equipos de mantenimiento.\n-Registrar y realizar el seguimiento de intervenciones mediante herramientas GMAO y ERP.\n-Analizar datos operativos y realizar el seguimiento de indicadores KPI.\n-Elaborar informes y reportes mediante Excel y otras herramientas informáticas.\n-Colaborar en la mejora continua de los procesos y sistemas automatizados.\n-Garantizar el cumplimiento de los procedimientos de seguridad y calidad.\nExperiència: Experiència 1 anys. - Experiencia 1 años. Experiencia previa en salas de control, instalaciones automatizadas o entornos industriales y logísticos.\n-Conocimientos de sistemas SCADA/HMI, GMAO y ERP. \n-Buen manejo de Excel y herramientas informáticas.\n -Capacidad para interpretar información técnica y gestionar incidencias.\nRequisits: Disponibilitat de vehicle\nEstudis: \nContracte laboral indefinit\nJornada parcial (16 hores - jornada setmanal)",
-"flags": [
-"exp:1"
-],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "FA92329114",
 "title": "TÉCNICOS/AS DE MANTENIMIENTO INDUSTRIAL| LLIÇÀ D'AMUNT",
 "town": "Lliçà d'Amunt",
@@ -7574,16 +7511,59 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92329286",
+"id": "FA92329366",
+"title": "TÉCNICO/A DE SALA DE CONTROL – 16H SEMANALES",
+"town": "Lliçà d'Amunt",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329366",
+"published": "2026-11-23",
+"modified": "",
+"company": "EMPRESA MANTENIMENT",
+"salary": "900-1000 €/mes",
+"text": "-Supervisar y monitorizar instalaciones automatizadas mediante sistemas SCADA.\n-Controlar el funcionamiento de los equipos y detectar posibles anomalías.\n-Identificar, analizar y gestionar alarmas e incidencias técnicas.\n-Coordinar la resolución de incidencias con los equipos de mantenimiento.\n-Registrar y realizar el seguimiento de intervenciones mediante herramientas GMAO y ERP.\n-Analizar datos operativos y realizar el seguimiento de indicadores KPI.\n-Elaborar informes y reportes mediante Excel y otras herramientas informáticas.\n-Colaborar en la mejora continua de los procesos y sistemas automatizados.\n-Garantizar el cumplimiento de los procedimientos de seguridad y calidad.\nExperiència: Experiència 1 anys.  Experiencia 1 años. Experiencia previa en salas de control, instalaciones automatizadas o entornos industriales y logísticos.. Competències / coneixements: -Conocimientos de sistemas SCADA/HMI, GMAO y ERP. \n-Buen manejo de Excel y herramientas informáticas. \n-Capacidad para interpretar información técnica y gestionar incidencias.\nRequisits: Disponibilitat de vehicle\nEstudis: \nContracte laboral indefinit\nJornada parcial (16 hores - jornada setmanal)",
+"flags": [
+"exp:1"
+],
+"why": {},
+"first_seen": "2026-11-23 08:37",
+"repost_of": "feinaactiva:FA92328953",
+"repost_first_seen": ""
+},
+{
+"src": "feinaactiva",
+"id": "FA92329368",
+"title": "ELECTROMECÁNICOS/AS INDUSTRIALES – TURNO FIJO DE TARDE | LLIÇÀ D'AMUNT",
+"town": "Lliçà d'Amunt",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329368",
+"published": "2026-11-23",
+"modified": "",
+"company": "Mimmng Mantenimiento Sl.",
+"salary": "2300-2500 €/mes",
+"text": "-Ejecutar tareas de mantenimiento preventivo, correctivo y predictivo de los equipos industriales.\n-Diagnosticar y solucionar averías eléctricas, mecánicas, neumáticas e hidráulicas.\n-Realizar intervenciones en motores eléctricos, reductores, sensores, fotocélulas, electroválvulas y variadores.\n-Mantener y reparar sistemas de transporte automatizado, conveyors, transelevadores y shuttles.\n-Revisar cuadros eléctricos, conexiones y componentes electromecánicos.\n-Interpretar esquemas eléctricos y documentación técnica.\n-Registrar los trabajos realizados en el sistema de gestión de mantenimiento (GMAO).\n-Colaborar con el equipo de mantenimiento para minimizar paradas y mejorar el rendimiento de las instalaciones.\nExperiència: Experiència 2 anys. Experiencia mínima de 2 años en mantenimiento industrial, electromecánica o mantenimiento de maquinaria automatizada. \nValorable experiencia en centros logísticos automatizados o entornos de Industria 4.0.. Competències / coneixements: -Conocimientos de electricidad industrial y mecánica. \n-Valorable formación profesional en Mecatrónica Industrial, Mantenimiento Electromecánico o similar. \n-Capacidad de diagnóstico de averías y resolución de incidencias.\nRequisits: Disponibilitat de vehicle\nEstudis: \nContracte laboral indefinit\nJornada completa",
+"flags": [
+"diploma?",
+"exp:2"
+],
+"why": {
+"diploma": "valorable formacion profesional en mecatronica industrial mantenimiento electromecanico o similar"
+},
+"first_seen": "2026-11-23 08:37",
+"repost_of": "feinaactiva:FA92329289",
+"repost_first_seen": ""
+},
+{
+"src": "feinaactiva",
+"id": "FA92329371",
 "title": "ELECTROMECÁNICOS/AS INDUSTRIALES – TURNO FIJO DE NOCHE | LLIÇÀ D'AMUNT",
 "town": "Lliçà d'Amunt",
 "town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329286",
-"published": "2026-11-20",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329371",
+"published": "2026-11-23",
 "modified": "",
 "company": "Mimmng Mantenimiento Sl.",
 "salary": "2400-2700 €/mes",
-"text": "-Realizar mantenimiento preventivo, correctivo y predictivo de maquinaria e instalaciones automatizadas.\n-Diagnosticar y reparar averías eléctricas, mecánicas, neumáticas e hidráulicas.\n-Intervenir en transportadores, motores, reductores, sensores, fotocélulas, variadores de frecuencia y cuadros eléctricos.\n-Realizar mantenimiento de sistemas automatizados como transelevadores, sorters y sistemas de transporte interno.\n-Interpretar planos eléctricos y mecánicos para localizar y solucionar incidencias.\n-Registrar intervenciones y actuaciones de mantenimiento mediante herramientas GMAO.\n-Colaborar con el equipo técnico para garantizar la continuidad operativa de las instalaciones.\nExperiència: Experiència 2 anys. -Experiencia mínima de 2 años en mantenimiento industrial o electromecánica.\n-Conocimientos de electricidad industrial, mecánica, neumática y diagnóstico de averías.\n-Valorable formación de CFGM o CFGS en Mantenimiento Electromecánico, Mecatrónica Industrial, Electricidad o similar.\n-Valorable experiencia en almacenes automatizados, centros logísticos o instalaciones industriales.\n-Disponibilidad para trabajar en turno fijo de noche.\n-Vehículo propio para acceder al centro de trabajo.\nRequisits: Disponibilitat de vehicle\nEstudis: \nContracte laboral indefinit\nJornada completa",
+"text": "-Realizar mantenimiento preventivo, correctivo y predictivo de maquinaria e instalaciones automatizadas.\n-Diagnosticar y reparar averías eléctricas, mecánicas, neumáticas e hidráulicas.\n-Intervenir en transportadores, motores, reductores, sensores, fotocélulas, variadores de frecuencia y cuadros eléctricos.\n-Realizar mantenimiento de sistemas automatizados como transelevadores, sorters y sistemas de transporte interno.\n-Interpretar planos eléctricos y mecánicos para localizar y solucionar incidencias.\n-Registrar intervenciones y actuaciones de mantenimiento mediante herramientas GMAO.\n-Colaborar con el equipo técnico para garantizar la continuidad operativa de las instalaciones.\nExperiència: Experiència 2 anys.  -Experiencia mínima de 2 años en mantenimiento industrial o electromecánica. \n-Conocimientos de electricidad industrial, mecánica, neumática y diagnóstico de averías. \n-Valorable formación de CFGM o CFGS en Mantenimiento Electromecánico, Mecatrónica Industrial, Electricidad o similar. \n-Valorable experiencia en almacenes automatizados, centros logísticos o instalaciones industriales. \n-Disponibilidad para trabajar en turno fijo de noche. \n-Vehículo propio para acceder al centro de trabajo.\nRequisits: Disponibilitat de vehicle\nEstudis: \nContracte laboral indefinit\nJornada completa",
 "flags": [
 "car",
 "diploma?",
@@ -7593,30 +7573,9 @@
 "car": "vehiculo propio para acceder al centro de trabajo",
 "diploma": "valorable formacion de cfgm o cfgs en mantenimiento electromecanico mecatronica industrial electricidad o similar"
 },
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92329289",
-"title": "ELECTROMECÁNICOS/AS INDUSTRIALES – TURNO FIJO DE TARDE | LLIÇÀ D'AMUNT",
-"town": "Lliçà d'Amunt",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329289",
-"published": "2026-11-20",
-"modified": "",
-"company": "Mimmng Mantenimiento Sl.",
-"salary": "2300-2500 €/mes",
-"text": "-Ejecutar tareas de mantenimiento preventivo, correctivo y predictivo de los equipos industriales.\n-Diagnosticar y solucionar averías eléctricas, mecánicas, neumáticas e hidráulicas.\n-Realizar intervenciones en motores eléctricos, reductores, sensores, fotocélulas, electroválvulas y variadores.\n-Mantener y reparar sistemas de transporte automatizado, conveyors, transelevadores y shuttles.\n-Revisar cuadros eléctricos, conexiones y componentes electromecánicos.\n-Interpretar esquemas eléctricos y documentación técnica.\n-Registrar los trabajos realizados en el sistema de gestión de mantenimiento (GMAO).\n-Colaborar con el equipo de mantenimiento para minimizar paradas y mejorar el rendimiento de las instalaciones.\nExperiència: Experiència 2 anys. -Experiencia mínima de 2 años en mantenimiento industrial, electromecánica o mantenimiento de maquinaria automatizada.\n-Conocimientos de electricidad industrial y mecánica.\n-Valorable formación profesional en Mecatrónica Industrial, Mantenimiento Electromecánico o similar.\n-Capacidad de diagnóstico de averías y resolución de incidencias.\n-Valorable experiencia en centros logísticos automatizados o entornos de Industria 4.0.\n-Disponibilidad para trabajar en turno fijo de tarde.\n-Vehículo propio para desplazarse al centro de trabajo.\nRequisits: Disponibilitat de vehicle\nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"car",
-"diploma?",
-"exp:2"
-],
-"why": {
-"car": "vehiculo propio para desplazarse al centro de trabajo",
-"diploma": "valorable formacion profesional en mecatronica industrial mantenimiento electromecanico o similar"
-},
-"first_seen": ""
+"first_seen": "2026-11-23 08:37",
+"repost_of": "feinaactiva:FA92329286",
+"repost_first_seen": ""
 },
 {
 "src": "feinaactiva",
@@ -8373,22 +8332,6 @@
 "flags": [
 "exp:36"
 ],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92323097",
-"title": "FISIOTERAPÈUTA",
-"town": "Mataró",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323097",
-"published": "2026-08-24",
-"modified": "",
-"company": "Fundació Suport",
-"salary": "800-800 €/mes",
-"text": "Estimulació, manteniment de la motricitat,...\nExperiència: \nRequisits: \nEstudis: Grau en Fisioteràpia\nContracte laboral indefinit\nJornada parcial tarda (18 hores - jornada setmanal)",
-"flags": [],
 "why": {},
 "first_seen": ""
 },
@@ -9844,6 +9787,22 @@
 "car": "disposicio de carnet de conduir i vehicle propi no imprescindible"
 },
 "first_seen": ""
+},
+{
+"src": "feinaactiva",
+"id": "FA92329378",
+"title": "PSICÒLEG/PSICÒLOGA IPO",
+"town": "Mollet del Vallès",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329378",
+"published": "2026-11-23",
+"modified": "",
+"company": "Escola Sant Gervasi Cooperativa SCCL",
+"salary": "215-220 €/mes",
+"text": "Impartir classes d'IPO per a l'alumant dels nostres cicles formatius.\nLes classes es realitzaran els dimarts de 8 a 8:55 i dijous de 8 a 9:50 hores.\nExperiència: Competències / coneixements: Psicologia, IPO (Itinerari Personal per a l'Ocupabilitat)\nRequisits: català (parlat Superior, escrit Superior)\nEstudis: \nContracte laboral indefinit\nJornada parcial matí (3 hores - jornada setmanal)",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-23 08:37"
 },
 {
 "src": "feinaactiva",
@@ -11361,46 +11320,6 @@
 ],
 "why": {
 "lang_level": "c1 e c e"
-},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92323118",
-"title": "PERSONAL DINAMITZACIÓ DE TALLERS D'ANGLÈS A PRIMÀRIA - SABADELL",
-"town": "Sabadell",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323118",
-"published": "2026-08-24",
-"modified": "",
-"company": "Puntuajocs SL",
-"salary": "437-438 €/mes",
-"text": "Preparar i dinamitzar els tallers d'anglès.\nAcompanyar i donar suport educatiu als infants durant les activitats.\nAdaptar les activitats a les necessitats i ritmes d’aprenentatge del grup.\nFer el seguiment de les sessions i coordinar-se amb l’equip responsable del projecte.\nExperiència: Experiència 1 anys. Impartint classes d'anglès\nRequisits: anglès (parlat Superior, escrit Superior)\nEstudis: \nContracte laboral indefinit\nJornada parcial (9 hores - jornada setmanal)",
-"flags": [
-"english",
-"exp:1"
-],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92323137",
-"title": "PLANCHISTA DE VEHICULOS",
-"town": "Sabadell",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323137",
-"published": "2026-08-24",
-"modified": "",
-"company": "EVEREST GLOBAL, S.A.",
-"salary": "2000-2500 €/mes",
-"text": "Realizar tareas de plancha y pintura, bajo la coordinación del responsable de mantenimiento.\nComunicar incidencias, anomalías o necesidades de reparación al responsable o al equipo.\nColaborar en la reducción de tiempos de inactividad de vehículos y equipos.\nMantener el orden y la limpieza del área de trabajo y de las herramientas.\nCumplir las normas de prevención de riesgos laborales y medio ambiente.\nExperiència: Experiència 1 anys. Experiencia en talleres de plancha y pintura.. Competències / coneixements: Formación en plancha y pintura de vehículos (FP o experiencia equivalente).\nConocimientos básicos de mecánica, electricidad y soldadura aplicados a camiones y equipos industriales.\nCapacidad para trabajar de forma coordinada dentro de un equipo de mantenimiento.\nCapacidad para seguir procedimientos técnicos y de seguridad.\nResponsabilidad, orden y compromiso con el trabajo.\nCompromiso con el cumplimiento de las normas de seguridad y PRL.\nRequisits: Permisos de conduir: b\nEstudis: títol fp de grau superior - manteniment de vehicles autopropulsats (automoció o aeronaus)\nContracte laboral indefinit\nJornada completa",
-"flags": [
-"diploma",
-"exp:1"
-],
-"why": {
-"diploma": "titol fp de grau superior"
 },
 "first_seen": ""
 },
@@ -25508,7 +25427,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397496",
 "published": "2026-11-17",
-"modified": "2026-11-19",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Oficial de Primera en construcció. Es busquen persones que tinguin expeirència en TREBALLS DE REFORMES I OBRA NOVA Horari: 8:00 a 16:30 de dilluns a divendres Sou: a partir de 30.000 brut anual segons vàlua. Incorporació desembre o gener 2027 Capacitats requerides Experiència mínima de 5 anys. Es valoraran formacions relacionades amb el lloc de feina. Carnet B i cotxe propi. Requisits Obligatoris Permís de conduir B Vehicle propi Sí Categoria Oficial/a de 1a. Experiència en l'ocupació (mesos) 60 Llengua Castellà Importants Llengua Català Informació d'interès Data d’incorporació 21/12/2026 Horari De dilluns a divendres 8:00 a 16:30 Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -25549,7 +25468,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397539",
 "published": "2026-11-19",
-"modified": "2026-11-19",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Preparació i posada a punt de la sala abans del servei. Recepció i atenció als clients. Acompanyament dels clients a taula. Presa de comandes i assessorament sobre la carta i el menú. Servei de begudes, plats i postres. Preparació, muntatge i recollir Contracte temporal de cap de setmana. Dissabtes i diumenges de 10h a 17h Necessari vehicle de transport per arribar al restaurant no hi ha transport públic. Capacitats requerides Mínim dos anys d'experiència. Persona responsable i amb atenció al públic. Es requereix CATALÀ. Capacitat de treballar en equipi estar acostumat al tracte amb els clients. Dinamisme, organització i iniciativa. Requisits Obligatoris Llengua Català Informació d'interès Data d’incorporació 21/11/2026 Salari mensual 400€ Horari Dissabtes i diumenges de 10h a 17h Contracte Tipus Temporals bonificats Durada Més de 3 i menys de 6 mesos",
@@ -25569,10 +25488,10 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397604",
 "published": "2026-11-20",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
-"text": "Poden ser ESTUDIANTS O PERSONES QUE CERQUEN LA SEVA PRIMERA FEINA. ATENCIÓ AL CLIENT A PRODUCTES FRESCOS (xarcuteria, forneria, carnisseria, fruiteria i bar): Tall, neteja despatx del producte. Muntatge del taulell i reposició del producte. Manteniment i promoció del gènere. Orientació i assessor al client. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia Currículum a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397604 Capacitats requerides IMPRESCINDIBLE MAJOR DE 18 ANYS AMB ESO o equivalent. Bon nivell Castellà o Català. Persona dinàmica. Capacitat d'atenció, aprenentatge i treball en equip. DISPONIBILITAT HORÀRIA de dl a ds (i festius d'obertura) per fer torns: Matí i Tarda o només tarda. Contracte 24-30 hs/setmana 1 desembre fins principis gener. Requisits Obligatoris Nivell acadèmic ESO Llengua Castellà - Nivell Independent B2 Recomanables Llengua Català - Nivell Independent B2 Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 964€ Horari 30 h/setmana. Cal disponibilitat per fer torns Contracte Tipus Eventuals per circumstàncies de la producció Durada Entre 1 i 3 mesos Prorrogable Sí Jornada Jornada 1 Indiferent Jornada 2 Només jornada parcial",
+"text": "ATENCIÓ AL CLIENT A PRODUCTES FRESCOS (xarcuteria, forneria, carnisseria, fruiteria i bar): Tall, neteja despatx del producte. Muntatge del taulell i reposició del producte. Manteniment i promoció del gènere. Orientació i assessor al client. Preferiblement persones amb coneixements o experiència però es valorarà si es vol aprendre ofici. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia Currículum a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397604 Capacitats requerides IMPRESCINDIBLE MAJOR DE 18 ANYS AMB ESO o equivalent. Bon nivell Castellà o Català. Persona dinàmica. Capacitat d'atenció, aprenentatge i treball en equip. DISPONIBILITAT HORÀRIA de dl a ds (i festius d'obertura) per fer torns: Matí i Tarda o només tarda. Contracte 24-30 hs/setmana 1 desembre fins principis gener. Requisits Obligatoris Nivell acadèmic ESO Llengua Castellà - Nivell Independent B2 Recomanables Llengua Català - Nivell Independent B2 Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 964€ Horari 30 h/setmana. Cal disponibilitat per fer torns Contracte Tipus Eventuals per circumstàncies de la producció Durada Entre 1 i 3 mesos Prorrogable Sí Jornada Jornada 1 Indiferent Jornada 2 Només jornada parcial",
 "flags": [
 "lang_level",
 "kitchen_meat_alcohol"
@@ -25971,7 +25890,7 @@
 "town_note": "list town Caldes d'Estrac, location Caldes de Montbui",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397584",
 "published": "2026-11-19",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Es requereix una persona per neteja de la cuina, i dels estris necessaris en obrador en es preparen plats cuinats. Disponibilitat immediata. Farà de reforç fins finalitzar la campanya de Nadal. Amb possibilitats de continuïtat. Treballarà mitja jornada, en horari de matins, però les setmanes fortes del Nadal es farà jornada completa treballant matí i tarda. Capacitats requerides Es valorarà que tingui experiència en cuina. Imprescindible disponibilitat per treballar matins i tardes durant les setmanes fortes del Nadal. Competències valorades: ritme àgil de feina, bona interacció interpersonal, capacitat per moure i netejar els estris propis d'un obrador. Informació d'interès Data d’incorporació 30/11/2026 Contracte Tipus Eventuals per circumstàncies de la producció Durada Entre 1 i 3 mesos",
@@ -26128,35 +26047,13 @@
 },
 {
 "src": "xaloc",
-"id": "396948",
-"title": "Venedor/a - Cambrer/a",
-"town": "El Masnou",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/396948",
-"published": "2026-10-29",
-"modified": "2026-11-20",
-"company": "",
-"salary": "",
-"text": "Tasques pròpies de servei a cafeteria i fleca 40 hores de dilluns a dissabte: 1425 bruts 25 hores de dilluns a divendres: 900 bruts Capacitats requerides Ha de tenir una actitud amable i bones habilitats comunicatives per atendre els clients i capacitat per treballar en equip. Es valoren la iniciativa, la motivació, l'adaptabilitat i la predisposició per adquirir nous coneixements, sense necessitat de tenir experiència prèvia. Tasques desenvolupar Vendre els productes i serveis, cobrar el preu servint-se de diferents mètodes de pagament, preparar les factures i registrar les vendes en caixes registradores. Ajudar a la gestió quotidiana de les existències fent inventaris o la participant-hi. Apilar i exposar els productes per vendre'ls, i embolicar i embalar els productes ja venuts Requisits Obligatoris Llengua Castellà - Nivell Independent B2 . Català - Nivell Independent B2 Molt importants Nivell acadèmic ESO Informació d'interès Data d’incorporació 16/11/2026 Horari 7:00 a 14:30 h i 16:00 a 21:00 Contracte Tipus Obra o servei Durada Indefinit Prorrogable Sí",
-"flags": [
-"lang_level",
-"kitchen_meat_alcohol"
-],
-"why": {
-"lang_level": "nivell independent b2 … nivell independent b2 molt importants nivell academic eso informacio d interes data dincorporacio 16 11 2026 horari 7 00 a 14 30 h i 16 00 a 21 00 contracte tip",
-"kitchen_meat_alcohol": "cambrer a"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
 "id": "397236",
 "title": "Tècnic/a comptable-fiscal per gestoria al Masnou",
 "town": "El Masnou",
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397236",
 "published": "2026-11-09",
-"modified": "2026-11-16",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Tècnic/a comptable-fiscal. Portar una cartera pròpia de clients. Bon tracte amb el client i capacitat per comunicar temes fiscals de manera clara. Autonomia per gestionar una cartera pròpia; organització i rigor amb els terminis; treball en equip; proactivitat Possibilitat de teletreball 1 o 2 dies a la setmana un cop la persona estigui integrada a l'equip (aproximadament als 6 mesos) Capacitats requerides Horari: De 9 a 14 i de 15 a 18 de dilluns a dijous, divendres de 9 a 14. Sou brut mensual: 1.928-2.150 euros. Formació: Grau en ADE, Economia, Comptabilitat i Finances o similar. També es valorarà CFGS en Administració i Finances. Mínim 2-3 anys d'experiència en assessoria o gestoria portant comptabilitat i fiscalitat de societats. Excel a nivell avançat. Requisits Molt importants Experiència en l'ocupació (mesos) 24 Llengua Castellà - Nivell Experimentat C1 . Català - Nivell Experimentat C1 Importants Nivell acadèmic Llicenciatura / Enginyeria / Grau Recomanables Titulació Diplomatura / Enginyeria Tècnica - Ciències socials i jurídiques - Administració i Direcció d'Empreses Branca C.Formatiu Grau Superior o Administració i Gestió Branca Títol universitari Economia Llengua Anglès Informació d'interès Data d’incorporació 09/11/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -26180,7 +26077,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397430",
 "published": "2026-11-16",
-"modified": "2026-11-16",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Gerocultor. Auxiliar. 1 torn de matí Habilitats i actituds: empatia, treball en equip, coneixements sobre ACP Capacitats requerides Horari: matí (7h-14h) Dies de la setmana: entre 5 i 6/setmana. Sou brut mensual: segons el conveni. Formació: Títol Auxiliar Geriatria. Experiència: 1-2 anys Requisits Molt importants Titulació Cicle formatiu grau mitjà - Sanitat - Cures auxiliars d'infermeria Formació professionalitzadora Atenció sociosanitària a persones dependents en institucions socials Informació d'interès Data d’incorporació 18/11/2026 Horari De 7 a 14 h Contracte Tipus Temps parcial: temporal Durada Indefinit Prorrogable Sí",
@@ -26201,7 +26098,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397431",
 "published": "2026-11-16",
-"modified": "2026-11-16",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Gerocultor. Auxiliar. 1 torn de tarda Habilitats i actituds: empatia, treball en equip, coneixements sobre ACP Capacitats requerides Horari: tarda (14h-21h) Dies de la setmana: entre 5 i 6/setmana. Sou brut mensual: segons el conveni. Formació: Títol Auxiliar Geriatria. Experiència: 1-2 anys Requisits Molt importants Titulació Cicle formatiu grau mitjà - Sanitat - Cures auxiliars d'infermeria Formació professionalitzadora Atenció sociosanitària a persones dependents en institucions socials Informació d'interès Data d’incorporació 18/11/2026 Horari de 14h a 21h - 5/6 dies setmanals Contracte Tipus Temps parcial: temporal Durada Indefinit Jornada Jornada 1 Indiferent",
@@ -26211,29 +26108,6 @@
 ],
 "why": {
 "diploma": "1 2 anys requisits molt importants titulacio cicle formatiu grau mitja … cures auxiliars d infermeria formacio professionalitzadora atencio sociosanitaria a persones dependents en institucions socials informacio d interes data dincor"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
-"id": "396673",
-"title": "Soldador/a",
-"town": "Granollers",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/396673",
-"published": "2026-10-23",
-"modified": "2026-11-19",
-"company": "",
-"salary": "",
-"text": "Empresa de fabricació i manteniment de sistemes de combustió de biomassa (calderes de biomassa industrials) cerca Soldador/a - Muntador/a (Oficial de 1a): Muntatge i manteniment d'instal·lacions industrials en forns i equips a pressió. Reparació i ajustament de maquinària, sistemes electromecànics. Soldar tubs o altres sistemes de les calderes (TIG, elèctrodes), Neteja de tubs, treballs refractaris. Detecció i resolució d'avaries. Interpretació de planols mecànics i esquemes elèctrics. Salari brut anual: 28.000 - 30.000 euros Capacitats requerides Habilitat amb eines de mà, equips de soldar, trepant, serra, etc. Valorable formacions de PRL. Experiència en instal·lacions industrials, instal·lacions de canonades, forns i equips a pressió. Treball en equip, iniciativa i proactivitat. Requisits Obligatoris Permís de conduir B Vehicle propi Sí Experiència en l'ocupació (mesos) 24 Certificat de professionalitat Soldadura amb elèctrodes i revestit i TIG Llengua Castellà - Nivell Independent B1 Recomanables Nivell acadèmic ESO Informació d'interès Data d’incorporació 02/11/2026 Horari dilluns a divendres de 8 a 13 i de 14 a 17h Contracte Tipus Indefinit: ordinari Durada Indefinit",
-"flags": [
-"car",
-"lang_level",
-"exp:24"
-],
-"why": {
-"car": "requisits obligatoris permis de conduir b vehicle propi si experiencia en l ocupacio mesos 24 certificat de professionalitat soldadura amb electrodes i revestit",
-"lang_level": "nivell independent b1 recomanables nivell academic eso informacio d interes data dincorporacio 02 11 2026 horari dilluns a divendres de 8 a 13 i de 14 a 17h con"
 },
 "first_seen": ""
 },
@@ -26266,7 +26140,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397146",
 "published": "2026-11-05",
-"modified": "2026-11-19",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Control accés a les instal·lacions. Recepció i atenció visitants: Gestió centraleta: Gestió e-mail. Reserva de sales i parking. Gestió de correspondència i paqueteria. Recolzament administratiu al departament de finances amb la facturació i altres. Arxiu documentació. Control del manteniment edifici: avisos avaries / gestió amb proveïdors manteniment, revisar l'execució serveis externs. Mantenir endreçada la recepció.Tasques administratives de gestió de flota: gestió i seguiment dels acords amb les polítiques de GEA de: renovacions, venciments, gestió multes. Capacitats requerides Imprescindible: Certificat de discapacitat igual o superior al 33%. Capacitat d'organització i gestió de múltiples tasques simultàniament. Excel·lents habilitats de comunicació i al públic. Capacitat per a treballar de forma autònoma i resolutiva. Requisits Obligatoris Experiència en l'ocupació (mesos) 6 Informàtica Programari d'Ofimàtica - Usuari Mitjà Llengua Castellà - Nivell Experimentat C1 . Català - Nivell Experimentat C1 . Anglès - Nivell Independent B2 Certificat de discapacitats Sí Recomanables Branca C.Formatiu Grau Mitjà Administració Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 1428€ Horari de dll a dij de 8h a 17:45h i Div de 8h a 14h Atenció al públic Sí Contracte Tipus Persones amb discapacitat Durada Més de 6 i menys de 12 mesos Prorrogable Sí",
@@ -26359,7 +26233,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397418",
 "published": "2026-11-13",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Reclassificar i segregar residus segons la tipologia, el codi LER i la destinació. Manipular, traslladar i apilar residus i contenidors amb carretó elevador. Descarregar i carregar camions, comprovant que la mercaderia coincideix amb la documentació. Reenvasar, etiquetar i identificar els residus conforme a la normativa vigent. Manipular residus perillosos, inclòs l'amiant, seguint els protocols de seguretat (si es té formació). Registrar la informació d'entrades, sortides i moviments als sistemes de la planta. Mantenir l'ordre i la neteja de la zona de treball i dels equips. Capacitats requerides Treball en equip, Responsabilitat i compromís amb la seguretat, Atenció al detall, Organització i planificació, Comunicació, Resolució de problemes, Adaptabilitat, Consciència ambiental, Esforç físic i resistència. Es valorarà formació i experiència en gestió del amiant i curs de 60 hores en prevenció de riscos laborals. SBA: 24.000-25.000 euros Requisits Obligatoris Experiència en l'ocupació (mesos) 24 Llengua Castellà - Nivell Independent B1 . Català - Nivell Independent B1 Carnets especials Conductor/a de Carretó Elevador Informació d'interès Data d’incorporació 27/12/2026 Horari De dilluns a divendres de 8 a 17h (1h per dinar) Esforç físic Sí Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -26407,7 +26281,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397532",
 "published": "2026-11-18",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Donar suport als oficials en tasques de paleta, reformes i manteniment, preparar morters, pastes i adhesius seguint les seves indicacions. Gestionar la càrrega, descàrrega, transport i distribució de materials i eines dins de l'obra. Realitzar picats, retirada de rajoles i paviments, petites demolicions i col·laborar en l'obertura i tapat de regates sota supervisió. Protegir terres, portes, finestres, mobiliari i zones de pas, netejar o preparar superfícies per enrajolar, arrebossar i pintar. Recollir i retirar enderrocs de la zona de treball SB: 1.913 eur (12 pagues) Capacitats requerides Zona de treball: Província de Barcelona. Formació: PRL de paleta de 20 hores Persona responsable, puntual i amb disposició pel treball en equip. Capacitat per seguir les instruccions de l'encarregat i els oficials. Coneixements bàsics de ferramentes i materials de construcció. Compromís amb l'ordre, la neteja i la seguretat a l'obra Requisits Obligatoris Permís de conduir B Vehicle propi Sí Experiència en l'ocupació (mesos) 12 Llengua Castellà - Nivell Independent B1 Informació d'interès Data d’incorporació 01/12/2026 Horari De dilluns a divendres de 8-16h Esforç físic Sí Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -26430,7 +26304,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397533",
 "published": "2026-11-18",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Companyia i escola de teatre cerca Comptable. Centralitzar la recepció de factures rebudes. Centralitzar l'emissió de factures a clients. Control de Tresoreria, Seguiment de cobraments, Previsió de pagaments, Relació amb gestoria. Comptabilització segons PGC amb programa de comptabilitat. Control de costos per projectes. Confecció d' Impostos. Salari brut anual: entre 13.000-16.000 euros (12 pagues) Capacitats requerides Organització, control de la documentació comptable, bona energia, disposició per créixer dins l'empresa. Certificat lliure d'abusos sexuals en menors. EXCEL i OUTLOOK Requisits Obligatoris Experiència en l'ocupació (mesos) 36 Llengua Castellà - Nivell Independent B2 . Català - Nivell Independent B2 Informació d'interès Data d’incorporació 01/12/2026 Horari De dilluns a divendres de 10 a 14h Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -26451,7 +26325,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397590",
 "published": "2026-11-20",
-"modified": "2026-11-21",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Promocionar i vendre tots els productes de jocs responsables de l'ONCE. Comunicar-se i relacionar-se amb el client per la seva tasca comercial. Assessorar i informar sobre qualsevol producte i servei relacionat amb la institució. Ús d'eines tecnològiques de treball: TPV i telèfon mòbil. Capacitats requerides Imprescindible Certificat discapacitat igual o superior al 33% o IPT. Autonomia per desplaçar-se. Habilitats comunicatives i orientació al client. Capacitat d'aprenentatge amb eines tecnològiques. Contracte inicial 1 any prorrogable. Sou mig: 25000 bruts/ any. 6 places a cobrir: 2 Granollers, 1 Cardedeu, 1 Caldes de Montbui, 1 Parets del Vallès Requisits Obligatoris Llengua Castellà - Nivell Independent B2 Certificat de discapacitats Sí Informació d'interès Data d’incorporació 03/01/2027 Salari mensual 1785€ Atenció al públic Sí Contracte Tipus Persones amb discapacitat en CET Durada Més de 6 i menys de 12 mesos Prorrogable Sí",
@@ -26460,28 +26334,6 @@
 ],
 "why": {
 "lang_level": "nivell independent b2 certificat de discapacitats si informacio d interes data dincorporacio 03 01 2027 salari mensual 1785 atencio al public si contracte tipus"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
-"id": "395662",
-"title": "Auxiliar administratiu/va",
-"town": "La Roca del Vallès",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/395662",
-"published": "2026-09-23",
-"modified": "2026-11-05",
-"company": "",
-"salary": "",
-"text": "Atenció telefònica i presencials a clients/es. Control d'agenda, correu electrònic, gestió de base de dades. Tasques pròpies del sector de les assegurances: gestió de pòlisses i sinistres. Capacitats requerides Competències: orientació al client/a, organització, bona gestió del temps. Contracte: Indefinit Horari: 35h setmanals. Dilluns a divendres de 9h a 13h i de 16h a 19h. Salari: Es valorará el perfil1160,09 x 14 pagues brut mensual. Requisits Obligatoris Nivell acadèmic Cicle formatiu grau mitjà Titulació Cicle formatiu grau mitjà - Administració - Gestió administrativa Informàtica Programari de Bases de dades - Usuari Avançat . Programari d'Ofimàtica - Usuari Avançat Llengua Català - Nivell Experimentat C1 . Castellà - Nivell Experimentat C1 Informació d'interès Data d’incorporació 30/09/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit",
-"flags": [
-"lang_level",
-"diploma"
-],
-"why": {
-"lang_level": "nivell experimentat c1 … nivell experimentat c1 informacio d interes data dincorporacio 30 09 2026 contracte tipus indefinit",
-"diploma": "requisits obligatoris nivell academic cicle formatiu grau mitja titulacio cicle formatiu grau mitja"
 },
 "first_seen": ""
 },
@@ -26536,7 +26388,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396594",
 "published": "2026-10-21",
-"modified": "2026-11-19",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Fuster/a: ús de màquines de tall, cantejadores, llimadores, per a fer mobles i estructures que després s'instal·len a fira o a les instal·lacions a on s'hagi de muntar. Ajudant de fuster/a: ús de maquinària makitas, destornilladores, percutors, i ajuden a la càrrega de fusta al fuster, i a la instal·lació del muntatge i desmuntatge. També ajuden en la càrrega i descàrrega de tràilers i ocupar-se de tenir les naus netes i organitzades. Capacitats requerides Competències: Organització, treball al detall i treball en equip. Contracte: indefinit Horari: dilluns a divendres 8 a 14h i de 15h a 17h. Salari: 2.200 euros bruts/mensuals Requisits Obligatoris Nivell acadèmic ESO Vehicle propi Sí Llengua Català - Nivell Independent B2 . Castellà - Nivell Independent B2 Molt importants Experiència en l'ocupació (mesos) 12 Informació d'interès Data d’incorporació 30/10/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -26559,7 +26411,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396661",
 "published": "2026-10-22",
-"modified": "2026-11-17",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Administratiu/va Comptable per assessoria fiscal. Comptabilitat, assessorament comptable i fiscal, presentació impostos, legalització llibres i dipòsit comptes anuals al Registre Mercantil Capacitats requerides Necessària experiència en el sector Assessoria/Gestoria al departament comptable. Domini A3software Més de 5 anys d'experiència en lloc similar. Contracte: Indefinit Sou: 30.000 a 35.000 bruts/anuals Horari: Dilluns, dimecres i divendres 7:30 a 15h - dimarts i dijous 7:30 a 14h i 15:30 a 18:30 Requisits Obligatoris Nivell acadèmic Llicenciatura / Enginyeria / Grau Informàtica Programari d'Ofimàtica - Professional Molt importants Vehicle propi Sí Informació d'interès Data d’incorporació 30/10/2026 Horari Dll,dime,dv 7:30-15 dima,dj 7:30-14 i 15:30-18:30 Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -26674,7 +26526,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397477",
 "published": "2026-11-17",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Manipulació manual de peces petites. Treball en línia. Capacitats requerides Oferta per a persona amb discapacitat psíquica o física igual o superior al 33%. Competències: Treball en equip, destreses psicomotrius, motivació, capacitat d'aprenentatge. Contracte: Indefinit Horari: 7h a 14:45h de dilluns a divendres Salari: 17.094 brut/anual Requisits Obligatoris Nivell acadèmic ESO Certificat de discapacitats Sí Molt importants Vehicle propi Sí Informació d'interès Data d’incorporació 27/11/2026 Contracte Tipus Obra o servei Durada Indefinit",
@@ -26694,7 +26546,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397588",
 "published": "2026-11-20",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Auxiliar de jardineria. Manteniment de jardineria en zones verdes a gran escala: parcs, vies públiques...Manteniment espais públics ajardinats. Plantació, reg, poda, eliminació de restes, sega. Utilitzar desbrossadora, segadora i tallatanques. Capacitats requerides Responsabilitat, iniciativa, capacitat d'aprenentatge. Salari: 18.829 euros bruts/anuals Contracte: Indefinit Horari: dilluns a divendres 7h a 15h Requisits Obligatoris Nivell acadèmic ESO Permís de conduir B Experiència en l'ocupació (mesos) 12 Llengua Català - Nivell Independent B2 . Castellà - Nivell Independent B2 Molt importants Vehicle propi Sí Informació d'interès Data d’incorporació 27/11/2026 Horari dilluns a divendres 7h a 15h Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -26837,7 +26689,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396589",
 "published": "2026-10-21",
-"modified": "2026-11-19",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Càrrega i descàrrega de producte. Verificació i recepció d'albarans i comandes. Preparació de comandes (picking). Gestió de sortides i realització de inventaris i recomptes d'estoc. Classificació. Capacitats requerides Imprescindible Certificat de discapacitat igual o superior al 33% o ITP. Contracte: 6 meses prorrogable. Sou: 17.094 euros bruts/ any per 12 pagues Requisits Obligatoris Experiència en l'ocupació (mesos) 6 Certificat de discapacitats Sí Informació d'interès Data d’incorporació 29/10/2026 Salari mensual 1425€ Horari de 7:00 a 15h Contracte Tipus Persones amb discapacitat en CET Durada Més de 3 i menys de 6 mesos Prorrogable Sí",
@@ -28356,26 +28208,6 @@
 },
 {
 "src": "xaloc",
-"id": "397350",
-"title": "Ajudant/a de cuina i servei de menjador per a escola bressol",
-"town": "Premià de Mar",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/397350",
-"published": "2026-11-12",
-"modified": "2026-11-20",
-"company": "",
-"salary": "",
-"text": "Revisar els menús i les dietes especials, tenint en compte les al·lèrgies i intoleràncies dels infants. Preparar els estris necessaris per al servei, controlar la temperatura dels aliments i registrar-la. Traslladar, emplatar i servir els àpats, assegurant que cada infant rebi el menú corresponent. Recollir i netejar el menjador, rentar i guardar els estris, col·laborar en la neteja de l'office i preparar els berenars i les dietes especials per al seu repartiment. Enviar el CV actualitzat a: ocupacio@premiademar.cat, indicant el número d'oferta 397350 . Capacitats requerides Persona responsable, organitzada i seriosa, amb bon tracte i habilitats per treballar en equip. Ha de tenir cura de la seva higiene personal i mantenir uns bons hàbits d'higiene i neteja en el lloc de treball. Es valorarà la puntualitat, la implicació i la capacitat d'organització. IMPRESCINDIBLE: Disposar del certificat de manipulació d'aliments. Requisits Obligatoris Formació de manipulació d'aliments Sí Informació d'interès Data d’incorporació 16/11/2026 Salari mensual 600€ Horari Horari lectiu de l'Escola Bressol Contracte Tipus Indefinit: ordinari Durada Indefinit",
-"flags": [
-"kitchen_meat_alcohol"
-],
-"why": {
-"kitchen_meat_alcohol": "ajudant a de cuina i servei de menjador per a escola bressol"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
 "id": "397491",
 "title": "RECEPCIONISTA CLINICA DENTAL AMB EXPERIÈNCIA PROVADA",
 "town": "Sabadell",
@@ -28403,7 +28235,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397515",
 "published": "2026-11-18",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Assistir i tenir cura de les persones usuàries en activitats de la vida diària que no poden realitzar per si mateixes i efectuar les acciones necessàries per a la seva atenció personal i del seu entorn: donar suport a l'equip interdisciplinar, col·laborar en la planificació, organització i execució d'activitats preventives, ocupacionals i d'oci, mantenir la higiene personal dels residents, etc. Jornada parcial: Caps de setmana a convenir amb candidat/a. Vacants de torn matí o tarda en cap de setmana i vacants de 12h de treball div, dissabte i dg. Retribució mensual 1221 E x 12p a jornada compl Capacitats requerides CP Atenció a persones dependents en institucions socials o grau mig TCAE Requisits Importants Certificat de professionalitat Atenció sociosanitària a persones dependents en institucions socials Recomanables Experiència en l'ocupació (mesos) 3 Informació d'interès Data d’incorporació 30/11/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28532,7 +28364,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397586",
 "published": "2026-11-20",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Es precisa incorporar ajudant de cuina i cafeteria per una foodtruck situada a Sant Andreu de Llavaneres. S'ofereix contracte indefinit en jornada de dimecres a diumenge. La persona ha de ser polivalent amb experiència en tracte al públic, activa i acostumada a treballar en equip. Si t'interessa APUNTA'T i fes-nos arribar el teu cv actualitzat indicant el número d'oferta a feina@ajllavaneres.cat Capacitats requerides Orientació al client Orientació a l'ordre Requisits Obligatoris Nivell acadèmic ESO Experiència en l'ocupació (mesos) 2 Informàtica Programari d'Ofimàtica - Usuari Bàsic Recomanables Titulació Cicle formatiu grau mitjà - Hostaleria i Turisme - Cuina Informació d'interès Data d’incorporació 07/12/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28555,7 +28387,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/395899",
 "published": "2026-09-29",
-"modified": "2026-11-20",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "- Neteja dels diferents espais de les oficines (Sant Celoni): Neteja de terres, lavabos, mobles, etc. - Neteja de la fàbrica (Gualba). - Jornada parcial i contracte indefinit. Capacitats requerides - Preferible carnet de conduir i vehicle propi, però indiferent mentre pugui arribar al lloc de feina a l'horari establert. - Persona responsable i amb bona actitud. - 5,5h hores setmanals. 209,15 euros. Informació d'interès Data d’incorporació 07/10/2026 Horari Dimecres 8h a 11h i Divendres de 8h a 10:30h Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28620,7 +28452,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397565",
 "published": "2026-11-19",
-"modified": "2026-11-19",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Conducció de vehicles de transport de mercaderies per carretera. Repartiments i recollida de mercaderies segons la ruta assignada. Càrrega, descàrrega i verificació de la mercaderia quan sigui necessari. Revisió diària de l'estat del vehicle abans i després del servei. Compliment de la normativa de trànsti, temps de conducció i descans. Comunicació d'incidències al deperartament de trànsit. Cura i manteniment bàsic del vehicle i de la documentació de transport. Capacitats requerides Indispensable carnet conduir C + Certificat d'Aptituds Professional (CAP) + Tarjeta de tacògraf digital en vigor. Coneixement bàsic en documentació de transports i ús d'aplicacions mòbils. Experiència en transport de mercadereis per carretera i repartiment. Es valorarà coneixement de les zones de Catalunya. 29.000 euros bruts Residència propera a St. Celoni o disponibilitat per desplaçar-se Requisits Obligatoris Permís de conduir C Recomanables Nivell acadèmic ESO Informació d'interès Data d’incorporació 01/12/2026 Horari 12h a 20h Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28640,7 +28472,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397334",
 "published": "2026-11-11",
-"modified": "2026-11-19",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Administratiu/iva comercial Atenció als clients, gestió telefònica i gestió de dades en els sistemes informàtics Capacitats requerides Si estàs interessat/da en l'oferta cal que t'inscriguis i enviïs el teu cv a ocupacio@tordera.cat Requisits Obligatoris Llengua Castellà . Català Molt importants Nivell acadèmic Cicle formatiu grau mitjà Titulació Cicle formatiu grau mitjà - Administració - Gestió administrativa Llengua Anglès Informació d'interès Data d’incorporació 11/11/2026 Horari 17 a 21 h Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent Jornada 2 Només jornada parcial Jornada 3 Exclusivament tarda",
@@ -28746,7 +28578,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396399",
 "published": "2026-10-15",
-"modified": "2026-11-19",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Administratiu/iva amb tasques d'atenció al públic Capacitats requerides Si estàs interessat/da cal que t'apuntis a l'oferta i enviïs el teu cv a ocupacio@tordera.cat Requisits Obligatoris Experiència en l'ocupació (mesos) 12 Titulació Cicle formatiu grau mitjà - Administració - Gestió administrativa Informàtica Programari d'Ofimàtica - Llengua Castellà . Català Molt importants Nivell acadèmic Cicle formatiu grau mitjà Informació d'interès Data d’incorporació 20/10/2026 Horari Dill a dij. 8 a 13/ 14:30 a 17:30 div. 7 a 15:00h Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada partida",
@@ -28787,7 +28619,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397333",
 "published": "2026-11-11",
-"modified": "2026-11-18",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "1.- Tècnic/a auxiliar de manteniment d'extintors1- 2.- Tècnics en la instal·lació i el manteniment de sistemes de telecomunicacions i seguretat Capacitats requerides Persona neta, polida, curiosa i ordenada Responsable curosa i amb ganes de treballar Bon actitud i predisposició per aprendre Nocions en l'ús d'eines manuals i elèctriques Requisits Obligatoris Permís de conduir B Llengua Català . Castellà Informació d'interès Data d’incorporació 01/12/2026 Contracte Tipus Eventuals per circumstàncies de la producció Durada Durada indeterminada per obra o servei Jornada Jornada 1 Indiferent",
