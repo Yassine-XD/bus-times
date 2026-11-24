@@ -1,47 +1,47 @@
 {
-"built": "2026-11-23 15:50 UTC",
+"built": "2026-11-24 01:53 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
-"count": 177,
-"secs": 816,
-"at": "2026-11-23 16:04"
+"count": 174,
+"secs": 409,
+"at": "2026-11-24 01:59"
 },
 "feinaactiva": {
 "ok": true,
-"count": 700,
+"count": 696,
 "secs": 6,
-"at": "2026-11-23 16:04"
+"at": "2026-11-24 02:00"
 },
 "eurofirms": {
 "ok": true,
 "count": 76,
-"secs": 9,
-"at": "2026-11-23 16:04"
+"secs": 2,
+"at": "2026-11-24 02:00"
 },
 "randstad": {
 "ok": true,
 "count": 173,
-"secs": 194,
-"at": "2026-11-23 16:08"
+"secs": 157,
+"at": "2026-11-24 02:02"
 },
 "iman": {
 "ok": true,
 "count": 256,
 "secs": 49,
-"at": "2026-11-23 16:08"
+"at": "2026-11-24 02:03"
 },
 "ras": {
 "ok": true,
 "count": 60,
 "secs": 10,
-"at": "2026-11-23 16:09"
+"at": "2026-11-24 02:03"
 },
 "meditempus": {
 "ok": true,
-"count": 36,
+"count": 32,
 "secs": 1,
-"at": "2026-11-23 16:09"
+"at": "2026-11-24 02:03"
 }
 },
 "offers": [
@@ -4164,24 +4164,6 @@
 "car": "empresa de canovelles cerca un a comercial de subministraments industrials amb experiencia demostrable carnet de conduir b i que parli i escrigui be el castella",
 "lang_level": "espanyol parlat superior escrit superior catala parlat mitja escrit mitja"
 },
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92323193",
-"title": "VIGILANTE SEGURIDAD NOCHES VIERNES, SÁBADO Y DOMINGO (CANOVELLES)",
-"town": "Canovelles",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323193",
-"published": "2026-08-25",
-"modified": "",
-"company": "EULEN.SA",
-"salary": "1700-1800 €/mes",
-"text": "- Control de acceso del personal a las instalaciones\n - Atención a empleados y visitantes\n - Vigilancia y Rondas de Instalaciones en general\n- Gestión de incidencias\nExperiència: Experiència 1 mesos. TIP de Vigilante de seguridad. Competències / coneixements: TIP de Vigilant de seguretat\nRequisits: Disponibilitat de vehicle: automòbil, Permisos de conduir: b\nEstudis: \nContracte laboral temporal (2 mesos)\nJornada completa",
-"flags": [
-"exp:1"
-],
-"why": {},
 "first_seen": ""
 },
 {
@@ -11069,29 +11051,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92323239",
-"title": "AUXILIAR AYUDA DOMICILIO - SAD PREMIÀ DE MAR",
-"town": "Premià de Mar",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323239",
-"published": "2026-08-25",
-"modified": "",
-"company": "Accent Social, S.L.",
-"salary": "1100-1200 €/mes",
-"text": "Asistir y apoyar a los/as usuarios/as en las actividades de la vida diaria que no puedan realizar de forma autónoma (aseo, alimentación, acompañamiento, cambios posturales) así como atención personal y de su entorno, garantizando su bienestar físico y mental.\n• Atención en el propio domicilio, a los/las usuarios/as, siguiendo las pautas de actuación y atendiendo a lo establecido por los/as técnicos/as responsables del servicio:\n• Ayuda y/o supervisión en el aseo e higiene personal.\n• Ayuda y/o supervisión para el vestido, calzado y la alimentación.\n• Actividades relacionadas con la atención del domicilio, vigilancia y mantenimiento del orden del hogar (preparación de alimentos, compra, lavado, planchado…).\n• Transferencias, traslados y movilización dentro del hogar.\n• Actividades de ocio dentro del hogar.\n• Ayuda para levantarse, acostarse y/o realizar cambios posturales.\n• Acompañamiento externo a la vivienda (paseos, acompañamiento a vistas médicas, …)\nExperiència: Experiència 1 anys. Sociosanitaria\nValorable un año de experiencia en puesto similar.. Competències / coneixements: • Certificado de profesionalidad de atención sociosanitaria a personas dependientes en domicilio o instituciones sociales, FP Grado Medio Técnico/a Auxiliar de Enfermería o Técnico/a en Atención Sociosanitaria, Técnico/a en atención a personas en situación de dependencia.\n• Con vocación 100% en el sector de cuidados a las personas.\n• Con perfecto dominio de las lenguas vehiculares y con la documentación en vigor (DNI/NIE, número de afiliación a la seguridad social y domiciliación bancaria.).\n• Imprescindible disponer de Vehículo propio, coche y/o moto. (no patinete, no bicicleta o similares).\nRequisits: Disponibilitat de vehicle: automòbil, moto, Permisos de conduir: b, a, a1, a2, am\nEstudis: \nContracte laboral indefinit\nJornada parcial (35 hores - jornada setmanal)",
-"flags": [
-"car",
-"diploma",
-"exp:1"
-],
-"why": {
-"car": "imprescindible disponer de vehiculo propio coche y o moto",
-"diploma": "certificado de profesionalidad de atencion sociosanitaria a personas dependientes en domicilio o instituciones sociales fp grado medio tecnico a auxiliar de enf"
-},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "FA92323448",
 "title": "AUXILIAR ADMINISTRATIU/IVA A CENTRES EDUCATIUS AL MARESME (SUBSTITUCIÓ DE CURTA DURADA)",
 "town": "Premià de Mar",
@@ -11447,24 +11406,6 @@
 ],
 "why": {},
 "first_seen": "2026-11-23 13:34"
-},
-{
-"src": "feinaactiva",
-"id": "FA92323192",
-"title": "MECÀNIC/A-ELECTRICISTA REPARACIÓ VEHICLES",
-"town": "Sabadell",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323192",
-"published": "2026-08-25",
-"modified": "",
-"company": "Xavier Estop Torrella     (CAHISA)",
-"salary": "1400-1700 €/mes",
-"text": "Mecànic,electricista en reparació de vehicles (Cotxes)\nExperiència: Experiència 2 anys. Es valora experiència. Competències / coneixements: Coneixements  d´electrònica\nRequisits: Permisos de conduir: b. català (parlat Superior, escrit Superior), espanyol (parlat Mitjà, escrit Mitjà)\nEstudis: \nContracte laboral temporal (12 mesos)\nJornada completa",
-"flags": [
-"exp:2"
-],
-"why": {},
-"first_seen": ""
 },
 {
 "src": "feinaactiva",
@@ -14454,25 +14395,6 @@
 "salary": "80-80 €/mes",
 "text": "Busquem monitor/a de lleure per treballar portant a terme una activitat extraescolar de ball (Belluga el cos) i una altra d'atletisme en horari de 16:30 a 18H. Els dies seran triats entre dilluns, dimarts, dimecres i/o dijous segons el nombre d'inscrits.\nL'activitat es durà a terme a l'Escola Sot del camp de Sant Vicenç de Montalt.\nExperiència: Competències / coneixements: Es requereix el títol de monitor de lleure\nRequisits: \nEstudis: \nContracte laboral temporal (8 mesos)\nJornada parcial (2 hores - jornada setmanal)",
 "flags": [],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92323187",
-"title": "PERSONAL ATENCIÓN AL CLIENTE HELADERÍA",
-"town": "Santa Susanna",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323187",
-"published": "2026-08-25",
-"modified": "",
-"company": "Odissea Park Grup, S.L.",
-"salary": "1300-1600 €/mes",
-"text": "Entre las funciones se incluyen atender y asesorar a los clientes de manera amable, tomar pedidos, servir helados y otros productos, manejar la caja y medios de pago, mantener el orden y la limpieza del área de trabajo y de las distintas zonas del establecimiento para asegurar una experiencia agradable para cada cliente. También la reposición de productos y el cumplimiento de normas de higiene y seguridad.\nExperiència: Experiència 1 anys. Se valorará experiencia previa en atención al cliente, preferentemente en heladerías, cafeterías o comercios similares. No obstante, no es un requisito excluyente: estaremos encantados de formar a personas sin experiencia que tengan buena actitud, ganas de aprender y compromiso con el trabajo. Buscamos perfiles responsables, amables y con interés en brindar un excelente servicio al cliente.\nRequisits: espanyol (parlat Superior, escrit Mitjà), anglès (parlat Mitjà, escrit Cap)\nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"english",
-"exp:1"
-],
 "why": {},
 "first_seen": ""
 },
@@ -20278,38 +20200,6 @@
 },
 {
 "src": "meditempus",
-"id": "mozo-a-almacen-preparador-a-pedidos-turno-manana-y-noche-parets-del-valles",
-"title": "Mozo/a almacén preparador/a pedidos Turno Mañana y Noche PARETS DEL VALLES",
-"town": "Parets del Vallès",
-"town_note": "",
-"url": "https://www.meditempus.com/oferta/mozo-a-almacen-preparador-a-pedidos-turno-manana-y-noche-parets-del-valles/",
-"published": "2026-11-09",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Mozo/a almacén preparador/a pedidos Turno Mañana y Noche PARETS DEL VALLES - Meditempus Mozo/a almacén preparador/a pedidos Turno Mañana y Noche PARETS DEL VALLES - Meditempus Soy empresa Busco empleo Franquiciados Sobre nosotros Contacto Login Empleado Cliente Home Soy empresa Busco empleo Franquiciados Sobre nosotros Contacto Mozo/a almacén preparador/a pedidos Turno Mañana y Noche PARETS DEL VALLES Funciones Para empresa ubicada en Parets del Valles precisamos incorporar un/a mozo/a del almacén en turno de mañana y uno/a de noche, Las principales funciones serán: Gestión y preparación de pedidos. Recepción de mercancía. Almacenamiento de mercancía. Control de inventario. Requisitos Disponibilidad turno de 6:00 a 14:00 horas o noche 20:00 a 4:00 horas (turnos fijos) Residir por la zona de Parets o alrededores Experiencia previa como mozo de almacén Se ofrece Contrato a través de Meditempus ETT 13,48 euros brutos hora normal 17,94 euros brutos hora nocturna Aproximadamente 2100 euros brutos mensuales Detalles de la oferta Publicación 09/11/2026 Fecha límite 23/11/2026 Población PARETS DEL VALLES Provincia Barcelona Número de vacantes 1 Inscribirme a esta oferta ¡Síguenos en LinkedIn! SOY EMPRESA B",
-"flags": [],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "meditempus",
-"id": "operaria-o-inyeccion-noche",
-"title": "OPERARIA/O INYECCION NOCHE",
-"town": "Parets del Vallès",
-"town_note": "",
-"url": "https://www.meditempus.com/oferta/operaria-o-inyeccion-noche/",
-"published": "2026-09-24",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "OPERARIA/O INYECCION NOCHE - Meditempus OPERARIA/O INYECCION NOCHE - Meditempus Soy empresa Busco empleo Franquiciados Sobre nosotros Contacto Login Empleado Cliente Home Soy empresa Busco empleo Franquiciados Sobre nosotros Contacto OPERARIA/O INYECCION NOCHE Funciones Control de máquinas de inyección Alimentar máquina Verificar producto y encajado Requisitos Experiencia en Inyección o similar Disponibilidad turno de noche fijo Se ofrece Contrato de trabajo salario 1900-2000 bruto mes Incorporación inmediata Detalles de la oferta Publicación 24/09/2026 Fecha límite 23/11/2026 Población PARETS Provincia Barcelona Número de vacantes 4 Inscribirme a esta oferta ¡Síguenos en LinkedIn! SOY EMPRESA BUSCO EMPLEO",
-"flags": [],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "meditempus",
 "id": "operario-a-cambio-molde-inyeccion",
 "title": "OPERARIO/A CAMBIO MOLDE INYECCION",
 "town": "Parets del Vallès",
@@ -20358,42 +20248,6 @@
 "why": {
 "car": "requisitos valorable personal con experiencia en rrhh o ett o similar grado en relaciones laborales o psicologia o similar o cgs administracion residir cerca de"
 },
-"first_seen": ""
-},
-{
-"src": "meditempus",
-"id": "abogado-a-junior-sabadell",
-"title": "ABOGADO/A JUNIOR SABADELL",
-"town": "Sabadell",
-"town_note": "",
-"url": "https://www.meditempus.com/oferta/abogado-a-junior-sabadell/",
-"published": "2026-09-23",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "rencias, compraventas, donaciones y operaciones notariales. Coordinación con notarías, registros, administraciones y otros organismos para la preparación y seguimiento de expedientes. Preparación de documentación para firmas notariales y asistencia a las mismas cuando sea necesario. Preparación y presentación de impuestos relacionados con los asuntos gestionados. Realización de gestiones presenciales ante juzgados, notarías, registros y organismos públicos cuando el expediente lo requiera. Requisitos Formación: Grado o Licenciatura en Derecho y Máster de Acceso a la Abogacía y la Procura finalizado. Colegiación: estar colegiado/a como ejerciente o tener disponibilidad para colegiarse de inmediato. Experiencia previa en despacho de abogados. Experiencia o interés en práctica procesal. Preparación o asistencia a vistas y juicios. Experiencia en atención y trato directo con clientes. Conocimiento de Kleos o Kmaleon. Carnet de conducir. Se ofrece Incorporación inmediata por ETT (3 meses aproximadamente, posibilidad de alargar la temporalidad), para acabar pasando a empresa. Vacante estable con posibilidades de crecimiento y de asumir progresivamente más responsabilidades. Participación desde el inicio en casos reales, procedimientos, vistas y reuniones con clientes, adaptando las responsabilidades a tu experiencia. Trabajo cercano con los socios, con formación práctica y acompañamiento durante los primeros meses. Oportunidad de desarrollar una visión integral de la profesión, participando tanto en asuntos judiciales como extrajudiciales. Con el tiempo, gestión de expedientes propios y trabajar con mayor autonomía, siempre contando con el apoyo del equipo. Salario aproximadamente 2.200€ brutos/mes Horario de 9 a 14 y de 15 a 18 de lunes a viernes (Entrada y salida flexible) Detalles de la oferta Publicación 23/09/2026 Fecha límite 22/11/2026 Población SABADELL Provincia Barcelona Número de vacantes 1 Inscribirme a esta oferta ¡Síguenos en LinkedIn! SOY EMPRESA BUSCO EMPL",
-"flags": [
-"car"
-],
-"why": {
-"car": "carnet de conducir"
-},
-"first_seen": ""
-},
-{
-"src": "meditempus",
-"id": "administrativo-a-vehiculo-nuevo-automocion-sabadell",
-"title": "ADMINISTRATIVO/A VEHÍCULO NUEVO AUTOMOCIÓN SABADELL",
-"town": "Sabadell",
-"town_note": "",
-"url": "https://www.meditempus.com/oferta/administrativo-a-vehiculo-nuevo-automocion-sabadell/",
-"published": "2026-09-23",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Vehículo Nuevo (VN) y prepara la matriculación, demostración, vehículo de cortesía y/u otra gestiones y documentación necesarias para llevar a cabo la venta. Tramita y registra las cesiones de venta y compra y hace todos los trámites reglamentarios con la Administración Pública. Se encarga de la facturación interna y con la marca de todos los vehículos y se asegura que todas las ventas se han comunicado en tiempo y forma a la marca a través de los canales y sistemas establecidos por la compañía y la marca. Gestiona la relación con la gestoría de la empresa para entregar toda la documentación y recepcionar los expedientes gestionados para tener a punto toda la documentación necesaria para la entrega de los vehículos. Prepara toda la documentación para gestionar la financiación de la compra del vehículo y la presenta al banco. Gestiona la documentación de los expedientes para asegurar que la documentación está completa y que los vehículos están totalmente cobrados y que los VO entregados como parte del pago no tienen incidencias (impago de impuestos, deudas, embargos, etc.). Prepara el pago de todos los trámites, incluidos los impuestos. Prepara y tramita las subvenciones. Confecciona la documentación necesaria para el cobro de las campañas. Gestiona el archivo de los expedientes y garantiza que toda la documentación importante está en ellos. Requisitos Valorable experiencia en automoción Experiencia en Excel intermedio (exportar excel, cruzar bases de datos, formulación y tablas dinámicas) Se ofrece Contratación por ETT, es para cubrir una baja de 4/6 meses Salario según convenio Horario entrada flexible entre 8-9 y horario intensivo hasta 16.30h o 17.30h, viernes intensivo hasta 14-15, guardias hasta las 18:00h (rotativas entre compañeros, 1 vez al mes o cada 2 meses) Detalles de la oferta Publicación 23/09/2026 Fecha límite 22/11/2026 Población SABADELL Provincia Barcelona Número de vacantes 1 Inscribirme a esta oferta ¡Síguenos en LinkedIn! SOY EMPRESA BUSCO EMPL",
-"flags": [],
-"why": {},
 "first_seen": ""
 },
 {
@@ -25441,27 +25295,6 @@
 },
 {
 "src": "xaloc",
-"id": "396259",
-"title": "PROFESSOR/A ANGLÈS",
-"town": "Argentona",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/396259",
-"published": "2026-10-09",
-"modified": "2026-11-20",
-"company": "",
-"salary": "",
-"text": "PROFESSOR/A D'ANGLÈS per la preparació/impartició de classes d'anglès. Haurà d'adaptar i planificar les activitats segons el nivell de l'alumnat, fer seguiment de l'evolució i comunicar-se amb les seves famílies. Horari de Dilluns a Dijous de 15:30 a 19:00H. 17 euros/hora. SI T'INTERESSA 1) INSCRIU-TE A L'OFERTA 2) envia el teu currículum a sempre@argentona.cat indicant el número d'oferta. Capacitats requerides - Es requereix un domini oral i escrit de la llengua anglesa - Coneixements de metodologia i didàctica de l'ensenyament d'anglès - Ús d'eines i recursos digitals aplicats a la docència - Valorable tenir experiència amb infants i/o adolescents. Requisits Molt importants Llengua Català - Nivell Independent B2 . Castellà - Nivell Independent B2 . Anglès - Nivell Experimentat C1 Recomanables Nivell acadèmic BUP / Batxillerat superior Informació d'interès Data d’incorporació 19/10/2026 Horari Dilluns a dijous de 15:30H a 19:00H Contracte Tipus Fix discontinu Durada Indefinit",
-"flags": [
-"lang_level",
-"english"
-],
-"why": {
-"lang_level": "nivell independent b2 … nivell independent b2 … nivell experimentat c1 recomanables nivell academic bup batxillerat superior informacio d interes data dincorporacio 19 10 2026 horari dilluns a dijous de 15 30"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
 "id": "396505",
 "title": "MUNTADOR/A D'EQUIPS ELECTRÒNICS",
 "town": "Argentona",
@@ -25570,22 +25403,6 @@
 "why": {
 "kitchen_meat_alcohol": "suport en el muntatge d elements de cuina i acabats d obra"
 },
-"first_seen": ""
-},
-{
-"src": "xaloc",
-"id": "396245",
-"title": "AUXILIAR EDUCATIU",
-"town": "Badalona",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/396245",
-"published": "2026-10-09",
-"modified": "2026-11-04",
-"company": "",
-"salary": "",
-"text": "Donar suport en les activitats del programa d'intervenció. Seguiment i avaluació dels Plans d'Atenció Individual (PAI). Acompanyar les persones usuàries en activitats dins i fora del centre. Suport a les necessitats bàsiques (higiene, medicació, dinar, etc.). Participar en esdeveniments i tenir cura dels espais i recursos del centre. Aplicar el sistema de gestió i garantir la confidencialitat de la informació. Establir relacions de confiança i escolta activa amb les persones usuàries. Vetllar pel benestar emocional, la privacitat i els drets. Capacitats requerides Es valorarà: Coneixement del Model de Qualitat de Vida, PCP, suport actiu i suport conductual positiu. Formació especialitzada que aporti valor al projecte de centre. Experiència acreditada amb persones amb discapacitat intel·lectual. Valorable Formació en autisme 40h de dilluns a divendres amb descansos que estableix la llei de 9:00h a 17:00h Tasques desenvolupar Reunir informació sobre les necessitats de les persones i avaluar les seves destreses, punts forts i deficiències. Ajudar persones amb discapacitats i d'edat avançada a rebre serveis i a millorar la seva capacitat funcional en la societat. Ajudar les persones a identificar opcions i elaborar plans d'actuació, donant-los al mateix temps el suport i l'assistència necessaris. Ajudar les persones a identificar recursos de la comunitat i a accedir-hi, inclosos els relatius a assistència jurídica, mèdica i financera, habitatge, ocupació, transport, assistència en els desplaçaments, cures de dia i altres serveis. Informació d'interès Data d’incorporació 30/10/2026 Salari mensual 1310€ Horari de 9:00h a 17:00h dill-Dv. Atenció al públic Sí Esforç físic Sí Contracte Tipus Interinitat Durada Entre 1 i 3 mesos Prorrogable Sí",
-"flags": [],
-"why": {},
 "first_seen": ""
 },
 {
@@ -27622,28 +27439,6 @@
 },
 {
 "src": "xaloc",
-"id": "396237",
-"title": "CUINER/A ESCOLA BRESSOL MARTORELLES (SUBSTITUCIÓ)",
-"town": "Martorelles",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/396237",
-"published": "2026-10-09",
-"modified": "2026-10-09",
-"company": "",
-"salary": "",
-"text": "- Preelaboració, preparació, conservació, finalització, presentació i servei de tot tipus d'elaboracions. culinàries en l'àmbit de la producció en cuina, seguint els protocols de qualitat establerts i actuant segons normes d'higiene, prevenció de riscos laborals i protecció ambiental. - Gestió de proveïdors. Capacitats requerides - Capacitat de treball en equip. - Experiència mínima d'1 any en lloc similar. Es valorarà molt positivament la disponibilitat de titulació (CFGM Cuina i gastronomia, CFGS Direcció de cuina o similar), així com la titulació en relació a l'àmbit de l'alimentació de la primera infantesa. - Capacitat de treball en equip. Requisits Obligatoris Formació de manipulació d'aliments Sí Recomanables Titulació FPI - - Cuina Informació d'interès Data d’incorporació 10/11/2026 Horari De dilluns a divendres de 09.00 a 17.00 hores Contracte Tipus Relleu Durada Entre 1 i 3 mesos",
-"flags": [
-"diploma",
-"kitchen_meat_alcohol"
-],
-"why": {
-"diploma": "es valorara molt positivament la disponibilitat de titulacio cfgm cuina i gastronomia cfgs direccio de cuina o similar aixi com la titulacio en relacio a l ambi … requisits obligatoris formacio de manipulacio d aliments si recomanables titulacio fpi",
-"kitchen_meat_alcohol": "cuiner a escola bressol martorelles substitucio … culinaries en l ambit de la produccio en cuina seguint els protocols de qualitat establerts i actuant segons normes d higiene prevencio de riscos laborals i pro … es valorara molt positivament la disponibilitat de titulacio cfgm cuina i gastronomia cfgs direccio de cuina o similar aixi com la titulacio en relacio a l ambi"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
 "id": "396074",
 "title": "ADMINISTRATIU/VA PER A IMMOBILIÀRIA",
 "town": "Mataró",
@@ -28129,7 +27924,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396611",
 "published": "2026-10-21",
-"modified": "2026-11-18",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Atenció al públic, gestió d'estocs i caducats, recepció de comandes. Preparació i gestió de sistemes personalitzats de dosificació (SPD), organització de la medicació en blísters i control de les dosis, sota supervisió farmacèutica. Capacitats requerides Es valorarà també el CFGM de farmàcia. Treball en equip. Comunicació. Capacitat per resoldre incidències. Capacitat d'aprenentatge. Empatia. Tasques desenvolupar Dispensar medicaments i fàrmacs als clients i donar instruccions escrites i orals sobre el seu ús segons la prescripció feta per metges, veterinaris o altres professionals de la salut. Mantenir condicions de conservació i seguretat adequades per als medicaments. Omplir i etiquetar envasos amb els medicaments prescrits. Ajudar els clients responent preguntes, localitzant articles o remetent-los a un farmacèutic perquè els informi sobre la medicació. Demanar, etiquetar i comptar existències de medicaments, productes químics i subministraments i introduir les dades d'inventari en un sistema de registres. Requisits Obligatoris Nivell acadèmic Cicle formatiu grau mitjà Titulació Cicle formatiu grau mitjà - Sanitat - Farmàcia i parafarmàcia Molt importants Llengua Castellà - Nivell Experimentat C2 . Català - Nivell Experimentat C1 Informació d'interès Data d’incorporació 15/11/2026 Horari De 9:00 a 13:30 h i de 16:30 a 20:00 h Contracte Tipus Indefinit: ordinari Durada Indefinit Prorrogable Sí",
@@ -28151,7 +27946,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397058",
 "published": "2026-11-03",
-"modified": "2026-11-18",
+"modified": "2026-11-23",
 "company": "",
 "salary": "",
 "text": "Donar suport al cuiner principal en la preparació i elaboració dels plats. Sou: segons conveni Capacitats requerides Iniciativa i autonomia · Treball en equip · És molt important que les persones candidates disposin de formació en cuina, preferentment d'un cicle formatiu de grau mitjà o superior relacionat amb aquest àmbit. Tasques desenvolupar Netejar les cuines, zones de preparació d'aliments i zones de serveis. Ajudar els cuiners i xefs a preparar els aliments rentant, pelant, picant, tallant, mesurant i mesclant els ingredients. Muntar plats per servir-los. Desembalar, comprovar, traslladar, pesar i guardar els subministraments en frigorífics, armaris de rebost i altres zones d'emmagatzematge. Rentar els plats i els estris de cuina i posar-los a part . Requisits Obligatoris Experiència en l'ocupació (mesos) 12 Llengua Castellà - Nivell Independent B2 Molt importants Llengua Català - Nivell Independent B1 Informació d'interès Data d’incorporació 15/11/2026 Horari De dijous a diumenge Contracte Tipus Temps parcial: indefinit Durada Indefinit Prorrogable Sí",
