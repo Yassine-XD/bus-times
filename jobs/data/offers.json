@@ -1,47 +1,47 @@
 {
-"built": "2026-11-24 14:12 UTC",
+"built": "2026-11-24 15:42 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
-"count": 177,
-"secs": 408,
-"at": "2026-11-24 14:19"
+"count": 175,
+"secs": 376,
+"at": "2026-11-24 15:48"
 },
 "feinaactiva": {
 "ok": true,
-"count": 701,
+"count": 700,
 "secs": 6,
-"at": "2026-11-24 14:19"
+"at": "2026-11-24 15:48"
 },
 "eurofirms": {
 "ok": true,
-"count": 73,
-"secs": 1,
-"at": "2026-11-24 14:19"
+"count": 82,
+"secs": 18,
+"at": "2026-11-24 15:48"
 },
 "randstad": {
 "ok": true,
-"count": 176,
-"secs": 170,
-"at": "2026-11-24 14:22"
+"count": 174,
+"secs": 167,
+"at": "2026-11-24 15:51"
 },
 "iman": {
 "ok": true,
 "count": 258,
-"secs": 47,
-"at": "2026-11-24 14:23"
+"secs": 50,
+"at": "2026-11-24 15:52"
 },
 "ras": {
 "ok": true,
 "count": 62,
-"secs": 1,
-"at": "2026-11-24 14:23"
+"secs": 5,
+"at": "2026-11-24 15:52"
 },
 "meditempus": {
 "ok": true,
 "count": 32,
 "secs": 1,
-"at": "2026-11-24 14:23"
+"at": "2026-11-24 15:52"
 }
 },
 "offers": [
@@ -402,6 +402,22 @@
 },
 {
 "src": "eurofirms",
+"id": "042-015587",
+"title": "Repartidor/a",
+"town": "La Roca del Vallès",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/roca-del-valles--la/repartidor-a-042-015587",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "12.66 EUR/HOUR",
+"text": "Empresa del sector cosmético busca un/a Mozo/a Transportista para trabajar en Sabadell, Terrassa, St. Cugat o Barberà del Vallés y realizar las siguientes tareas:\n Abastecimiento a tiendas.\n Reparto de mercancía.\n Reposición de productos en tienda.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-24 15:42"
+},
+{
+"src": "eurofirms",
 "id": "021-021226",
 "title": "Empleo de Carretillero/a, Franqueses Del Vallès, Les",
 "town": "Les Franqueses del Vallès",
@@ -559,26 +575,6 @@
 "flags": [],
 "why": {},
 "first_seen": ""
-},
-{
-"src": "eurofirms",
-"id": "021-022182",
-"title": "Empleo de Promotor/a, Lliçà D'amunt",
-"town": "Lliçà d'Amunt",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/llica-d-amunt/promotor-a-021-022182",
-"published": "",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Oferta de Empleo de Promotor/a - 20/11/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Promotor/a\n Lliçà D'amunt, Barcelona\n Empleo de Promotor/a, Lliçà D'amunt\n Fecha de publicación:\n 20/11/2026\n Horario:\n - Jornada parcial de 11 horas semanales entre viernes y sábado en turno partido en horario entre 10:30h y 19:00h con los descansos establecidos por ley.\n Vacantes:\n3\n Salario:\n 9,47€ Bruto/hora\n Población:\n Lliçà D'amunt\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Promotor/a en Lliçà D'amunt\n Empresa del sector de la alimentación en barcelona está buscando Promotores/as para realizar las siguientes funciones:\n - Dar a conocer y promocionar el producto entre los/as clientes/as en el punto de venta.\n- Realizar degustaciones y demostraciones del producto para incentivar su prueba.\n-\nPreparar las diferentes variedades disponibles siguiendo los procedimientos establecidos.\n-\nAsesorar a los/as clientes/as sobre las características, beneficios y usos del producto.\n- Resolver dudas y ofrecer una atención personalizada.\n- Impulsar la venta del producto mediante una experiencia de compra positiva.\n-\nMantener el espacio de promoción ordenado y correctamente abastecido.\n- Entre otras tareas propias del puesto de trabajo.\n Función:\n Promotor/a\n Requisitos:\n - Experiencia no requerida.\n- Buscamos a una persona con buena comunicación.\n- Necesario vehículo propio.\n- Valorable residencia cercana al puesto de trabajo.\n Formación:\n Idiomas:\n - Castellano - Alto.\n- Catalán - Alto.\n Iniciar sesión para inscribirte\n 26\n inscritos\n Otras ofertas de empleo de Promotor/a en Barcelona\n Certificado de discapacidad\n Empleo de Promotor/a en Lliçà D'amunt, Barcelona\n(con certificado de discapacidad)\n Lliçà D'a",
-"flags": [
-"car"
-],
-"why": {
-"car": "necesario vehiculo propio"
-},
-"first_seen": "2026-11-21"
 },
 {
 "src": "eurofirms",
@@ -1005,6 +1001,126 @@
 },
 {
 "src": "eurofirms",
+"id": "062-017303",
+"title": "Operario/a cárnico",
+"town": "Mataró",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/mataro/operario-a-carnico-062-017303",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "11.6-14.08 EUR/HOUR",
+"text": "🥩 Etiquetador/a.\n 📍 Empresa del sector cárnico busca incorporar un/a Etiquetador/a con experiencia para reforzar su equipo logístico de una empresa situada en Mataró.\n ¿Que harás en tu día a día?\n Etiquetaje de productos\n .\n Embalaje y preparación de pedidos\n .\n Manipulación de producto alimentario.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-24 15:42"
+},
+{
+"src": "eurofirms",
+"id": "062-017304",
+"title": "Operario/a de acabados textiles",
+"town": "Mataró",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/mataro/operario-a-de-acabados-textiles-062-017304",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "10.28 EUR/HOUR",
+"text": "🧵 ¿Te apasiona el mundo textil y te sientes cómodo/a trabajando con diferentes tipos de tejidos? ¡Esta oportunidad es para ti!\n Buscamos incorporar un/a Operario/a Textil para una empresa consolidada del sector ubicada en Mataró, donde podrás formar parte de un equipo dinámico y en crecimiento.\n Si eres una persona ágil, proactiva y con experiencia en manipulación de tejidos, ¡queremos conocerte!\n Las tareas a realizar serán las siguientes.\n Selección de piezas según las órdenes de fabricación.\n Apertura y despliegue de tejidos para su tratamiento posterior\n .\n Manipulación de distintos tipos de telas.\n Organización y preparación del material.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-24 15:42"
+},
+{
+"src": "eurofirms",
+"id": "062-017305",
+"title": "Operario/a de acabados textiles",
+"town": "Mataró",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/mataro/operario-a-de-acabados-textiles-062-017305",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "10.28 EUR/HOUR",
+"text": "🎨 ¡Buscamos Operario/a de Tintorería Industrial!\n para una empresa situada en Mataró.\n ¿Tienes experiencia en tintorería industrial?\n Si buscas estabilidad, formar parte de una empresa consolidada y seguir desarrollándote en el sector textil, ¡queremos conocerte!\n ¿Qué harás en tu día a día?\n Carga y descarga de tejido en maquinaria de tintura.\n Preparación de baños de tintura.\n Dosificación de colorantes y productos químicos.\n Control de temperaturas, tiempos y procesos de tintura.\n Verificación y seguimiento del color obtenido.\n Interpretación y aplicación de recetas de producción.\n Cumplimiento de los estándares de calidad y seguridad.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-24 15:42"
+},
+{
+"src": "eurofirms",
+"id": "062-017306",
+"title": "Operario/a textil",
+"town": "Mataró",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/mataro/operario-a-textil-062-017306",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "10.28 EUR/HOUR",
+"text": "🧵 ¡Buscamos Operario/a de Rame (Stenter) para el sector textil! para empresa situada en Barcelona.\n ¿Tienes experiencia en tintorería o acabados textiles? ¿Has trabajado con máquinas Rame (Stenter) y buscas una oportunidad estable donde seguir creciendo? ¡Queremos conocerte!\n ¿Qué harás en tu día a día?\n Alimentar el tejido a la máquina Rame.\n Ajustar los parámetros de producción:\n Temperatura\n Velocidad\n Ancho del tejido\n Tensión\n .\n Supervisar el proceso de secado y termofijado.\n Detectar posibles defectos durante la producción.\n Realizar controles de calidad del tejido acabado.\n Cumplimentar órdenes de fabricación.\n Mantener la máquina y el área de trabajo limpias y ordenadas.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-24 15:42"
+},
+{
+"src": "eurofirms",
+"id": "062-017308",
+"title": "Manipulador/a",
+"town": "Mataró",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/mataro/manipulador-a-062-017308",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "11.6 EUR/HOUR",
+"text": "Desde Eurofirms tenemos una oferta de trabajo para un/a Manipulador/a de Alimentos en una empresa cárnica de 📍Mataró. Las tareas a realizar serán las siguientes:\n 🔹 Funciones:\n Manipulación y preparación de productos cárnicos.\n Elaboración de croquetas, pinchitos, libritos y otros preparados.\n Control de calidad de los productos.\n Limpieza y mantenimiento de la zona de trabajo.\n Cumplimiento de las normas de higiene y seguridad alimentaria.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [
+"kitchen_meat_alcohol"
+],
+"why": {
+"kitchen_meat_alcohol": "manipulacion y preparacion de productos carnicos"
+},
+"first_seen": "2026-11-24 15:42"
+},
+{
+"src": "eurofirms",
+"id": "062-017309",
+"title": "Cocinero/a",
+"town": "Mataró",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/mataro/cocinero-a-062-017309",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "12.09 EUR/HOUR",
+"text": "🍽️👨‍🍳 ¡Desde Eurofirms buscamos un/a Cocinero/a para dar soporte en una escuela de Mataró! 🏫✨\n 🔹 ¿Cuáles serán tus funciones? 🍴🥗\n ✅ Elaboración y preparación de los menús diarios del comedor escolar.\n ✅ Preparación, cocinado y presentación de los platos siguiendo las directrices establecidas.\n ✅ Control de temperaturas, conservación y almacenamiento de los alimentos.\n ✅ Organización y planificación de las tareas de cocina.\n ✅ Gestión y control básico del stock de productos y materias primas.\n ✅ Recepción y colocación de mercancías.\n ✅ Limpieza y mantenimiento de utensilios, maquinaria y zonas de trabajo. 🧼✨\n ✅ Cumplimiento de las normas de higiene, seguridad alimentaria y APPCC. 👨‍🍳\n ✅ Entre otras tareas propias del puesto de trabajo.",
+"flags": [
+"kitchen_meat_alcohol"
+],
+"why": {
+"kitchen_meat_alcohol": "cocinero a … desde eurofirms buscamos un a cocinero a para dar soporte en una escuela de mataro … preparacion cocinado y presentacion de los platos siguiendo las directrices establecidas"
+},
+"first_seen": "2026-11-24 15:42"
+},
+{
+"src": "eurofirms",
+"id": "062-017310",
+"title": "Auxiliar de servicios",
+"town": "Mataró",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/mataro/auxiliar-de-servicios-062-017310",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "13.48 EUR/HOUR",
+"text": "🚛 Oferta de Empleo: Un/a Recambista\n 🔧\n ¿Tienes conocimientos de mecánica y te gusta el trato con clientes? ¡Esta puede ser tu oportunidad!\n Buscamos un/a Recambista para incorporarse a una empresa del sector de la automoción en barcelona, realizando funciones tanto de gestión de recambios como de reparto y soporte en taller. Las tareas a realizar serán las siguientes:\n Atención al cliente para la gestión y solicitud de recambios.\n Identificación de referencias en catálogos de piezas.\n Realización y seguimiento de pedidos a proveedores externos.\n Control de plazos de entrega y resolución de incidencias.\n Registro de entradas de material en el sistema.\n Control y gestión de stock.\n Mantenimiento del orden y la limpieza del almacén.\n Preparación y entrega de pedidos mediante furgoneta.\n Gestión de albaranes y documentación de entrega.\n Soporte puntual al equipo de mecánicos.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-24 15:42"
+},
+{
+"src": "eurofirms",
 "id": "036-023278",
 "title": "Empleo de Técnico/a laboral, Mollet Del Vallès",
 "town": "Mollet del Vallès",
@@ -1391,6 +1507,22 @@
 },
 {
 "src": "eurofirms",
+"id": "062-017314",
+"title": "Mozo/a almacén",
+"town": "Vilassar de Dalt",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/vilassar-de-dalt/mozo-a-almacen-062-017314",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "9.7 EUR/HOUR",
+"text": "Eurofirms selecciona un/a Mozo/a de Almacén para una empresa situada en Villasar de Dalt. 📦\n Carga y descarga de mercancía.\n Ubicación de material en almacén.\n Apoyo en tareas generales de logística.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-24 15:42"
+},
+{
+"src": "eurofirms",
 "id": "062-017301",
 "title": "Camarero/a",
 "town": "Vilassar de Mar",
@@ -1428,6 +1560,28 @@
 "kitchen_meat_alcohol": "ayudante de cocina … para un restaurante en vilassar de mar buscamos un a ayudante de cocina … mantener la limpieza y la orden en la cocina utensilios y superficies de trabajo"
 },
 "first_seen": "2026-11-24 10:56"
+},
+{
+"src": "eurofirms",
+"id": "062-017307",
+"title": "Ayudante de cocina",
+"town": "Vilassar de Mar",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/vilassar-de-mar/ayudante-de-cocina-062-017307",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "11.12-13.9 EUR/HOUR",
+"text": "👨‍🍳 ¡Buscamos Ayudante de Cocina para unirse a nuestro equipo!\n ¿Te apasiona la gastronomía y disfrutas trabajando en un entorno dinámico? Si quieres formar parte de un equipo profesional donde podrás desarrollar tus habilidades culinarias y crecer profesionalmente, ¡esta oportunidad es para ti! Buscamos Ayudantes de cocina (H/M) para un restaurante ubicado en Vilassar de Mar.\n ¿Cuáles serán tus funciones?\n Realizar la producción de bases y preelaboraciones: fondos, salsas, cortes de vegetales, limpieza y preparación de carnes y pescados.\n Gestionar de forma autónoma la partida de fríos siguiendo las recetas e indicaciones del equipo de cocina.\n Colaborar en el emplatado y acabado de los platos durante el servicio.\n Garantizar que la mise en place de las diferentes estaciones esté preparada antes de cada turno.\n Comunicar incidencias relacionadas con falta de stock o productos en mal estado.\n Realizar la limpieza y desinfección de superficies, áreas de trabajo, cámaras y maquinaria de cocina.\n Cumplir rigurosamente las normas de higiene, seguridad alimentaria y APPCC.\n Etiquetar correctamente las elaboraciones indicando fechas de producción y caducidad.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [
+"kitchen_meat_alcohol"
+],
+"why": {
+"kitchen_meat_alcohol": "ayudante de cocina … buscamos ayudante de cocina para unirse a nuestro equipo … buscamos ayudantes de cocina h m para un restaurante ubicado en vilassar de mar"
+},
+"first_seen": "2026-11-24 15:42",
+"repost_of": "eurofirms:062-017302",
+"repost_first_seen": "2026-11-24 10:56"
 },
 {
 "src": "feinaactiva",
@@ -3054,24 +3208,6 @@
 "why": {
 "diploma": "para acreditar la competencia docente el formador debera acreditar una experiencia profesional como docente de al menos 600 horas en los ultimos 10 anos o estar … linguistica llicenciatura o enginyeria"
 },
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92327685",
-"title": "ELECTRICISTAS (BARCELONA)(H/M)",
-"town": "Badalona",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92327685",
-"published": "2026-10-27",
-"modified": "",
-"company": "Empresa de electricidad",
-"salary": "1750-2200 €/mes",
-"text": "Trabajos de instalación eléctrica y mantenimiento general en edificios de pública concurrencia (hospitales, oficinas, centros comerciales, etc.).\nExperiència: Experiència 1 anys. Trabajos de instalación eléctrica y mantenimiento en edificios de pública concurrencia o industria.. Competències / coneixements: IMPRESCINDIBLE formación en PRL - Prevención de Riesgos Laborales de 20 horas de riesgo eléctrico actualizada (o 60h + 6h).\nRequisits: \nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"exp:1"
-],
-"why": {},
 "first_seen": ""
 },
 {
@@ -21675,29 +21811,6 @@
 },
 {
 "src": "randstad",
-"id": "3024303",
-"title": "Operario/a logístico/a con carretilla elevadora",
-"town": "Granollers",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/operario-a-logistico-a-con-carretilla-elevadora-3024303/",
-"published": "2026-11-18",
-"modified": "",
-"company": "",
-"salary": "14-14 EUR/HOUR",
-"text": "Como parte integrante del equipo de almacén, te encargarás de desempeñar las siguientes funciones:\n- conducirás la tractora hasta la zona de residuos\n- manipularás material\n- manejarás la transpaleta eléctrica\n- colocarás material en la zona adecuada para ello en almacén\n- realizarás flejado de palets Requisitos del puesto: - Experiencia mínima de 2 años desempeñando funciones similares en el sector de envasado de producto cosmético o farmacéutico\n- Experiencia demostrable en la conducción de transpaleta eléctrica\n- Actitud proactiva, con muchas ganas, rápida capacidad de aprendizaje y alta capacidad de adaptación a entornos dinámicos de producción\n- Disponibilidad horaria para trabajar en turnos rotativos (mañana, tarde y noche), Formación: Educación Secundaria Obligatoria\n Idiomas: Catalán\n: B1\n, Castellano\n: B1\n Conocimientos: Carretilla elevadora frontal\n Experiencia: 2 años\nTus beneficios: Retribución competitiva: salario de 14,96 euros brutos/hora, complementado con plus de nocturnidad y plus de rotación\n- Jornada y turnos: trabajo en turnos rotativos de mañana, tarde y noche o bien fines de semana si quieres combinarlo con estudios u otro trabajo\n- Entorno de trabajo: formarás parte de una empresa multinacional líder en su sector, con un buen ambiente de trabajo basado en la colaboración y el desarrollo profesional",
-"flags": [
-"forklift",
-"lang_level",
-"exp:2"
-],
-"why": {
-"forklift": "operario a logistico a con carretilla elevadora … carretilla elevadora frontal",
-"lang_level": "b1 … b1"
-},
-"first_seen": ""
-},
-{
-"src": "randstad",
 "id": "3025554",
 "title": "Mecánico/a oficial 1a",
 "town": "Granollers",
@@ -23361,29 +23474,6 @@
 ],
 "why": {
 "diploma": "ciclo formativo grado superior"
-},
-"first_seen": ""
-},
-{
-"src": "randstad",
-"id": "3019183",
-"title": "Administrativo/a Immobiliaria ( gestión de fincas)",
-"town": "Sabadell",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/administrativo-a-immobiliaria-gestion-fincas-3019183/",
-"published": "2026-10-30",
-"modified": "",
-"company": "",
-"salary": "19000-19000 EUR/YEAR",
-"text": "Integrado/a en el equipo de Propiedad Horizontal y dando apoyo directo al responsable del área, te encargarás de:\nAtención a la comunidad: Recepción, atención telefónica y presencial a propietarios, vecinos y proveedores.\nGestión de incidencias y mantenimiento: Recepción de averías/reparaciones, contacto y coordinación con industriales, solicitud y seguimiento de presupuestos, tramitación de aprobaciones y revisión/reclamación de facturas.\nTramitación de siniestros: Gestión y declaración de partes de incidencias a las compañías aseguradoras pertinentes.\nGestión económica básica: Control y emisión de recibos de cuotas comunitarias, seguimiento de devoluciones bancarias y reclamación a copropietarios con cuotas pendientes.\nSoporte administrativo general: Archivo documental físico y digital, escaneo, redacción de comunicados y tareas administrativas generales de apoyo al responsable. Requisitos del puesto: Imprescindible:\nBilingüismo real Catalán - Castellano (fluido tanto a nivel oral como escrito).\nBuenas habilidades digitales y facilidad de aprendizaje en el uso de aplicaciones informáticas y herramientas ofimáticas.\nResidencia en Sabadell o alrededores del Vallès Occidental.\nPerfil actitudinal: Persona proactiva, resolutiva, organizada, con buena capacidad de comunicación y una clara orientación a la resolución de problemas.\nSe valorará positivamente:\nExperiencia previa en departamentos de administración de fincas o gestión de comunidades de propietarios.\nConocimiento y manejo del software de gestión CISI CfinH (o software sectorial similar).\nTitulación o acreditación de Oficial Habilitado por el Colegio de Administradores de Fincas.\nCompetencias tecnológicas avanzadas o interés en automatización de procesos. Formación: Ciclo Formativo Grado Medio\n Idiomas: Catalán\n: C1\n Conocimientos: Microsoft Office\n Experiencia: 2 años\nTus beneficios: Contrato indefinido desde el primer día, en un proyecto estable y de largo recorrido.\nJornada completa con excelente conciliación: Distribución horaria pensada para el bienestar del equipo, con 3 tardes libres a la semana.\nInnovación y eficiencia: Trabajarás en un departamento moderno que incorpora herramientas de Inteligencia Artificial para automatizar trámites repetitivos, permitiéndote centrarte en tareas de valor añadido.\nAmbiente de trabajo cercano: Equipo reducido, colaborativo y con acompañamiento continuo.",
-"flags": [
-"lang_level",
-"diploma",
-"exp:2"
-],
-"why": {
-"lang_level": "castellano fluido tanto a nivel oral como escrito … c1",
-"diploma": "ciclo formativo grado medio"
 },
 "first_seen": ""
 },
@@ -26232,7 +26322,7 @@
 "town_note": "list town Caldes d'Estrac, location Caldes de Montbui",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397584",
 "published": "2026-11-19",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Es requereix una persona per neteja de la cuina, i dels estris necessaris en obrador en es preparen plats cuinats. Disponibilitat immediata. Farà de reforç fins finalitzar la campanya de Nadal. Amb possibilitats de continuïtat. Treballarà mitja jornada, en horari de matins, però les setmanes fortes del Nadal es farà jornada completa treballant matí i tarda. Capacitats requerides Es valorarà que tingui experiència en cuina. Imprescindible disponibilitat per treballar matins i tardes durant les setmanes fortes del Nadal. Competències valorades: ritme àgil de feina, bona interacció interpersonal, capacitat per moure i netejar els estris propis d'un obrador. Requisits Obligatoris Experiència en l'ocupació (mesos) 6 Informació d'interès Data d’incorporació 30/11/2026 Contracte Tipus Eventuals per circumstàncies de la producció Durada Entre 1 i 3 mesos",
@@ -27439,7 +27529,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397536",
 "published": "2026-11-18",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Preparar i impartir activitats de lecto-escriptura adaptades a les necessitats dels infants, realitzar tasques de seguiment (programació i assistència), potenciar el desenvolupament de competències en llengua catalana, col·laborar en la detecció de necessitats de l'alumnat i personalitzar activitats. Coordinar-se amb el professorat i avaluar les activitats, l'organització i el funcionament. Capacitats requerides Imprescindible mínim 1 any d'experiència treballant amb nens/es d'educació primària. Molt valorable experiència en dinamització de lleure, acompanyament escolar o reforç educatiu. Molt valorable estudiants universitaris de l'àrea Social. Contracte fix discontinu fins a final de curs, renovable. Horari de dill a dij de 12h a 13h. Salari entre 145 i 160 euros mes, ampliable si s'amplia jornada. Requisits Obligatoris Permís de conduir B Vehicle propi Sí Experiència en l'ocupació (mesos) 6 Llengua Castellà . Català Carnets especials Monitor/ora d'activitats de lleure infantil i juvenil Molt importants Nivell acadèmic Batxillerat Titulació Cicle formatiu grau superior - Serveis socioculturals i a la comunitat - Educació infantil Branca C.Formatiu Grau Superior o Serveis socioculturals i a la comunitat Branca Títol universitari Educació Informació d'interès Data d’incorporació 01/12/2026 Horari de 12 a 13h, de dill a dij Contracte Tipus Fix discontinu Durada Més de 6 i menys de 12 mesos Prorrogable Sí Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada parcial Jornada 3 Exclusivament matí",
@@ -27462,7 +27552,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397537",
 "published": "2026-11-18",
-"modified": "2026-11-18",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Fabricació d'elements de xapa, soldadura de fil. Suport a magatzem:càrrega i descàrrega de mercaderies de camions, preparació de comandes (picking), embalatge i control d'estoc. Necessari carnet de conduir B i carnet de Conductor/a Carretó Elevador. Capacitats requerides Imprescindible experiència com a peó metall o en soldadura mínim 1 any. Autonomia, proactivitat, ordre, responsabilitat, capacitat de treball en equip. Horari intensiu matí, de dill a div, de 6 a 14:30h. Salari (brut/anual jornada complerta): 22.000- 25.000. Contracte renovable de 3 a 6 mesos. Requisits Obligatoris Nivell acadèmic ESO Permís de conduir B Experiència en l'ocupació (mesos) 12 Llengua Castellà . Català Carnets especials Conductor/a de Carretó Elevador Recomanables Vehicle propi Sí Informació d'interès Data d’incorporació 01/12/2026 Horari 6 a 14:30 h Contracte Tipus Eventuals per circumstàncies de la producció Durada Més de 3 i menys de 6 mesos Prorrogable Sí Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada intensiva Jornada 3 Exclusivament matí",
@@ -27808,7 +27898,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397355",
 "published": "2026-11-12",
-"modified": "2026-11-20",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Gestionar i mantenir la comunicació non-stop (80% en ANGLÈS) entre clientela i empreses i proveïdores i la documentació relacionada de l'activitat comercial. Suport al dept de vendes. Registre de dades i suport d'informes i anàlisi de dades per recolçar la presa de decisions. Resolució de problemes i consultes. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia CURRICULUM a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397355 Capacitats requerides IMPRESCINDIBLE Domini de l'anglès oral i escrit (Nivell C1). ESO. Haver treballat en tasques administratives. Word i Excel mig. Capacitat de resolució de problemes, organització, orientació al client i treball en equip. Residència Mataró o rodalies. VALORABLE Formació en ADE, Finances... Haver treballat en sector tèxtil. Salari 1900 x 12 pagues. Requisits Obligatoris Experiència en l'ocupació (mesos) 3 Informàtica Programari d'Ofimàtica - Usuari Mitjà Llengua Anglès - Nivell Experimentat C1 Recomanables Nivell acadèmic Cicle formatiu grau superior Informació d'interès Data d’incorporació 01/01/2027 Salari mensual 1900€ Horari Dl a dj 9-18 h, dv 8-16 h Flexibilitat Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada partida",
@@ -27821,31 +27911,6 @@
 "why": {
 "lang_level": "397355 capacitats requerides imprescindible domini de l angles oral i escrit nivell c1 … nivell experimentat c1 recomanables nivell academic cicle formatiu grau superior informacio d interes data dincorporacio 01 01 2027 salari mensual 1900 horari d",
 "diploma": "nivell experimentat c1 recomanables nivell academic cicle formatiu grau superior informacio d interes data dincorporacio 01 01 2027 salari mensual 1900 horari d"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
-"id": "397364",
-"title": "TÈCNIC/A DE MANTENIMENT PER CENTRE ESCOLAR",
-"town": "Mataró",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/397364",
-"published": "2026-11-12",
-"modified": "2026-11-23",
-"company": "",
-"salary": "",
-"text": "Garantir el bon estat de conservació, funcionament, seguretat i manteniment de les instal·lacions, espais, equipaments i mobiliari de l'escola, mitjançant la realització de tasques de manteniment preventiu i correctiu, la detecció i resolució d'incidències i la coordinació amb empreses i professionals externs. Conduir el vehicle de l'empresa. Possibilitat de jornada completa o parcial matins. Si t'interessa: 1) APUNTA'T. 2) ENVIA CURRÍCULUM INDICANT NÚMERO D'OFERTA 397364 A bt@ajmataro.cat Capacitats requerides IMPRESCINDIBLE Formació relacionada amb manteniment, instal·lacions, electricitat, electromecànica, climatització o àmbits afins. CARNET B i vehicle per arribar al centre. Català entès. VALORABLE formació en manteniment d'edificis i instal·lacions i haver treballat en centres educatius, instal·lacions o equipaments de gran afluència de persones. Salari 28000-32000 eur bruts/any segons vàlua. Requisits Obligatoris Experiència en l'ocupació (mesos) 24 Recomanables Nivell acadèmic Cicle formatiu grau mitjà Llengua Castellà - Nivell Independent B2 . Català - Nivell Bàsic A1 Informació d'interès Data d’incorporació 01/01/2027 Horari Dl a dv 8.30 a 17.30 h o parcial 8.30-13:30 h Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres",
-"flags": [
-"car",
-"lang_level",
-"diploma",
-"exp:24"
-],
-"why": {
-"car": "carnet b i vehicle per arribar al centre",
-"lang_level": "nivell independent b2",
-"diploma": "requisits obligatoris experiencia en l ocupacio mesos 24 recomanables nivell academic cicle formatiu grau mitja llengua castella"
 },
 "first_seen": ""
 },
@@ -27884,14 +27949,14 @@
 "modified": "2026-11-24",
 "company": "",
 "salary": "",
-"text": "Comunicació, atenció i seguiment (telèfon i correu) amb la clientela i proveïdors amb ANGLÈS. Gestió de tràmits administratius relacionats amb vivendes d´ús turístic (obtenció i tramitació de llicències). Gestió de canvis de titularitat i contractació de suministres (electricitat, aigua...). Control i gestió de factures, rebuts i documentació d'immobles. Seguiment tràmits oficials amb organismes oficials, companyies suministradores i altres proveïdores. Capacitats requerides SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia Currículum a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397521. IMPRESCINDIBLE ANGLÈS I CATALÀ ORAL I ESCRIT per comunicar-se amb empreses clients iproveïdores. Excel mig. Capacitat d'organització, resolutiva, amb iniciativa i autonomia. Salari 23.000 eur/any Requisits Obligatoris Informàtica Programari d'Ofimàtica - Usuari Mitjà Llengua Anglès - Nivell Independent B2 . Català - Nivell Independent B2 . Castellà - Nivell Independent B2 Recomanables Nivell acadèmic Cicle formatiu grau mitjà Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 1912€ Horari De dilluns a divendres de 8 a 16h Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada intensiva",
+"text": "Comunicació, atenció i seguiment (telèfon i correu) amb la clientela i proveïdors amb ANGLÈS. Gestió de tràmits administratius relacionats amb vivendes d´ús turístic (obtenció i tramitació de llicències). Gestió de canvis de titularitat i contractació de suministres (electricitat, aigua...). Control i gestió de factures, rebuts i documentació d'immobles. Seguiment tràmits oficials amb organismes oficials, companyies suministradores i altres proveïdores. Capacitats requerides SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia Currículum a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397521. IMPRESCINDIBLE ANGLÈS I CATALÀ ORAL I ESCRIT per comunicar-se amb empreses clients i proveïdores. Excel mig. Capacitat d'organització, resolutiva, amb iniciativa i autonomia. Salari 23.000 eur/any Requisits Obligatoris Informàtica Programari d'Ofimàtica - Usuari Mitjà Llengua Anglès - Nivell Independent B2 . Català - Nivell Independent B2 . Castellà - Nivell Independent B2 Recomanables Nivell acadèmic Cicle formatiu grau mitjà Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 1912€ Horari De dilluns a divendres de 8 a 16h Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada intensiva",
 "flags": [
 "lang_level",
 "diploma",
 "english"
 ],
 "why": {
-"lang_level": "imprescindible angles i catala oral i escrit per comunicar se amb empreses clients iproveidores … nivell independent b2 … nivell independent b2",
+"lang_level": "imprescindible angles i catala oral i escrit per comunicar se amb empreses clients i proveidores … nivell independent b2 … nivell independent b2",
 "diploma": "nivell independent b2 recomanables nivell academic cicle formatiu grau mitja informacio d interes data dincorporacio 01 12 2026 salari mensual 1912 horari de di"
 },
 "first_seen": ""
@@ -28051,28 +28116,6 @@
 "lang_level": "nivell b1 de catala … nivell independent b1 informacio d interes data dincorporacio 01 12 2026 salari mensual 1934 horari de dl a ds 9 a 14h i 17 a 20h dia descans rotatiu atencio al"
 },
 "first_seen": ""
-},
-{
-"src": "xaloc",
-"id": "397638",
-"title": "NETEJADOR/A PER CENTRE ESPORTIU (4 MATINS, 14 HS/SETMANA)",
-"town": "Mataró",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/397638",
-"published": "2026-11-23",
-"modified": "2026-11-24",
-"company": "",
-"salary": "",
-"text": "Neteja i manteniment de les instal·lacions d'un centre esportiu seguint els protocols de neteja i higiene establerts. Aspirar i fregar terres. Eliminar pols de superfícies, mobiliari, màquines esportives i zones comunes. Netejar i desinfectar lavabos i vestidors. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia CURRICULUM a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397638 Capacitats requerides IMPRESCINDIBLE Formació o haver treballat en neteja d'immobles. Disponibilitat per començar jornada entre les 6-8 h del matí, preferentment aviat i per a futures ampliacions de jornada segons les necessitats de l'empresa. Persona autònoma, responsable i compromesa amb la qualitat del servei. Residència a Mataró o rodalies. VALORABLE haver treballat en gimnasos o similar. Jornada 14 h/setmana. Requisits Obligatoris Llengua Castellà - Nivell Independent B2 Recomanables Nivell acadèmic Graduat escolar / Batxillerat elemental Formació professionalitzadora Neteja de superfícies i mobiliari en edificis i locals Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 450€ Horari Dilluns i dijous 4 h, Dimarts i divendres 3 h. Contracte Tipus Temps parcial: indefinit Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada parcial Jornada 3 Exclusivament matí",
-"flags": [
-"lang_level",
-"diploma"
-],
-"why": {
-"lang_level": "nivell independent b2 recomanables nivell academic graduat escolar batxillerat elemental formacio professionalitzadora neteja de superficies i mobiliari en edif",
-"diploma": "nivell independent b2 recomanables nivell academic graduat escolar batxillerat elemental formacio professionalitzadora neteja de superficies i mobiliari en edif"
-},
-"first_seen": "2026-11-23 09:08"
 },
 {
 "src": "xaloc",
