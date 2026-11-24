@@ -1,47 +1,47 @@
 {
-"built": "2026-11-24 15:42 UTC",
+"built": "2026-11-24 23:37 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
-"count": 175,
-"secs": 376,
-"at": "2026-11-24 15:48"
+"count": 173,
+"secs": 444,
+"at": "2026-11-24 23:44"
 },
 "feinaactiva": {
 "ok": true,
-"count": 700,
-"secs": 6,
-"at": "2026-11-24 15:48"
+"count": 688,
+"secs": 5,
+"at": "2026-11-24 23:44"
 },
 "eurofirms": {
 "ok": true,
-"count": 82,
-"secs": 18,
-"at": "2026-11-24 15:48"
+"count": 81,
+"secs": 1,
+"at": "2026-11-24 23:44"
 },
 "randstad": {
 "ok": true,
-"count": 174,
-"secs": 167,
-"at": "2026-11-24 15:51"
+"count": 178,
+"secs": 170,
+"at": "2026-11-24 23:47"
 },
 "iman": {
 "ok": true,
-"count": 258,
-"secs": 50,
-"at": "2026-11-24 15:52"
+"count": 259,
+"secs": 55,
+"at": "2026-11-24 23:48"
 },
 "ras": {
 "ok": true,
 "count": 62,
 "secs": 5,
-"at": "2026-11-24 15:52"
+"at": "2026-11-24 23:48"
 },
 "meditempus": {
 "ok": true,
 "count": 32,
 "secs": 1,
-"at": "2026-11-24 15:52"
+"at": "2026-11-24 23:48"
 }
 },
 "offers": [
@@ -144,22 +144,6 @@
 "diploma": "ciclo formativo grado superior"
 },
 "first_seen": "2026-11-21"
-},
-{
-"src": "eurofirms",
-"id": "062-017219",
-"title": "Mozo/a almacén",
-"town": "Cabrera de Mar",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/cabrera-de-mar/mozo-a-almacen-062-017219",
-"published": "2026-10-28",
-"modified": "",
-"company": "",
-"salary": "9.76 EUR/HOUR",
-"text": "📦 Mozo/a almacén - Carga y Descarga.\n 📍 Cabrera de Mar\n ¿Buscas una oportunidad laboral estable y con posibilidad de aprender? ¡Esta puede ser tu oportunidad!\n ✅ Funciones\n Carga y descarga de mercancía.\n Ubicación y movimiento de material en almacén.\n Apoyo en las tareas generales del almacén.\n Uso de PDA para la gestión de los pedidos.\n Entre otras tareas propias del puesto de trabajo.",
-"flags": [],
-"why": {},
-"first_seen": ""
 },
 {
 "src": "eurofirms",
@@ -1927,27 +1911,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "09202625549",
-"title": "TÈCNIC/A DE COMPRES AMB DISCAPACITAT - REF. 25549",
-"town": "Argentona",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202625549",
-"published": "2026-08-26",
-"modified": "",
-"company": "Oficina de Treball del SOC",
-"salary": "2285-2285 €/mes",
-"text": "•\tReportant a la gerència, es responsabilitzarà d’optimitzar els processos de compra de l’empresa, els preus de compra i millorar la cadena de subministrament per assegurar l’estoc de producció i magatzems.\n•\tAssegurar el subministrament de peces i recanvis per muntar maquinària.\n•\tSeguir els mecanismes d’avaluació, aprovació, homologació i realitzar el seguiment dels proveïdors.\n•\tNegociació amb proveïdors, agregant volum.\n•\tRecerca de nous proveïdors i productes alternatius.\nExperiència: Experiència 3 mesos. - Imprescindible: Experiència i maneig de l’ERP SAGE i de l’Excel.\n- Valorable: Experiència en sector industrial o producció i coneixements tècnics.. Competències / coneixements: - Imprescindible: Capacitat organitzativa i rigorositat en la gestió documental.\n- Valorable: Capacitat analítica, ordenada, meticulosa i responsable.\n- Valorable: Formació en Administració, Comerç, Enginyeria o FP de grau superior similar.\nRequisits: \nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"diploma",
-"exp:3"
-],
-"why": {
-"diploma": "formacio en administracio comerc enginyeria o fp de grau superior similar"
-},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "09202627229",
 "title": "AUXILIAR D'INFERMERIA DE GERIATRIA (REF.27229)",
 "town": "Argentona",
@@ -2163,24 +2126,6 @@
 ],
 "why": {},
 "first_seen": "2026-11-24 14:12"
-},
-{
-"src": "feinaactiva",
-"id": "FA92323258",
-"title": "RETOLISTA / APLICADOR DE VINILS",
-"town": "Badalona",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323258",
-"published": "2026-08-26",
-"modified": "",
-"company": "SmartPogs S.L.",
-"salary": "1800-2000 €/mes",
-"text": "Muntatge i instal·lació d'elements gràfics: lones, vinils, rètols i lletres corpòries.\nPreparació i aplicació de vinils a diferents superfícies.\nSuport puntual en tasques del taller relacionades amb la producció i acabat de materials.\nExperiència: Experiència 1 anys. Experiència demostrable en un lloc semblant.. Competències / coneixements: Coneixements en el maneig de maquinària del taller: plotter de tall, impressora de gran format, laminadora, etc.\nRequisits: Permisos de conduir: b\nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"exp:1"
-],
-"why": {},
-"first_seen": ""
 },
 {
 "src": "feinaactiva",
@@ -3824,49 +3769,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92323337",
-"title": "CAMBRER/A BAR",
-"town": "Calella",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323337",
-"published": "2026-08-26",
-"modified": "",
-"company": "Empresa de restauració",
-"salary": "1515-1600 €/mes",
-"text": "Servir i preparar.\nExperiència: Experiència 1 anys. Haver treballat, anteriorment, en un bar.. Competències / coneixements: Calella i rodalies\nRequisits: anglès (parlat Baix, escrit Baix)\nEstudis: \nContracte laboral temporal (2 mesos)\nJornada completa",
-"flags": [
-"kitchen_meat_alcohol",
-"english",
-"exp:1"
-],
-"why": {
-"kitchen_meat_alcohol": "cambrer a bar"
-},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92323338",
-"title": "CAMBRER/A MENJADOR",
-"town": "Calella",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323338",
-"published": "2026-08-26",
-"modified": "",
-"company": "Empresa de restauració",
-"salary": "1416-1550 €/mes",
-"text": "Retirar platos de las mesas, servir bebidas y limpieza.\nExperiència: Experiència 0 anys.. Competències / coneixements: Calella i rodalies\nRequisits: anglès (parlat Baix, escrit Baix)\nEstudis: \nContracte laboral temporal (2 mesos)\nJornada completa",
-"flags": [
-"kitchen_meat_alcohol",
-"english"
-],
-"why": {
-"kitchen_meat_alcohol": "cambrer a menjador"
-},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "FA92323384",
 "title": "GEROCULTORS/ GEROCULTORES",
 "town": "Calella",
@@ -4996,46 +4898,6 @@
 ],
 "why": {},
 "first_seen": "2026-11-23 15:50"
-},
-{
-"src": "feinaactiva",
-"id": "FA92323283",
-"title": "RECEPCIONISTA DE NOCHE – HOTEL EN GRANOLLERS",
-"town": "Granollers",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323283",
-"published": "2026-08-26",
-"modified": "",
-"company": "PACIFIC SPACE S.L.",
-"salary": "1890-1890 €/mes",
-"text": "Registro y revisión de albaranes y documentación administrativa.\nIntroducción y actualización de datos en los sistemas de gestión.\nArchivo, clasificación y preparación de documentación para otros departamentos.\nSeguimiento de tareas pendientes y comunicación de incidencias.\nPreparación y traspaso de información al turno de mañana.\nApoyo a recepción durante el turno nocturno.\nColaboración en check-in y check-out.\nAtención presencial y telefónica a huéspedes.\nGestión de consultas, incidencias y necesidades de clientes.\nManejo de extranets, especialmente Booking.com y Expedia.\nGestión de reservas, modificaciones, cancelaciones y comunicaciones.\nApoyo en el control de disponibilidad, tarifas y canales de venta.\nExperiència: Experiència 3 anys. Experiencia mínima de 3 años, especialmente en recepción hotelera y tareas administrativas.\nExperiencia en gestión documental.\nBuen manejo de Booking.com, Expedia y otras plataformas de reservas.\nManejo de herramientas informáticas y sistemas de gestión hotelera.\nPersona organizada, responsable, autónoma y resolutiva.\nAtención al detalle y orientación al cliente.\nBuenas habilidades de comunicación.\nDisponibilidad para turno nocturno, fines de semana y festivos según cuadrante.\nResidencia en Granollers o alrededores, o facilidad de desplazamiento.\nImprescindible disponer de medio de transporte o alternativa para cumplir el horario nocturno.\nInglés avanzado hablado y escrito. Se valorarán otros idiomas.\nFP de Grado Superior.\nRequisits: anglès (parlat Superior, escrit Superior), espanyol (parlat Superior, escrit Superior)\nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"diploma",
-"english",
-"exp:3"
-],
-"why": {
-"diploma": "fp de grado superior"
-},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92323347",
-"title": "LIMPIADORES/AS - GRANOLLERS",
-"town": "Granollers",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323347",
-"published": "2026-08-26",
-"modified": "",
-"company": "Empresa de neteja",
-"salary": "1517-1517 €/mes",
-"text": "Realizar la limpieza integral de zonas de producción, incluyendo suelos, paredes y techos, asegurando el cumplimiento de normativas de higiene y seguridad.\nMantener limpias las zonas comunes, tales como comedores, vestuarios y lavabos, con un enfoque en la desinfección y el orden.\nColaborar en tareas de mantenimiento básico de equipos de limpieza y reportar cualquier incidencia.\nAsegurar el uso eficiente de productos y materiales, respetando las prácticas sostenibles de la empresa.\nExperiència: Experiència 1 anys. Experiencia previa en tareas de limpieza (mínimo 1 año, valorable pero no imprescindible).. Competències / coneixements: Conocimientos básicos de normativas de higiene y seguridad laboral (se formará al candidato/a seleccionado).\nOrientación al detalle, responsabilidad y capacidad para trabajar en equipo.\nRequisits: Disponibilitat de vehicle. espanyol (parlat Mitjà, escrit Mitjà)\nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"exp:1"
-],
-"why": {},
-"first_seen": ""
 },
 {
 "src": "feinaactiva",
@@ -7892,24 +7754,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92323352",
-"title": "AUXILIAR ADMINISTRATIU/IVA",
-"town": "Malgrat de Mar",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323352",
-"published": "2026-08-26",
-"modified": "",
-"company": "GESTORIA",
-"salary": "",
-"text": "- conciliació bancària\n- seguiment sinistres\n- portar cartera d'assegurances\n- fer remeses bancàries\n- comptabilitats\n- redacció de documents\n- feina interna d'un despatx: trucar als clients, arxivar...\nExperiència: Experiència 9 mesos. Haver treballat en tasques administratives o gestories. Competències / coneixements: - persona molt meticulosa, que repassa la seva feina feta\n- bona comprenssió lectora i bona redació de cartes\n- bona caligrafia\nRequisits: català (parlat Superior, escrit Superior), espanyol (parlat Baix, escrit Baix)\nEstudis: \nContracte laboral indefinit\nJornada parcial matí (900 hores - jornada anual)",
-"flags": [
-"exp:9"
-],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "FA92323858",
 "title": "AUXILIAR ADMINISTRATIU/IVA",
 "town": "Malgrat de Mar",
@@ -8466,24 +8310,6 @@
 ],
 "why": {},
 "first_seen": "2026-11-24 08:38"
-},
-{
-"src": "feinaactiva",
-"id": "FA92323266",
-"title": "PERSONAL AUXILIAR ADMINISTRATIU COMERCIAL",
-"town": "Mataró",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323266",
-"published": "2026-08-26",
-"modified": "",
-"company": "Empresa de Mataró",
-"salary": "1430-1430 €/mes",
-"text": "Atenció al públic per email i telèfon ( informació general, gestió comercial, seguiment d'entregues, gestió d'incidències... ).\nPreparació de pressupostos d'acord amb les sol·licituds dels clients.\nRevisió i tràmit administratiu de comandes de magatzem.\nSeguiment de transports: Control d'entregues i Recollides de comandes, gestió d'endarreriments i incidències.\nSuport a altres departaments i funcions de l'empresa.\nTancaments de caixa.\nExperiència: Experiència 1 mesos. Es requereix com a mínim \na) formació a nivell de grau mig d'administració. \nb) en cas de no dispsar de formació serà necessari acreditar 2 anys d'experiència minima com a administratiu comercial. Competències / coneixements: Facilitat per a l'ús de programari informàtic (office, e-mail entorn web de gestió de comandes i programari de gestió per a enregistrament de sol·licituds, preparació de pressupostos, passar comandes a magatzem...)\nSerà necessari disposar de vehicle en cas de no viure a la ciutat de Mataró.\nRequisits: català (parlat Superior, escrit Superior), espanyol (parlat Superior, escrit Superior)\nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"exp:1"
-],
-"why": {},
-"first_seen": ""
 },
 {
 "src": "feinaactiva",
@@ -9497,27 +9323,6 @@
 "lang_level": "espanyol parlat superior escrit superior catala parlat mitja escrit mitja"
 },
 "first_seen": "2026-11-24 08:38"
-},
-{
-"src": "feinaactiva",
-"id": "FA92323305",
-"title": "MONITORS/ES SERVEI DE MENJADOR (MOLLET DEL VALLES)",
-"town": "Mollet del Vallès",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323305",
-"published": "2026-08-26",
-"modified": "",
-"company": "L'EINA COOPERATIVA",
-"salary": "",
-"text": "- Programació i execució d’activitats educatives desenvolupades en el temps educatiu de migdia.\n- Supervisió, acompanyament i suport a l’espai del menjador escolar\nExperiència: Experiència 1 anys. Experiència com a Monitor/a de Lleure, mínim 1 any. Competències / coneixements: - Títol de monitor/a en Educació en el Lleure i/o Titulació CFGS Tècnic/a superior en Educació Infantil, CFGS Tècnic/a superior en Integració Social.\n- Experiència com a Monitor/a de Lleure, mínim 1 any.\n- Català escrit i parlat, mínim nivell C o llengua materna.\nRequisits: \nEstudis: \nContracte laboral indefinit\nJornada parcial (12 hores - jornada setmanal)",
-"flags": [
-"diploma",
-"exp:1"
-],
-"why": {
-"diploma": "titol de monitor a en educacio en el lleure i o titulacio cfgs tecnic a superior en educacio infantil cfgs tecnic a superior en integracio social"
-},
-"first_seen": ""
 },
 {
 "src": "feinaactiva",
@@ -11453,24 +11258,6 @@
 "flags": [],
 "why": {},
 "first_seen": "2026-11-23 13:34"
-},
-{
-"src": "feinaactiva",
-"id": "FA92323336",
-"title": "SOLDADOR/A",
-"town": "Sabadell",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323336",
-"published": "2026-08-26",
-"modified": "",
-"company": "TECNIQUES EN XAPA GENEALS 2008, S.L",
-"salary": "",
-"text": "Soldadura expositores metálicos de chapa fina\nExperiència: Experiència 2 anys. Soldadura en chapa fina\nRequisits: \nEstudis: \nContracte laboral indefinit\nJornada intensiva",
-"flags": [
-"exp:2"
-],
-"why": {},
-"first_seen": ""
 },
 {
 "src": "feinaactiva",
@@ -13758,27 +13545,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92323285",
-"title": "AUXILIAR CONTABLE",
-"town": "Sant Adrià de Besòs",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323285",
-"published": "2026-08-26",
-"modified": "",
-"company": "ASSESSORIA",
-"salary": "",
-"text": "Los trabajos a realizar serán de pasar apuntes contables, realización de facturas de clientes, manejo de word, excel, programas informáticos:A3, básicamente, y cualquier otra función relacionada con los temas contables que se precise.\nExperiència: Experiència 1 anys. Experiencia en pasar apuntes contables, en departamento contable, en manejo de programas informáticos contables tales como A3.. Competències / coneixements: Temas fiscals, laborals, atenció al client\nRequisits: català (parlat Mitjà, escrit Mitjà)\nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"lang_level",
-"exp:1"
-],
-"why": {
-"lang_level": "catala parlat mitja escrit mitja"
-},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "FA92324539",
 "title": "TÈCNIC/A DE DISSENY CAD I OPERARI/ÀRIA DE MECANITZAT (TORN I/O FRESA)",
 "town": "Sant Adrià de Besòs",
@@ -15043,27 +14809,6 @@
 "car": "preferiblemente que viva en la zona o disponga de vehiculo propio para garantizar la puntualidad en el servicio"
 },
 "first_seen": "2026-11-24 08:38"
-},
-{
-"src": "feinaactiva",
-"id": "FA92323327",
-"title": "MONITORS/MONITORES D'EXTRAESCOLAR DE ROBÒTICA I PROGRAMACIÓ",
-"town": "Vilassar de Mar",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323327",
-"published": "2026-08-26",
-"modified": "",
-"company": "Edukem-nos, S.L.",
-"salary": "",
-"text": "Impartir activitats extraescolars de robòtica i programació educativa.\nGestionar i controlar el material de les activitats.\nAdaptar o preparar activitats segons les necessitats del grup, si s’escau.\nAcompanyar i motivar l’alumnat durant les sessions.\nExperiència: Experiència 1 anys. Experiència treballant amb nens/es i/o joves.. Competències / coneixements: Si es tenen coneixements en robòtica educativa i programació, com: Scratch, ús dels materials de Lego, Disseny 3D, programació més avançada, també es tindrà en compte. \nImprescindible disposar de vehicle propi.\nBon tracte amb infants i capacitat de dinamitzar grups.\nResponsabilitat i compromís.\nRequisits: Disponibilitat de vehicle, Permisos de conduir: b. català (parlat Superior, escrit Superior)\nEstudis: \nContracte laboral temporal (9 mesos)\nJornada parcial (8 hores - fix i periòdic de caràcter discontinu)",
-"flags": [
-"car",
-"exp:1"
-],
-"why": {
-"car": "imprescindible disposar de vehicle propi"
-},
-"first_seen": ""
 },
 {
 "src": "feinaactiva",
@@ -16913,6 +16658,28 @@
 "forklift": "carretillero a retractil … carretillero a retractil … para empresa ubicada en llica d amunt estamos en busqueda de un a carretillero a con experiencia en retractil"
 },
 "first_seen": "2026-11-23 13:34"
+},
+{
+"src": "iman",
+"id": "carretillero-retractil-f7b60bf9-7f01-4a35-8380-1ef122ad424d",
+"title": "Carretillero Retráctil",
+"town": "Lliçà d'Amunt",
+"town_note": "",
+"url": "https://empleo.imancorp.es/jobs/carretillero-retractil-f7b60bf9-7f01-4a35-8380-1ef122ad424d",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "",
+"text": "Volver\n Volver\n Iniciar sesión\n ¡Aplica ahora!\n Lliçà d'Amunt\n 17.000 € - 18.000 €\n Bruto/año\n Compras, logística y almacén\n Almacén\n Logística\n Completa\n Presencial\n Empleado\n Logística\n Carretillero Retráctil\n Publicada\n 24 de Noviembre\n Desde IMAN TEMPORING Mollet , empresa especializada en RRHH, queremos acompañarte en tu trayectoria laboral. Para empresa ubicada en Lliça d'Amunt , estamos en búsqueda de un/a carretillero/a para realizar tareas de carretillero/a.\n Las principales responsabilidades del puesto son:\n Carga y descarga de camiones y contenedores.\n Ubicación y retirada de palés en estanterías.\n Montaje de palés\n Tareas básicas de manipulación tales como empaquetar, etiquetar, envasar...\n Preparación y organización de pedidos.\n Abastecimiento de líneas de producción.\n Te ofrecemos:\n Salario competitivo\n Horario de 8 a 17h con 1 hora para comer, o rotativo mañana y tarde\n Requisitos mínimos\n Somos una empresa comprometida con la igualdad y no discriminamos por género, etnia, orientación sexual, diversidad funcional, edad u otros aspectos protegidos por la legislación. Este proceso de selección se basa en criterios objetivos de profesionalidad, méritos y capacidad.\n Requisitos Mínimos:\n Experiencia previa en puestos similares.\n Disponibilidad para trabajar en horario de 8 a 17, o bien rotativo de mañana y tarde.\n Incorporación inmediata\n Persona responsable, dinámica y con ganas de aprender.\n Capacidad para trabajar en equipo y de forma autónoma.",
+"flags": [
+"forklift"
+],
+"why": {
+"forklift": "carretillero retractil … carretillero retractil … para empresa ubicada en llica d amunt estamos en busqueda de un a carretillero a para realizar tareas de carretillero a"
+},
+"first_seen": "2026-11-24 23:37",
+"repost_of": "iman:carretillero-retractil-e46378ca-569d-4f74-8663-a4d103f350f1",
+"repost_first_seen": "2026-11-23 13:34"
 },
 {
 "src": "iman",
@@ -21372,6 +21139,69 @@
 },
 {
 "src": "randstad",
+"id": "3026003",
+"title": "Responsable de Cajas",
+"town": "Badalona",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/responsable-cajas-3026003/",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "",
+"text": "¡ERES UNA PIEZA FUNDAMENTAL EN EL EQUIPO! Tus funciones serán :\n- Gestionar el equipo de Cajas: seleccionar, acoger y formar a los nuevos empleados, acompañar y desarrollar a tus colaboradores, planificar las tareas y supervisar su desempeño asegurando la satisfacción de los clientes.\n- Asegurar el cobro, las devoluciones y el control de las mercancías, manejar los documentos contables relacionados con caja y gestionar las incidencias, garantizar la fiabilidad y el respeto de los procedimientos de cajas y la gestión del cofre y asistir a la línea de cajas.\n- Asegurar la correcta atención de los Clientes asegurando su satisfacción, garantizando la comodidad y fluidez del paso por cajas, gestionando las incidencias\n- Realizar la gestión administrativa: seguimiento de las tareas contables, archivo, administración de personal, etc.  Requisitos del puesto: ¿CUÁL ES NUESTRO PERFIL IDEAL?\nExperiencia como Responsable de Línea de Cajas en Mediana o Gran superficie de por lo menos 2 años\nHaber gestionado un equipo de por lo menos 20 cajeras/os. Formación: Educación primaria\n Conocimientos: Área de caja\n Experiencia: 2 años\nTus beneficios: ¿QUÉ TE OFRECEMOS POR TENER LA SANGRE NARANJA?\nContrato indefinido a jornada completa, en turnos rotativos de mañana y tarde, le lunes a sábado, en una empresa de sólidos resultados, con un plan de expansión ambicioso a nivel nacional e internacional, y que forma parte de uno de los grupos líderes en la distribución en Europa\nConviértete en accionista del grupo ADEO.\n25 días laborables de vacaciones.\nDía de tu cumpleaños libre.\n10% de descuento en tus compras OBRAMAT.\n50% del seguro de salud pagado por la empresa.\nCesta de Navidad.\nSeguro de vida.\nDescuentos en tus compras de Ocio, Belleza, Tecnología... Gracias a nuestro programa de fidelización \"Te lo mereces\".\nPlan personalizado de formación para potenciar las oportunidades de crecimiento dentro de la Compañía\nPlan Premium de TaxDown con revisión de expertos fiscales y protección total\nStream: Control total de tus finanzas. Puedes disponer de parte de tu salario de forma inmediata\nWellwo: Plataforma de salud (nutrición, actividad física y bienestar emocional)\nObramat es una empresa firmemente comprometida con la igualdad de oportunidades y la diversidad. Nuestra cultura se basa en el respeto mutuo y la no discriminación, garantizando un entorno de trabajo seguro y equitativo para todas las personas, independientemente de su sexo, origen, religión, discapacidad, edad, orientació",
+"flags": [
+"exp:2"
+],
+"why": {},
+"first_seen": "2026-11-24 23:37"
+},
+{
+"src": "randstad",
+"id": "3026005",
+"title": "Contable de Proveedores y Tesorería (SAP)",
+"town": "Badalona",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/contable-proveedores-y-tesoreria-sap-3026005/",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "25000-25000 EUR/YEAR",
+"text": "En dependencia directa del departamento financiero, te encargarás de asegurar el rigor contable y la gestión del ciclo de pagos:\nContabilización y control: Verificar y contabilizar en SAP las facturas y abonos de proveedores (bienes y servicios), comprobando imputación contable, IVA y vencimientos.\nValidación documental: Contrastar facturas con pedidos, albaranes o justificantes de servicio, asegurando que cuentan con las aprobaciones internas correspondientes.\nGestión de incidencias: Resolver junto con el departamento de Compras y los propios proveedores cualquier incidencia de facturación (diferencias de importe, duplicidades, falta de documentación).\nTesorería y pagos: Preparar propuestas y remesas de pago, tramitar los pagos aprobados y hacer seguimiento de posibles devoluciones o rechazos.\nConciliaciones: Conciliar saldos de proveedores, revisar la antigüedad de partidas pendientes y registrar/conciliar los movimientos bancarios, cuadrando los saldos con el libro mayor.\nCierres e impuestos: Colaborar en el cierre contable mensual (justificación de saldos y provisiones de facturas pendientes de recibir) y preparar/revisar la información para la presentación de los modelos fiscales 303, 115, 111, 349 y 592.\nReporting y archivo: Elaborar informes en Excel sobre vencimientos y saldos pendientes, manteniendo actualizado el archivo documental. Requisitos del puesto: Formación: Ciclo Formativo de Grado Superior (CFGS) en Administración y Finanzas o estudios equivalentes en contabilidad (titulación universitaria valorable).\nExperiencia: Mínimo 3 años realizando funciones similares en departamentos de contabilidad/administración.\nConocimientos técnicos: Dominio de la fiscalidad aplicada a la operativa diaria (modelos 303, 115, 111, 349 y 592) y buen manejo de Excel. Se valorará muy positivamente aportar experiencia con SAP.\nIdiomas: Dominio de castellano y catalán, y nivel medio/alto de inglés para la gestión con proveedores internacionales.\nCompetencias: Buscamos a alguien con alto nivel de rigor, orientación al detalle, responsabilidad y discreción en el manejo de información financiera confidencial. Formación: Ciclo Formativo Grado Superior\n Conocimientos: SAP (ERP)\n Experiencia: 3 años\nTus beneficios: Estabilidad laboral en un entorno profesional consolidado.\nSalario: Valorable según experiencia aportada.\nExcelente horario y conciliación:\nDe lunes a jueves de 8:30 a 17:30 h.\nViernes jornada intensiva de 7:30 a 14:45 h.\nJornada intensiva de verano (julio y ",
+"flags": [
+"lang_level",
+"diploma",
+"english",
+"exp:3"
+],
+"why": {
+"lang_level": "dominio de castellano y catalan y nivel medio alto de ingles para la gestion con proveedores internacionales",
+"diploma": "ciclo formativo de grado superior cfgs en administracion y finanzas o estudios equivalentes en contabilidad titulacion universitaria valorable … ciclo formativo grado superior"
+},
+"first_seen": "2026-11-24 23:37"
+},
+{
+"src": "randstad",
+"id": "3026080",
+"title": "Repartidor Recambios en MOTO - BADALONA",
+"town": "Badalona",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/repartidor-recambios-moto-badalona-3026080/",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "9.85-9.85 EUR/HOUR",
+"text": "Como pieza clave de la logística diaria, te encargarás de que el material llegue en optimas condiciones. Tus funciones principales serán:\n-Ruta y distribución: Gestionar el transporte y garantizar la entrega puntual de los repuestos a la red de clientes y talleres.\n-Cargar la mercancía de forma organizada antes de salir y realizar la descarga segura en cada punto de entrega.\n-Atención al cliente: Ofrecer una atención excelente y profesional al cliente.\n-Cuidado de tu herramienta de trabajo: Mantener el vehículo de reparto asignado limpio, revisado y en perfectas condiciones. Requisitos del puesto: - Se requiere experiencia previa como de repartidor.\n- Es necesario el carnet B en vigor.\n- Se requiere muy buena orientación para trasladar paquetería.\n- Vehículo a cargo de la empresa. Formación: Educación primaria\n Conocimientos: almacen y reparto\n Experiencia: 1 año\nTus beneficios: - Se ofrece un contrato temporal\n- Salario 9,85 euros brutos/hora\n- Jornada completa de lunes a viernes\n- Horario 09:00 a 13:00 y de 15:00 a 19:00\n- Ubicación: Badalona\n- Vehículo a cargo de la empresa (MOTO)",
+"flags": [
+"car",
+"exp:1"
+],
+"why": {
+"car": "es necesario el carnet b en vigor"
+},
+"first_seen": "2026-11-24 23:37"
+},
+{
+"src": "randstad",
 "id": "3019756",
 "title": "Promotor o promotora cajas de experiencias Cabrera de Mar Navidad",
 "town": "Cabrera de Mar",
@@ -21427,6 +21257,24 @@
 "diploma": "personas con formacion universitaria o formacion profesional … ciclo formativo grado medio … fp grado medio"
 },
 "first_seen": ""
+},
+{
+"src": "randstad",
+"id": "3025991",
+"title": "TÉCNICO/A CALIDAD packaging",
+"town": "Canovelles",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/tecnico-a-calidad-packaging-3025991/",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "10.84-10.84 EUR/HOUR",
+"text": "Asegurar el cumplimiento de normativas (ISO 9001, BRCGS Packaging, FSC), trazabilidad y gestión documental.\nAnalizar indicadores de calidad (KPIs), interpretar planos/especificaciones y gestionar reclamaciones y no conformidades.\nApoyar en auditorías internas y externas, liderar mejoras y formar/sensibilizar al equipo. Requisitos del puesto: Conocimientos en sistemas de calidad, análisis de datos y resolución de problemas.\nPerfil proactivo, con atención al detalle, pensamiento crítico y resiliencia bajo presión.\nCapacidad de negociación y buena comunicación (tanto para informes técnicos como con equipos y clientes) Formación: Grado\n Experiencia: 3 años\nTus beneficios: ¿ Horario: Turnos rotativos de mañana y tarde\n¿ Salario: 10,84 ¿ brutos/hora\n¿ Contrato: Estable, con clara intención de pase a fijo y crecimiento interno",
+"flags": [
+"exp:3"
+],
+"why": {},
+"first_seen": "2026-11-24 23:37"
 },
 {
 "src": "randstad",
@@ -25954,29 +25802,6 @@
 },
 {
 "src": "xaloc",
-"id": "397249",
-"title": "COMERCIAL TÈCNIC SECTOR NÀUTIC",
-"town": "Cabrils",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/397249",
-"published": "2026-11-09",
-"modified": "2026-11-17",
-"company": "",
-"salary": "",
-"text": "COMERCIAL sector náutico en Europa,España, Portugal y Francia. Planificación y realización de viajes y rutas Presentación de productos y asesoramiento comercial y técnico Preparación y presentación de muestras, catálogos, tarifas y novedades a los clientes Elaboración y seguimiento de presupuestos, gestión de pedidos Identificación de nuevas oportunidades de negocio y seguimiento de la competencia. Participación en ferias nacionales e internacionales Planificación de visitas, preparación de documentación comercial y seguimiento posterior de los contactos Capacitats requerides INFORMÀTICA: Se valorará experiencia con programas CRM, ERP, Microsoft 365 y herramientas de gestión comercial. Experiencia en ús de maquinària industrial. Se valorará formación en comercio, ventas, administración de empresas, marketing o áreas técnicas. VIAJES A OTRAS ZONAS DE ESPAÑA, PORTUGAL Y FRANCIA. LA EMPRESA PONE FURGONETA PARA VISITAS COMERCIALES Requisits Obligatoris Llengua Castellà - Nivell Experimentat C1 . Francès - Nivell Experimentat C1 . Anglès - Nivell Experimentat C1 Recomanables Nivell acadèmic ESO Permís de conduir B Vehicle propi Sí Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 1333€ Horari Lu - Ju 8 a 13:30h / 15:30 a 18h. Vi. 7-15h Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres",
-"flags": [
-"car",
-"lang_level",
-"english"
-],
-"why": {
-"car": "nivell experimentat c1 recomanables nivell academic eso permis de conduir b vehicle propi si informacio d interes data dincorporacio 01 12 2026 salari mensual 1",
-"lang_level": "nivell experimentat c1 … nivell experimentat c1 … nivell experimentat c1 recomanables nivell academic eso permis de conduir b vehicle propi si informacio d interes data dincorporacio 01 12 2026 salari mensual 1"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
 "id": "396026",
 "title": "Netejador/a (amb vehicle propi - cap de setmana)",
 "town": "Caldes d'Estrac",
@@ -26187,29 +26012,13 @@
 },
 {
 "src": "xaloc",
-"id": "397211",
-"title": "Educador/a Social",
-"town": "Caldes d'Estrac",
-"town_note": "list town Caldes d'Estrac, location Caldes de Montbui",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/397211",
-"published": "2026-11-06",
-"modified": "2026-11-17",
-"company": "",
-"salary": "",
-"text": "Residència del sector geriàtric cerca EDUCADOR/A SOCIAL. Funcions: dissenyar, planificar i avaluar les activitats de dinamització. Motivar, facilitar i canalitzar iniciatives. Transmetre estratègies i eines que facilitin la relació i comunicació interpersonal. Realització de l'ACPs. S'ofereix treballar 15 hores setmanals, en horari de tarda de dilluns a divendres. Capacitats requerides Titulació d'Educació Social. Interès en feina parcial, horari de tarda. Requisits Molt importants Titulació Grau - Ciències socials i jurídiques - Educació Social Informació d'interès Data d’incorporació 07/12/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada parcial Jornada 3 Exclusivament tarda",
-"flags": [],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "xaloc",
 "id": "397217",
 "title": "Aux. atenció sociosanitària",
 "town": "Caldes d'Estrac",
 "town_note": "list town Caldes d'Estrac, location Caldes de Montbui",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397217",
 "published": "2026-11-06",
-"modified": "2026-11-19",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Es requereix auxiliar d'atenció sociosanitària per treballar en residència. Jornada completa: de dilluns a diumenge, treballant 6 dies seguits, de 7 a 11h del matí. Total: 24 hores. El dia de descans el pacta la persona amb l'empresa cada setmana. Possibilitat d'incorporació estable si s'hi troba bé. Sou brut mensual de jornada completa: SMI (14 pagues). Dies festius es paguen. Incorporació immediata. Capacitats requerides Imprescindible experiència cuidant gent gran. Preferible amb formació d'aux. sociosanitari, aux. d'infermeria o similar. Requisits Obligatoris Experiència en l'ocupació (mesos) 6 Llengua Castellà - Nivell Independent B2 Molt importants Formació professionalitzadora Atenció sociosanitària a persones dependents en institucions socials Informació d'interès Data d’incorporació 14/12/2026 Contracte Tipus Temps parcial: indefinit Durada Indefinit Jornada Jornada 1 Indiferent Jornada 2 Només jornada parcial Jornada 3 Exclusivament matí",
@@ -28119,6 +27928,28 @@
 },
 {
 "src": "xaloc",
+"id": "397722",
+"title": "AUXILIAR ADMINISTRATIU/IVA (Contracte per a la Formació i l'Aprenentatge)",
+"town": "Mataró",
+"town_note": "",
+"url": "https://xaloc.diba.cat/ofertes-de-feina/397722",
+"published": "2026-11-24",
+"modified": "2026-11-24",
+"company": "",
+"salary": "",
+"text": "Atenció al client presencial i telefnica. Arxiu de documentació. Entrada d'apunts comptables de persones físiques i societats, moviments bancaris i càlcul de declaracions d'impostos IVA/IRPF. Recolçament de tasques administratives. Contracte per a la Formació i l'Aprenentatge (edat entre 16 i 30 anys). Es faràn 20 h de treball efectiu i 11 h de formació d'àmbit administratiu a l'oficina. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia Currículum a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397722 Capacitats requerides IMPRESCINDIBLE Títol ESO. No tenir formació àmbit administratiu (CP o CF). Català i castellà parlats i escrits correctament, ofimàtica (word, excel i outlook) nivell usuari. Capacitat d'organtizació. Residència a Mataró o rodalies. Estar inscrit/a com Demandant d'Ocupació No Ocupat (DONO). Contracte de 3 ms prorrogable fins 31/01/2028. Requisits Obligatoris Nivell acadèmic ESO Informàtica Programari d'Ofimàtica - Usuari Mitjà Llengua Castellà - Nivell Experimentat C1 . Català - Nivell Experimentat C1 Recomanables Formació professionalitzadora Operacions auxiliars d'enregistrament i tractament de dades i documents Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 750€ Horari De dl a dv 10 a 14h+ 11 h formació setmanals Contracte Tipus Formació i aprenentatge Durada Més de 12 mesos Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada parcial Jornada 3 Exclusivament matí",
+"flags": [
+"lang_level",
+"diploma"
+],
+"why": {
+"lang_level": "catala i castella parlats i escrits correctament ofimatica word excel i outlook nivell usuari … nivell experimentat c1 … nivell experimentat c1 recomanables formacio professionalitzadora operacions auxiliars d enregistrament i tractament de dades i documents informacio d interes d",
+"diploma": "nivell experimentat c1 recomanables formacio professionalitzadora operacions auxiliars d enregistrament i tractament de dades i documents informacio d interes d"
+},
+"first_seen": "2026-11-24 23:37"
+},
+{
+"src": "xaloc",
 "id": "396128",
 "title": "Auxiliar tècnic/a educatiu/va",
 "town": "Mollet del Vallès",
@@ -29085,28 +28916,6 @@
 "text": "REFORÇ ESCOLAR DE PRIMÀRIA Dilluns i dimecres de 17 a 18,30h (més gestió) al local del PDC- Total 4,0h &#10003; REFORÇ ESCOLAR DE SECUNDÀRIA Dimarts i Dijous de 16,30 a 18,00h (més gestió) al local de Can Jorba ¿ Total 4,0h Capacitats requerides Graduats/es que tinguin coneixements per donar classes en àmbits d'humanitats, ciències socials o carreres científiques. Informació d'interès Data d’incorporació 24/11/2026 Horari 8 hores setmanals Contracte Tipus Temporals bonificats Durada Més de 6 i menys de 12 mesos",
 "flags": [],
 "why": {},
-"first_seen": ""
-},
-{
-"src": "xaloc",
-"id": "397247",
-"title": "Neteja d'habitacions",
-"town": "Vilassar de Mar",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/397247",
-"published": "2026-11-09",
-"modified": "2026-11-11",
-"company": "",
-"salary": "",
-"text": "Neteja i preparació d'habitacions a fons. És molt necessari complir amb el temps i el métode de treball. Garantir la pulcritut i la bona imatge. Capacitats requerides Eficiència i bona gestió del temps. Educació i respecte en el tracte amb als hostes. Matins 5h diaries. 25 hores a la setmana 950-1000 EUROS (pagues prorretejades). De dilluns a diumenge amb 2 dies de descans. torns rotatius Es valorarà experiència i sobretot, actitud i capacitats. Tasques desenvolupar Escombrar o netejar amb aspiradora, netejar i encerar terres, mobles i altres estris en edificis, autocars, autobusos, tramvies, trens i avions. Fer els llits, netejar cambres de bany i subministrar tovalloles, sabó i articles afins. Netejar cuines i ajudar en les feines de cuina en general, incloent-hi la neteja d'atuells. Recollir escombraries, buidar contenidors d'escombraries i portar-ne el contingut als punts de recollida. Requisits Molt importants Llengua Castellà - Nivell Independent B2 . Català - Nivell Independent B2 Informació d'interès Data d’incorporació 16/11/2026 Horari 5 dies a la setmana, es treballa cap de setmana. Contracte Tipus Indefinit: ordinari Durada Indefinit",
-"flags": [
-"lang_level",
-"kitchen_meat_alcohol"
-],
-"why": {
-"lang_level": "nivell independent b2 … nivell independent b2 informacio d interes data dincorporacio 16 11 2026 horari 5 dies a la setmana es treballa cap de setmana",
-"kitchen_meat_alcohol": "netejar cuines i ajudar en les feines de cuina en general incloent hi la neteja d atuells"
-},
 "first_seen": ""
 },
 {
