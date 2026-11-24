@@ -1,47 +1,47 @@
 {
-"built": "2026-11-24 01:53 UTC",
+"built": "2026-11-24 08:38 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
-"count": 174,
-"secs": 409,
-"at": "2026-11-24 01:59"
+"count": 175,
+"secs": 380,
+"at": "2026-11-24 08:44"
 },
 "feinaactiva": {
 "ok": true,
-"count": 696,
-"secs": 6,
-"at": "2026-11-24 02:00"
+"count": 700,
+"secs": 5,
+"at": "2026-11-24 08:44"
 },
 "eurofirms": {
 "ok": true,
 "count": 76,
-"secs": 2,
-"at": "2026-11-24 02:00"
+"secs": 1,
+"at": "2026-11-24 08:44"
 },
 "randstad": {
 "ok": true,
 "count": 173,
-"secs": 157,
-"at": "2026-11-24 02:02"
+"secs": 165,
+"at": "2026-11-24 08:47"
 },
 "iman": {
 "ok": true,
 "count": 256,
 "secs": 49,
-"at": "2026-11-24 02:03"
+"at": "2026-11-24 08:48"
 },
 "ras": {
 "ok": true,
 "count": 60,
-"secs": 10,
-"at": "2026-11-24 02:03"
+"secs": 6,
+"at": "2026-11-24 08:48"
 },
 "meditempus": {
 "ok": true,
 "count": 32,
 "secs": 1,
-"at": "2026-11-24 02:03"
+"at": "2026-11-24 08:48"
 }
 },
 "offers": [
@@ -1946,26 +1946,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "09202630513",
-"title": "GEROCULTORS/ES",
-"town": "Badalona",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202630513",
-"published": "2026-10-19",
-"modified": "",
-"company": "Oficina de Treball del SOC",
-"salary": "1160-1160 €/mes",
-"text": "Cuidar, acompanyar i assistir les persones residents en les seves activitats diàries, procurant sempre el seu benestar físic, emocional i social.\nCol·laborar en el desenvolupament i suport de teràpies, seguint les indicacions del personal sanitari i de l'equip d'atenció directa.\nServir i assistir en esmorzars, berenars i altres àpats, així com mantenir nets i en bon estat els estris personals dels i les residents.\nAcompanyar en passejos i activitats, i ajudar els i les residents en el moment d'anar a dormir o aixecar-se, especialment aquells amb mobilitat reduïda.\nRealitzar la higiene personal de les persones residents.\nEfectuar les mobilitzacions necessàries per afavorir el confort i prevenir complicacions derivades de la immobilitat.\nComunicar qualsevol incidència o canvi en l'estat del resident al l'equip d'infermeria o supervisió.\nExperiència: Competències / coneixements: Imprescindible alguna de les següents titulacions: CFGM Auxiliar de Infermeria, CFGM Atenció Sociosanitària o Certificat de Professionalitat.\nRequisits: \nEstudis: \nContracte laboral indefinit\nJornada parcial (38 hores - jornada setmanal)",
-"flags": [
-"diploma"
-],
-"why": {
-"diploma": "cfgm auxiliar de infermeria cfgm atencio sociosanitaria o certificat de professionalitat"
-},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "09202630616",
 "title": "COMERCIAL DE VENDES",
 "town": "Badalona",
@@ -3019,27 +2999,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92327365",
-"title": "OPERARI/ÀRIA DE LOGÍSTICA /MAGATZEM.",
-"town": "Badalona",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92327365",
-"published": "2026-10-22",
-"modified": "",
-"company": "CENTRE METAL.LÚRGIC",
-"salary": "1833-1833 €/mes",
-"text": "Descàrrega de camions i recepció de material, ubicació del material a les prestatgeries i organització del magatzem, control d’ estoc, preparació de comandes i devolucions, càrrega de camions\nExperiència: Experiència 1 anys. Experiència prèvia. Competències / coneixements: Valorable coneixements material elèctric, fontaneria i climatització.\nRequisits: català (parlat Superior, escrit Mitjà), espanyol (parlat Superior, escrit Mitjà)\nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"lang_level",
-"exp:1"
-],
-"why": {
-"lang_level": "catala parlat superior escrit mitja espanyol parlat superior escrit mitja"
-},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "FA92327400",
 "title": "AUXILIAR ADMINISTRATIU/IVA CENTRE EDUCATIU BADALONA (SUBSTITUCIÓ UN TERÇ JORNADA)",
 "town": "Badalona",
@@ -3257,25 +3216,6 @@
 "why": {
 "diploma": "formacion profesional en construcciones metalicas diseno en fabricacion mecanica o similar"
 },
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92328295",
-"title": "AUXILIAR ADMINISTRATIVO/ADMINISTRATIVA CON ATENCION AL CLIENTE",
-"town": "Badalona",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92328295",
-"published": "2026-11-05",
-"modified": "",
-"company": "ASESORIA",
-"salary": "1471-1500 €/mes",
-"text": "Recepción de clientes, atención telefónica, seguimiento de clientes, solicitud de documentación, introducción datos a programas. Se valoraran conocimientos de contabilidad.\nExperiència: Experiència 1 anys. Atención telefónica, atención al cliente, otras funciones propias del puesto de auxiliar administrativo tales como archivo, introducción de datos en sistemas informáticos, etc.\nRequisits: català (parlat Superior, escrit Superior), espanyol (parlat Superior, escrit Superior), anglès (parlat Mitjà, escrit Mitjà)\nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"english",
-"exp:1"
-],
-"why": {},
 "first_seen": ""
 },
 {
@@ -5623,25 +5563,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92326270",
-"title": "RECEPCIONISTA AMB ANGLÈS (H/D)",
-"town": "Granollers",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92326270",
-"published": "2026-10-06",
-"modified": "",
-"company": "ILUNION SERVICIOS INDUSTRIALES CATALUÑA",
-"salary": "1600-1700 €/mes",
-"text": "•\tControl de acceso a las instalaciones de toda persona ajena y no ajena a la empresa\n•\tRecepción de visitantes: Recibir y atender a las visitas de la empresa.\n•\tCentralita: contestar y dirigir las llamadas telefónicas entrantes\n•\tGestión del e-mail: identificar el motivo de la solicitud y transferirla al departamento adecuado. \n•\tReserva de salas y parking\n•\tGestión de correspondencia y paquetería: Recibir, distribuir y enviar tanto correspondencia como paquetería a nivel nacional e internacional.\n•\tApoyo administrativo al departamento de finanzas con la facturación y otras labores administrativas.\n•\tmantener ordenada la recepción de la empresa\n•\tArchivo de documentación\n•\tHacer seguimiento a las renovaciones de las licencias de actividades y permisos. \n•\nExperiència: Experiència 6 mesos. EXPERIENCIA  EN RECEPCIONS.\nANGLES AVANÇAT\nRequisits: Disponibilitat de vehicle, Permisos de conduir: b. anglès (parlat Superior, escrit Superior), català (parlat Superior, escrit Superior), espanyol (parlat Superior, escrit Superior)\nEstudis: \nContracte laboral temporal (12 mesos)\nJornada completa",
-"flags": [
-"english",
-"exp:6"
-],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "FA92326350",
 "title": "AUXILIAR INFORMACIÓ ESTACIÓ RENFE GRANOLLERS(H/D)",
 "town": "Granollers",
@@ -6675,6 +6596,24 @@
 "forklift": "operar la maquina de tall controlar la qualitat del producte tallat manipular carregar i descarregar materials amb carreto elevador preparacio de comandes embal … cal carnet de carreto elevador capacitat de treball en equip i experiencia previa en entorns de fabrica o produccio industrial"
 },
 "first_seen": ""
+},
+{
+"src": "feinaactiva",
+"id": "09202632887",
+"title": "TÈCNIC/A COMERCIAL",
+"town": "La Roca del Vallès",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202632887",
+"published": "2026-11-24",
+"modified": "",
+"company": "Oficina de Treball del SOC",
+"salary": "2857-2857 €/mes",
+"text": "Prospecció del mercat sectorial per identificar noves oportunitats de negoci. \nEstudi i anàlisi de la competència per identificar accions i novetats. \nGestió comercial i d'assesorament tècnic a nous clients per elaborar propostes competitives. \nSeguiment i  manteniment adequat de la cartera de clients per optimitzar la seva rendibilitat.\nElaborar i fer el seguiment de pressupostos per a la seva monitorització.\nContribuir a la definició d'estratègies de creixement i inversió de l'empresa.\nCoordinar l'activitat comercial internacional d'agents locals per a optimitzar-ne els resultats.\nCol·laborar amb Servei tècnic i Qualitat en la identificació de causa de no conformitat.\nRealitzar informes peròdics de vendes i de validació de subministrament (homologacions i formalitats).\nExperiència: Competències / coneixements: Formació universitària.\nConeixement molt valorable: injecció de plàstics, qualitat.\nIdiomes imprescindibles: Català, Castellà, Anglès.\nIdioma valorable: Francès.\nExcel avançat.\nOrientació a negoci.\nProactiu.\nRequisits: Disponibilitat per viatjar. espanyol (parlat Superior, escrit Superior), anglès (parlat Superior, escrit Superior), català (parlat Superior, escrit Superior)\nEstudis: \nContracte laboral indefinit\nJornada completa",
+"flags": [
+"english"
+],
+"why": {},
+"first_seen": "2026-11-24 08:38"
 },
 {
 "src": "feinaactiva",
@@ -8468,7 +8407,7 @@
 {
 "src": "feinaactiva",
 "id": "09202632604",
-"title": "PALETA OFICIAL DE 1A (REF. 32604)",
+"title": "PALETA OFICIAL/A DE 1A (REF. 32604)",
 "town": "Mataró",
 "town_note": "",
 "url": "https://feinaactiva.gencat.cat/search/offers/detail/09202632604",
@@ -8476,12 +8415,30 @@
 "modified": "",
 "company": "Oficina de Treball del SOC",
 "salary": "2286- €/mes",
-"text": "Execució de treballs de reforma integral, rehabilitació i manteniment d’habitatges, locals comercials i edificis. Treballs de paleteria, construcció de parets, enguixats, reparacions i acabats. Col·locació de paviments, revestiment de ceràmics, rajoles, sòcols i treballs d'anivellament de superfície. Execució de cuines, banys, terres i altres espais.\nExperiència: Experiència 36 mesos. PALETES\nRequisits: Permisos de conduir: b\nEstudis: \nContracte laboral indefinit\nJornada completa",
+"text": "Execució de treballs de reforma integral, rehabilitació i manteniment d’habitatges, locals comercials i edificis. Treballs de paleteria, construcció de parets, enguixats, reparacions i acabats. Col·locació de paviments, revestiment de ceràmics, rajoles, sòcols i treballs d'anivellament de superfície. Execució de cuines, banys, terres i altres espais.\nExperiència: Experiència 36 mesos. paleta\nRequisits: Permisos de conduir: b\nEstudis: \nContracte laboral indefinit\nJornada completa",
 "flags": [
 "exp:36"
 ],
 "why": {},
 "first_seen": ""
+},
+{
+"src": "feinaactiva",
+"id": "09202632706",
+"title": "INSTAL·LADOR/A-ELECTRICISTA-LAMPISTA REF 32706",
+"town": "Mataró",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202632706",
+"published": "2026-11-24",
+"modified": "",
+"company": "Oficina de Treball del SOC",
+"salary": "2285- €/mes",
+"text": "Execució d’instal·lacions completes de fontaneria, electricitat, climatització i gas en habitatges, locals comercials i edificis.\nRealització d’instal·lacions de fontaneria, incloent-hi xarxes d’aigua freda i calenta, desguassos, canonades, aixetes, sanitaris, plats de dutxa, termos i escalfadors.\nExecució d’instal·lacions elèctriques en reformes integrals, incloent-hi cablejat, quadres elèctrics, mecanismes, endolls, interruptors, punts de llum i connexions.\nExperiència: Experiència 5 anys. Experiència demostrable mínima de 5 anys com a instal·lador oficial de primera en fontaneria, electricitat, climatització i instal·lacions de gas.\nImprescindible experiència pràctica en instal·lacions completes d’habitatges, reformes integrals, rehabilitacions i manteniment d’edificis.. Competències / coneixements: Coneixements avançats d’instal·lacions elèctriques, quadres elèctrics, cablejat, mecanismes, il·luminació i detecció d’avaries.\nRequisits: Permisos de conduir: b. espanyol (parlat Mitjà, escrit Mitjà)\nEstudis: \nContracte laboral indefinit\nJornada completa",
+"flags": [
+"exp:5"
+],
+"why": {},
+"first_seen": "2026-11-24 08:38"
 },
 {
 "src": "feinaactiva",
@@ -9443,6 +9400,24 @@
 },
 {
 "src": "feinaactiva",
+"id": "FA92329473",
+"title": "VIGILANTES DE SEGURIDAD - MATARÓ (H/M)",
+"town": "Mataró",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329473",
+"published": "2026-11-24",
+"modified": "",
+"company": "PLANA FABREGA",
+"salary": "1731-1731 €/mes",
+"text": "Funciones propias del puesto de Vigilante de Seguridad Privada.\nExperiència: Experiència 1 anys. Funciones propias del puesto de Vigilante de Seguridad Privada. Competències / coneixements: Requisitos mínimos:\n- TIP de VIGILANTE DE SEGURIDAD en vigor\nRequisits: espanyol (parlat Superior, escrit Superior)\nEstudis: \nContracte laboral indefinit\nJornada completa",
+"flags": [
+"exp:1"
+],
+"why": {},
+"first_seen": "2026-11-24 08:38"
+},
+{
+"src": "feinaactiva",
 "id": "09202632519",
 "title": "AUXILIAR ADMINISTRATIU/VA D'ASSEGURANCES09/2026/32519",
 "town": "Mollet del Vallès",
@@ -9456,6 +9431,45 @@
 "flags": [],
 "why": {},
 "first_seen": ""
+},
+{
+"src": "feinaactiva",
+"id": "09202632863",
+"title": "PALETA - 32863",
+"town": "Mollet del Vallès",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202632863",
+"published": "2026-11-24",
+"modified": "",
+"company": "Oficina de Treball del SOC",
+"salary": "2285- €/mes",
+"text": "Execució de treballs de reforma integral, rehabilitació i manteniment d'habitatges, locals comercials i edificis; construcció de parets, enguixats, reparacions i acabats. Col.locació de paviments, revestiments de ceràmica, rajoles i treballs d'anivellament de superfície. Execució de cuines, banys, terres i altres espais.\nExperiència: Experiència 48 mesos. Experiència demostrable com a oficial de primera en feines de paleta, reformes integrals, rehabilitació d'habitatges i manteniment d'edificis. Es valoraràn coneixements en altres oficis relacionats amb les reformes, com ara pladur, pintura, fontaneria, electricitat i impermeabilitzacions.\nRequisits: Permisos de conduir: b\nEstudis: \nContracte laboral indefinit\nJornada completa",
+"flags": [
+"exp:48"
+],
+"why": {},
+"first_seen": "2026-11-24 08:38"
+},
+{
+"src": "feinaactiva",
+"id": "09202632915",
+"title": "INSTAL·LADOR ELECTRICITAT, GAS I CLIMA (REF 32915)",
+"town": "Mollet del Vallès",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202632915",
+"published": "2026-11-24",
+"modified": "",
+"company": "Oficina de Treball del SOC",
+"salary": "2285-2286 €/mes",
+"text": "Execució d'instal·lacions completes de fontaneria, electricitat, clima i gas en habitatges, locals comercials i edificis. Reralització d'instal·lacions de fontaneria (xarxes d'aigua f/c, sanitaris, canonades, etc) i execució d'instal·lacions elèctriques en reformes integrals (cablejats, quadres elèctrics, connexions, etc).\nExperiència: Experiència 5 anys. Experiència demostrable com a instal·lador oficial de primera en fontaneria, electricitat, clima i gas amb coneixements avançats i coneixements en manteniment i instal·lació d'aire i equips split, multisplit i clima.\nRequisits: Permisos de conduir: b. espanyol (parlat Superior, escrit Superior), català (parlat Mitjà, escrit Mitjà)\nEstudis: \nContracte laboral indefinit\nJornada intensiva",
+"flags": [
+"lang_level",
+"exp:5"
+],
+"why": {
+"lang_level": "espanyol parlat superior escrit superior catala parlat mitja escrit mitja"
+},
+"first_seen": "2026-11-24 08:38"
 },
 {
 "src": "feinaactiva",
@@ -11048,6 +11062,24 @@
 "car": "ha de tenir almenys 12 mesos d experiencia en fabricacio de finestres i permis de conduir"
 },
 "first_seen": ""
+},
+{
+"src": "feinaactiva",
+"id": "09202632739",
+"title": "INSTAL·LADORS/ES ELECTRICISTES-LAMPISTES D'EDIFICIS I HABITATGES",
+"town": "Premià de Mar",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202632739",
+"published": "2026-11-24",
+"modified": "",
+"company": "Oficina de Treball del SOC",
+"salary": "2285- €/mes",
+"text": "Haurà de fer instal·lacions completes de fontaneria, electricitat, climatització i gas en habitatges, locals comercials i edificis.\nExperiència: Experiència 60 mesos. Ha de tenir experiència prèvia acreditable en la realització d’instal·lacions de fontaneria, incloent-hi xarxes d’aigua freda i calenta, desguassos, canonades, aixetes, sanitaris, plats de dutxa, termos i escalfadors. Execució d’instal·lacions elèctriques en reformes integrals, incloent-hi cablejat, quadres elèctrics, mecanismes, endolls, interruptors, punts de llum i connexions.\nRequisits: Permisos de conduir: b\nEstudis: \nContracte laboral indefinit\nJornada completa",
+"flags": [
+"exp:60"
+],
+"why": {},
+"first_seen": "2026-11-24 08:38"
 },
 {
 "src": "feinaactiva",
@@ -14188,6 +14220,27 @@
 },
 {
 "src": "feinaactiva",
+"id": "FA92329486",
+"title": "PERSONAL DE PLANCHADO",
+"town": "Sant Andreu de Llavaneres",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329486",
+"published": "2026-11-24",
+"modified": "",
+"company": "5ÀSEC ESPAÑA SAU",
+"salary": "700-800 €/mes",
+"text": "Planchado manual de prendas, planchado maniqui, introducción artículos en el ordenador.\nExperiència: Experiència 3 mesos. Se valorara experiencia en fabrica, confección\nRequisits: català (parlat Mitjà, escrit Mitjà), espanyol (parlat Mitjà, escrit Mitjà)\nEstudis: \nContracte laboral indefinit\nJornada parcial (20 hores - jornada setmanal)",
+"flags": [
+"lang_level",
+"exp:3"
+],
+"why": {
+"lang_level": "catala parlat mitja escrit mitja espanyol parlat mitja escrit mitja"
+},
+"first_seen": "2026-11-24 08:38"
+},
+{
+"src": "feinaactiva",
 "id": "09202627133",
 "title": "TREBALLADOR/A FAMILIAR",
 "town": "Sant Celoni",
@@ -14901,6 +14954,27 @@
 "lang_level": "indispensable catalan c1"
 },
 "first_seen": ""
+},
+{
+"src": "feinaactiva",
+"id": "FA92329458",
+"title": "AUXILIAR TECNICO/A EDUCATIVO/A (VILASSAR DE DALT)",
+"town": "Vilassar de Dalt",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329458",
+"published": "2026-11-24",
+"modified": "",
+"company": "EULEN.SA",
+"salary": "1496-1497 €/mes",
+"text": "-Realización de actividades del centro ocupacional\n -Administrar medicación\n -Acompañamiento al wc\n -Realización de higienes y cambios de absorbentes\n- Supervisión de trastornos de conducta\n -Grabaciones asistenciales\nExperiència: Experiència 3 mesos. Se requiere experiencia demostrable en atención directa a personas en situación de dependencia o con discapacidad.. Competències / coneixements: Formación reglada: Certificado de profesionalidad en dependencia, APD o Auxiliar de enfermería \nManejo de herramientas ofimáticas para realizar registros (nivel usuario) \nPreferiblemente que viva en la zona o disponga de vehículo propio para garantizar la puntualidad en el servicio.\nRequisits: Disponibilitat de vehicle. català (parlat Superior, escrit Superior), espanyol (parlat Superior, escrit Superior)\nEstudis: \nContracte laboral temporal (1 mesos)\nJornada parcial (38 hores - jornada setmanal)",
+"flags": [
+"car?",
+"exp:3"
+],
+"why": {
+"car": "preferiblemente que viva en la zona o disponga de vehiculo propio para garantizar la puntualidad en el servicio"
+},
+"first_seen": "2026-11-24 08:38"
 },
 {
 "src": "feinaactiva",
@@ -25559,6 +25633,22 @@
 },
 {
 "src": "xaloc",
+"id": "397675",
+"title": "DEPENDENT/A DE FERRETERIA",
+"town": "Badalona",
+"town_note": "",
+"url": "https://xaloc.diba.cat/ofertes-de-feina/397675",
+"published": "2026-11-23",
+"modified": "2026-11-24",
+"company": "",
+"salary": "",
+"text": "Atenció i assessorament als clients. Gestió de botiga en la venda i tot el que comporta: reposició, estocs... Experiència valorable en ferreteria o del sector com manteniment, lampista, manyà o manetes. Salari: Entre 21.500 i 23.000 bruts anuals segons experiència demostrable. Capacitats requerides Valorem una actitud proactiva, el bon ambient entre companys, el coneixement dels articles d'una ferreteria i saber transmetre segons la filosofia de l'empresa. Informació d'interès Data d’incorporació 07/12/2026 Horari Dll/dv de 9-13.30 i 16.30-0h Dss 9:30 a 13:30h Atenció al públic Sí Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-24 08:38"
+},
+{
+"src": "xaloc",
 "id": "396092",
 "title": "Professor de piano en idioma anglès",
 "town": "Cabrera de Mar",
@@ -25608,7 +25698,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397310",
 "published": "2026-11-10",
-"modified": "2026-11-19",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Es busca noia o noi auxiliar de neteja de piscines. Desplaçaments a casa del client, anàlisi d'aigua, neteja de fons, recollir fulles, raspallar línia d'aigua, rentat de filtres, etc. Molt important l'atenció al client: puntualitat educació bona presència Formació a càrrec de l'empresa. Es valoraran coneixements previs de les tasques Es valoraran coneixements tècnics en reparacions, manteniments d'instal·lacions.Valorable control de paràmetres de l'aigua i ajusts químics. Formació a càrrec de l'empresa. Sou segons vàlua candidat Capacitats requerides Zona de treball el Maresme, Barcelonès, Vallès Oriental. Persona autònoma, integra, responsable i complidora. Valorable formació/experiència en manteniment de piscines i o jardins. Requisits Obligatoris Nivell acadèmic ESO Vehicle propi Sí Llengua Castellà - Nivell Independent B1 Importants Informàtica Programari d'Ofimàtica - Usuari Mitjà Recomanables Llengua Català - Nivell Independent B1 Informació d'interès Data d’incorporació 23/11/2026 Salari mensual 17400€ Horari Dilluns a divendres de 9h a 17h Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -25630,7 +25720,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397496",
 "published": "2026-11-17",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Oficial de Primera en construcció. Es busquen persones que tinguin expeirència en TREBALLS DE REFORMES I OBRA NOVA Horari: 8:00 a 16:30 de dilluns a divendres Sou: a partir de 30.000 brut anual segons vàlua. Incorporació desembre o gener 2027 Capacitats requerides Experiència mínima de 5 anys. Es valoraran formacions relacionades amb el lloc de feina. Carnet B i cotxe propi. Requisits Obligatoris Permís de conduir B Vehicle propi Sí Categoria Oficial/a de 1a. Experiència en l'ocupació (mesos) 60 Llengua Castellà Importants Llengua Català Informació d'interès Data d’incorporació 21/12/2026 Horari De dilluns a divendres 8:00 a 16:30 Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -25759,7 +25849,7 @@
 "town_note": "list town Caldes d'Estrac, location Caldes de Montbui",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396212",
 "published": "2026-10-08",
-"modified": "2026-10-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Empresa de Caldes requereix operari/ària d'instal·lació de parquet, per fer les tasques de col·locació, manteniment, restauració i acabat de paviments de fusta o materials derivats. S'ofereix jornada completa, treballant en horari intensiu. Possibilitats d'incorporació estable. Sou brut anual: 21.800 euros. Capacitats requerides Es valorarà experiència fent tasques similars. Carnet B imprescindible. Competències valorades per l'empresa: coneixement dels materials i eines, interpretació de plànols i, en el seu efecte, bona disposició per aprendre aquests coneixements i com aplicar-los. Orientació al client, atenció al detall, resistència física (ja que requereix passar moltes hores ajupit o fent càrrega i descàrrega) Requisits Obligatoris Permís de conduir B Molt importants Llengua Català - Nivell Experimentat C1 . Castellà - Nivell Experimentat C1 Recomanables Experiència en l'ocupació (mesos) 12 Informació d'interès Data d’incorporació 26/10/2026 Contracte Tipus Eventuals per circumstàncies de la producció Durada Durada indeterminada per obra o servei Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada intensiva",
@@ -25899,7 +25989,7 @@
 "town_note": "list town Caldes d'Estrac, location Caldes de Montbui",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396993",
 "published": "2026-10-30",
-"modified": "2026-11-16",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Cuiner/a per escola bressol, cobrint suplència. Funcions: elaboració de plats, preparació de carros, neteja de cuina i espais de dinar. 30 hores setmanals. Horari: de dilluns a divendres de 8 a 14h. Sou anual brut: 16.076 euros. Capacitats requerides Es requereix experiència en restauració o cuina de col·lectivitats. Requisits Obligatoris Experiència en l'ocupació (mesos) 12 Molt importants Llengua Català - Nivell Experimentat C1 Informació d'interès Data d’incorporació 01/12/2026 Contracte Tipus Eventuals per circumstàncies de la producció Durada Durada indeterminada per obra o servei Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada intensiva Jornada 3 Exclusivament matí",
@@ -25985,7 +26075,7 @@
 "town_note": "list town Caldes d'Estrac, location Caldes de Montbui",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397394",
 "published": "2026-11-12",
-"modified": "2026-11-20",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Administratiu/va de Back Office Comercial, per donar suport a l'equip de vendes d'empresa líder en el seu sector. Funcions: gestió, revisió i posada a punt de la informació fent servir SAGE. Bolcat, actualització i control de dades comercials. Revisió i control de stock. Elaboració d'informes periòdics de vendes i seguiment. Preparació de tarifes i llistes de preus. Suport administratiu general al dept. Horari de dll a dv de 8:30 a 17h. Capacitats requerides CFGM o CFGS en Administració, Comerç o similar. Exp. de dos anys mínim. Sage. Ús avançat d'Excel. Anglès intermig valorable, i coneixements en Power BI. Competències desitjades: facilitat per adaptar-se a nous programes i tecnologies, organització i atenció al detall, proactivitat, treball en equip, comunicació interpersonal. Requisits Obligatoris Informàtica Programari d'Ofimàtica - Usuari Avançat . Programari de gestió - Usuari Avançat Llengua Anglès - Nivell Independent B1 . Castellà - Nivell Experimentat C1 . Català - Nivell Experimentat C1 Informació d'interès Data d’incorporació 30/11/2026 Contracte Tipus Eventuals per circumstàncies de la producció Durada Durada indeterminada per obra o servei Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada partida",
@@ -26008,7 +26098,7 @@
 "town_note": "list town Caldes d'Estrac, location Caldes de Montbui",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397405",
 "published": "2026-11-13",
-"modified": "2026-11-19",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Electricista industrial (sector de fabricació de maquinària de laboratori i industria): Muntatge, cablejat i instal. d'armaris i quadres elèctrics. Interpretació de quadres elèctrics. Interpr. i creació d'esquemes elèctrics EPLAN (o similars). Coneixement d'elements de quadre elèctric (magnetotèrmic, diferencial, equip de tiristors, PLC, reguladors i programadors, relés...) Coneixement d'instal·lació d'equips de buit, gasos i pneumàtica. S'ofereix incorporació estable. Horari de dll a dv de 7 a 15h. Sou brut anual: 28.000-33.000 euros anuals Capacitats requerides Experiència en empreses de fabricació de maquinària a mida, en electricitat industrial i quadres de control. Programació de HMI i PLCs. Saber interpretar i realitzar esquemes elèctrics. Important CFGS en Electricitat industrial o similar. Requisits Obligatoris Experiència en l'ocupació (mesos) 36 Informació d'interès Data d’incorporació 14/12/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada intensiva",
@@ -26029,7 +26119,7 @@
 "town_note": "list town Caldes d'Estrac, location Caldes de Montbui",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397581",
 "published": "2026-11-19",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Per treballar en empresa líder en el seu sector (industrial). Funcions: Entrada i gestió de comandes de compra (nacional i internacional), gestió d'estocs dels magatzems (propis i subcontractats), suport a logística d'importació, gestionar i fer seguiment del transport internac., informes (costos i ctrol estocs), gestió inventari, comandes de grans comptes (OEM), reportar (setmanal) a direcció d'Operacions. Jornada completa, horari de 8:30 a 17h, incorporació estable. Capacitats requerides LLic en ADE o comerç exterior. 2 anys d'experiència. Coneixements Incoterms i gestió duanes. Excel alt, valorable exp. en A3 ERP i programes de SGA. Anglès FC o superior imprescindible. Disponibilitat per viatjar (puntualment). Competències requerides per l'empresa: que sigui una persona resolutiva, comunicativa, amb iniciativa i capacitat de treball en equip. Requisits Obligatoris Llengua Anglès - Nivell Independent B2 . Castellà - Nivell Experimentat C1 . Català - Nivell Experimentat C1 Molt importants Titulació FPII - - Administració d'empreses Informació d'interès Data d’incorporació 14/12/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada partida",
@@ -26511,7 +26601,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397590",
 "published": "2026-11-20",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Promocionar i vendre tots els productes de jocs responsables de l'ONCE. Comunicar-se i relacionar-se amb el client per la seva tasca comercial. Assessorar i informar sobre qualsevol producte i servei relacionat amb la institució. Ús d'eines tecnològiques de treball: TPV i telèfon mòbil. Capacitats requerides Imprescindible Certificat discapacitat igual o superior al 33% o IPT. Autonomia per desplaçar-se. Habilitats comunicatives i orientació al client. Capacitat d'aprenentatge amb eines tecnològiques. Contracte inicial 1 any prorrogable. Sou mig: 25000 bruts/ any. 6 places a cobrir: 2 Granollers, 1 Cardedeu, 1 Caldes de Montbui, 1 Parets del Vallès Requisits Obligatoris Llengua Castellà - Nivell Independent B2 Certificat de discapacitats Sí Informació d'interès Data d’incorporació 03/01/2027 Salari mensual 1785€ Atenció al públic Sí Contracte Tipus Persones amb discapacitat en CET Durada Més de 6 i menys de 12 mesos Prorrogable Sí",
@@ -26899,7 +26989,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396589",
 "published": "2026-10-21",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Càrrega i descàrrega de producte. Verificació i recepció d'albarans i comandes. Preparació de comandes (picking). Gestió de sortides i realització de inventaris i recomptes d'estoc. Classificació. Capacitats requerides Imprescindible Certificat de discapacitat igual o superior al 33% o ITP. Contracte: 6 meses prorrogable. Sou: 17.094 euros bruts/ any per 12 pagues Requisits Obligatoris Experiència en l'ocupació (mesos) 6 Certificat de discapacitats Sí Informació d'interès Data d’incorporació 29/10/2026 Salari mensual 1425€ Horari de 7:00 a 15h Contracte Tipus Persones amb discapacitat en CET Durada Més de 3 i menys de 6 mesos Prorrogable Sí",
@@ -27205,7 +27295,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397323",
 "published": "2026-11-11",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Enquestador/a per a estudi d'impacte econòmic de la Fira dels Torrons. Treball de camp a peu de carrer. Realitzar enquestes presencials de 3 minuts als visitants del Fira dels Torrons, als accesos al recinte, amb tauleta o mòbil propi. Selecció aleatòria de les persones segons les instruccions rebudes. Coordinació in situ amb el consultor de l'empresa. Dies dissabte 5 i diumenge 6 de desembre. 10 hores en total Horari: 5 hores cada dia de 11:30 a 14:00 i de 17:00 a 19:30 Salari: 12 euros bruts x hora Capacitats requerides Tracte amable, capacitat per seguir un protocol i per treballar a l'exterior a l'hivern. Es valora experiència en enquestes i/o atenció al públic o informació en esdeveniments. Requisits Obligatoris Nivell acadèmic ESO Llengua Castellà . Català Informació d'interès Data d’incorporació 05/12/2026 Contracte Tipus Eventuals per circumstàncies de la producció Durada Menys d'un mes",
@@ -27221,7 +27311,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397469",
 "published": "2026-11-16",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Tècnic/a en logística. Donar suport a l'operativa diària del magatzem. Supervisar les recepcions, expedicions i els moviments de subministre a producció. Analitzar els indicadors de productivitat i eficiència per identificar oportunitats de millora. Seguiment inventaris, Desviacions stocs. Participar en la gestió de reclamacions i incidències. Suport admnistratiu a logística i transport. Col·laboraicó amb prodciuccióm supply chain, i cutomer service. Horari: torn flexible entrada entre les 07:00 i les 09:00 i sortida a aprtir de les 16:15. Salari: forquilla entre 28.00 i 32.000 euros anual Capacitats requerides Formació professional en logística, comerç internacional o similar. Experiència en operativa de magatzem i logísica. Capacitat analítica per interpretar dades i indicadors de productivitat i eficiència. Valorable SAP i altres ERP. Persona organitzada, resolutiva i amb facilitat per coordinar diferents prioritats en un entorn dinàmic. Vehicle propi Requisits Obligatoris Vehicle propi Sí Informàtica Programari d'Ofimàtica - Usuari Avançat Molt importants Nivell acadèmic Cicle formatiu grau superior Recomanables Titulació Cicle formatiu grau superior - Comerç i Màrqueting - Transport i Logística Informació d'interès Data d’incorporació 01/12/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -27858,7 +27948,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397625",
 "published": "2026-11-20",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Control i vigilància de les zones d'estacionament regulat assignades, comprovant l'estacionament i el temps dels vehicles. Verificar tiquets d'estacionament i supervisió del funcionament dels parquímetres. Comunicació d'incidències relacionades amb la seguretat viària. Col·laboració amb Policia Local, servei de Mobilitat, de grues i el personal d'aparcaments. Atenció i gestió de queixes i consultes. Elaboració d'informes de seguiment. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia CURRICULUM a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397625 Capacitats requerides IMPRESCINDIBLE ESO o titulació equivalent o superior.Nivell B1 de català. Permís de conduir B i habilitat per conduir motocicleta 125cc elèctrica. Coneixements bàsics en dispositius mòbils/PDA. VALORABLE experiència en un lloc d'inspector/a o equivalent. Sou 14 pagues. CONTRACTE PER SUBSTITUCIÓ PER COBRIR BAIXA IT estimada 3-6 mesos. Requisits Obligatoris Nivell acadèmic ESO Permís de conduir B Informàtica Programari d'Ofimàtica - Usuari Bàsic Llengua Català - Nivell Independent B1 Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 1934€ Horari de dl a ds 9 a 14h i 17 a 20h,dia descans rotatiu Atenció al públic Sí Contracte Tipus Altres Durada Durada indeterminada per obra o servei Prorrogable No Jornada Jornada 1 Indiferent",
@@ -27880,7 +27970,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397638",
 "published": "2026-11-23",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Neteja i manteniment de les instal·lacions d'un centre esportiu seguint els protocols de neteja i higiene establerts. Aspirar i fregar terres. Eliminar pols de superfícies, mobiliari, màquines esportives i zones comunes. Netejar i desinfectar lavabos i vestidors. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia CURRICULUM a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397638 Capacitats requerides IMPRESCINDIBLE Formació o haver treballat en neteja d'immobles. Disponibilitat per començar jornada entre les 6-8 h del matí, preferentment aviat i per a futures ampliacions de jornada segons les necessitats de l'empresa. Persona autònoma, responsable i compromesa amb la qualitat del servei. Residència a Mataró o rodalies. VALORABLE haver treballat en gimnasos o similar. Jornada 14 h/setmana. Requisits Obligatoris Llengua Castellà - Nivell Independent B2 Recomanables Nivell acadèmic Graduat escolar / Batxillerat elemental Formació professionalitzadora Neteja de superfícies i mobiliari en edificis i locals Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 450€ Horari Dilluns i dijous 4 h, Dimarts i divendres 3 h. Contracte Tipus Temps parcial: indefinit Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada parcial Jornada 3 Exclusivament matí",
@@ -28272,7 +28362,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397489",
 "published": "2026-11-17",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Manteniment de parc aquàtic en temes paleteria. Si t'interessa APUNTA'T i ENVIA el teu CV a prmd.pdb.orientacio@premiadedalt.cat Capacitats requerides Experiència, compromís amb la feina. Informació d'interès Data d’incorporació 01/12/2026 Horari a l'hivern de 8 a 16h de dl a dv, a l'estiu varia Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28327,7 +28417,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397491",
 "published": "2026-11-17",
-"modified": "2026-11-20",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Atenció, orientació i assessorament personalitzat al pacient durant tot el procés del tractament odontològic. Explicació entenedora dels plans de tractament i de les opcions proposades per l'odontòleg. Elaboració, presentació, explicació i tancament de pressupostos de tractaments dentals, resolent dubtes administratius i econòmics facilitant la comprensió dels pressupostos i opcions de pagament Coordinació amb equip clínic per garantir una atenció integral i organitzada. Organització d'agendes Gestió i actualització d'historials clínics. Ús de programes de gestió dental Gesden i Salus Capacitats requerides Experiència demostrable mín 3 anys en clíniques dentals fent assessorament de pacients i tancament de pressupostos odontològics. Coneixements dels tractaments dentals i de la terminologia odontològica. Experiència en seguiment comercial, acceptació de pressupostos i fidelització de pacients. Domini de les eines informàtiques i experiència amb programes de gestió dental. Empatia i discreció. Requisits Obligatoris Experiència en l'ocupació (mesos) 36 Llengua Castellà - Nivell Independent B2 . Català - Nivell Independent B2 Importants Informàtica Programari de gestió - Usuari Mitjà Informació d'interès Data d’incorporació 01/12/2026 Atenció al públic Sí Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28348,7 +28438,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397515",
 "published": "2026-11-18",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Assistir i tenir cura de les persones usuàries en activitats de la vida diària que no poden realitzar per si mateixes i efectuar les acciones necessàries per a la seva atenció personal i del seu entorn: donar suport a l'equip interdisciplinar, col·laborar en la planificació, organització i execució d'activitats preventives, ocupacionals i d'oci, mantenir la higiene personal dels residents, etc. Jornada parcial: Caps de setmana a convenir amb candidat/a. Vacants de torn matí o tarda en cap de setmana i vacants de 12h de treball div, dissabte i dg. Retribució mensual 1221 E x 12p a jornada compl Capacitats requerides CP Atenció a persones dependents en institucions socials o grau mig TCAE Requisits Importants Certificat de professionalitat Atenció sociosanitària a persones dependents en institucions socials Recomanables Experiència en l'ocupació (mesos) 3 Informació d'interès Data d’incorporació 30/11/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28477,7 +28567,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397586",
 "published": "2026-11-20",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Es precisa incorporar ajudant de cuina i cafeteria per una foodtruck situada a Sant Andreu de Llavaneres. S'ofereix contracte indefinit en jornada de dimecres a diumenge. La persona ha de ser polivalent amb experiència en tracte al públic, activa i acostumada a treballar en equip. Si t'interessa APUNTA'T i fes-nos arribar el teu cv actualitzat indicant el número d'oferta a feina@ajllavaneres.cat Capacitats requerides Orientació al client Orientació a l'ordre Requisits Obligatoris Nivell acadèmic ESO Experiència en l'ocupació (mesos) 2 Informàtica Programari d'Ofimàtica - Usuari Bàsic Recomanables Titulació Cicle formatiu grau mitjà - Hostaleria i Turisme - Cuina Informació d'interès Data d’incorporació 07/12/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28500,7 +28590,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/395899",
 "published": "2026-09-29",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "- Neteja dels diferents espais de les oficines (Sant Celoni): Neteja de terres, lavabos, mobles, etc. - Neteja de la fàbrica (Gualba). - Jornada parcial i contracte indefinit. Capacitats requerides - Preferible carnet de conduir i vehicle propi, però indiferent mentre pugui arribar al lloc de feina a l'horari establert. - Persona responsable i amb bona actitud. - 5,5h hores setmanals. 209,15 euros. Informació d'interès Data d’incorporació 07/10/2026 Horari Dimecres 8h a 11h i Divendres de 8h a 10:30h Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28565,7 +28655,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397565",
 "published": "2026-11-19",
-"modified": "2026-11-23",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "Conducció de vehicles de transport de mercaderies per carretera. Repartiments i recollida de mercaderies segons la ruta assignada. Càrrega, descàrrega i verificació de la mercaderia quan sigui necessari. Revisió diària de l'estat del vehicle abans i després del servei. Compliment de la normativa de trànsti, temps de conducció i descans. Comunicació d'incidències al deperartament de trànsit. Cura i manteniment bàsic del vehicle i de la documentació de transport. Capacitats requerides Indispensable carnet conduir C + Certificat d'Aptituds Professional (CAP) + Tarjeta de tacògraf digital en vigor. Coneixement bàsic en documentació de transports i ús d'aplicacions mòbils. Experiència en transport de mercadereis per carretera i repartiment. Es valorarà coneixement de les zones de Catalunya. 29.000 euros bruts Residència propera a St. Celoni o disponibilitat per desplaçar-se Requisits Obligatoris Permís de conduir C Recomanables Nivell acadèmic ESO Informació d'interès Data d’incorporació 01/12/2026 Horari 12h a 20h Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28790,7 +28880,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396797",
 "published": "2026-10-27",
-"modified": "2026-11-17",
+"modified": "2026-11-24",
 "company": "",
 "salary": "",
 "text": "PERRUQUERA Contracte Indefinit 40h/setmanals Horari:de dilluns a dissabte de 09 a 13h i de 16 a 19h (flexiblitat en l'horari i jornada). Salari segons conveni. 1.400EUROS NETS MENSUALS Capacitats requerides Formació FP/ CFGM o CFGS en PERRUQUERIA. Valorable formació complementèria en estètica. Persona agradable, amb orientació al públic, discreta i amb ganes de continuar formant-se. Experiència 2-3 anys Requisits Obligatoris Nivell acadèmic FP I Experiència en l'ocupació (mesos) 48 Recomanables Titulació FPI - - Estètica Informació d'interès Data d’incorporació 03/11/2026 Horari Dill-Dissabte 09 a 13h i de 16 a 19h (a convenir) Atenció al públic Sí Contracte Tipus Indefinit: ordinari Durada Indefinit",
