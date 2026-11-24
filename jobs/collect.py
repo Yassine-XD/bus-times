@@ -328,6 +328,17 @@ def src_randstad(cache):
                          salary=d.get("salary", "")))
     return out
 
+MESES = {m: i + 1 for i, m in enumerate(["enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto",
+                                          "septiembre", "octubre", "noviembre", "diciembre"])}
+
+def iman_date(text):
+    """IMAN pages show 'Publicada 20 de Noviembre' (no year)."""
+    m = re.search(r"Publicada\s+(\d{1,2}) de (\w+)", text or "")
+    if not m or m.group(2).lower() not in MESES: return ""
+    t = dt.date.today(); d = dt.date(t.year, MESES[m.group(2).lower()], int(m.group(1)))
+    if d > t + dt.timedelta(days=2): d = dt.date(t.year - 1, d.month, d.day)
+    return d.isoformat()
+
 def src_iman(cache):
     h = get("https://empleo.imancorp.es/jobs", 0.8)
     m = re.search(r'<select[^>]+name="location"[^>]*>(.*?)</select>', h, re.S)
@@ -357,7 +368,7 @@ def src_iman(cache):
                 d = {"dead": True}
             cache[u] = d
         if d.get("dead"): continue
-        out.append(offer("iman", u.rsplit("/", 1)[-1], d["title"], town, u, d["text"], d.get("published", ""),
+        out.append(offer("iman", u.rsplit("/", 1)[-1], d["title"], town, u, d["text"], d.get("published") or iman_date(d["text"]),
                          salary=d.get("salary", "")))
     return out
 
