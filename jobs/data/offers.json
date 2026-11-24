@@ -1,47 +1,46 @@
 {
-"built": "2026-11-24 08:51 UTC",
+"built": "2026-11-24 10:56 UTC",
 "sources": {
 "xaloc": {
-"ok": true,
-"count": 175,
-"secs": 428,
-"at": "2026-11-24 08:58"
+"ok": false,
+"error": "URLError: <urlopen error timed out>",
+"at": "2026-11-24 11:12"
 },
 "feinaactiva": {
 "ok": true,
-"count": 700,
-"secs": 7,
-"at": "2026-11-24 08:58"
+"count": 697,
+"secs": 4,
+"at": "2026-11-24 11:12"
 },
 "eurofirms": {
 "ok": true,
-"count": 76,
-"secs": 1,
-"at": "2026-11-24 08:58"
+"count": 73,
+"secs": 11,
+"at": "2026-11-24 11:12"
 },
 "randstad": {
 "ok": true,
-"count": 172,
-"secs": 167,
-"at": "2026-11-24 09:01"
+"count": 174,
+"secs": 274,
+"at": "2026-11-24 11:17"
 },
 "iman": {
 "ok": true,
-"count": 255,
-"secs": 49,
-"at": "2026-11-24 09:02"
+"count": 257,
+"secs": 52,
+"at": "2026-11-24 11:18"
 },
 "ras": {
 "ok": true,
-"count": 60,
-"secs": 4,
-"at": "2026-11-24 09:02"
+"count": 62,
+"secs": 7,
+"at": "2026-11-24 11:18"
 },
 "meditempus": {
 "ok": true,
 "count": 32,
 "secs": 1,
-"at": "2026-11-24 09:02"
+"at": "2026-11-24 11:18"
 }
 },
 "offers": [
@@ -682,6 +681,22 @@
 },
 {
 "src": "eurofirms",
+"id": "036-023369",
+"title": "Plegador/a",
+"town": "Lliçà d'Amunt",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/llica-d-amunt/plegador-a-036-023369",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "16-17 EUR/HOUR",
+"text": "Empresa del sector metal especializada en corte láser busca un/a Plegador/a para trabajar en una empresa en Polinyà y realizar las siguientes tareas:\n Operar con máquinas de corte láser y plegadoras.\n Programación con control numérico.\n Interpretación de planos y especificaciones.\n Ajuste de parámetros básicos de la máquina.\n Verificación de la calidad de las piezas y medidas.\n Mantenimiento del orden y limpieza en el puesto de trabajo.\n Entre otras funciones propias del puesto.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-24 10:56"
+},
+{
+"src": "eurofirms",
 "id": "036-023397",
 "title": "Empleo de Manipulador/a, Lliçà D'amunt",
 "town": "Lliçà d'Amunt",
@@ -883,80 +898,6 @@
 },
 {
 "src": "eurofirms",
-"id": "062-017123",
-"title": "Empleo de Operario/a textil, Mataró",
-"town": "Mataró",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/mataro/operario-a-textil-062-017123",
-"published": "",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Oferta de Empleo de Operario/a textil - 30/10/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Operario/a textil\n Mataró, Barcelona\n Empleo de Operario/a textil, Mataró\n Fecha de publicación:\n 30/10/2026\n Horario:\n - Jornada completa de 40 horas semanales entre lunes y viernes en turno rotativo en horario entre 06:00h y 22:00h con los descansos establecidos por ley.\n Vacantes:\n1\n Salario:\n 10,28€ Bruto/hora\n Población:\n Mataró\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Operario/a textil en Mataró\n ¿Te apasiona el mundo textil y te sientes cómodo/a trabajando con diferentes tipos de tejidos? ¡Esta oportunidad es para ti!\nBuscamos incorporar un/a Operario/a Textil para una empresa consolidada del sector ubicada en Mataró, donde podrás formar parte de un equipo dinámico y en crecimiento.\nSi eres una persona ágil, proactiva y con experiencia en manipulación de tejidos, ¡queremos conocerte!\nLas tareas a realizar serán las siguientes.\n - Selección de piezas según las órdenes de fabricación.\n-\nApertura y despliegue de tejidos para su tratamiento posterior\n.\n- Manipulación de distintos tipos de telas.\n-\nOrganización y preparación del material.\n- Entre otras tareas propias del puesto de trabajo.\n Función:\n Operario/a textil\n Requisitos:\n - Experiencia mínima de 1 años en un lugar similar al descrito.\n- Buscamos a una persona polivalente y dinámica.\n- Valorable residencia próxima al puesto de trabajo.\n Formación:\n - ESO o equivalente finalizada.\n Idiomas:\n - Catalán y/o castellano hablados y escritos correctamente.\n Iniciar sesión para inscribirte\n 262\n inscritos\n Otras ofertas de empleo de Operario/a textil en Barcelona\n Empleo de Operario/a textil en Lliçà D'amunt, Barcelona\n Lliçà D'amunt, Barc",
-"flags": [
-"lang_level"
-],
-"why": {
-"lang_level": "catalan y o castellano hablados y escritos correctamente"
-},
-"first_seen": "2026-11-21"
-},
-{
-"src": "eurofirms",
-"id": "062-017135",
-"title": "Empleo de Operario/a textil, Mataró",
-"town": "Mataró",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/mataro/operario-a-textil-062-017135",
-"published": "",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Oferta de Empleo de Operario/a textil - 10/11/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Operario/a textil\n Mataró, Barcelona\n Empleo de Operario/a textil, Mataró\n Fecha de publicación:\n 10/11/2026\n Horario:\n - Jornada completa de 40 horas semanales entre lunes y viernes en turno rotativo de mañana y tarde en horario entre 06:00h y 22:00h con los descansos establecidos por ley.\n Vacantes:\n1\n Salario:\n 10,28€ Bruto/hora\n Población:\n Mataró\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Operario/a textil en Mataró\n 🎨 ¡Buscamos Operario/a de Tintorería Industrial!\n para una empresa situada en Mataró.\n¿Tienes experiencia en tintorería industrial?\nSi buscas estabilidad, formar parte de una empresa consolidada y seguir desarrollándote en el sector textil, ¡queremos conocerte!\n¿Qué harás en tu día a día?\n - Carga y descarga de tejido en maquinaria de tintura.\n- Preparación de baños de tintura.\n- Dosificación de colorantes y productos químicos.\n- Control de temperaturas, tiempos y procesos de tintura.\n- Verificación y seguimiento del color obtenido.\n- Interpretación y aplicación de recetas de producción.\n- Cumplimiento de los estándares de calidad y seguridad.\n- Entre otras tareas propias del puesto de trabajo.\n Función:\n Operario/a textil\n Requisitos:\n ¿Qué necesitamos de ti?\n- Experiencia mínima de 1 año en un lugar similar al descrito.\n- Conocimientos en interpretación de recetas de tinte.\n- Experiencia en el uso de colorantes y productos químicos textiles.\n- Conocimiento de fibras naturales y sintéticas.\n- Persona responsable, organizada y rigurosa en el seguimiento de procesos.\n- Valorable residencia próxima al puesto de trabajo.\n Formación:\n - ESO o equivalente finalizada.\n Idiomas:\n - Catalán y/o castellano hablados y esc",
-"flags": [],
-"why": {},
-"first_seen": "2026-11-21"
-},
-{
-"src": "eurofirms",
-"id": "062-017136",
-"title": "Empleo de Operario/a textil, Mataró",
-"town": "Mataró",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/mataro/operario-a-textil-062-017136",
-"published": "",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Oferta de Empleo de Operario/a textil - 29/10/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Operario/a textil\n Mataró, Barcelona\n Empleo de Operario/a textil, Mataró\n Fecha de publicación:\n 29/10/2026\n Horario:\n - Jornada completa de 40 horas semanales entre lunes y viernes en turno rotativo de mañana y tarde en horario entre 06:00h y 22:00h con los descansos establecidos por ley.\n Vacantes:\n1\n Salario:\n 10,28€ Bruto/hora\n Población:\n Mataró\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Operario/a textil en Mataró\n 🧵 ¡Buscamos Operario/a de Rame (Stenter) para el sector textil! para empresa situada en barcelona.\n¿Tienes experiencia en tintorería o acabados textiles? ¿Has trabajado con máquinas Rame (Stenter) y buscas una oportunidad estable donde seguir creciendo? ¡Queremos conocerte!\n¿Qué harás en tu día a día?\n - Alimentar el tejido a la máquina Rame.\n- Ajustar los parámetros de producción:\n Temperatura\n Velocidad\n Ancho del tejido\nTensión\n.\n- Supervisar el proceso de secado y termofijado.\n- Detectar posibles defectos durante la producción.\n- Realizar controles de calidad del tejido acabado.\n- Cumplimentar órdenes de fabricación.\n- Mantener la máquina y el área de trabajo limpias y ordenadas.\n- Entre otras tareas propias del puesto de trabajo.\n Función:\n Operario/a textil\n Requisitos:\n ¿Qué necesitamos de ti?\n- Experiencia previa en empresas de tintura o acabados textiles.\n- Experiencia trabajando directamente con máquinas Rame (Stenter).\n- Conocimiento de distintos tipos de tejidos y de su comportamiento durante los procesos de secado y acabado.\n- Persona responsable, observadora y comprometida con la calidad.\n- Valorable residencia cercana al puesto de trabajo.\n Formación:\n - ESO o equivalente finalizada.\n Idiom",
-"flags": [],
-"why": {},
-"first_seen": "2026-11-21"
-},
-{
-"src": "eurofirms",
-"id": "062-017217",
-"title": "Empleo de Cocinero/a, Mataró",
-"town": "Mataró",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/mataro/cocinero-a-062-017217",
-"published": "",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Oferta de Empleo de Cocinero/a - 26/10/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Cocinero/a\n Mataró, Barcelona\n Empleo de Cocinero/a, Mataró\n Fecha de publicación:\n 26/10/2026\n Horario:\n Jornada completa de 40 horas semanales entre lunes y viernes en turno mañana en horario entre 08:00h y 15:30h con los descansos establecidos por ley.\n Vacantes:\n1\n Salario:\n 12,09€ Bruto/hora\n Población:\n Mataró\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Cocinero/a en Mataró\n 🍽️👨‍🍳 ¡Desde Eurofirms buscamos un/a Cocinero/a para dar soporte en una escuela de Mataró! 🏫✨\n 🔹 ¿Cuáles serán tus funciones? 🍴🥗\n✅ Elaboración y preparación de los menús diarios del comedor escolar.\n✅ Preparación, cocinado y presentación de los platos siguiendo las directrices establecidas.\n✅ Control de temperaturas, conservación y almacenamiento de los alimentos.\n✅ Organización y planificación de las tareas de cocina.\n✅ Gestión y control básico del stock de productos y materias primas.\n✅ Recepción y colocación de mercancías.\n✅ Limpieza y mantenimiento de utensilios, maquinaria y zonas de trabajo. 🧼✨\n✅ Cumplimiento de las normas de higiene, seguridad alimentaria y APPCC. 👨‍🍳\n✅ Entre otras tareas propias del puesto de trabajo.\n Función:\n Cocinero/a\n Requisitos:\n 🔹 Requisitos 🎯\n✔️ Experiencia previa como cocinero/a, preferiblemente en colectividades, comedores escolares o restauración.\n✔️ Disponibilidad de incorporación inmediata. ⚡\n✔️ Disponibilidad para trabajar en servicios puntuales y días sueltos. 📅\n✔️ Persona responsable, organizada, autónoma y con capacidad de trabajo en equipo. 🤝\n✔️ Valorable carné de manipulador/a de alimentos. 🥬🍎\n✔️ Catalán y castellano hablados y escritos correctamente.\n Formación:\n - ESO o equivalente.\n- Valorable curso de manipulación de alimentos.\n-",
-"flags": [
-"lang_level",
-"kitchen_meat_alcohol"
-],
-"why": {
-"lang_level": "catalan y castellano hablados y escritos correctamente",
-"kitchen_meat_alcohol": "empleo de cocinero a mataro … oferta de empleo de cocinero a … cocinero a"
-},
-"first_seen": "2026-11-21"
-},
-{
-"src": "eurofirms",
 "id": "062-017233",
 "title": "Director/a comercial - Sector de inversión inmobiliaria (*contrato *directo miedo emprendido)",
 "town": "Mataró",
@@ -986,28 +927,6 @@
 "flags": [],
 "why": {},
 "first_seen": ""
-},
-{
-"src": "eurofirms",
-"id": "062-017241",
-"title": "Empleo de Promotor/a, Mataró",
-"town": "Mataró",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/mataro/promotor-a-062-017241",
-"published": "",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Oferta de Empleo de Promotor/a - 09/11/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Promotor/a\n Mataró, Barcelona\n Empleo de Promotor/a, Mataró\n Fecha de publicación:\n 09/11/2026\n Horario:\n Jornada completa de 4 horas diarias entre viernes y viernes en turno tarde en horario entre 16:30h y 20:30h con los descansos establecidos por ley.\n Vacantes:\n1\n Salario:\n 10,54€ Bruto/hora\n Población:\n Mataró\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Promotor/a en Mataró\n 🍔 ¡Buscamos Promotor/a para acción de hamburguesas en Mataró Parc! 🍔\n¿Te gusta el trato con el público y te desenvuelves bien en eventos promocionales? ¡Esta oportunidad es para ti!\n ✅ Preparación y cocinado de hamburguesas.\n✅ Atención al público y promoción del producto.\n✅ Servicio y entrega de degustaciones.\n✅ Mantenimiento del espacio de trabajo limpio y ordenado.\n Función:\n Promotor/a\n Requisitos:\n ✔Experiencia previa en promociones, eventos, hostelería o restauración.\n✔ Facilidad de trato con el público y actitud comercial.\n✔ Persona dinámica, responsable y proactiva.\n✔ Disponibilidad para trabajar el viernes 27.\n✔ Valorable carné de manipulador/a de alimentos.\n Formación:\n - ESO o equivalente\n Idiomas:\n Castellano y catalán hablado y escrito correctamente.\n Iniciar sesión para inscribirte\n 17\n inscritos\n Otras ofertas de empleo de Promotor/a en Barcelona\n Certificado de discapacidad\n Empleo de Promotor/a en Lliçà D'amunt, Barcelona\n(con certificado de discapacidad)\n Lliçà D'amunt, Barcelona\n Salario 9,47€ Bruto/hora\n 20/11/2026\n Empleo de Promotor/a en Barcelona, Barcelona\n Barcelona, Barcelona\n Salario A concretar\n 20/11/2026\n Empleo de Promotor/a en Piera, Barcelona\n Piera",
-"flags": [
-"lang_level",
-"kitchen_meat_alcohol"
-],
-"why": {
-"lang_level": "castellano y catalan hablado y escrito correctamente",
-"kitchen_meat_alcohol": "preparacion y cocinado de hamburguesas"
-},
-"first_seen": "2026-11-21"
 },
 {
 "src": "eurofirms",
@@ -1062,6 +981,26 @@
 "flags": [],
 "why": {},
 "first_seen": ""
+},
+{
+"src": "eurofirms",
+"id": "062-017300",
+"title": "Preparador/a de pedidos",
+"town": "Mataró",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/mataro/preparador-a-de-pedidos-062-017300",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "11.6-14.08 EUR/HOUR",
+"text": "Empresa del sector cárnico busca incorporar un/a Preparador/a de Pedidos con experiencia para reforzar su equipo logístico de una empresa situada en 📍Mataró. Las tareas a realizar serán las siguientes:\n Manejo de carretilla.\n Carga y descarga de mercancía.\n Preparación de pedidos (picking).\n Uso de PDA para la gestión de pedidos y ubicaciones.\n Preparación y ubicación de palet.\n Organización y mantenimiento del almacén.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [
+"forklift"
+],
+"why": {
+"forklift": "manejo de carretilla"
+},
+"first_seen": "2026-11-24 10:56"
 },
 {
 "src": "eurofirms",
@@ -1205,6 +1144,26 @@
 "flags": [],
 "why": {},
 "first_seen": "2026-11-21"
+},
+{
+"src": "eurofirms",
+"id": "021-022208",
+"title": "Maquinista",
+"town": "Montornès del Vallès",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/montornes-del-valles/maquinista-021-022208",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "13.51 EUR/HOUR",
+"text": "En Eurofirms necesitamos incorporar un/a Maquinista para trabajar en empresa del sector Farmacéutico ubicada en Montornés del Vallès. Las tareas que tendrá que realizar son las siguientes:\n Alimentar las máquinas y líneas de producción mediante el suministro de materias primas y materiales auxiliares utilizando carretilla elevadora.\n Realizar el aprovisionamiento continuo de la maquinaria para garantizar la continuidad del proceso productivo.\n Trasladar y ubicar materias primas, producto semielaborado y producto acabado mediante carretilla elevadora.\n Cargar y descargar materiales, asegurando su correcta identificación y ubicación.\n Verificar el stock de materiales en línea y comunicar necesidades de reposición.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [
+"forklift"
+],
+"why": {
+"forklift": "alimentar las maquinas y lineas de produccion mediante el suministro de materias primas y materiales auxiliares utilizando carretilla elevadora … trasladar y ubicar materias primas producto semielaborado y producto acabado mediante carretilla elevadora"
+},
+"first_seen": "2026-11-24 10:56"
 },
 {
 "src": "eurofirms",
@@ -1431,66 +1390,43 @@
 },
 {
 "src": "eurofirms",
-"id": "062-017119",
-"title": "Empleo de Camarero/a, Vilassar De Mar",
+"id": "062-017301",
+"title": "Camarero/a",
 "town": "Vilassar de Mar",
 "town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/vilassar-de-mar/camarero-a-062-017119",
-"published": "",
+"url": "https://jobs.eurofirms.com/es/es/vilassar-de-mar/camarero-a-062-017301",
+"published": "2026-11-24",
 "modified": "",
 "company": "",
-"salary": "",
-"text": "Oferta de Empleo de Camarero/a - 30/10/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Camarero/a\n Vilassar De Mar, Barcelona\n Empleo de Camarero/a, Vilassar De Mar\n Fecha de publicación:\n 30/10/2026\n Horario:\n Jornada completa de 40 horas semanales entre lunes y domingo en turno partido en horario entre 09:00h y 00:00h con los descansos establecidos por ley.\n Vacantes:\n1\n Salario:\n de 11,9€ a 14,87€ Bruto/hora\n Población:\n Vilassar De Mar\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Camarero/a en Vilassar De Mar\n 🍽️ Únete a un restaurante con sabor de mar en Vilassar de Mar!\n¿Te apasiona la atención al cliente/a y disfrutas trabajando en un ambiente dinámico y con buen equipo? Esta oportunidad es para tú!\nBuscamos camarero/a para incorporarse en un reconocido restaurando de Vilassar de Mar, donde la buena gastronomía y el excelente servicio son protagonistas.\n - Atender los clientes/as de manera amable y profesional.\n- Tomar pedidos de comer y bebida.\n- Preparar y mantener el área de trabajo limpia y ordenada.\n- Montar y recoger mesas antes y después del servicio.\n- Gestionar cobros y manejo de caja (efectivo y TPV), cuando corresponda.\n- Entre otras funciones propias del puesto de trabajo.\n Función:\n Camarero/a\n Requisitos:\n - Experiencia mínima de 1 año como ayudante de camarero/a y/o camarero/a.\n- Actitud positiva, energía y ganas de trabajar en equipo.\n- Valorable residencia próxima al puesto de trabajo.\n- Imprescindible vehículo propio.\n Formación:\n - ESO finalizada.\n- Estudios relacionados con hostelería.\n Idiomas:\n Castellano: Alto\nCatalán: Alto\nInglés: Valorable\n Iniciar sesión para inscribirte\n 71\n inscritos\n ¿No tienes cuenta?\n Crea tu perfil en Eurofirms y descubre mil",
-"flags": [
-"car",
-"kitchen_meat_alcohol",
-"english"
-],
-"why": {
-"car": "imprescindible vehiculo propio",
-"kitchen_meat_alcohol": "empleo de camarero a vilassar de mar … oferta de empleo de camarero a … camarero a"
-},
-"first_seen": "2026-11-21"
-},
-{
-"src": "eurofirms",
-"id": "062-017121",
-"title": "Empleo de Ayudante de cocina, Vilassar De Mar",
-"town": "Vilassar de Mar",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/vilassar-de-mar/ayudante-de-cocina-062-017121",
-"published": "",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Oferta de Empleo de Ayudante de cocina - 26/10/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Ayudante de cocina\n Vilassar De Mar, Barcelona\n Empleo de Ayudante de cocina, Vilassar De Mar\n Fecha de publicación:\n 26/10/2026\n Horario:\n - Jornada completa de 40 horas semanales entre lunes y domingo en turno partido en horario entre 09:00h y 00:00h con los descansos establecidos por ley.\n Vacantes:\n2\n Salario:\n de 11,9€ a 14,87€ Bruto/hora\n Población:\n Vilassar De Mar\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Ayudante de cocina en Vilassar De Mar\n Para un restaurante en Vilassar de Mar buscamos un/a Ayudante de Cocina. Las funciones a realizar son las siguientes:\n - Preparar ingredientes (cortar, pelar, porcionar y organizar alimentos antes del servicio).\n- Mantener la limpieza y la orden en la cocina, utensilios y superficies de trabajo.\n- Apoyar al cocinero en la elaboración básica de platos y en el montaje de preparaciones.\n- Controlar y reponer productos necesarios para el servicio diario.\n- Cumplir las normas de higiene y seguridad alimentaria durante todas las tareas.\n- Entre otras funciones propias del puesto de trabajo.\n Función:\n Ayudante de cocina\n Requisitos:\n - Experiencia mínima de 2 años como ayudante de cocina.\n- Buscamos a una persona proactiva y responsable.\n- Valorable residencia próxima al puesto de trabajo.\n- Valorable curso de cocina.\n- Necesita vehículo para desplazarse.\n Formación:\n - ESO finalizada.\n- Estudios relacionados con cocina.\n Idiomas:\n - Castellano: alto.\n- Catalán: alto.\n Iniciar sesión para inscribirte\n 202\n inscritos\n Otras ofertas de empleo de Ayudante de cocina en Barcelona\n Empleo de Ayudante de Cocina en Barcelona, Barcelona\n Barcelona, Barcelona",
+"salary": "11.9-14.87 EUR/HOUR",
+"text": "🍽️ Únete a un restaurante con sabor de mar en Vilassar de Mar!\n ¿Te apasiona la atención al cliente/a y disfrutas trabajando en un ambiente dinámico y con buen equipo? Esta oportunidad es para tí!\n Buscamos Camarero/a para incorporarse en un reconocido restaurando de Vilassar de Mar, donde la buena gastronomía y el excelente servicio son protagonistas.\n Las tareas a realizar serán las siguientes:\n Atender los clientes/as de manera amable y profesional.\n Tomar pedidos de comer y bebida.\n Preparar y mantener el área de trabajo limpia y ordenada.\n Montar y recoger mesas antes y después del servicio.\n Gestionar cobros y manejo de caja (efectivo y TPV), cuando corresponda.\n Entre otras funciones propias del puesto de trabajo.",
 "flags": [
 "kitchen_meat_alcohol"
 ],
 "why": {
-"kitchen_meat_alcohol": "empleo de ayudante de cocina vilassar de mar … oferta de empleo de ayudante de cocina … ayudante de cocina"
+"kitchen_meat_alcohol": "camarero a … buscamos camarero a para incorporarse en un reconocido restaurando de vilassar de mar donde la buena gastronomia y el excelente servicio son protagonistas"
 },
-"first_seen": "2026-11-21"
+"first_seen": "2026-11-24 10:56"
 },
 {
 "src": "eurofirms",
-"id": "062-017148",
-"title": "Empleo de Ayudante de cocina, Vilassar De Mar",
+"id": "062-017302",
+"title": "Ayudante de cocina",
 "town": "Vilassar de Mar",
 "town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/vilassar-de-mar/ayudante-de-cocina-062-017148",
-"published": "",
+"url": "https://jobs.eurofirms.com/es/es/vilassar-de-mar/ayudante-de-cocina-062-017302",
+"published": "2026-11-24",
 "modified": "",
 "company": "",
-"salary": "",
-"text": "Oferta de Empleo de Ayudante de cocina - 29/10/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Ayudante de cocina\n Vilassar De Mar, Barcelona\n Empleo de Ayudante de cocina, Vilassar De Mar\n Fecha de publicación:\n 29/10/2026\n Horario:\n - Jornada completa de 40 horas semanales entre lunes y viernes en turno partido en horario entre 08:00h y 23:00h con los descansos establecidos por ley.\n Vacantes:\n2\n Salario:\n de 11,12€ a 13,9€ Bruto/hora\n Población:\n Vilassar De Mar\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Ayudante de cocina en Vilassar De Mar\n 👨‍🍳 ¡Buscamos Ayudante de Cocina para unirse a nuestro equipo!\n¿Te apasiona la gastronomía y disfrutas trabajando en un entorno dinámico? Si quieres formar parte de un equipo profesional donde podrás desarrollar tus habilidades culinarias y crecer profesionalmente, ¡esta oportunidad es para ti! Buscamos Ayudantes de cocina (H/M) para un restaurante ubicado en Vilassar de Mar.\n¿Cuáles serán tus funciones?\n - Realizar la producción de bases y preelaboraciones: fondos, salsas, cortes de vegetales, limpieza y preparación de carnes y pescados.\n- Gestionar de forma autónoma la partida de fríos siguiendo las recetas e indicaciones del equipo de cocina.\n- Colaborar en el emplatado y acabado de los platos durante el servicio.\n- Garantizar que la mise en place de las diferentes estaciones esté preparada antes de cada turno.\n- Comunicar incidencias relacionadas con falta de stock o productos en mal estado.\n- Realizar la limpieza y desinfección de superficies, áreas de trabajo, cámaras y maquinaria de cocina.\n- Cumplir rigurosamente las normas de higiene, seguridad alimentaria y APPCC.\n- Etiquetar correctamente las elaboraciones indicando fechas de producción y caducidad.\n- Entre otras tareas propias del puesto de trabajo.",
+"salary": "11.9-14.87 EUR/HOUR",
+"text": "Para un restaurante en Vilassar de Mar buscamos un/a Ayudante de Cocina. Las funciones a realizar son las siguientes:\n Preparar ingredientes (cortar, pelar, porcionar y organizar alimentos antes del servicio).\n Mantener la limpieza y la orden en la cocina, utensilios y superficies de trabajo.\n Apoyar al cocinero en la elaboración básica de platos y en el montaje de preparaciones.\n Controlar y reponer productos necesarios para el servicio diario.\n Cumplir las normas de higiene y seguridad alimentaria durante todas las tareas.\n Entre otras funciones propias del puesto de trabajo.",
 "flags": [
 "kitchen_meat_alcohol"
 ],
 "why": {
-"kitchen_meat_alcohol": "empleo de ayudante de cocina vilassar de mar … oferta de empleo de ayudante de cocina … ayudante de cocina"
+"kitchen_meat_alcohol": "ayudante de cocina … para un restaurante en vilassar de mar buscamos un a ayudante de cocina … mantener la limpieza y la orden en la cocina utensilios y superficies de trabajo"
 },
-"first_seen": "2026-11-21"
+"first_seen": "2026-11-24 10:56"
 },
 {
 "src": "feinaactiva",
@@ -3651,27 +3587,6 @@
 "exp:12"
 ],
 "why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "09202629509",
-"title": "AUXILIAR ADMINISTRATIU/IVA (REF. 29509)",
-"town": "Cabrera de Mar",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202629509",
-"published": "2026-10-08",
-"modified": "",
-"company": "Oficina de Treball del SOC",
-"salary": "1635-1635 €/mes",
-"text": "- Atenció telefònica i gestió del correu electrònic.\n- Elaboració d'albarans de comandes i fulles de càrrega.\n- Introducció de dades d'estoc.\n- Suport administratiu al control de magatzem.\n- Arxiu i altres tasques administratives auxiliars.\nExperiència: Experiència 2 anys. Com auxiliar adminitratiu/iva. Competències / coneixements: - Coneixements de Microsoft Office 365.\n- Capacitat d'organització, atenció al detall i gestió del temps.\nRequisits: espanyol (parlat Superior, escrit Mitjà), català (parlat Mitjà, escrit Mitjà)\nEstudis: \nContracte laboral temporal (6 mesos)\nJornada completa",
-"flags": [
-"lang_level",
-"exp:2"
-],
-"why": {
-"lang_level": "espanyol parlat superior escrit mitja catala parlat mitja escrit mitja"
-},
 "first_seen": ""
 },
 {
@@ -7538,24 +7453,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92328946",
-"title": "OPERARIO/A DE LIMPIEZA – CENTRO LOGÍSTICO | SÁBADOS",
-"town": "Lliçà d'Amunt",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92328946",
-"published": "2026-11-16",
-"modified": "",
-"company": "EMPRESA DE MANTENIMIENTO",
-"salary": "280-300 €/mes",
-"text": "Te encargarás de garantizar la limpieza, higiene y correcto mantenimiento de las diferentes instalaciones del centro logístico.\nTus principales funciones serán:\n-Realizar la limpieza y desinfección de zonas comunes del centro.\n-Limpiar y mantener en condiciones óptimas los vestuarios, baños y aseos.\n-Realizar la limpieza de pasillos, accesos, zonas de descanso y espacios compartidos.\n-Efectuar el vaciado de papeleras y la recogida de residuos.\n-Limpiar suelos, superficies, mobiliario y otros elementos de las instalaciones.\n-Reponer materiales higiénicos y consumibles cuando sea necesario.\n-Utilizar correctamente los productos y equipos de limpieza.\n-Cumplir con los protocolos de higiene, seguridad y calidad establecidos.\nExperiència: Experiència 1 anys. Experiencia 1 años.\nSe valorará experiencia previa en limpieza de instalaciones, centros logísticos, oficinas o grandes superficies.\nRequisits: Disponibilitat de vehicle\nEstudis: \nContracte laboral indefinit\nJornada parcial (8 hores - jornada setmanal)",
-"flags": [
-"exp:1"
-],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "FA92329114",
 "title": "TÉCNICOS/AS DE MANTENIMIENTO INDUSTRIAL| LLIÇÀ D'AMUNT",
 "town": "Lliçà d'Amunt",
@@ -9865,31 +9762,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92328715",
-"title": "COCINERO/A - SANIDAD - MOLLET DEL VALLÈS",
-"town": "Mollet del Vallès",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92328715",
-"published": "2026-11-11",
-"modified": "",
-"company": "ARAMARK",
-"salary": "1600-1600 €/mes",
-"text": "Gestión de alérgenos y fichas técnicas.  \nPlanificación de compras y control de inventarios.  \nAplicación de APPCC y conservación de alimentos.  \nMantenimiento del orden y la limpieza.\nSe valorará disponer de certificado de discapacidad superior el 33%  \nAramark valorará la idoneidad de las candidaturas inscritas para el puesto en función de la experiencia y las capacidades que aporta la persona que participa en el proceso de selección, garantizando así la equidad y la igualdad de oportunidades profesionales.\nExperiència: Experiència 2 anys. Experiencia mínima demostrable como Cocinero/a en colectividades. \nConocimientos de calidad y seguridad alimentaria. \nDisponibilidad de vehículo propio o vivir en la zona.\nRequisits: espanyol (parlat Mitjà, escrit Mitjà), català (parlat Cap, escrit Mitjà)\nEstudis: \nContracte laboral temporal (2 mesos)\nJornada completa",
-"flags": [
-"car",
-"lang_level",
-"kitchen_meat_alcohol",
-"exp:2"
-],
-"why": {
-"car": "disponibilidad de vehiculo propio o vivir en la zona",
-"lang_level": "espanyol parlat mitja escrit mitja catala parlat cap escrit mitja",
-"kitchen_meat_alcohol": "cocinero a … experiencia minima demostrable como cocinero a en colectividades"
-},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "FA92329116",
 "title": "TREBALLADOR/A SOCIAL (SUPLÈNCIES EN MEDI PENITENCIARI)",
 "town": "Mollet del Vallès",
@@ -10700,27 +10572,6 @@
 ],
 "why": {
 "forklift": "carnet de carretillero en vigor"
-},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92329081",
-"title": "ADMINISTRATIVO/A CONTABLE - PARETS DEL VALLÈS",
-"town": "Parets del Vallès",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329081",
-"published": "2026-11-18",
-"modified": "",
-"company": "Pacto ETT",
-"salary": "2400-2500 €/mes",
-"text": "Gestión administrativa y contable de la empresa, realizando la contabilización de facturas, control de cobros y pagos, gestión de clientes y proveedores, conciliaciones bancarias y seguimiento de ingresos, gastos y vencimientos. También se gestiona la elaboración de informes contables y el apoyo a la gestión fiscal, utilizando el programa A3 Contabilidad para el registro de asientos y la gestión contable diaria.\nRegistro y contabilización de facturas.\nGestión de cobros y pagos.\nControl de clientes y proveedores.\nConciliación bancaria.\nControl de ingresos y gastos.\nGestión de facturación.\nSeguimiento de vencimientos.\nElaboración de informes contables.\nApoyo en la gestión de impuestos\nUso del programa A3 Contabilidad para registrar asientos, contabilizar facturas y gestionar la contabilidad.\nExperiència: Experiència 1 anys. Formación en Administración, Contabilidad o áreas afines.\nExperiencia previa en puesto similar de al menos 2 años.\nBuen manejo de herramientas ofimáticas y ERP.\nCapacidad de organización y atención al detalle.\nCapacidad para trabajar con supervisión y procedimientos establecidos.\nHabilidades de comunicación y trabajo en equipo.\nRequisits: català (parlat Mitjà, escrit Mitjà)\nEstudis: \nContracte laboral temporal (3 mesos)\nJornada completa",
-"flags": [
-"lang_level",
-"exp:1"
-],
-"why": {
-"lang_level": "catala parlat mitja escrit mitja"
 },
 "first_seen": ""
 },
@@ -13722,6 +13573,24 @@
 ],
 "why": {},
 "first_seen": ""
+},
+{
+"src": "feinaactiva",
+"id": "FA92329500",
+"title": "LIMPIADOR/A SABADELL",
+"town": "Sabadell",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329500",
+"published": "2026-11-24",
+"modified": "",
+"company": "FACILITY EUROPE CC, S.L.",
+"salary": "100-105 €/mes",
+"text": "Limpieza de oficinas, despachos, baños, vestuarios\nExperiència: Experiència 3 mesos. 3 meses\nRequisits: \nEstudis: \nContracte laboral temporal (1 mesos)\nJornada parcial (3 hores - jornada setmanal)",
+"flags": [
+"exp:3"
+],
+"why": {},
+"first_seen": "2026-11-24 10:56"
 },
 {
 "src": "feinaactiva",
@@ -17132,6 +17001,28 @@
 },
 {
 "src": "iman",
+"id": "chofer-de-camion-con-carnet-de-carretillero-a",
+"title": "CHÓFER DE CAMIÓN CON CARNET DE CARRETILLERO/A",
+"town": "Lliçà de Vall",
+"town_note": "",
+"url": "https://empleo.imancorp.es/jobs/chofer-de-camion-con-carnet-de-carretillero-a",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "",
+"text": "Volver\n Volver\n Iniciar sesión\n ¡Aplica ahora!\n Lliçà de Vall\n Compras, logística y almacén\n Distribución y logística\n Fabricación de productos metálicos, hierro, acero\n Completa\n Presencial\n Empleado\n Logística\n CHÓFER DE CAMIÓN CON CARNET DE CARRETILLERO/A\n Publicada\n 24 de Noviembre\n Desde IMAN Temporing, empresa especializada en RRHH, queremos acompañarte en tu trayectoria laboral. #Conectamoseltalentoconlasoportunidades\n Desde nuestra delegación precisamos incorporar un/a CHÓFER DE CAMIÓN CON CARNET DE CARRETILLERO/A para una empresa ubicada en Lliça de Vall.\n Funciones :\n Conducir el camión de la empresa para trasladar mercancía de una nave a otra.\n Realizar trayectos cortos entre las dos instalaciones de Lliça de Vall.\n Cargar y descargar la mercancía utilizando la carretilla elevadora.\n Comprobar que la mercancía se traslada correctamente entre ambas naves.\n Colocar y manipular la mercancía durante las operaciones de carga y descarga.\n Velar por el correcto uso y mantenimiento del camión y de la carretilla.\n Cumplir con las normas de seguridad durante las operaciones de transporte y manipulación de materiales.\n Condiciones:\n Horario: Lunes a viernes de 8h a 17h\n Tipo de contratación: 3 meses por ETT + incorporación por empresa. Es una posición estable.\n Salario: 15,22€ b/h\n Somos una empresa comprometida con la igualdad y no discriminamos por género, etnia, orientación sexual, diversidad funcional, edad u otros aspectos protegidos por la legislación. Éste proceso de selección se basa en criterios objetivos de profesionalidad, méritos y capacidad.\n Requisitos mínimos\n Carnet de conducir de camión en vigor y habilitación adecuada para conducir el vehículo de la empresa.\n Carnet de carretillero en vigor.\n Experiencia previa como chófer de camión.\n Experiencia en el manejo de carretilla elevadora para la carga y descarga de mercancía.\n Persona responsable, cuidadosa con el material y comprometida con la seguridad.",
+"flags": [
+"forklift",
+"car"
+],
+"why": {
+"forklift": "chofer de camion con carnet de carretillero a … chofer de camion con carnet de carretillero a … desde nuestra delegacion precisamos incorporar un a chofer de camion con carnet de carretillero a para una empresa ubicada en llica de vall",
+"car": "carnet de conducir de camion en vigor y habilitacion adecuada para conducir el vehiculo de la empresa"
+},
+"first_seen": "2026-11-24 10:56"
+},
+{
+"src": "iman",
 "id": "contable-f11d005e-975c-450d-9250-443346e22a23",
 "title": "CONTABLE",
 "town": "Lliçà de Vall",
@@ -19759,6 +19650,22 @@
 },
 {
 "src": "iman",
+"id": "control-de-accesos-att-cliente-d4d4f881-50a7-48b3-9963-8fd1ed2e177f",
+"title": "Control de accesos Vilanova del Vallès (indefinido)",
+"town": "Vilanova del Vallès",
+"town_note": "",
+"url": "https://empleo.imancorp.es/jobs/control-de-accesos-att-cliente-d4d4f881-50a7-48b3-9963-8fd1ed2e177f",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "",
+"text": "Volver\n Volver\n Iniciar sesión\n ¡Aplica ahora!\n Vilanova del Vallès\n Atención a clientes\n Atención al cliente\n Actividades administrativas y auxiliares de oficina\n Completa\n Presencial\n Empleado\n Atención Al Cliente\n Control de accesos Vilanova del Vallès (indefinido)\n Publicada\n 24 de Noviembre\n Desde IMAN Corporación buscamos incorporar un/a Control de accesos para importante empresa de logística ubicada en Vilanova del Vallès\n Buscamos una persona responsable y comprometida para realizar funciones de control de accesos.\n ¿Cuáles serán tus funciones?\n Control en el acceso de vehículos y personal\n Redirección y orientación de llegada a las instalaciones.\n Apoyo en el correcto funcionamiento del acceso al centro.\n Introducción de datos en el ordenador.\n ¿Qué ofrecemos?\n Contrato indefinido. Formación continua.\n Lunes a domingo en horarios rotativos de 06h a 14h y de 14h a 22h.\n Jornada completa.\n Salario según convenio de auxiliar de servicios.\n Servicio ubicado en : Vilanova del Vallès.\n Requisitos\n Disponibilidad para trabajar en turnos rotativos ( los turnos se planifican con anterioridad para que te puedas programar).\n Informática nivel usuario\n Valorable coche para acceder a las instalaciones del cliente.\n ¿Te interesa?\n Si buscas una oportunidad indefinida ¡inscríbete!\n Si no tienes experiencia, te formamos.\n IMAN Corporación promueve la igualdad de oportunidades y la no discriminación en sus procesos de selección. Todas las candidaturas serán valoradas en función de sus competencias y experiencia.\n Requisitos mínimos\n Disponibilidad para trabajar en turnos rotativos ( los turnos se planifican con anterioridad para que te puedas programar).\n Informática nivel usuario\n Valorable coche para acceder a las instalaciones del cliente.\n Competencias\n Atención al cliente",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-24 10:56"
+},
+{
+"src": "iman",
 "id": "asesor-a-comercial-interno-b2b",
 "title": "Asesor/a Comercial Interno B2B",
 "town": "Vilassar de Dalt",
@@ -21849,6 +21756,29 @@
 },
 {
 "src": "randstad",
+"id": "3025859",
+"title": "Mozo/a preparador de pedidos con PDA",
+"town": "La Roca del Vallès",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/mozo-a-preparador-pedidos-con-pda-3025859/",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "9.5-11.11 EUR/HOUR",
+"text": "Manipulación\nPicking\nPreparacion de pedidos Requisitos del puesto: Carnet de carretillas\nExperiencia en Picking\nUso de PDA (radiofrecuencia)\nExperiencia en Almacén Formación: FP Grado Medio\n Conocimientos: -pda\n Experiencia: 2 años\nTus beneficios: Contratos ETT y posterior incorporación a empresa\n8 a 16h (horario inicial)",
+"flags": [
+"forklift",
+"diploma",
+"exp:2"
+],
+"why": {
+"forklift": "carnet de carretillas",
+"diploma": "fp grado medio"
+},
+"first_seen": "2026-11-24 10:56"
+},
+{
+"src": "randstad",
 "id": "3006714",
 "title": "Técnico/a Frigorista de mantenimiento industrial",
 "town": "Les Franqueses del Vallès",
@@ -23261,6 +23191,26 @@
 },
 {
 "src": "randstad",
+"id": "3025909",
+"title": "Atención al Cliente Sector Automoción (Recambios)",
+"town": "Pineda de Mar",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/atencion-al-cliente-sector-automocion-recambios-3025909/",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "11.29-11.29 EUR/HOUR",
+"text": "Atender y gestionar de forma integral las consultas de clientes a través de canales telefónicos y escritos (correo electrónico y plataformas digitales).\nIdentificar, localizar y asesorar sobre piezas y recambios de automoción utilizando herramientas informáticas especializadas.\nRegistrar incidencias, pedidos y seguimientos con precisión y rapidez en el sistema de gestión.\nGarantizar una experiencia de cliente cercana, resolutiva y alineada con los estándares de calidad de la compañía. Requisitos del puesto: Excelentes habilidades de comunicación oral y escrita, con un trato educado, empático y orientado al cliente.\nAlta agilidad en mecanografía y soltura en el uso de atajos de teclado para gestionar gestiones en tiempo real.\nManejo fluido de herramientas informáticas (paquete Office, correo electrónico y navegación avanzada por internet).\nActitud proactiva, resolutiva y capacidad para trabajar con dinamismo.\nSe valorará positivamente (aunque no es imprescindible) contar con Formación Profesional de Grado Medio en Mecánica, Automoción o similar, o conocimientos previos del sector. Formación: Sin estudios\n Conocimientos: Microsoft Excel\nTus beneficios: Incorporación a una compañía sólida y líder en su sector, con un excelente ambiente de trabajo.\nFormación inicial y continua a cargo de la empresa para dominar los catálogos y herramientas técnicas de recambios.",
+"flags": [
+"diploma?"
+],
+"why": {
+"diploma": "se valorara positivamente aunque no es imprescindible contar con formacion profesional de grado medio en mecanica automocion o similar o conocimientos previos d"
+},
+"first_seen": "2026-11-24 10:56"
+},
+{
+"src": "randstad",
 "id": "3022491",
 "title": "manipulador o manipuladora - PACKING CON EXPERIENCIA-INMEDIATA",
 "town": "Premià de Dalt",
@@ -23299,45 +23249,6 @@
 "why": {
 "diploma": "ciclo formativo grado superior"
 },
-"first_seen": ""
-},
-{
-"src": "randstad",
-"id": "3018366",
-"title": "Mozo de almacén",
-"town": "Sabadell",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/mozo-almacen-3018366/",
-"published": "2026-10-28",
-"modified": "",
-"company": "",
-"salary": "11.13-11.13 EUR/HOUR",
-"text": "Formando parte del equipo de almacén y logística, tus responsabilidades principales serán:\nCarga, descarga y ubicación de mercancía y producto alimentario.\nControl y recepción de pedidos, verificando albaranes y estado del producto.\nPreparación de pedidos (picking/packing) y aprovisionamiento interno.\nControl básico de stock y apoyo en inventarios periódicos.\nMantenimiento del orden, limpieza y cumplimiento de las normativas higiénico-sanitarias y de seguridad en el almacén. Requisitos del puesto: Disponibilidad horaria completa de lunes a domingo en turno de mañana (07:00h a 15:00h).\nCapacidad de organización, dinamismo, proactividad y trabajo en equipo.\nValorable experiencia con la carretilla/carné de carretillero.\nIncorporación inmediata. Formación: Sin estudios\n Conocimientos: Logística\n Experiencia: 1 año\nTus beneficios: Jornada completa de 40 horas semanales distribuidas en 5 días de trabajo a la semana, con 2 días de descanso.\nHorario continuo de mañanas: de 07:00h a 15:00h.\nIntegración en un equipo dinámico y un ambiente laboral agradable y colaborativo.",
-"flags": [
-"forklift?",
-"exp:1"
-],
-"why": {
-"forklift": "valorable experiencia con la carretilla carne de carretillero"
-},
-"first_seen": ""
-},
-{
-"src": "randstad",
-"id": "3018626",
-"title": "Manipuladora",
-"town": "Sabadell",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/manipuladora-3018626/",
-"published": "2026-10-28",
-"modified": "",
-"company": "",
-"salary": "12.64-12.64 EUR/HOUR",
-"text": "- Manipulación, doblado, pegado y empaquetado manual de bolsas y productos de papel/plástico.\n- Alimentación de las máquinas manipuladoras y retirada de producto terminado de línea.\n- Control visual de calidad (revisión de acabados, asas, impresiones y sellado).\n- Empaquetado, encajado y etiquetado de lotes para expedición.\n- Limpieza y mantenimiento del orden en la zona de trabajo asignada. Requisitos del puesto: - Experiencia previa en puestos de manipulación, envasado, packaging, artes gráficas o líneas de producción.\n- Destreza manual, rapidez, agilidad y atención al detalle.\n- Disponibilidad para trabajar de lunes a viernes en el horario indicado.\n- Residencia en Sabadell o poblaciones cercanas. Formación: Educación Secundaria Obligatoria\n Conocimientos: Mozo\n Experiencia: 1 año\nTus beneficios: - Salario: 12,64 ¿/hora brutos.\n- Horario: Turno de 08:30 a 17:00 h de lunes a viernes (jornada completa con rotaciones según necesidades de producción).\n- Contratación: Contratos temporales a través de ETT con posibilidad de continuidad según volumen de trabajo.\n- Incorporación a un entorno industrial dinámico en Sabadell.",
-"flags": [
-"exp:1"
-],
-"why": {},
 "first_seen": ""
 },
 {
@@ -23637,10 +23548,10 @@
 {
 "src": "randstad",
 "id": "3022189",
-"title": "Operario textil",
+"title": "Operario",
 "town": "Sabadell",
 "town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/operario-textil-3022189/",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/operario-3022189/",
 "published": "2026-11-10",
 "modified": "",
 "company": "",
@@ -23875,6 +23786,49 @@
 "flags": [],
 "why": {},
 "first_seen": ""
+},
+{
+"src": "randstad",
+"id": "3025753",
+"title": "Carretillero Sabadell",
+"town": "Sabadell",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/carretillero-sabadell-3025753/",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "11.05-11.05 EUR/HOUR",
+"text": "- Carga y descarga de camiones y contenedores mediante carretilla elevadora (frontal / retráctil).\n- Ubicación, reposición y extracción de mercancía paletizada en estanterías.\n- Abastecimiento continuo de materia prima y retirada de producto terminado a las líneas de producción o expedición.\n- Preparación de pedidos (picking), flejado y control de albaranes.\n- Mantenimiento del orden, limpieza y cumplimiento de las normativas de seguridad vial dentro del almacén. Requisitos del puesto: - Carnet de carretillero/a en vigor (imprescindible).\n- Experiencia previa mínima de 1 a 2 años en el manejo ágil y seguro de carretilla elevadora (valorable dominio de frontal y/o retráctil).\n- Disponibilidad para trabajar en turno fijo de tarde de lunes a viernes.\n- Residencia en Polinyà o poblaciones cercanas (muy valorable vehículo propio para acceder al polígono).\n- Persona responsable, precisa y comprometida con la seguridad laboral. Formación: Educación Secundaria Obligatoria\n Conocimientos: Carretillero\n Experiencia: 1 año\nTus beneficios: - Salario: 11,05 ¿/hora brutos.\n- Horario: Turno fijo de tarde de lunes a viernes (fines de semana libres).\n- Contratación: Contratos temporales a través de ETT con posibilidades de continuidad según necesidades de la empresa.\n- Ubicación: Polinyà.",
+"flags": [
+"forklift",
+"car?",
+"exp:1"
+],
+"why": {
+"forklift": "carretillero sabadell … carga y descarga de camiones y contenedores mediante carretilla elevadora frontal retractil … carnet de carretillero a en vigor imprescindible",
+"car": "residencia en polinya o poblaciones cercanas muy valorable vehiculo propio para acceder al poligono"
+},
+"first_seen": "2026-11-24 10:56"
+},
+{
+"src": "randstad",
+"id": "3025866",
+"title": "Manipulador/a TARDE",
+"town": "Sabadell",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/manipulador-a-tarde-3025866/",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "13.49-13.49 EUR/HOUR",
+"text": "Tus funciones principales serán:\n-Ubicación de material en almacén.\n-Carga y descarga.\n-Preparación de pedidos con PDA. Requisitos del puesto: Disponibilidad completa de lunes a domingo\nExperiencia previa de con PDA. Formación: Educación primaria\n Idiomas: Castellano\n: A1\n Conocimientos: Terminal PDA\n Experiencia: 1 año\nTus beneficios: Salario según convenio 13, 49 euros brutos la hora.\nTurno de 14:00 a 22:00.",
+"flags": [
+"exp:1"
+],
+"why": {},
+"first_seen": "2026-11-24 10:56",
+"repost_of": "randstad:3022869",
+"repost_first_seen": ""
 },
 {
 "src": "randstad",
@@ -24235,6 +24189,28 @@
 "flags": [],
 "why": {},
 "first_seen": ""
+},
+{
+"src": "ras",
+"id": "8786960",
+"title": "MOZO/A ALMACEN",
+"town": "Granollers",
+"town_note": "",
+"url": "https://empleo.ras-interim.es/jobs/8786960-mozo-a-almacen",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "",
+"text": "Desde la oficina RAS GRANOLLERS seleccionamos MOZO/A ALMACÉN para empresa del sector COSMETICO ubicada en VALLGORGUINA\n 👌 TUS RESPONSABILIDADES\n- Carga y descarga de contenedores\n- Tareas de picking\n- Manipulación del producto\n 👍 ¿QUÉ NECESITAMOS DE TI?\n- Experiencia previa realizando funciones como mozo/a almacén\n- Disponibilidad para realizar tanto turno fijo de mañana como de tarde\n- Valorable disponer del carnet de carretilla\n- Incorporación inmediata\n- Vehículo propio\n 🤝 ¿QUÉ PODEMOS APORTARTE?\n- Horario: Turno fijo de mañana y/o de tarde\n- Contrato inicial a través de RAS\n- Salario: según convenio",
+"flags": [
+"forklift?",
+"car"
+],
+"why": {
+"forklift": "valorable disponer del carnet de carretilla",
+"car": "vehiculo propio"
+},
+"first_seen": "2026-11-24 10:56"
 },
 {
 "src": "ras",
@@ -25227,6 +25203,26 @@
 "flags": [],
 "why": {},
 "first_seen": ""
+},
+{
+"src": "ras",
+"id": "8786793",
+"title": "OPERARIOS/AS CON PUENTE GRÚA",
+"town": "Sabadell",
+"town_note": "",
+"url": "https://empleo.ras-interim.es/jobs/8786793-operarios-as-con-puente-grua",
+"published": "2026-11-24",
+"modified": "",
+"company": "",
+"salary": "12.36 EUR/HOUR",
+"text": "Desde la oficina RAS INTERIM MOLLET seleccionamos OPERARIOS/AS PUENTE GRÚA para empresa del sector industrial ubicada en SANTA PERPÈTUA DE MOGODA\n 👌 TUS RESPONSABILIDADES\n Conducir el puente grúa para mover, elevar y ubicar materiales y piezas.\n Movilizar mercancías también con carretilla frontal.\n Realizar la carga y descarga de materiales de forma segura.\n 👍 ¿QUÉ NECESITAMOS DE TI?\n Carnet de puente grúa vigente.\n Experiencia estable previa en el manejo de puente grúa.\n Disponibilidad inmediata.\n 🤝 ¿QUÉ PODEMOS APORTARTE?\n Jornada a 30 horas semanales.\n Salario de 12,36 €/b/hora.\n Contratación inicial por ETT con posibilidad de pasar a plantilla.",
+"flags": [
+"forklift"
+],
+"why": {
+"forklift": "movilizar mercancias tambien con carretilla frontal"
+},
+"first_seen": "2026-11-24 10:56"
 },
 {
 "src": "ras",
