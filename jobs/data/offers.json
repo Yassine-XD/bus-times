@@ -1,47 +1,47 @@
 {
-"built": "2026-11-25 15:26 UTC",
+"built": "2026-11-25 23:16 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
 "count": 171,
-"secs": 396,
-"at": "2026-11-25 15:33"
+"secs": 487,
+"at": "2026-11-25 23:24"
 },
 "feinaactiva": {
 "ok": true,
-"count": 704,
-"secs": 12,
-"at": "2026-11-25 15:33"
+"count": 699,
+"secs": 6,
+"at": "2026-11-25 23:24"
 },
 "eurofirms": {
 "ok": true,
-"count": 83,
-"secs": 9,
-"at": "2026-11-25 15:33"
+"count": 84,
+"secs": 5,
+"at": "2026-11-25 23:24"
 },
 "randstad": {
 "ok": true,
-"count": 179,
-"secs": 173,
-"at": "2026-11-25 15:36"
+"count": 181,
+"secs": 176,
+"at": "2026-11-25 23:27"
 },
 "iman": {
 "ok": true,
 "count": 263,
-"secs": 54,
-"at": "2026-11-25 15:37"
+"secs": 55,
+"at": "2026-11-25 23:28"
 },
 "ras": {
 "ok": true,
-"count": 63,
-"secs": 3,
-"at": "2026-11-25 15:37"
+"count": 62,
+"secs": 1,
+"at": "2026-11-25 23:28"
 },
 "meditempus": {
 "ok": true,
 "count": 32,
 "secs": 1,
-"at": "2026-11-25 15:37"
+"at": "2026-11-25 23:28"
 }
 },
 "offers": [
@@ -144,6 +144,22 @@
 "diploma": "ciclo formativo grado superior"
 },
 "first_seen": "2026-11-21"
+},
+{
+"src": "eurofirms",
+"id": "062-017319",
+"title": "Manipulador/a",
+"town": "Cabrera de Mar",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/cabrera-de-mar/manipulador-a-062-017319",
+"published": "2026-11-25",
+"modified": "",
+"company": "",
+"salary": "9.76 EUR/HOUR",
+"text": "📦 Manipulador/a.\n 📍 Cabrera de Mar\n ¿Buscas una oportunidad laboral estable y con posibilidad de aprender? ¡Esta puede ser tu oportunidad!\n ✅ Funciones\n Carga y descarga de mercancía.\n Ubicación y movimiento de material en almacén.\n Apoyo en las tareas generales del almacén.\n Uso de PDA para la gestión de los pedidos.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-25 23:16"
 },
 {
 "src": "eurofirms",
@@ -939,28 +955,6 @@
 },
 {
 "src": "eurofirms",
-"id": "062-017253",
-"title": "Empleo de Manipulador/a, Mataró",
-"town": "Mataró",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/mataro/manipulador-a-062-017253",
-"published": "",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Oferta de Empleo de Manipulador/a - 13/11/2026\n Volver a la página principal\n Volver a inicio\n Idioma\n Español\n Català\n Login empresas\n Login candidatos\n Contacta\n Accede\n Login empresas\n Login candidatos\n Contacta\n Área privada\n Perfil\n Configuración\n Cerrar sesión\n ES\n Català\n Volver a ofertas\n Volver\n Manipulador/a\n Mataró, Barcelona\n Empleo de Manipulador/a, Mataró\n Fecha de publicación:\n 13/11/2026\n Horario:\n Jornada completa de 40 horas semanales entre lunes y viernes en turno mañana en horario entre 06:00h y 14:00h con los descansos establecidos por ley.\n Vacantes:\n1\n Salario:\n 9,61€ Bruto/hora\n Población:\n Mataró\n Iniciar sesión para inscribirte\n Comparte esta oferta\n Descripción de la oferta de empleo de Manipulador/a en Mataró\n 👉 ¿Buscas una oportunidad laboral y tienes experiencia en manipulación de prendas? ¡Te estamos buscando! 🚀 Buscamos manipuladores/as para incorporación inmediata.\n ✅ Funciones principales:\n👕 Clasificación de prendas textiles.\n🧺 Doblado y preparación de prendas.\n📦 Envasado y encajado de productos.\n🧹 Mantenimiento del orden y limpieza del puesto de trabajo.\n Función:\n Manipulador/a\n Requisitos:\n ✔️ Experiencia previa como manipulador/a, preferiblemente en empresas del sector textil.\n✔️ Agilidad manual y atención al detalle.\n✔️ Capacidad para realizar tareas repetitivas con precisión.\n✔️ Persona responsable, comprometida y con buena actitud.\n✔️ Disponibilidad para incorporación inmediata.\n✔️ Valorable vehículo propio para desplazarse.\n Formación:\n - ESO o equivalente.\n Idiomas:\n Catalán y castellano hablado y escrito correctamente.\n Iniciar sesión para inscribirte\n 84\n inscritos\n Otras ofertas de empleo de Manipulador/a en Barcelona\n Empleo de Manipulador/a en L'hospitalet De Llobregat, Barcelona\n L'hospitalet De Llobregat, Barcelona\n Salario 25.000€ Bruto/año\n 19/11/2026\n Empleo de Manipulador/a en Montornès Del Vallès, Barcelona\n Montornès Del Vallès, Barcelona\n Salario de 11,25€ a 12,75€",
-"flags": [
-"car?",
-"lang_level"
-],
-"why": {
-"car": "valorable vehiculo propio para desplazarse",
-"lang_level": "catalan y castellano hablado y escrito correctamente"
-},
-"first_seen": "2026-11-21"
-},
-{
-"src": "eurofirms",
 "id": "062-017264",
 "title": "Frigorista",
 "town": "Mataró",
@@ -1146,6 +1140,24 @@
 "flags": [],
 "why": {},
 "first_seen": "2026-11-25 15:26"
+},
+{
+"src": "eurofirms",
+"id": "062-017318",
+"title": "Manipulador/a",
+"town": "Mataró",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/mataro/manipulador-a-062-017318",
+"published": "2026-11-25",
+"modified": "",
+"company": "",
+"salary": "9.61 EUR/HOUR",
+"text": "👉 ¿Buscas una oportunidad laboral y tienes experiencia en manipulación de prendas? ¡Te estamos buscando! 🚀 Buscamos Manipuladores/as para incorporación inmediata.\n ✅ Funciones principales:\n 👕 Clasificación de prendas textiles.\n 🧺 Doblado y preparación de prendas.\n 📦 Envasado y encajado de productos.\n 🧹 Mantenimiento del orden y limpieza del puesto de trabajo",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-25 23:16",
+"repost_of": "eurofirms:062-017308",
+"repost_first_seen": "2026-11-24 15:42"
 },
 {
 "src": "eurofirms",
@@ -3828,24 +3840,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92323384",
-"title": "GEROCULTORS/ GEROCULTORES",
-"town": "Calella",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323384",
-"published": "2026-08-27",
-"modified": "",
-"company": "RESIDENCIA LA MARESMA, S.L.",
-"salary": "",
-"text": "Les pròpies d´un/a gerocultor/a a una residència per a gent gran.\nExperiència: Experiència 1 mesos. no es necessari tenir experiència\nRequisits: \nEstudis: \nContracte laboral indiferent\nJornada completa",
-"flags": [
-"exp:1"
-],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "FA92325304",
 "title": "OFICIAL/LA 1ª INSTALACIONES",
 "town": "Calella",
@@ -4957,42 +4951,6 @@
 ],
 "why": {},
 "first_seen": "2026-11-23 15:50"
-},
-{
-"src": "feinaactiva",
-"id": "FA92323377",
-"title": "TALLERISTA \"TEATRE EN FAMÍLIA\" CASAL CÍVIC (GRANOLLERS)",
-"town": "Granollers",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323377",
-"published": "2026-08-27",
-"modified": "",
-"company": "Estudi 6 Gestió Socioeducativa",
-"salary": "",
-"text": "Impartir un taller de \"TEATRE EN FAMÍLIA\" A UN CASAL CÍVIC DE GRANOLLERS.\nExperiència: Experiència 3 mesos. Cal tenir experiència.. Competències / coneixements: Altres competències/coneixements\nBona capacitat de comunicació. \nBon coneixement de la matèria que s'imparteix. \nBona capacitat d'empatia.\nRequisits: \nEstudis: \nContracte laboral indefinit\nJornada parcial tarda (1 hores - jornada setmanal)",
-"flags": [
-"exp:3"
-],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92323416",
-"title": "PERSONAL OFICIAL 1ª",
-"town": "Granollers",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323416",
-"published": "2026-08-27",
-"modified": "",
-"company": "Consultoria",
-"salary": "1300-2000 €/mes",
-"text": "Gestión de mantenimientos de jardinería con autonomía, que lidere equipos de una o dos personas de jardinería y sea capaz de organizar los trabajos diarios. \nSegar, podar, planificación riegos, recogida de escombros, aplicación fitosanitarios.\nExperiència: Experiència 5 anys. Experiencia mínima de 5 años en gestión de equipos, que sepa motivar a sus compañeros. \nQue sepa interpretar planos. \nQue sepa de automatismos de riego, programación.\nPoda. \nMaquinaria. \nTrato con clientes. \nOrganización. \nCapacidad para resolver incidencias. \nProactividad.\nRequisits: Disponibilitat de vehicle, Permisos de conduir: b. català (parlat Superior, escrit Superior), espanyol (parlat Superior, escrit Superior)\nEstudis: \nContracte laboral indefinit\nJornada intensiva",
-"flags": [
-"exp:5"
-],
-"why": {},
-"first_seen": ""
 },
 {
 "src": "feinaactiva",
@@ -11011,25 +10969,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92323381",
-"title": "AUXILIAR ADMINISTRATIVO/A CON IDIOMAS FRANCÉS Y INGLÉS CON EXPERIENCIA",
-"town": "Premià de Dalt",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323381",
-"published": "2026-08-27",
-"modified": "",
-"company": "Oasis Star, s.l",
-"salary": "960-960 €/mes",
-"text": "Atención telefónica  con los clientes, cursar pedidos  de clientes y  proveedores, realizar presupuestos.\nExperiència: Experiència 2 anys. Tareas administrativas  y atención  clientes. Competències / coneixements: Informática,contabilidad\nRequisits: \nEstudis: \nContracte laboral indefinit\nJornada parcial matí (4 hores - jornada diaria)",
-"flags": [
-"english",
-"exp:2"
-],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "FA92324023",
 "title": "ADMINISTRATIU/VA COMPTABLE",
 "town": "Premià de Dalt",
@@ -11162,29 +11101,6 @@
 ],
 "why": {},
 "first_seen": "2026-11-24 08:38"
-},
-{
-"src": "feinaactiva",
-"id": "FA92323448",
-"title": "AUXILIAR ADMINISTRATIU/IVA A CENTRES EDUCATIUS AL MARESME (SUBSTITUCIÓ DE CURTA DURADA)",
-"town": "Premià de Mar",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92323448",
-"published": "2026-08-27",
-"modified": "",
-"company": "GENERALITAT DE CATALUNYA",
-"salary": "1653-1653 €/mes",
-"text": "Les funcions d’aquest lloc són les pròpies del cos auxiliar administratiu/iva de la Generalitat, en concret dins l’àmbit dels centres educatius, com: -La gestió administrativa dels processos de preinscripció i matriculació d’alumnes. -La gestió administrativa dels documents acadèmics: llibres d’escolaritat, historials acadèmics, títols, beques i ajuts, certificats, diligències, etc. -La gestió administrativa i la tramitació dels assumptes del centre. - Arxiu i classificació de la documentació del centre; Despatx de la correspondència (recepció, registre, classificació, tramesa, compulsa, franqueig, etc.);Transcripció de documents i elaboració i transcripció de llistes i relacions; Gestió informàtica de dades (domini de l’aplicació informàtica que correspongui en cada cas).; Atenció telefònica i personal sobre els assumptes propis de la secretaria administrativa del centre; Recepció i comunicació d’avisos, encàrrecs interns i incidències del personal (baixes, permisos, etc.); Realització de comandes de material, comprovació d’albarans, etc., d’acord amb l’encàrrec rebut per la direcció o la secretaria del centre; Manteniment de l’inventari; Control de documents comptables simples; Exposició i distribució de la documentació d’interès general que estigui al seu abast (disposicions, comunicats, etc.).\nExperiència: Experiència 2 mesos. En llocs similars. Competències / coneixements: Els requisits per ocupar aquest lloc de treball són: titulació de graduat escolar, ESO, de formació professional de primer grau o equivalent i, coneixements de nivell de suficiència de llengua catalana (C1).\nRequisits: Disponibilitat de vehicle. català (parlat Superior, escrit Superior)\nEstudis: \nContracte laboral temporal (1 mesos)\nJornada completa",
-"flags": [
-"lang_level",
-"diploma",
-"exp:2"
-],
-"why": {
-"lang_level": "titulacio de graduat escolar eso de formacio professional de primer grau o equivalent i coneixements de nivell de suficiencia de llengua catalana c1",
-"diploma": "titulacio de graduat escolar eso de formacio professional de primer grau o equivalent i coneixements de nivell de suficiencia de llengua catalana c1"
-},
-"first_seen": ""
 },
 {
 "src": "feinaactiva",
@@ -21724,15 +21640,15 @@
 {
 "src": "randstad",
 "id": "3025991",
-"title": "TÉCNICO/A CALIDAD packaging",
+"title": "Técnico/A Calidad Industrial/Producción Packaging",
 "town": "Canovelles",
 "town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/tecnico-a-calidad-packaging-3025991/",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/tecnico-a-calidad-industrial-produccion-packaging-3025991/",
 "published": "2026-11-24",
 "modified": "",
 "company": "",
 "salary": "10.84-10.84 EUR/HOUR",
-"text": "Asegurar el cumplimiento de normativas (ISO 9001, BRCGS Packaging, FSC), trazabilidad y gestión documental.\nAnalizar indicadores de calidad (KPIs), interpretar planos/especificaciones y gestionar reclamaciones y no conformidades.\nApoyar en auditorías internas y externas, liderar mejoras y formar/sensibilizar al equipo. Requisitos del puesto: Conocimientos en sistemas de calidad, análisis de datos y resolución de problemas.\nPerfil proactivo, con atención al detalle, pensamiento crítico y resiliencia bajo presión.\nCapacidad de negociación y buena comunicación (tanto para informes técnicos como con equipos y clientes) Formación: Grado\n Experiencia: 3 años\nTus beneficios: ¿ Horario: Turnos rotativos de mañana y tarde\n¿ Salario: 10,84 ¿ brutos/hora\n¿ Contrato: Estable, con clara intención de pase a fijo y crecimiento interno",
+"text": "Ensayos físicos y control en planta: Realizar pruebas de calidad al cartón y producto acabado (medición de espesores, resistencia a la compresión, calidad de impresión), verificando que cumplen con el plano y la ficha técnica del cliente.\nResolución de incidencias y análisis (KPIs): Investigar la causa raíz en línea de producción ante partidas defectuosas o reclamaciones, analizar indicadores de calidad y gestionar las \"no conformidades\".\nNormativa y gestión documental: Asegurar el cumplimiento de los estándares de packaging (ISO 9001, BRCGS y FSC), manteniendo al día la trazabilidad y la documentación técnica.\nAuditorías y mejora continua: Dar soporte en auditorías internas y externas, impulsar mejoras en los procesos de fábrica y formar/sensibilizar al equipo en materia de calidad. Requisitos del puesto: Conocimientos en sistemas de calidad, análisis de datos y resolución de problemas.\nLaboratorio de Análisis y Control de Calidad\nDiseño y Gestión de la Producción Gráfica\nProgramación de la Producción en Fabricación Mecánica Formación: Grado\n: Grado en Química\n Conocimientos: Especialista en packaging\n, laboratorio de análisis y control de calidad\n, programación de la producción en fabricación mecánica\n, verificador/a de calidad en línea.\n Experiencia: 3 años\nTus beneficios: Horario: Turnos rotativos de mañana y tarde\n Salario: 10,84 /hora\nContrato: Estable, con clara intención de pase a fijo y crecimiento interno",
 "flags": [
 "exp:3"
 ],
@@ -21760,6 +21676,28 @@
 "lang_level": "nivel de ingles y frances alto c1 … c1 … c1"
 },
 "first_seen": ""
+},
+{
+"src": "randstad",
+"id": "3026373",
+"title": "carretillero",
+"town": "Cardedeu",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/carretillero-3026373/",
+"published": "2026-11-25",
+"modified": "",
+"company": "",
+"salary": "13.51-13.51 EUR/HOUR",
+"text": "Como Operario/a de Almacén y Carretillero/a Frontal, serás una pieza fundamental en el flujo de materiales y el aprovisionamiento de planta. Tus principales responsabilidades incluirán:\nManejo de carretilla frontal para la carga, descarga, ubicación y movimiento de mercancías y materias primas.\nAprovisionamiento de líneas de producción, asegurando que los materiales necesarios lleguen a tiempo y en las condiciones óptimas para evitar paradas.\nRecepción, verificación y expedición de mercancías, comprobando albaranes y asegurando la integridad de los productos.\nControl de stock e inventarios mediante el uso de terminales de radiofrecuencia / sistema ERP (SAP o similar).\nMantenimiento del orden y la limpieza (5S) en las zonas de almacén y muelles de carga, cumpliendo estrictamente con las normativas de prevención de riesgos laborales (PRL) y calidad. Requisitos del puesto: Experiencia previa mínima de 2 años como carretillero/a frontal en entornos industriales o centros logísticos con alto volumen de movimiento.\nCarnet de carretillero/a en vigor (certificado conforme a la normativa UNE 58451) con dominio demostrado de la carretilla frontal.\nConocimientos informáticos a nivel usuario y experiencia previa trabajando con pistolas de radiofrecuencia y sistemas de gestión de almacén (SGA / ERP).\nValorable experiencia en tareas de aprovisionamiento a líneas de producción y gestión de materias primas.\nResidencia cercana a Cardedeu o alrededores (Vallès Oriental) y disponibilidad de vehículo propio para acceder al centro de trabajo.\nCompetencias clave: Persona resolutiva, metódica, con alta orientación a la seguridad laboral, capacidad de trabajo en equipo y acostumbrada a ritmos dinámicos de producción. Formación: Sin estudios\n Conocimientos: Carretillero\nTus beneficios: Posibilidad de incorporación a una empresa líder en su sector con alta estabilidad y proyección de continuidad.\nSalario competitivo acorde al convenio del sector y a la valía aportada por el candidato/a.\nFormación inicial y continua en seguridad, procesos internos y manejo de herramientas de gestión de almacén.\nEntorno de trabajo seguro, limpio y organizado, con equipamiento moderno y protocolos estrictos de seguridad.\nFácil acceso a las instalaciones en la zona de Cardedeu (con disponibilidad de aparcamiento). (Nota: Puedes añadir aquí el tipo de horario o turnos específicos, ej. turnos rotativos de mañana/tarde/noche o turno fijo, según corresponda).",
+"flags": [
+"forklift",
+"car"
+],
+"why": {
+"forklift": "carretillero … como operario a de almacen y carretillero a frontal seras una pieza fundamental en el flujo de materiales y el aprovisionamiento de planta … manejo de carretilla frontal para la carga descarga ubicacion y movimiento de mercancias y materias primas",
+"car": "residencia cercana a cardedeu o alrededores valles oriental y disponibilidad de vehiculo propio para acceder al centro de trabajo"
+},
+"first_seen": "2026-11-25 23:16"
 },
 {
 "src": "randstad",
@@ -22316,6 +22254,28 @@
 },
 {
 "src": "randstad",
+"id": "3026132",
+"title": "Dependiente/a",
+"town": "La Roca del Vallès",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/dependiente-a-3026132/",
+"published": "2026-11-25",
+"modified": "",
+"company": "",
+"salary": "11.87-11.87 EUR/HOUR",
+"text": "Dependiente en tienda, atención al cliente. Requisitos del puesto: Saber Ingles y si sabes Frances es un plus. Formación: Educación primaria\n Idiomas: Francés\n: B1\n, Inglés\n: B1\n Conocimientos: Moda\n Experiencia: 1 año\nTus beneficios: Horario 40h semanales, distribuidas de Lunes a Domingo, dentro del horario de 9h a 22h.\nSalario de 11,87¿ bruto hora.\nContrato hasta finales de diciembre.",
+"flags": [
+"lang_level",
+"english",
+"exp:1"
+],
+"why": {
+"lang_level": "b1 … b1"
+},
+"first_seen": "2026-11-25 23:16"
+},
+{
+"src": "randstad",
 "id": "3006714",
 "title": "Técnico/a Frigorista de mantenimiento industrial",
 "town": "Les Franqueses del Vallès",
@@ -22335,22 +22295,6 @@
 "car": "carne de conducir vehiculo propio y residencia cercana a les franqueses del valles maximo 30 minutos",
 "diploma": "valorable contar con fp de grado medio superior en electromecanica o mantenimiento asi como carne de manipulador de gases fluorados … ciclo formativo grado medio"
 },
-"first_seen": ""
-},
-{
-"src": "randstad",
-"id": "3017489",
-"title": "Operario Triaje turno americano en Les Franqueses",
-"town": "Les Franqueses del Vallès",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/operario-triaje-turno-americano-les-franqueses-3017489/",
-"published": "2026-10-26",
-"modified": "",
-"company": "",
-"salary": "11.65-13 EUR/HOUR",
-"text": "- separar los diferentes tipos de materiales que pasan por la cinta transportadora. (PET COLOR, PEAD, FILM ETC) y diferentes tipos de\nimpropios\ntambién realizar trabajos de mantenimiento de orden y limpieza en la planta. Requisitos del puesto: No es necesario un nivel de estudios mínimos. Formación: Sin estudios\n Conocimientos: Triaje\nTus beneficios: Se trabaja en Turno americano M/T/N 24/7, 2 días de mañana, 2 días de tarde y 2 días de noche con 4 días de descanso.\nSe trabajan fines de semana y festivos.\nHora base: 11,67\nPlus noche: 2,72",
-"flags": [],
-"why": {},
 "first_seen": ""
 },
 {
@@ -24510,6 +24454,29 @@
 },
 {
 "src": "randstad",
+"id": "3026429",
+"title": "Operario/a electrónico SMD",
+"town": "Vilassar de Dalt",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/operario-a-electronico-smd-3026429/",
+"published": "2026-11-25",
+"modified": "",
+"company": "",
+"salary": "12-12 EUR/HOUR",
+"text": "- llevarás máquinas SMD\n- realizarás montajes de circuitos de manera automática (no manual) Requisitos del puesto: - has de tener experiencia en llevar máquinas SMD\n- has de haber trabajado como electrónico \n- has de tener experiencia en el manejo de maquinaria similares a marcas utilizadas como YAMAHA, I-PULSE, JUKI, MIRAE... Formación: Ciclo Formativo Grado Superior\n: Electricidad y Electrónica\n Idiomas: Catalán\n: B2\n, Castellano\n: B2\n Conocimientos: Electrónica\n, Máquinas de montaje SMD\n Experiencia: 1 año\nTus beneficios: - entrarás a formar parte de una empresa líder en su sector\n- tendrás un contrato inicial de 2 a 3 meses con posibilidades de aumentar su duración \n- tu salario será según convenio industria siderometalúrgica",
+"flags": [
+"lang_level",
+"diploma",
+"exp:1"
+],
+"why": {
+"lang_level": "b2 … b2",
+"diploma": "ciclo formativo grado superior"
+},
+"first_seen": "2026-11-25 23:16"
+},
+{
+"src": "randstad",
 "id": "3018928",
 "title": "Carretillero",
 "town": "Vilassar de Mar",
@@ -25069,22 +25036,6 @@
 "company": "",
 "salary": "",
 "text": "Desde la oficina RAS Mollet seleccionamos Auxiliar de Impresión para empresa ubicada en Montornés del Vallés.\n 👌 TUS RESPONSABILIDADES\n- Preparar la materia prima para que el ayudante pueda entrarla en máquina.\n- Ayudar al maquinista en todo lo que necesite.\n- Uso de la transpaleta.\n 👍 ¿QUÉ NECESITAMOS DE TI?\n- Incorporación inmediata.\n- Actitud positiva y proactiva.\n- Experiencia en una posición similar.\n 🤝 ¿QUÉ PODEMOS APORTARTE?\n- Horario: Horario: De L a V, turnos rotativos de mañana y tarde\n- Salario: 10,08€ brutos/hora.\n- Contrato inicial a través de ETT + posibilidad real de pasar por empresa.",
-"flags": [],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "ras",
-"id": "8667648",
-"title": "Operario/a de Limpieza",
-"town": "Mollet del Vallès",
-"town_note": "",
-"url": "https://empleo.ras-interim.es/jobs/8667648-operario-a-de-limpieza",
-"published": "2026-11-04",
-"modified": "",
-"company": "",
-"salary": "",
-"text": "Desde la oficina RAS Mollet seleccionamos Operario/a de Limpieza para empresa ubicada en Montornés del Vallés.\n 👌 TUS RESPONSABILIDADES\n - Limpieza de zonas comunes (pasillos, escaleras y ascensores): Barrido, fregado y desinfección diaria de suelos, así como de las superficies de contacto frecuente (barandillas, pomos y botones de ascensor). Vaciado de papeleras y limpieza de cristales en accesos y áreas comunes.\n - Limpieza de vestuarios, aseos y comedores: Desinfección integral de inodoros, duchas, lavabos y taquillas. Reposición continua de consumibles higiénicos (papel higiénico, jabón y toallas de manos). Limpieza y desinfección de mesas, sillas y zonas destinadas a la preparación o consumo de alimentos. Mantenimiento y limpieza exterior de equipos y electrodomésticos (microondas y frigoríficos), así como retirada y gestión inmediata de residuos orgánicos.\n - Limpieza de oficinas y despachos: Eliminación de polvo en mobiliario y superficies de trabajo, así como limpieza antiestática de equipos informáticos (pantallas, teclados y otros elementos periféricos). Vaciado de papeleras individuales y limpieza de pavimentos mediante aspirado o fregado, según el tipo de superficie.\n 👍 ¿QUÉ NECESITAMOS DE TI?\n- Incorporación inmediata.\n- Actitud positiva y proactiva.\n- Experiencia en una posición similar.\n 🤝 ¿QUÉ PODEMOS APORTARTE?\n- Horario: turnos rotativos de mañana, tarde y noche.\n- Salario: 10,08€ brutos/hora.\n- Contrato inicial a través de ETT + posibilidad real de pasar por empresa.",
 "flags": [],
 "why": {},
 "first_seen": ""
@@ -27718,7 +27669,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397537",
 "published": "2026-11-18",
-"modified": "2026-11-24",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Fabricació d'elements de xapa, soldadura de fil. Suport a magatzem:càrrega i descàrrega de mercaderies de camions, preparació de comandes (picking), embalatge i control d'estoc. Necessari carnet de conduir B i carnet de Conductor/a Carretó Elevador. Capacitats requerides Imprescindible experiència com a peó metall o en soldadura mínim 1 any. Autonomia, proactivitat, ordre, responsabilitat, capacitat de treball en equip. Horari intensiu matí, de dill a div, de 6 a 14:30h. Salari (brut/anual jornada complerta): 22.000- 25.000. Contracte renovable de 3 a 6 mesos. Requisits Obligatoris Nivell acadèmic ESO Permís de conduir B Experiència en l'ocupació (mesos) 12 Llengua Castellà . Català Carnets especials Conductor/a de Carretó Elevador Recomanables Vehicle propi Sí Informació d'interès Data d’incorporació 01/12/2026 Horari 6 a 14:30 h Contracte Tipus Eventuals per circumstàncies de la producció Durada Més de 3 i menys de 6 mesos Prorrogable Sí Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada intensiva Jornada 3 Exclusivament matí",
@@ -27820,7 +27771,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397232",
 "published": "2026-11-09",
-"modified": "2026-11-23",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Operari/ària taller metall. Manipulació de tubs, pletines i xapes de metall. Suport a l'oficial de taller. Càrrega i descàrrega manual de material. Manteniment de l'ordre al taller. Capacitats requerides Responsable, amb capacitat d'aprenentatge. Molt valorable experiència o formació en sector metall. Imprescindible vehicle propi per arribar a l'empresa, valorable carnet B. Horari de dil a div de 8 a 13:30 h i de 14:30 a 17:30h. Contracte indefinit. Salari entre 25.000 i 30.000 euros bruts anuals, segons experiència aportada. Requisits Obligatoris Vehicle propi Sí Informàtica Programari d'Ofimàtica - Usuari Bàsic Llengua Català . Castellà Recomanables Nivell acadèmic ESO Experiència en l'ocupació (mesos) 6 Informació d'interès Data d’incorporació 01/12/2026 Horari dil a div de 8 a 13:30 h i de 14:30 a 17:30h. Contracte Tipus Indefinit: ordinari Durada Indefinit Prorrogable Sí Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada partida",
