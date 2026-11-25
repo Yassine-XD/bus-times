@@ -1,47 +1,47 @@
 {
-"built": "2026-11-25 13:25 UTC",
+"built": "2026-11-25 15:26 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
-"count": 170,
-"secs": 442,
-"at": "2026-11-25 13:33"
+"count": 171,
+"secs": 396,
+"at": "2026-11-25 15:33"
 },
 "feinaactiva": {
 "ok": true,
-"count": 705,
-"secs": 10,
-"at": "2026-11-25 13:33"
+"count": 704,
+"secs": 12,
+"at": "2026-11-25 15:33"
 },
 "eurofirms": {
 "ok": true,
-"count": 80,
-"secs": 3,
-"at": "2026-11-25 13:33"
+"count": 83,
+"secs": 9,
+"at": "2026-11-25 15:33"
 },
 "randstad": {
 "ok": true,
-"count": 178,
-"secs": 171,
-"at": "2026-11-25 13:36"
+"count": 179,
+"secs": 173,
+"at": "2026-11-25 15:36"
 },
 "iman": {
 "ok": true,
-"count": 261,
-"secs": 52,
-"at": "2026-11-25 13:37"
+"count": 263,
+"secs": 54,
+"at": "2026-11-25 15:37"
 },
 "ras": {
 "ok": true,
 "count": 63,
-"secs": 25,
-"at": "2026-11-25 13:37"
+"secs": 3,
+"at": "2026-11-25 15:37"
 },
 "meditempus": {
 "ok": true,
 "count": 32,
 "secs": 1,
-"at": "2026-11-25 13:37"
+"at": "2026-11-25 15:37"
 }
 },
 "offers": [
@@ -160,6 +160,22 @@
 "flags": [],
 "why": {},
 "first_seen": "2026-11-21"
+},
+{
+"src": "eurofirms",
+"id": "021-022228",
+"title": "Técnico/a control de calidad",
+"town": "Canovelles",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/canovelles/tecnico-a-control-de-calidad-021-022228",
+"published": "2026-11-25",
+"modified": "",
+"company": "",
+"salary": "A convenir EUR/YEAR",
+"text": "Desde eurofirms buscamos incorporar un/a Técnico/a de Control de calidad para una empresa del sector del cartón ondulado ubicada en Canovelles, las tareas a realizar serán las siguientes:\n Las tareas son los controles de laboratorio y gestión de reclamaciones.control de calidad.\n Conocimiento de sistemas de gestión de calidad (ISO 9001, BRCGS Packaging, FSC, etc.).\n Interpretación de especificaciones técnicas, planos y requisitos de cliente.\n Apoyo en auditorías internas y externas.\n Análisis de datos e indicadores de calidad (KPIs).\n Metodologías de resolución de problemas:\n Gestión documental y trazabilidad.\n Elaboración de informes claros y precisos.\n Comunicación eficaz con clientes.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-25 15:26"
 },
 {
 "src": "eurofirms",
@@ -322,6 +338,22 @@
 "first_seen": "2026-11-23 15:50",
 "repost_of": "eurofirms:021-021913",
 "repost_first_seen": "2026-11-23 13:34"
+},
+{
+"src": "eurofirms",
+"id": "021-022227",
+"title": "Técnico/a de gas (revisiones) | Contrato por empresa",
+"town": "Granollers",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/granollers/tecnico-a-de-gas--revisiones----contrato-por-empresa-021-022227",
+"published": "2026-11-25",
+"modified": "",
+"company": "",
+"salary": "28.0-30.0 EUR/YEAR",
+"text": "En Eurofirms necesitamos incorporar de forma estable (contrato directamente por empresa) un/a Técnico/a de Revisiones de Gas para trabajar en empresa del sector instalaciones ubicada en Granollers. Las tareas que tendrá que realizar son las siguientes:\n Revisión y comprobación de instalaciones de gas natural, propano y butano.\n Verificación de la estanqueidad de tuberías y conexiones mediante equipos de detección de fugas.\n Comprobación del correcto funcionamiento de contadores, reguladores y llaves de paso.\n Inspección de calderas, calentadores y aparatos de consumo de gas.\n Medición de niveles de combustión, tiro y emisiones de los equipos.\n Detección y diagnóstico de anomalías en instalaciones domésticas e industriales.\n Elaboración de informes técnicos y certificados de inspección.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-25 15:26"
 },
 {
 "src": "eurofirms",
@@ -1101,6 +1133,22 @@
 },
 {
 "src": "eurofirms",
+"id": "062-017316",
+"title": "Agente inmobiliario",
+"town": "Mataró",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/mataro/agente-inmobiliario-062-017316",
+"published": "2026-11-25",
+"modified": "",
+"company": "",
+"salary": "24.0-30.0 EUR/YEAR",
+"text": "Seleccionamos un/a Director/a Comercial para incorporar de manera estable en una empresa del sector inmobiliario a Mataró. La persona seleccionada realizará las siguientes funciones:\n Prospección de mercado.\n Captación de activos inmobiliarios.\n Captación y fidelización de inversores.\n Posicionamiento de la marca.\n Coordinación con dirección general y marketing por el diseño y desarrollo de la estrategia de negocio.\n Gestión de ordenes de ventas.\n Supervisión y coordinación del equipo de agentes inmobiliarios.\n Dar un servicio óptimo de atención a inversores.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-25 15:26"
+},
+{
+"src": "eurofirms",
 "id": "036-023278",
 "title": "Empleo de Técnico/a laboral, Mollet Del Vallès",
 "town": "Mollet del Vallès",
@@ -1264,22 +1312,6 @@
 },
 {
 "src": "eurofirms",
-"id": "011-012036",
-"title": "Técnico/a de mantenimiento",
-"town": "Palafolls",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/palafolls/tecnico-a-de-mantenimiento-011-012036",
-"published": "2026-11-23",
-"modified": "",
-"company": "",
-"salary": "A convenir EUR/YEAR",
-"text": "Eurofirms selecciona un/a Técnico/a de Mantenimiento para empresa del sector metal, ubicada en la zona de Palafolls. La persona seleccionada desempeñará las siguientes funciones:\n Realización de tareas en el mantenimiento de un edificio, tanto preventivo como correctivo y normativo.\n Reparaciones integrales (electricidad, fontanería, carpintería, climatización, etc.).\n Pequeños trabajos y/o reparaciones eléctricas (cambio de alumbrado, reparación o cambio de enchufes interruptores, etc.).\n Pequeños trabajos de albañilería, cerrajería y pintura.\n Trabajos de mantenimiento de señalización, identificación y etiquetado de equipo y/o espacios.\n Orden y conservación de los diferentes espacios.\n Trabajos de mantenimiento conductivo y preventivo según tareas asignadas por su encargado.\n Trabajos de mantenimiento correctivo por la detección y resolución de averías durante su jornada de trabajo.\n Entre otras tareas propias del lugar de trabajo.",
-"flags": [],
-"why": {},
-"first_seen": "2026-11-23 15:50"
-},
-{
-"src": "eurofirms",
 "id": "036-023563",
 "title": "Empleo de Mozo/a almacén, Parets Del Vallès",
 "town": "Parets del Vallès",
@@ -1411,6 +1443,22 @@
 "flags": [],
 "why": {},
 "first_seen": ""
+},
+{
+"src": "eurofirms",
+"id": "062-017317",
+"title": "Conductor/a",
+"town": "Teià",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/teia/conductor-a-062-017317",
+"published": "2026-11-25",
+"modified": "",
+"company": "",
+"salary": "10.7 EUR/HOUR",
+"text": "Empresa del sector bebidas busca un/a Conductor/a para trabajar en Premiá de Dalt y realizar las siguientes tareas:\n Conducir vehículos rígidos de distinto tonelaje (furgones/camiones ligeros de 3.500 kg, camiones medianos de 7.500 kg y camiones pesados de más de 18.000 kg)\n Supervisar la carga en almacén.\n Operar la plataforma elevadora del camión y utilizar transpaleta manual o eléctrica para descargar los palets y trasladarlos hasta el almacén o punto indicado.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-25 15:26"
 },
 {
 "src": "eurofirms",
@@ -13704,24 +13752,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92329500",
-"title": "LIMPIADOR/A SABADELL",
-"town": "Sabadell",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329500",
-"published": "2026-11-24",
-"modified": "",
-"company": "FACILITY EUROPE CC, S.L.",
-"salary": "100-105 €/mes",
-"text": "Limpieza de oficinas, despachos, baños, vestuarios\nExperiència: Experiència 3 mesos. 3 meses\nRequisits: \nEstudis: \nContracte laboral temporal (1 mesos)\nJornada parcial (3 hores - jornada setmanal)",
-"flags": [
-"exp:3"
-],
-"why": {},
-"first_seen": "2026-11-24 10:56"
-},
-{
-"src": "feinaactiva",
 "id": "FA92329598",
 "title": "200. ESPECIALISTA EN ESTÈTICA AVANÇADA – INDIBA PRO",
 "town": "Sabadell",
@@ -16299,6 +16329,28 @@
 },
 {
 "src": "iman",
+"id": "operario-a-carretillero-industria-quimica",
+"title": "Operario/a carretillero Industria química",
+"town": "Granollers",
+"town_note": "",
+"url": "https://empleo.imancorp.es/jobs/operario-a-carretillero-industria-quimica",
+"published": "2026-11-25",
+"modified": "",
+"company": "",
+"salary": "",
+"text": "Volver\n Volver\n Iniciar sesión\n ¡Aplica ahora!\n Granollers\n 22.000 € - 22.000 €\n Bruto/año\n Compras, logística y almacén\n Almacén\n Industria química\n Completa\n Presencial\n Empleado\n Producción\n Operario/a carretillero Industria química\n Publicada\n 25 de Noviembre\n Desde IMAN Temporing, empresa especializada en RRHH, queremos acompañarte en tu trayectoria laboral. #Conectamoseltalentoconlasoportunidades\n Desde Iman Temporing Granollers buscamos operarios/as para incorporar en importante empresa química situada en Granollers.\n Funciones:\n Envasado, Etiquetado y preparación de envases\n Retractilado\n Preparación de pedidos\n Carga y descarga con carretilla frontal\n ¿Qué ofrecemos?\n Jornada: Completa de Lunes a Viernes\n Horario: turno fijo de 9:30H a 17:30H.\n Salario 22.000 euros brutos anuales.\n Contrato ETT + empresa.\n Requisitos\n Carnet de carretilla frontal en vigor\n Preferible experiencia en industria química\n Vehículo propio\n Disponibilidad de realizar turno fijo de tarde o noche.\n Capacidad para trabajar en equipo y seguir instrucciones.\n Atención al detalle, responsabilidad y actitud proactiva.\n Disponibilidad inmediata.\n Requisitos mínimos\n Carnet de carretilla frontal en vigor\n Preferible experiencia en industria química.\n Vehículo propio.\n Disponibilidad de horarios.\n Capacidad para trabajar en equipo y seguir instrucciones.\n Atención al detalle, responsabilidad y actitud proactiva.\n Disponibilidad inmediata.",
+"flags": [
+"forklift",
+"car"
+],
+"why": {
+"forklift": "operario a carretillero industria quimica … operario a carretillero industria quimica … carga y descarga con carretilla frontal",
+"car": "vehiculo propio … vehiculo propio"
+},
+"first_seen": "2026-11-25 15:26"
+},
+{
+"src": "iman",
 "id": "operario-a-carretillero-puente-grua",
 "title": "Operario/a Carretillero + Puente grúa",
 "town": "Granollers",
@@ -16804,6 +16856,26 @@
 "diploma": "formacion profesional fp grado medio o superior en inyeccion de plasticos mantenimiento electromecanico mecatronica o similar"
 },
 "first_seen": ""
+},
+{
+"src": "iman",
+"id": "operario-a-cnc-sector-metalurgico-2c9e4598-f390-45fd-8d22-5b95337f624d",
+"title": "OPERARIO/A CNC",
+"town": "Les Franqueses del Vallès",
+"town_note": "",
+"url": "https://empleo.imancorp.es/jobs/operario-a-cnc-sector-metalurgico-2c9e4598-f390-45fd-8d22-5b95337f624d",
+"published": "2026-11-25",
+"modified": "",
+"company": "",
+"salary": "",
+"text": "Volver\n Volver\n Iniciar sesión\n ¡Aplica ahora!\n Les Franqueses del Vallès\n 28.000 € - 28.377 €\n Bruto/año\n Profesiones, artes y oficios\n Automoción\n Fabricación de productos metálicos, hierro, acero\n Completa\n Presencial\n Empleado\n Producción\n OPERARIO/A CNC\n Publicada\n 25 de Noviembre\n Desde IMAN Temporing, empresa especializada en RRHH, queremos acompañarte en tu trayectoria laboral. #Conectamoseltalentoconlasoportunidades\n Desde Iman Temporing Granollers buscamos un/a operario/a de CNC, para una empresa del sector de Metal, ubicada en Les Franqueses del Vallès.\n Funciones:\n Manejo de máquinas CNC.\n Interpretación de planos.\n Corte laser.\n Alimentar máquinas.\n Limpieza de maquinarias y área de trabajo.\n ¿Qué ofrecemos?\n Horario: Rotativos de mañana, tarde y noche.\n Salario: 15,87 € / hora en bruto + pluses\n Contrato de 6 meses por ETT + posibilidad de pasar por empresa.\n Requisitos\n Experiencia mínima de 1 año en el sector de metal.\n Experiencia con máquinas CNC.\n Vehículo propio.\n Requisitos mínimos\n Experiencia mínima de 1 año en el sector de metal.\n Experiencia con máquinas CNC.\n Vehículo propio",
+"flags": [
+"car"
+],
+"why": {
+"car": "vehiculo propio … vehiculo propio"
+},
+"first_seen": "2026-11-25 15:26"
 },
 {
 "src": "iman",
@@ -21145,6 +21217,48 @@
 },
 {
 "src": "randstad",
+"id": "3026345",
+"title": "Personal para fábrica turno nocturno",
+"town": "Argentona",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/personal-fabrica-turno-nocturno-3026345/",
+"published": "2026-11-25",
+"modified": "",
+"company": "",
+"salary": "12.07-12.07 EUR/HOUR",
+"text": "Máquinas corte - soldado - straps. Control de calidad del producto acabado\nMáquinas de Revisado y tapeado. Preparar materias primas necesarias, conducir el proceso de revisado y tapeado y preparar el material fabricado para su envío.\nMáquinas de adhesivado Hotmelt. Preparar materias primas necesarias, dar soporte en la conducción del proceso de adhesivado y enrollado y preparar el material fabricado para su envío.\nConducir máquina de aprestar, interpretar especificaciones e instrucciones de proceso, interpretar planes y tareas de fabricación. Requisitos del puesto: - experiencia previa en manipulación textil\n- Carnet de conducir y vehículo propio\n- Se trabaja con gafas de protección ocular toda la jornada Formación: Educación Secundaria Obligatoria\n Conocimientos: operario industiral\n Experiencia: 1 año\nTus beneficios: Contrato inicial hasta el 26/02/2027, con continuidad por trabajo temporal y posibilidad de incorporación por empresa.\nIncorporación el lunes 30\nHorario fijo de noche 22.00-6.00h\n- Salario 12,07 euros b /h (incluido plus nocturnidad)",
+"flags": [
+"car",
+"exp:1"
+],
+"why": {
+"car": "carnet de conducir y vehiculo propio"
+},
+"first_seen": "2026-11-25 15:26"
+},
+{
+"src": "randstad",
+"id": "3026421",
+"title": "Personal para fábrica turno diurno",
+"town": "Argentona",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/personal-fabrica-turno-diurno-3026421/",
+"published": "2026-11-25",
+"modified": "",
+"company": "",
+"salary": "10.04-10.04 EUR/HOUR",
+"text": "Máquinas corte - soldado - straps. Control de calidad del producto acabado\nMáquinas de Revisado y tapeado. Preparar materias primas necesarias, conducir el proceso de revisado y tapeado y preparar el material fabricado para su envío.\nMáquinas de adhesivado Hotmelt. Preparar materias primas necesarias, dar soporte en la conducción del proceso de adhesivado y enrollado y preparar el material fabricado para su envío.\nConducir máquina de aprestar, interpretar especificaciones e instrucciones de proceso, interpretar planes y tareas de fabricación. Requisitos del puesto: - experiencia previa en manipulación textil\n- Carnet de conducir y vehículo propio\n- Se trabaja con gafas de protección ocular toda la jornada Formación: Educación Secundaria Obligatoria\n Conocimientos: operario industiral\n Experiencia: 1 año\nTus beneficios: Contrato inicial hasta el 29/01/2027, con continuidad por trabajo temporal y posibilidad de incorporación por empresa.\nIncorporación el lunes 30\nHorario rotativo semanal de mañanas (6-14h) y tardes (14-22h)\n- Salario 10,04 euros brutos hora",
+"flags": [
+"car",
+"exp:1"
+],
+"why": {
+"car": "carnet de conducir y vehiculo propio"
+},
+"first_seen": "2026-11-25 15:26"
+},
+{
+"src": "randstad",
 "id": "3008280",
 "title": "Jefe De Obra",
 "town": "Badalona",
@@ -23098,27 +23212,6 @@
 "why": {
 "car": "permiso de conducir b imprescindible para desplazarse a las instalaciones de los clientes",
 "diploma": "formacion profesional de grado medio finalizada en mantenimiento electromecanico electromecanica de maquinaria mantenimiento industrial o rama tecnica similar … fp grado medio"
-},
-"first_seen": ""
-},
-{
-"src": "randstad",
-"id": "3022931",
-"title": "OPERARIO/A DE DUCTOS - 08302 Mataró",
-"town": "Mataró",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/operario-a-ductos-08302-mataro-3022931/",
-"published": "2026-11-12",
-"modified": "",
-"company": "",
-"salary": "1453.13-1453.13 EUR/MONTH",
-"text": "Asumir y cumplir las normas de seguridad y calidad en el puesto de trabajo.\nSeguir el plan de trabajo ofrecido por el responsable de BlueSun\nUtilizar los epis necesarios para cada operación\nInformar al responsable de BlueSun y Gestor de CTC Mantenimiento de cualquier incidencia\nMantener limpia y ordenada la zona de trabajo y equipos, así como su uniforme de trabajo\nMontar y desmontar Ductos para limpiar los Ductos por la parte interior\nLimpieza de la prensa del Riddler\nCalibración de tisch\nEspacios confinados\nToma de sistema\nRellenar el plan preventivo de trabajo\nDar soporte al equipo de mantenimiento en tareas básicas indicadas por el Gestor Requisitos del puesto: Persona con autonomía.\nCon criterio propio para priorizar tareas.\nOrganizada y que sepa seguir los procedimiento con rigurosidad.\nEstudios: mínimo E.S.O.\nIdioma: Castellano hablado y escrito (valorable) Catalán hablado y escrito\nIndispensable Vehículo propio.\nPreferiblemente hombre por el tipo de tareas a realizar. Formación: Educación Secundaria Obligatoria\n Conocimientos: Destreza en el ámbito laboral, Motricidad fina\n Experiencia: 1 año\nTus beneficios: -Contrato: Temporal (3 meses)\n-Incorporación inmediata\n-Jornada: 40h semanales\n-Horarios: De lunes a domingo de 06h a 14h ó 07h a 15h.\n-Salario: 17437,59 euros brutos anuales (12 pagas) - 1453,13 euros brutos mensuales + un plus de 100euros por asistencia (se cobra siempre que no te ausentes del trabajo o si te ausentas, que las ausencias sean justificadas).",
-"flags": [
-"car",
-"exp:1"
-],
-"why": {
-"car": "indispensable vehiculo propio"
 },
 "first_seen": ""
 },
@@ -26035,6 +26128,43 @@
 },
 {
 "src": "xaloc",
+"id": "397760",
+"title": "DEPENDENT/A DE FORN - PASTISSERIA",
+"town": "Badalona",
+"town_note": "",
+"url": "https://xaloc.diba.cat/ofertes-de-feina/397760",
+"published": "2026-11-25",
+"modified": "2026-11-25",
+"company": "",
+"salary": "",
+"text": "Atenció al client/a. Informació dels productes de forn, Pastisseria, confiteria venda al detall. Cobrament automàtic Capacitats requerides Català parlat. competències propies per a l'atenció al client/a i les vendes. Tasques desenvolupar Fixar els requisits dels clients i assessorar-los sobre la gamma de productes, el seu preu, condicions de lliurament, garanties, ús i manteniment. Explicar als clients els productes i serveis de l'establiment i fer-ne demostracions. Vendre els productes i serveis, cobrar el preu servint-se de diferents mètodes de pagament, preparar les factures i registrar les vendes en caixes registradores. Informació d'interès Data d’incorporació 07/12/2026 Salari mensual 1400€ Horari Dilluns a dissabte de 6:45 a 13.30h Atenció al públic Sí Esforç físic No Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 3 Exclusivament matí",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-25 15:26"
+},
+{
+"src": "xaloc",
+"id": "397761",
+"title": "ESPECIALISTA GESTIÓ DE TRANSPORT",
+"town": "Badalona",
+"town_note": "",
+"url": "https://xaloc.diba.cat/ofertes-de-feina/397761",
+"published": "2026-11-25",
+"modified": "2026-11-25",
+"company": "",
+"salary": "",
+"text": "Gestionar les operacions de transport internacional per carretera. Planificar i coordinar la flota pròpia i els transportistes subcontractats. Buscar càrregues i negociar tarifes amb clients i transportistes. Coordinar recollides i lliuraments, realitzar el seguiment dels serveis i resoldre incidències. Controlar costos, marges i rendibilitat. Gestionar la documentació de transport i mantenir una comunicació diària amb clients, proveïdors i conductors. Capacitats requerides Valorable formació en Transport i Logística, Comerç Internacional o similar. Es valorarà l'experiència pràctica en un lloc equivalent. Experiència en gestió de transport terrestre, planificació de rutes, contractació de transportistes i negociació de tarifes. Capacitat per a gestionar operacions de manera autònoma. IMPORTANT: Nivell d'Anglès professional 2250¿ + bonus per resultats Requisits Molt importants Llengua Castellà - Nivell Experimentat C1 . Anglès - Nivell Independent B2 Recomanables Informàtica Programari d'Ofimàtica - Usuari Avançat Informació d'interès Data d’incorporació 07/12/2026 Salari mensual 2250€ Horari 08:00 a 17:00 Esforç físic No Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres",
+"flags": [
+"lang_level",
+"english"
+],
+"why": {
+"lang_level": "nivell experimentat c1 … nivell independent b2 recomanables informatica programari d ofimatica"
+},
+"first_seen": "2026-11-25 15:26"
+},
+{
+"src": "xaloc",
 "id": "396092",
 "title": "Professor de piano en idioma anglès",
 "town": "Cabrera de Mar",
@@ -26122,40 +26252,44 @@
 {
 "src": "xaloc",
 "id": "397538",
-"title": "Auxiliar de Cuina Caps de Setmana",
+"title": "Auxiliar de Cuina Caps de Setmana (amb vehicle propi)",
 "town": "Cabrera de Mar",
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397538",
 "published": "2026-11-19",
-"modified": "2026-11-24",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Tasques i responsabilitats - Preparació i rentat de verdures, hortalisses i altres aliments. - Elaboració de preparacions bàsiques i mise en place. - Suport als cuiners durant el servei. - Preparació d'entrants, guarnicions i postres senzilles. - Emplatat. Contracte temporal de cap de setmana. Dissabtes i diumenges de 10h a 17h Necessari vehicle de transport per arribar al restaurant no hi ha transport públic. Capacitats requerides Minim dos anys d'experiència Es requereix coneixements bàsics de cuina. Requisits Obligatoris Llengua Castellà Informació d'interès Data d’incorporació 21/11/2026 Salari mensual 400€ Horari Dissabtes i diumenges de 10h a 17h Contracte Tipus Temporals bonificats Durada Més de 3 i menys de 6 mesos",
 "flags": [
+"car",
 "kitchen_meat_alcohol"
 ],
 "why": {
-"kitchen_meat_alcohol": "auxiliar de cuina caps de setmana … suport als cuiners durant el servei … capacitats requerides minim dos anys d experiencia es requereix coneixements basics de cuina"
+"car": "auxiliar de cuina caps de setmana amb vehicle propi",
+"kitchen_meat_alcohol": "auxiliar de cuina caps de setmana amb vehicle propi … suport als cuiners durant el servei … capacitats requerides minim dos anys d experiencia es requereix coneixements basics de cuina"
 },
 "first_seen": ""
 },
 {
 "src": "xaloc",
 "id": "397539",
-"title": "Cambreres de Cap de Setmana",
+"title": "Cambreres de Cap de Setmana (amb vehicle propi)",
 "town": "Cabrera de Mar",
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397539",
 "published": "2026-11-19",
-"modified": "2026-11-24",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Preparació i posada a punt de la sala abans del servei. Recepció i atenció als clients. Acompanyament dels clients a taula. Presa de comandes i assessorament sobre la carta i el menú. Servei de begudes, plats i postres. Preparació, muntatge i recollir Contracte temporal de cap de setmana. Dissabtes i diumenges de 10h a 17h Necessari vehicle de transport per arribar al restaurant no hi ha transport públic. Capacitats requerides Mínim dos anys d'experiència. Persona responsable i amb atenció al públic. Es requereix CATALÀ. Capacitat de treballar en equipi estar acostumat al tracte amb els clients. Dinamisme, organització i iniciativa. Requisits Obligatoris Llengua Català Informació d'interès Data d’incorporació 21/11/2026 Salari mensual 400€ Horari Dissabtes i diumenges de 10h a 17h Contracte Tipus Temporals bonificats Durada Més de 3 i menys de 6 mesos",
 "flags": [
+"car",
 "kitchen_meat_alcohol"
 ],
 "why": {
-"kitchen_meat_alcohol": "cambreres de cap de setmana"
+"car": "cambreres de cap de setmana amb vehicle propi",
+"kitchen_meat_alcohol": "cambreres de cap de setmana amb vehicle propi"
 },
 "first_seen": ""
 },
@@ -27578,29 +27712,6 @@
 },
 {
 "src": "xaloc",
-"id": "397536",
-"title": "1711_397536 Monitor/a lectoescriptura",
-"town": "Lliçà d'Amunt",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/397536",
-"published": "2026-11-18",
-"modified": "2026-11-25",
-"company": "",
-"salary": "",
-"text": "Preparar i impartir activitats de lecto-escriptura adaptades a les necessitats dels infants, realitzar tasques de seguiment (programació i assistència), potenciar el desenvolupament de competències en llengua catalana, col·laborar en la detecció de necessitats de l'alumnat i personalitzar activitats. Coordinar-se amb el professorat i avaluar les activitats, l'organització i el funcionament. Capacitats requerides Imprescindible mínim 1 any d'experiència treballant amb nens/es d'educació primària. Molt valorable experiència en dinamització de lleure, acompanyament escolar o reforç educatiu. Molt valorable estudiants universitaris de l'àrea Social. Contracte fix discontinu fins a final de curs, renovable. Horari de dill a dij de 12h a 13h. Salari entre 145 i 160 euros mes, ampliable si s'amplia jornada. Requisits Obligatoris Permís de conduir B Vehicle propi Sí Experiència en l'ocupació (mesos) 6 Llengua Castellà . Català Carnets especials Monitor/ora d'activitats de lleure infantil i juvenil Molt importants Nivell acadèmic Batxillerat Titulació Cicle formatiu grau superior - Serveis socioculturals i a la comunitat - Educació infantil Branca C.Formatiu Grau Superior o Serveis socioculturals i a la comunitat Branca Títol universitari Educació Informació d'interès Data d’incorporació 01/12/2026 Horari de 12 a 13h, de dill a dij Contracte Tipus Fix discontinu Durada Més de 6 i menys de 12 mesos Prorrogable Sí Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada parcial Jornada 3 Exclusivament matí",
-"flags": [
-"car",
-"diploma",
-"exp:6"
-],
-"why": {
-"car": "requisits obligatoris permis de conduir b vehicle propi si experiencia en l ocupacio mesos 6 llengua castella",
-"diploma": "catala carnets especials monitor ora d activitats de lleure infantil i juvenil molt importants nivell academic batxillerat titulacio cicle formatiu grau superio … educacio infantil branca c formatiu grau superior o serveis socioculturals i a la comunitat branca titol universitari educacio informacio d interes data dincorp"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
 "id": "397537",
 "title": "1511_397537 PEÓ/NA METALL",
 "town": "Lliçà d'Amunt",
@@ -28456,18 +28567,18 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397382",
 "published": "2026-11-12",
-"modified": "2026-11-20",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
-"text": "Suport a l'àrea de Mobilitat, portar la grua, Senyalització de tots els actes previstos a la població, amb els talls de carrer corresponents per a una bona circulació del trànsit. Així com el trasllat de tanques metàl·liques.Control de la senyalització fins a la finalització dels actes. ¿ Suport a l¿organització de tall de carrer mitjançant senyals i establir recorreguts alterns. mes informació a: https://seu.pinedademar.cat/eAdmin/Tablon.do?action=inicioTablon Capacitats requerides Pla d'ocupació de la Diputació de Barcelona- Auxiliar de Mobilitat C2, impressindible acreditar: graduat escolar o ESO, FP1 o CFGM, vigència del permís de conduir C1E, Català C1. Cal entrar tota la documentació per instància electrònica https://seu.pinedademar.cat/eAdmin/Registrar.do?action=inicioPortalTramites o bé presencialment a l'Aj. de Pineda de Mar. Termini fins a 20 de novembre de 2026 Requisits Obligatoris Nivell acadèmic ESO Permís de conduir B i C1+E Llengua Català - Nivell Experimentat C1 . Castellà - Nivell Experimentat C1 Molt importants Categoria Auxiliar Informació d'interès Data d’incorporació 10/12/2026 Horari a determinar Atenció al públic Sí Esforç físic Sí Contracte Tipus Interinitat Durada Més de 6 i menys de 12 mesos Prorrogable No",
+"text": "Suport a l'àrea de Mobilitat, portar la grua, Senyalització de tots els actes previstos a la població, amb els talls de carrer corresponents per a una bona circulació del trànsit. Així com el trasllat de tanques metàl·liques.Control de la senyalització fins a la finalització dels actes. ¿ Suport a l¿organització de tall de carrer mitjançant senyals i establir recorreguts alterns. mes informació a: https://seu.pinedademar.cat/eAdmin/Tablon.do?action=inicioTablon Capacitats requerides Pla d'ocupació de la Diputació de Barcelona- Auxiliar de Mobilitat C2, impressindible acreditar: graduat escolar o ESO, FP1 o CFGM, vigència del permís de conduir C1E, Català C1. Cal entrar tota la documentació per instància electrònica https://seu.pinedademar.cat/eAdmin/Registrar.do?action=inicioPortalTramites o bé presencialment a l'Aj. de Pineda de Mar. Requisits Obligatoris Nivell acadèmic ESO Permís de conduir B i C1+E Llengua Català - Nivell Experimentat C1 . Castellà - Nivell Experimentat C1 Molt importants Categoria Auxiliar Informació d'interès Data d’incorporació 10/12/2026 Horari a determinar Atenció al públic Sí Esforç físic Sí Contracte Tipus Interinitat Durada Més de 6 i menys de 12 mesos Prorrogable No",
 "flags": [
 "car",
 "lang_level",
 "diploma"
 ],
 "why": {
-"car": "graduat escolar o eso fp1 o cfgm vigencia del permis de conduir c1e catala c1 … termini fins a 20 de novembre de 2026 requisits obligatoris nivell academic eso permis de conduir b i c1 e llengua catala",
-"lang_level": "graduat escolar o eso fp1 o cfgm vigencia del permis de conduir c1e catala c1 … termini fins a 20 de novembre de 2026 requisits obligatoris nivell academic eso permis de conduir b i c1 e llengua catala … nivell experimentat c1",
+"car": "graduat escolar o eso fp1 o cfgm vigencia del permis de conduir c1e catala c1 … requisits obligatoris nivell academic eso permis de conduir b i c1 e llengua catala",
+"lang_level": "graduat escolar o eso fp1 o cfgm vigencia del permis de conduir c1e catala c1 … requisits obligatoris nivell academic eso permis de conduir b i c1 e llengua catala … nivell experimentat c1",
 "diploma": "graduat escolar o eso fp1 o cfgm vigencia del permis de conduir c1e catala c1"
 },
 "first_seen": ""
