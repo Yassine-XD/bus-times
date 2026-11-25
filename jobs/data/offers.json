@@ -1,47 +1,47 @@
 {
-"built": "2026-11-25 08:50 UTC",
+"built": "2026-11-25 09:52 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
-"count": 168,
-"secs": 466,
-"at": "2026-11-25 08:57"
+"count": 169,
+"secs": 479,
+"at": "2026-11-25 10:00"
 },
 "feinaactiva": {
 "ok": true,
-"count": 696,
+"count": 695,
 "secs": 6,
-"at": "2026-11-25 08:57"
+"at": "2026-11-25 10:00"
 },
 "eurofirms": {
 "ok": true,
 "count": 79,
-"secs": 2,
-"at": "2026-11-25 08:57"
+"secs": 1,
+"at": "2026-11-25 10:00"
 },
 "randstad": {
 "ok": true,
 "count": 178,
-"secs": 193,
-"at": "2026-11-25 09:01"
+"secs": 187,
+"at": "2026-11-25 10:03"
 },
 "iman": {
 "ok": true,
 "count": 259,
-"secs": 52,
-"at": "2026-11-25 09:02"
+"secs": 45,
+"at": "2026-11-25 10:04"
 },
 "ras": {
 "ok": true,
 "count": 62,
-"secs": 19,
-"at": "2026-11-25 09:02"
+"secs": 3,
+"at": "2026-11-25 10:04"
 },
 "meditempus": {
 "ok": true,
 "count": 32,
 "secs": 1,
-"at": "2026-11-25 09:02"
+"at": "2026-11-25 10:04"
 }
 },
 "offers": [
@@ -1997,24 +1997,6 @@
 "text": "Tasques de facturació, arxiu, atenció telefònica, comptabilitat i altres administratives.\nExperiència: Experiència 3 mesos. EMPLEATS ADMINISTRATIUS, EN GENERAL. Competències / coneixements: Nocions de comptabilitat, facturació, atenció al client, resolució d'incidències, coneixements de navegació web. Bona actitud i ganes d'aprendre.\nRequisits: \nEstudis: \nContracte laboral indefinit\nJornada parcial (5 hores - jornada diaria)",
 "flags": [
 "exp:3"
-],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "09202631570",
-"title": "TÈCNIC/A EN COMPTABILITAT",
-"town": "Badalona",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202631570",
-"published": "2026-11-06",
-"modified": "",
-"company": "Oficina de Treball del SOC",
-"salary": "1500-2000 €/mes",
-"text": "Elaboració d'apunts comptables fins al tancament i tributació mensual i anual\nDonar suport a decisions estratègiques professionals del despatx.\nExperiència: Experiència 24 mesos. Experiència com a TÈCNIC/A EN COMPTABILITAT. Competències / coneixements: A3 o SAGE\nRequisits: \nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"exp:24"
 ],
 "why": {},
 "first_seen": ""
@@ -8313,6 +8295,24 @@
 },
 {
 "src": "feinaactiva",
+"id": "09202633039",
+"title": "TÈCNIC/A ADMINISTRATIU/VA DEPARTAMENT LOGÍSTICA (REF.33039)",
+"town": "Mataró",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202633039",
+"published": "2026-11-25",
+"modified": "",
+"company": "Oficina de Treball del SOC",
+"salary": "2063-2064 €/mes",
+"text": "- Gestionar i fer el seguiment de la flota de vehicles, tant lleugers com pesants\n- Coordinar el manteniment, la disponibilitat i el control d'eines i equips\n- Gestionar la subcontractació de maquinària pesant quan sigui necessari\n- Coordinar les necessitats de manteniment dels nostres centres de treball\n- Donar suport a l'operativa logística i a la gestió de magatzems\n- Col·laborar amb l'àrea de compres en la gestió de necessitats, comandes i proveïdors\n- Detectar oportunitats de millora i proposar solucions que ens permetin simplificar processos i treballar de manera més eficient\nExperiència: Experiència 1 anys. Imprescindible experiència prèvia en posicions de logística, gestió de flotes, magatzems o funcions similars.\nValorable especialment l'experiència en empreses instal·ladores, industrials o del sector de la construcció. Competències / coneixements: Competències en organització, resolució, capacitat de prioritzar, iniciativa, orientació a la qualitat, orientació a les solucions i disposició a l'aprenentatge\nBon domini d'eines ofimàtiques: excel, word\nInterès i facilitat per treballar amb noves eines digitals: chat GPT, Copilot, eines d'IA\nRequisits: \nEstudis: \nContracte laboral indefinit\nJornada completa",
+"flags": [
+"exp:1"
+],
+"why": {},
+"first_seen": "2026-11-25 09:52"
+},
+{
+"src": "feinaactiva",
 "id": "09202633091",
 "title": "GEROCULTORS/ES (REF. 33091)",
 "town": "Mataró",
@@ -9801,22 +9801,6 @@
 "company": "Oficina de Treball del SOC",
 "salary": "2300-2300 €/mes",
 "text": "Lectura, interpretació i modificació plànols mecànics, especejaments i llistes de materials (BOM). Coneixements toleràncies geomètriques, processos de fabricació, mecanització, caldereria o estructures metàl·liques i normatives tècniques aplicables.\nExperiència: Competències / coneixements: Experiència en sector mecànic. Domini de software en programes de 3D i 2D: AutoCAD, Dibuix en 3D, Autodesk. Capacitat avançada per llegir, interpretar i modificar plànols mecànics, especejaments i llistes de materials (BOM). Coneixements sobre toleràncies geomètriques, processos de fabricació, mecanitzat, caldereria o estructures metàl·liques, i normatives tècniques aplicables. Precisió i atenció al detall, per evitar errors de cotes o fallades d'assemblatge en taller. Capacitat per col·laborar amb enginyers, departaments de I+D i personal de taller o muntatge.\nRequisits: Disponibilitat per viatjar\nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "09202632250",
-"title": "PROFESSOR/A FILOSOFIA I LLATÍ",
-"town": "Montgat",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202632250",
-"published": "2026-11-13",
-"modified": "",
-"company": "Oficina de Treball del SOC",
-"salary": "2600-2600 €/mes",
-"text": "• Impartir les classes assignades de Filosofia, Història de la Filosofia, Llatí, Cultura Clàssica i Lectura i Habilitats Comunicatives.\n• Preparar, desenvolupar i avaluar les activitats, materials i seqüències didàctiques corresponents.\n• Fer el seguiment acadèmic de l’alumnat i participar en les sessions d’avaluació.\n• Col·laborar amb el departament didàctic i amb l’equip de coordinació.\n• Participar en les reunions, tutories, activitats i sortides previstes pel centre, quan correspongui.\n• Contribuir a la millora contínua de la pràctica docent i al projecte educatiu de l’escola.\nExperiència: \nRequisits: \nEstudis: \nContracte laboral indefinit\nJornada completa",
 "flags": [],
 "why": {},
 "first_seen": ""
@@ -25440,7 +25424,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396777",
 "published": "2026-10-27",
-"modified": "2026-11-12",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Donar l'ajut necessari per a les AVD, acompanyaments, facilitar el procés educatiu i assistencials diàries, així com les activitats de lleure, facilitar l'autonomia personal i social, administrar medicaments per via oral o tòpica amb la supervisió del personal sanitari, formalització de la documentació i els registres corresponents, comunicació amb les famílies i vetllar pel respecte als costums relacionals i la diversitat cultural de les persones ateses. Així com col·laborar amb l'equip interdisciplinar. Capacitats requerides Optimisme i entusiasme, Flexibilitat, Fiabilitat tècnica i personal, Comunicació interpersonal, Treball en equip, Diplomàcia i saber estar. Nivell formatiu / titulació: Acreditació en tècnic sociosanitari i experiència en el funcionament d'una residència, tant de persones grans com de persones amb discapacitat. Es valorarà molts valors, empatia i compromís. 934,41euros en 14 pagues (25h/set) Informació d'interès Data d’incorporació 02/11/2026 Horari Dill a Dium 7 a 15 o de 14 a 22h (amb descansos) Contracte Tipus Altres Durada Més de 6 i menys de 12 mesos",
@@ -25599,6 +25583,22 @@
 "why": {
 "kitchen_meat_alcohol": "suport en el muntatge d elements de cuina i acabats d obra"
 },
+"first_seen": ""
+},
+{
+"src": "xaloc",
+"id": "396245",
+"title": "AUXILIAR EDUCATIU",
+"town": "Badalona",
+"town_note": "",
+"url": "https://xaloc.diba.cat/ofertes-de-feina/396245",
+"published": "2026-10-09",
+"modified": "2026-11-25",
+"company": "",
+"salary": "",
+"text": "Donar suport en les activitats del programa d'intervenció. Seguiment i avaluació dels Plans d'Atenció Individual (PAI). Acompanyar les persones usuàries en activitats dins i fora del centre. Suport a les necessitats bàsiques (higiene, medicació, dinar, etc.). Participar en esdeveniments i tenir cura dels espais i recursos del centre. Aplicar el sistema de gestió i garantir la confidencialitat de la informació. Establir relacions de confiança i escolta activa amb les persones usuàries. Vetllar pel benestar emocional, la privacitat i els drets. Capacitats requerides Es valorarà: Coneixement del Model de Qualitat de Vida, PCP, suport actiu i suport conductual positiu. Formació especialitzada que aporti valor al projecte de centre. Experiència acreditada amb persones amb discapacitat intel·lectual. Valorable Formació en autisme 40h de dilluns a divendres amb descansos que estableix la llei de 9:00h a 17:00h Tasques desenvolupar Reunir informació sobre les necessitats de les persones i avaluar les seves destreses, punts forts i deficiències. Ajudar persones amb discapacitats i d'edat avançada a rebre serveis i a millorar la seva capacitat funcional en la societat. Ajudar les persones a identificar opcions i elaborar plans d'actuació, donant-los al mateix temps el suport i l'assistència necessaris. Ajudar les persones a identificar recursos de la comunitat i a accedir-hi, inclosos els relatius a assistència jurídica, mèdica i financera, habitatge, ocupació, transport, assistència en els desplaçaments, cures de dia i altres serveis. Informació d'interès Data d’incorporació 30/10/2026 Salari mensual 1310€ Horari de 9:00h a 17:00h dill-Dv. Atenció al públic Sí Esforç físic Sí Contracte Tipus Interinitat Durada Entre 1 i 3 mesos Prorrogable Sí",
+"flags": [],
+"why": {},
 "first_seen": ""
 },
 {
@@ -27471,7 +27471,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397366",
 "published": "2026-11-12",
-"modified": "2026-11-24",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Càrrega i descàrrega de material amb el carretó, preparació de comandes. Capacitats requerides Experiència en un lloc similar. Persona responsable, amb ganes de treballar, que vulgui una feina estable, persona organitzada i implicada. Carnet de carretoner. Jornada completa, horari de 8h a 14h i de 15h a 17h de dilluns a divendres. Contracte indefinit. Salari entre 19.000 i 22.000 bruts anuals. Requisits Obligatoris Nivell acadèmic ESO Experiència en l'ocupació (mesos) 6 Llengua Castellà . Català Carnets especials Conductor/a de Carretó Elevador Informació d'interès Data d’incorporació 18/11/2026 Horari De 8h a 14h i de 16h a 18h dll a dv Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -27577,7 +27577,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396638",
 "published": "2026-10-22",
-"modified": "2026-11-05",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Realitzar tasques de manteniment i reparació de vehicles. Diagnosticar avaries mecàniques mitjançant equips de diagnosi. Efectuar revisions periòdiques i tasques de manteniment preventiu. Reparar i substituir components mecànics. Identificar avaries i determinar les reparacions necessàries. Comprovar el funcionament correcte dels vehicles després de les reparacions. Mantenir el lloc de treball net, endreçat i segur. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia CV a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 396638 Capacitats requerides IMPRESCINDIBLE: Experiència demostrable com a mecànic d'automoció. Coneixements sòlids de mecànica general (embragatges, distribucions, manteniment i electricitat). Experiència en diagnosi i detecció d'avaries. VALORABLE: ser oficial de 1a. SOU: entre 1800 i 2000 euros bruts al mes (21.600 i 24.000 bruts anuals). HORARI: dl a dj 8 a 13h i 15 a 18h. Dv 7 a 15h Requisits Obligatoris Permís de conduir B Experiència en l'ocupació (mesos) 12 Llengua Castellà - Nivell Independent B2 Molt importants Titulació Cicle formatiu grau superior - Transport i Manteniment de Vehicles - Automoció Recomanables Llengua Català Informació d'interès Data d’incorporació 02/11/2026 Salari mensual 1800€ Horari dl a dj 8 a 13h i 15 a 18h. Dv 7 a 15h Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada partida",
@@ -27625,7 +27625,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397011",
 "published": "2026-11-02",
-"modified": "2026-11-19",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Preparació i atenció de pacients per a exploracions radiològiques. Realització de panoràmiques, telerradiografies i CBCT, segons les competències professionals i els protocols del centre. Preparació, identificació i gestió dels estudis d'imatge. Aplicació dels protocols de radioprotecció, higiene i qualitat. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia CV a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397011 Capacitats requerides IMPRESCINDIBLE: Titulació de Tècnic/a superior en Imatge per al Diagnòstic i Medicina Nuclear, o equivalent habilitant. Responsabilitat, organització i bon tracte amb els pacients. VALORABLE: Coneixements de radiologia odontològica, CBCT i gestió digital d'imatges. JORNADA: 20h/set de tarda. HORARI: dl a dv de 16 a 20h. SOU: 1.128 euros bruts inicials al mes per 12 pagues. Requisits Obligatoris Llengua Castellà - Nivell Independent B2 . Català - Nivell Independent B2 Molt importants Nivell acadèmic Cicle formatiu grau superior Branca C.Formatiu Grau Superior Sanitat Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 1128€ Horari Dl a dv de 16 a 20h. Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada parcial Jornada 3 Exclusivament tarda",
@@ -27742,7 +27742,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397542",
 "published": "2026-11-19",
-"modified": "2026-11-24",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Atenció telefònica i presencial al públic. Gestió de consultes, incidències i reclamacions dels usuaris. Control operatiu dels aparcaments de rotació. Confecció d'informes bàsics d'ocupació i seguiment dels aparcaments. Formalització i gestió de contractes d'abonats. Introducció, manteniment i verificació de dades en el programa de gestió d'abonats. Recaptacions i gestió d'efectiu. Tramitar gestions administratives relacionades amb el servei d'aparcaments. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia CV a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397542 Capacitats requerides IMPRESCINDIBLE CFGM Gestió administrativa, equivalent o superior. Català C1. ACTIC O COMPETIC 2. Experiència 6 ms mínim en els darrers 2 anys en tasques administratives. VALORABLE Experiència en l'àmbit d'aparcaments de rotació, gestió d'efectiu, cobrament i control de caixa, atenció al públic i resolució incidències. Anglès i/o francès. Disponibilitat per fer torns. Requisits Obligatoris Nivell acadèmic Cicle formatiu grau mitjà Titulació Cicle formatiu grau mitjà - Administració - Gestió administrativa Informàtica Programari d'Ofimàtica - Usuari Mitjà Llengua Català - Nivell Experimentat C1 Recomanables Experiència en l'ocupació (mesos) 6 Llengua Castellà - Nivell Experimentat C1 Informació d'interès Data d’incorporació 29/12/2026 Salari mensual 1934€ Horari De dl a dv de 8:00 h a 15:20h o 13:40 a 21:00 h Contracte Tipus Interinitat Durada Més de 3 i menys de 6 mesos Jornada Jornada 1 Indiferent Jornada 2 Només jornada intensiva",
@@ -28283,7 +28283,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397443",
 "published": "2026-11-16",
-"modified": "2026-11-23",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Treballs amb rectificadores planes i cilíndriques, tasques bàsiques de taller mecànic i manipulació de peces tallants. Sou: Segons experiència i coneixements. Si t'interessa APUNTA'T i ENVIA CV a prmd.pdb.orientacio@premiadedalt.cat indicant referència 397443 Capacitats requerides Experiència amb rectificadores, nocions de mecànica industrial. Es valorarà la responsabilitat i el compromís amb la feina. Informació d'interès Data d’incorporació 01/12/2026 Horari de 6 a 14h Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28299,7 +28299,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397489",
 "published": "2026-11-17",
-"modified": "2026-11-24",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Manteniment de parc aquàtic en temes paleteria. Si t'interessa APUNTA'T i ENVIA el teu CV a prmd.pdb.orientacio@premiadedalt.cat Capacitats requerides Experiència, compromís amb la feina. Informació d'interès Data d’incorporació 01/12/2026 Horari a l'hivern de 8 a 16h de dl a dv, a l'estiu varia Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28315,7 +28315,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396194",
 "published": "2026-10-08",
-"modified": "2026-11-16",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Monitor de sala fitness amb experiència en la supervisió i control de la sala, garantint el correcte ús de les instal·lacions i del material esportiu. Assessorament als usuaris en l'ús adequat de màquines i equipaments, oferint indicacions bàsiques per realitzar els exercicis de manera segura. Control de l'ordre, la neteja i el bon estat del material, així com detecció de possibles incidències. Persona responsable, atenta, dinàmica i orientada al tracte amb els usuaris i al treball en equip. Enviar CV actualitzat a: ocupacio@premiademar.cat, indicant el núm. d'oferta 396194. Capacitats requerides Capacitat per dirigir i dinamitzar de manera motivadora i segura. Persona empàtica, amb facilitat per tractar amb els usuaris i adaptar-se a diferents necessitats. Actitud dinàmica, energètica i proactiva, amb habilitats de comunicació i treball en equip. Capacitat per crear un ambient positiu i fomentar la participació i el benestar dels participants. Requisits Obligatoris Nivell acadèmic Cicle formatiu grau mitjà Experiència en l'ocupació (mesos) 6 Titulació Cicle formatiu grau mitjà - Activitats físiques i esportives - Conducció d'activitats fisicoesportives en el medi natural Informació d'interès Data d’incorporació 24/10/2026 Salari mensual 700€ Horari Ds de 8 a 13 h - 15 a 21 h, dg i festius 9 a 14 h Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28500,7 +28500,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396837",
 "published": "2026-10-27",
-"modified": "2026-11-16",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Intervenció socioeducativa Disseny, planificació i gestió del servei Capacitats requerides Dinamització de grups de joves de 12 a 21 anys Acompanyament individualitzat als i les joves del servei Planificació d¿activitats i recerca de recursos adients al grup Desenvolupament d¿activitats educatives segons la planificació Suport a tasques de gestió del servei Participació en processos comunitaris del territori Atenció a les famílies usuàries Tasques desenvolupar Ajudar diverses persones a una millor utilització de l'oci i del temps lliure. Ajudar a la prevenció de la marginació i de la insolidaritat. Supervisar altres treballadors. Requisits Obligatoris Nivell acadèmic Cicle formatiu grau superior Titulació Cicle formatiu grau superior - Serveis socioculturals i a la comunitat - Animació Sociocultural i Turística Branca C.Formatiu Grau Superior Serveis socioculturals i a la comunitat Molt importants Categoria Tècnic/a superior i assimilats Experiència en l'ocupació (mesos) 24 Llengua Castellà - Nivell Experimentat C1 . Català - Nivell Independent B2 Informació d'interès Data d’incorporació 01/12/2026 Atenció al públic Sí Contracte Tipus Indefinit: ordinari Durada Més de 6 i menys de 12 mesos Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada partida",
@@ -28523,7 +28523,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/396869",
 "published": "2026-10-28",
-"modified": "2026-11-23",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "PROSPECCIÓ EMPRESES: anàlisi i selecció d'empreses dels sectors productius. INTERMEDIACIÓ LABORAL: gestió d'ofertes de feina i seguiment de les insercions. SUPORT XARXA SOCIOLABORAL: acompanyament en la recerca de feina per a perfils amb més dificultats, dinamització de monogràfics d'orientació laboral, alfabetització digital i processos de selecció. GESTIÓ INDIRECTA: elaboració de materials de difusió, memòries i registres, seguiment de resultats i gestió d'incidències del servei. Capacitats requerides Treball en equip, habilitats comunicatives, autonomia i capacitat d'organització. Es valorarà el coneixement dels recursos i serveis del territori, així com l'ús de la plataforma telemàtica Xaloc. Requisits Obligatoris Nivell acadèmic Llicenciatura / Enginyeria / Grau Experiència en l'ocupació (mesos) 18 Informàtica Programari d'Ofimàtica - Usuari Avançat Llengua Català - Nivell Experimentat C1 . Castellà - Nivell Experimentat C1 Recomanables Permís de conduir B Vehicle propi Sí Informació d'interès Data d’incorporació 09/11/2026 Horari dl i dc 8-15h; dt i dj 8-17:30h. dv 8:30-14h Atenció al públic Sí Contracte Tipus Interinitat Durada Durada indeterminada per obra o servei Prorrogable No Jornada Jornada 1 Indiferent de dilluns a divendres",
@@ -28616,7 +28616,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397416",
 "published": "2026-11-13",
-"modified": "2026-11-24",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Atendre i complir les instruccions de treball del/la cap de producció o responsable directe (desbrossar, segar, podar, retallar...) executant totes les tasques assignades i vetllant per les persones al seu càrrec, organitzant les feines de cada persona i oferint suport individual ajustat. De dilluns a divendres de 7h a 15h i puntualment per necessitats productives caps de setmana i festius, amb descansos establerts. Capacitats requerides Formació acreditada amb un mínim de CFGM de jardineria/forestal, Certif. Professionalitat nivell 2 vinculat a jardineria o similar. Es valorarà formació assimilable i experiència prèvia de tècnic/a auxiliar de jardineria. Capacitat d'organització i planificació de tasques, treball en equip, empatia, autonomia i polivalència. Requisits Molt importants Nivell acadèmic Cicle formatiu grau mitjà Informació d'interès Data d’incorporació 24/11/2026 Salari mensual 1530€ Horari Dilluns a divendres de 7h a 15h Contracte Tipus Obra o servei Durada Entre 1 i 3 mesos Prorrogable Sí",
@@ -28656,7 +28656,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397334",
 "published": "2026-11-11",
-"modified": "2026-11-24",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
 "text": "Administratiu/iva comercial Atenció als clients, gestió telefònica i gestió de dades en els sistemes informàtics Capacitats requerides Si estàs interessat/da en l'oferta cal que t'inscriguis i enviïs el teu cv a ocupacio@tordera.cat Requisits Obligatoris Llengua Castellà . Català Molt importants Nivell acadèmic Cicle formatiu grau mitjà Titulació Cicle formatiu grau mitjà - Administració - Gestió administrativa Llengua Anglès Informació d'interès Data d’incorporació 11/11/2026 Horari 17 a 21 h Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent Jornada 2 Només jornada parcial Jornada 3 Exclusivament tarda",
@@ -28951,15 +28951,15 @@
 {
 "src": "xaloc",
 "id": "397567",
-"title": "Cambrer/a de dilluns a dijous de 18h a 20h",
+"title": "Dependenta Xarcuteria de dilluns a dissabte (matins)",
 "town": "Vilassar de Mar",
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397567",
 "published": "2026-11-19",
-"modified": "2026-11-19",
+"modified": "2026-11-25",
 "company": "",
 "salary": "",
-"text": "CAMBRER/A PEROBRADOR DEGUSTACIÓ. Servir taules. Horari: de dilluns a dijous de 18h a 20h Capacitats requerides Es valorarà do de gent, saber atendre al públic, responsabilitat, adaptació a les situacions diàries i capacitat de resolució, manipulació d'aliments, reposador/a, netejar ... Requisits Obligatoris Experiència en l'ocupació (mesos) 6 Llengua Castellà - Nivell Experimentat C1 Molt importants Formació de manipulació d'aliments Sí Llengua Català - Nivell Experimentat C1 Informació d'interès Data d’incorporació 01/12/2026 Atenció al públic Sí Contracte Tipus Indefinit: ordinari Durada Indefinit",
+"text": "Depèndenta xarcuteria., de dilluns a dissabte matins. 30 hores setmananls. Sou: 1.015 Euros /mes (12 pagues ) Capacitats requerides Es valorarà do de gent, saber atendre al públic, responsabilitat, adaptació a les situacions diàries i capacitat de resolució, manipulació d'aliments, reposador/a, netejar ... Requisits Obligatoris Experiència en l'ocupació (mesos) 6 Llengua Castellà - Nivell Experimentat C1 Molt importants Formació de manipulació d'aliments Sí Llengua Català - Nivell Experimentat C1 Informació d'interès Data d’incorporació 01/12/2026 Atenció al públic Sí Contracte Tipus Indefinit: ordinari Durada Indefinit",
 "flags": [
 "lang_level",
 "kitchen_meat_alcohol",
@@ -28967,7 +28967,7 @@
 ],
 "why": {
 "lang_level": "nivell experimentat c1 molt importants formacio de manipulacio d aliments si llengua catala … nivell experimentat c1 informacio d interes data dincorporacio 01 12 2026 atencio al public si contracte tipus indefinit",
-"kitchen_meat_alcohol": "cambrer a de dilluns a dijous de 18h a 20h … cambrer a perobrador degustacio"
+"kitchen_meat_alcohol": "dependenta xarcuteria de dilluns a dissabte matins … dependenta xarcuteria de dilluns a dissabte matins"
 },
 "first_seen": ""
 }
