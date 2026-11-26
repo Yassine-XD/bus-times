@@ -1,47 +1,47 @@
 {
-"built": "2026-11-26 08:36 UTC",
+"built": "2026-11-26 09:32 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
-"count": 172,
-"secs": 372,
-"at": "2026-11-26 08:42"
+"count": 173,
+"secs": 371,
+"at": "2026-11-26 09:38"
 },
 "feinaactiva": {
 "ok": true,
-"count": 703,
-"secs": 5,
-"at": "2026-11-26 08:42"
+"count": 705,
+"secs": 7,
+"at": "2026-11-26 09:38"
 },
 "eurofirms": {
 "ok": true,
 "count": 79,
 "secs": 1,
-"at": "2026-11-26 08:42"
+"at": "2026-11-26 09:38"
 },
 "randstad": {
 "ok": true,
 "count": 174,
-"secs": 187,
-"at": "2026-11-26 08:45"
+"secs": 174,
+"at": "2026-11-26 09:41"
 },
 "iman": {
 "ok": true,
-"count": 263,
-"secs": 50,
-"at": "2026-11-26 08:46"
+"count": 264,
+"secs": 53,
+"at": "2026-11-26 09:42"
 },
 "ras": {
 "ok": true,
 "count": 62,
-"secs": 2,
-"at": "2026-11-26 08:46"
+"secs": 0,
+"at": "2026-11-26 09:42"
 },
 "meditempus": {
 "ok": true,
 "count": 30,
 "secs": 1,
-"at": "2026-11-26 08:46"
+"at": "2026-11-26 09:42"
 }
 },
 "offers": [
@@ -7683,6 +7683,29 @@
 },
 {
 "src": "feinaactiva",
+"id": "FA92329713",
+"title": "XÒFERS GESTIÓ DE RESIDUS AMB CARNET C",
+"town": "Lliçà d'Amunt",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329713",
+"published": "2026-11-26",
+"modified": "",
+"company": "AJUNTAMENT DE LLIÇÀ D' AMUNT",
+"salary": "1983-1983 €/mes",
+"text": "Les tasques pròpies del lloc de treball de un/a xofer/a de gestió de residus.\nExperiència: Experiència 2 anys. Tasques de xòfer/a camió de gestió de residus.. Competències / coneixements: Carnet B+C+CAP\nIMPRESCINDIBLE disposar del certificat acreditatiu de català nivell A2 i titulació mínima GRADUAT ESCOLAR, ESO o equivalent.\nRequisits: Permisos de conduir: c, b. espanyol (parlat Mitjà, escrit Mitjà), català (parlat Mitjà, escrit Mitjà)\nEstudis: \nContracte laboral temporal (2 mesos)\nJornada intensiva",
+"flags": [
+"car",
+"lang_level",
+"exp:2"
+],
+"why": {
+"car": "carnet b c cap",
+"lang_level": "espanyol parlat mitja escrit mitja catala parlat mitja escrit mitja"
+},
+"first_seen": "2026-11-26 09:32"
+},
+{
+"src": "feinaactiva",
 "id": "FA92323512",
 "title": "SUBALTERN/A A CENTRE EDUCATIU AL VALLÈS ORIENTAL (SUBSTITUCIÓ DE CURTA DURADA)",
 "town": "Lliçà de Vall",
@@ -13696,6 +13719,24 @@
 },
 {
 "src": "feinaactiva",
+"id": "FA92329703",
+"title": "ELECTROMECÀNIC/A - ELECTRÒNIC/A 26.114",
+"town": "Sabadell",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329703",
+"published": "2026-11-26",
+"modified": "",
+"company": "CENTRE METAL.LÚRGIC",
+"salary": "2142-2142 €/mes",
+"text": "Instal.lacions d´equips electrònics, càmares IA, proyectors Led, i sensors\nExperiència: Experiència 1 anys. 1 any\nRequisits: espanyol (parlat Mitjà, escrit Mitjà)\nEstudis: \nContracte laboral indefinit\nJornada completa",
+"flags": [
+"exp:1"
+],
+"why": {},
+"first_seen": "2026-11-26 09:32"
+},
+{
+"src": "feinaactiva",
 "id": "FA92324539",
 "title": "TÈCNIC/A DE DISSENY CAD I OPERARI/ÀRIA DE MECANITZAT (TORN I/O FRESA)",
 "town": "Sant Adrià de Besòs",
@@ -18928,6 +18969,26 @@
 "diploma": "grado medio o grado superior en mecanica industrial mantenimiento industrial o afines"
 },
 "first_seen": ""
+},
+{
+"src": "iman",
+"id": "administrativo-a-de-atencion-al-cliente-y-logistica",
+"title": "Administrativo/a de Atención al Cliente y Logística.",
+"town": "Parets del Vallès",
+"town_note": "",
+"url": "https://empleo.imancorp.es/jobs/administrativo-a-de-atencion-al-cliente-y-logistica",
+"published": "2026-11-26",
+"modified": "",
+"company": "",
+"salary": "",
+"text": "Volver\n Volver\n Iniciar sesión\n ¡Aplica ahora!\n Parets del Vallès\n Atención a clientes\n Atención al cliente\n Logística\n Completa\n Presencial\n Empleado\n Logística\n Administrativo/a de Atención al Cliente y Logística.\n Publicada\n 26 de Noviembre\n Desde IMAN Temporing, empresa especializada en RRHH, queremos acompañarte en tu trayectoria laboral.\n #Conectamoseltalentoconlasoportunidades\n Desde la oficina Iman Temporing de Vilafranca del Penedés buscamos un/a Administrativo/a de Atención al cliente y logística para empresa ubicada en Parets del Vallés\n El/la candidato/a ideal será responsable de dar soporte al departamento de Atención al Cliente, colaborando en la gestión diaria de consultas e incidencias, así como en la organización y coordinación de rutas y repartos de transporte.\n Funciones:\n Dar soporte y apoyo al departamento de Atención al Cliente\n Atender incidencias y reclamaciones de clientes\n Preparar rutas y repartos de los transportes\n Tareas de soporte administrativo en general\n Se ofrece:\n SBA: 19.000€ a 21.000€ (a definir según perfil del candidato/a)\n Horario: Jornada completa de 9h a 18h o 7h a 15h (pendiente de definir)\n Contrato a través de ETT + posibilidad real de incorporación a empresa\n Posibilidad de combinar presencial y teletrabajo\n Requisitos mínimos\n Requisitos mínimos:\n Formación mínima: ESO o equivalente. Se valorará positivamente disponer de un Ciclo Formativo de Grado Medio en Gestión Administrativa, Actividades Comerciales o similar.\n Experiencia de 1 año desempeñando funciones de atención al cliente\n Conocimientos office a nivel usuario, especialmente Excel\n Resolución de problemas, capacidad de negociación y comunicación, orientación al cliente, responsabilidad, trabajo en equipo",
+"flags": [
+"diploma?"
+],
+"why": {
+"diploma": "se valorara positivamente disponer de un ciclo formativo de grado medio en gestion administrativa actividades comerciales o similar"
+},
+"first_seen": "2026-11-26 09:32"
 },
 {
 "src": "iman",
@@ -26309,7 +26370,7 @@
 "town_note": "list town Caldes d'Estrac, location Caldes de Montbui",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397405",
 "published": "2026-11-13",
-"modified": "2026-11-24",
+"modified": "2026-11-26",
 "company": "",
 "salary": "",
 "text": "Electricista industrial (sector de fabricació de maquinària de laboratori i industria): Muntatge, cablejat i instal. d'armaris i quadres elèctrics. Interpretació de quadres elèctrics. Interpr. i creació d'esquemes elèctrics EPLAN (o similars). Coneixement d'elements de quadre elèctric (magnetotèrmic, diferencial, equip de tiristors, PLC, reguladors i programadors, relés...) Coneixement d'instal·lació d'equips de buit, gasos i pneumàtica. S'ofereix incorporació estable. Horari de dll a dv de 7 a 15h. Sou brut anual: 28.000-33.000 euros anuals Capacitats requerides Experiència en empreses de fabricació de maquinària a mida, en electricitat industrial i quadres de control. Programació de HMI i PLCs. Saber interpretar i realitzar esquemes elèctrics. Important CFGS en Electricitat industrial o similar. Requisits Obligatoris Experiència en l'ocupació (mesos) 36 Informació d'interès Data d’incorporació 14/12/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada intensiva",
@@ -26849,6 +26910,27 @@
 "kitchen_meat_alcohol": "cuina en industria alimentaria … empresa d elaboracio artesanal d aliments cerca operari aria auxiliar de cuina … envasar ampolles de caldo amb una maquina semi automatica etiquetar recolzament a cuina neteja"
 },
 "first_seen": "2026-11-26 08:36"
+},
+{
+"src": "xaloc",
+"id": "397783",
+"title": "Personal de neteja, dimarts i divendres",
+"town": "Granollers",
+"town_note": "",
+"url": "https://xaloc.diba.cat/ofertes-de-feina/397783",
+"published": "2026-11-26",
+"modified": "2026-11-26",
+"company": "",
+"salary": "",
+"text": "Operari/a de neteja: neteja d'oficines, zones comuns, vestuaris, sanitaris, menjadors. Treure la pols, escombrar, fregar, aspirar, canviar escombraries, desinfectar sanitaris. Reposició de consumibles Salari brut mensual: 230 euros (12 pagues) Capacitats requerides Persona treballadora, responsable i proactiva. Requisits Obligatoris Experiència en l'ocupació (mesos) 2 Llengua Castellà - Nivell Independent B2 Informació d'interès Data d’incorporació 05/12/2026 Horari Dimarts i divendres de 10-13h Esforç físic Sí Contracte Tipus Indefinit: ordinari Durada Indefinit",
+"flags": [
+"lang_level",
+"exp:2"
+],
+"why": {
+"lang_level": "nivell independent b2 informacio d interes data dincorporacio 05 12 2026 horari dimarts i divendres de 10 13h esforc fisic si contracte tipus indefinit"
+},
+"first_seen": "2026-11-26 09:32"
 },
 {
 "src": "xaloc",
@@ -27436,7 +27518,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397469",
 "published": "2026-11-16",
-"modified": "2026-11-24",
+"modified": "2026-11-26",
 "company": "",
 "salary": "",
 "text": "Tècnic/a en logística. Donar suport a l'operativa diària del magatzem. Supervisar les recepcions, expedicions i els moviments de subministre a producció. Analitzar els indicadors de productivitat i eficiència per identificar oportunitats de millora. Seguiment inventaris, Desviacions stocs. Participar en la gestió de reclamacions i incidències. Suport admnistratiu a logística i transport. Col·laboració amb producció, supply chain, i cutomer service. Horari: torn flexible entrada entre les 07:00 i les 09:00 i sortida a aprtir de les 16:15. Salari: forquilla entre 28.00 i 32.000 euros anua Capacitats requerides Formació professional en logística, comerç internacional o similar. Experiència en operativa de magatzem i logísica. Capacitat analítica per interpretar dades i indicadors de productivitat i eficiència. Valorable SAP i altres ERP. Persona organitzada, resolutiva i amb facilitat per coordinar diferents prioritats en un entorn dinàmic. Vehicle propi Requisits Obligatoris Vehicle propi Sí Informàtica Programari d'Ofimàtica - Usuari Avançat Molt importants Nivell acadèmic Cicle formatiu grau superior Recomanables Titulació Cicle formatiu grau superior - Comerç i Màrqueting - Transport i Logística Informació d'interès Data d’incorporació 01/12/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -27458,7 +27540,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397653",
 "published": "2026-11-23",
-"modified": "2026-11-25",
+"modified": "2026-11-26",
 "company": "",
 "salary": "",
 "text": "Monitor/a per a casa de colònies escolars a cases de colònies i camping, Feina entre setmana. Diferents possibilitats de torns: De dilluns a dimecres De dimecres a divendres O de dilluns a divendres. S'ofereix allotjament i pensió complerta a càrrec de l'empresa durant l'estada de colònies. Capacitats requerides Experiencia en colònies escolars. Estudis mínim ESO. Es valorarà coneixements d'idiomes. Requisits Obligatoris Nivell acadèmic ESO Llengua Castellà . Català Recomanables Carnets especials Monitor/ora d'activitats de lleure infantil i juvenil Informació d'interès Data d’incorporació 01/05/2027 Contracte Tipus Fix discontinu Durada Entre 1 i 3 mesos",
@@ -27497,17 +27579,17 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397742",
 "published": "2026-11-25",
-"modified": "2026-11-25",
+"modified": "2026-11-26",
 "company": "",
 "salary": "",
-"text": "Manteniment preventiu i correctiu d'instal·lacions generals del centre: climatització, electricitat, fontaneria i subministrament d'aigua. Diagnosi i resolució d'avaries, inspeccions periòdiques, petites reparacions de manteniment, gestió de materials i coordinació d'empreses externes. Capacitats requerides FP en manteniment, electricitat, climatització, electromecànica o similar. Experiència en manteniment integral d'instal·lacions, coneixements d'electricitat, fontaneria i climatització. Capacitat de diagnosi d'avaries, organització, autonomia, tracte amb clients i proveïdors, iniciativa i polivalència. Requisits Obligatoris Nivell acadèmic Cicle formatiu grau mitjà Permís de conduir B Vehicle propi Sí Informàtica Programari d'Ofimàtica - Usuari Mitjà Llengua Castellà . Català Importants Categoria Oficial/a de 1a. Branca C.Formatiu Grau Mitjà o Electricitat i Electrònica Branca C.Formatiu Grau Superior Instal·lació i Manteniment Informació d'interès Data d’incorporació 02/01/2027 Horari de dilluns a divendres de 7 a 15h Contracte Tipus Indefinit: ordinari Durada Indefinit",
+"text": "Manteniment preventiu i correctiu d'instal·lacions generals del centre: climatització, electricitat, fontaneria i subministrament d'aigua. Diagnosi i resolució d'avaries, inspeccions periòdiques, petites reparacions de manteniment, gestió de materials i coordinació d'empreses externes. Capacitats requerides FP en manteniment, electricitat, climatització, electromecànica o similar. Experiència en manteniment integral d'instal·lacions, coneixements d'electricitat, fontaneria i climatització. Capacitat de diagnosi d'avaries, organització, autonomia, tracte amb clients i proveïdors, iniciativa i polivalència. Requisits Obligatoris Permís de conduir B Vehicle propi Sí Informàtica Programari d'Ofimàtica - Usuari Mitjà Llengua Castellà . Català Molt importants Nivell acadèmic Cicle formatiu grau mitjà Branca C.Formatiu Grau Mitjà o Manteniment i Serveis a la producció Branca C.Formatiu Grau Superior Instal·lació i Manteniment Importants Categoria Oficial/a de 1a. Informació d'interès Data d’incorporació 02/01/2027 Horari de dilluns a divendres de 7 a 15h Contracte Tipus Indefinit: ordinari Durada Indefinit",
 "flags": [
 "car",
 "diploma"
 ],
 "why": {
-"car": "requisits obligatoris nivell academic cicle formatiu grau mitja permis de conduir b vehicle propi si informatica programari d ofimatica",
-"diploma": "requisits obligatoris nivell academic cicle formatiu grau mitja permis de conduir b vehicle propi si informatica programari d ofimatica … branca c formatiu grau mitja o electricitat i electronica branca c formatiu grau superior installacio i manteniment informacio d interes data dincorporacio 02 0"
+"car": "requisits obligatoris permis de conduir b vehicle propi si informatica programari d ofimatica",
+"diploma": "catala molt importants nivell academic cicle formatiu grau mitja branca c formatiu grau mitja o manteniment i serveis a la produccio branca c formatiu grau supe"
 },
 "first_seen": "2026-11-25 13:25"
 },
@@ -28258,7 +28340,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397299",
 "published": "2026-11-10",
-"modified": "2026-11-23",
+"modified": "2026-11-26",
 "company": "",
 "salary": "",
 "text": "Neteja de fàbriques i comunitats de Montornès. Jornada de 20 hores setmanals matí a partir de les 7 h. L'empresa ofereix un contracte temporal de substitució fins a finals de desembre. Capacitats requerides Saber llegir i escriure castellà i català. Experiència en neteja de fàbriques i comunitats. Vehicle propi, si és de fora del municipi cotxe, si és de Montornès els vehicle pot ser patinet, bicicleta,.... Requisits Obligatoris Experiència en l'ocupació (mesos) 6 Llengua Castellà . Català Informació d'interès Data d’incorporació 12/11/2026 Horari 20 h/setmanals. Inici a les 7 h. Contracte Tipus Temporals bonificats Durada Entre 1 i 3 mesos",
@@ -28451,7 +28533,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397726",
 "published": "2026-11-25",
-"modified": "2026-11-25",
+"modified": "2026-11-26",
 "company": "",
 "salary": "",
 "text": "Busquem incorporar un/a lampista especialista en instal·lacions i equipaments de piscines per al nostre equip de Premià de Mar. La persona seleccionada s'encarregarà del muntatge, instal·lació, posada en marxa, revisió i reparació de sistemes de depuració, filtració, electròlisi salina, fontaneria i electricitat. També farà diagnòstics i reparació d'avaries, renovació d'equips i assistència tècnica a clients. Jornada completa i presencial, amb desplaçaments. Inscripcions: oferta 397726 . Enviar el CV actualitzat a ocupacio@premiademar.cat. Capacitats requerides Experiència en instal·lacions tècniques, preferiblement en piscines, lampisteria, electricitat o climatització. Coneixements d'hidràulica i electricitat. Capacitat per fer muntatges i reparacions. Domini d'eines manuals i elèctriques. Persona responsable, autònoma i resolutiva. Carnet B imprescindible. Es valorarà experiència en depuració, electròlisi salina i diagnòstic d'avaries. Requisits Obligatoris Permís de conduir B Experiència en l'ocupació (mesos) 60 Informació d'interès Data d’incorporació 01/02/2027 Salari mensual 1350€ Horari Dilluns a diumenge de 08:00 a 16:00 h Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28493,7 +28575,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397491",
 "published": "2026-11-17",
-"modified": "2026-11-24",
+"modified": "2026-11-26",
 "company": "",
 "salary": "",
 "text": "Atenció, orientació i assessorament personalitzat al pacient durant tot el procés del tractament odontològic. Explicació entenedora dels plans de tractament i de les opcions proposades per l'odontòleg. Elaboració, presentació, explicació i tancament de pressupostos de tractaments dentals, resolent dubtes administratius i econòmics facilitant la comprensió dels pressupostos i opcions de pagament Coordinació amb equip clínic per garantir una atenció integral i organitzada. Organització d'agendes Gestió i actualització d'historials clínics. Ús de programes de gestió dental Gesden i Salus Capacitats requerides Experiència demostrable mín 3 anys en clíniques dentals fent assessorament de pacients i tancament de pressupostos odontològics. Coneixements dels tractaments dentals i de la terminologia odontològica. Experiència en seguiment comercial, acceptació de pressupostos i fidelització de pacients. Domini de les eines informàtiques i experiència amb programes de gestió dental. Empatia i discreció. Requisits Obligatoris Experiència en l'ocupació (mesos) 36 Llengua Castellà - Nivell Independent B2 . Català - Nivell Independent B2 Importants Informàtica Programari de gestió - Usuari Mitjà Informació d'interès Data d’incorporació 01/12/2026 Atenció al públic Sí Contracte Tipus Indefinit: ordinari Durada Indefinit",
