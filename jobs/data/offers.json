@@ -1,47 +1,47 @@
 {
-"built": "2026-11-26 13:04 UTC",
+"built": "2026-11-26 14:58 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
-"count": 169,
-"secs": 376,
-"at": "2026-11-26 13:10"
+"count": 168,
+"secs": 370,
+"at": "2026-11-26 15:04"
 },
 "feinaactiva": {
 "ok": true,
 "count": 707,
-"secs": 4,
-"at": "2026-11-26 13:10"
+"secs": 5,
+"at": "2026-11-26 15:04"
 },
 "eurofirms": {
 "ok": true,
-"count": 80,
-"secs": 7,
-"at": "2026-11-26 13:10"
+"count": 81,
+"secs": 5,
+"at": "2026-11-26 15:04"
 },
 "randstad": {
 "ok": true,
-"count": 176,
-"secs": 197,
-"at": "2026-11-26 13:14"
+"count": 175,
+"secs": 174,
+"at": "2026-11-26 15:07"
 },
 "iman": {
 "ok": true,
-"count": 265,
-"secs": 52,
-"at": "2026-11-26 13:15"
+"count": 267,
+"secs": 57,
+"at": "2026-11-26 15:08"
 },
 "ras": {
 "ok": true,
 "count": 61,
-"secs": 8,
-"at": "2026-11-26 13:15"
+"secs": 5,
+"at": "2026-11-26 15:08"
 },
 "meditempus": {
 "ok": true,
 "count": 30,
-"secs": 1,
-"at": "2026-11-26 13:15"
+"secs": 2,
+"at": "2026-11-26 15:08"
 }
 },
 "offers": [
@@ -124,6 +124,22 @@
 "diploma": "ciclo formativo grado superior"
 },
 "first_seen": "2026-11-21"
+},
+{
+"src": "eurofirms",
+"id": "024-007900",
+"title": "Mozo/a almacén",
+"town": "Badalona",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/badalona/mozo-a-almacen-024-007900",
+"published": "2026-11-26",
+"modified": "",
+"company": "",
+"salary": "12 EUR/HOUR",
+"text": "Eurofirms selecciona un/a Mozo/a Desbrozador/a para empresa del sector Metal situada en Badalona. La persona seleccionada desempeñará las siguientes funciones:\n Eliminación de rebabas e imperfecciones en piezas metálicas, plásticas o mecanizadas.\n Repaso y acabado de piezas utilizando herramientas manuales.\n Verificación visual de la calidad y acabado de las piezas.\n Pulido, lijado y acondicionamiento de superficies.\n Manipulación y preparación de materiales para el proceso productivo.\n Organización del almacén.\n Control dimensional básico.\n Mantenimiento básico y limpieza de las herramientas y del puesto de trabajo.\n Entre otras tareas propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-26 14:58"
 },
 {
 "src": "eurofirms",
@@ -861,22 +877,6 @@
 },
 {
 "src": "eurofirms",
-"id": "062-017240",
-"title": "Mecánico/a de maquinaria (Contrato por empresa)",
-"town": "Mataró",
-"town_note": "",
-"url": "https://jobs.eurofirms.com/es/es/mataro/mecanico-a-de-maquinaria--contrato-por-empresa--062-017240",
-"published": "2026-11-23",
-"modified": "",
-"company": "",
-"salary": "37.0-38.0 EUR/YEAR",
-"text": "Buscamos un/a Mecánico/a para incorporar de forma estable (contrato indefinido) en empresa del sector automoción situada en barcelona. Las tareas que tendrá que realizar son las siguientes:\n Diagnosticar averías mecánicas de la maquinaria de construcción y obra pública.\n Realizar reparaciones mecánicas y trabajos de mantenimiento preventivo y correctivo.\n Desmontar, reparar, sustituir y ajustar los diferentes componentes de los equipos.\n Revisar la maquinaria antes de su entrega para asegurar el correcto funcionamiento y la seguridad.\n Detectar posibles incidencias y proponer las reparaciones necesarias.\n Colaborar con el/la Jefe/a de Taller en la planificación de los trabajos y las prioridades diarias.\n Mantener el taller ordenado y cumplir los procedimientos internos de trabajo.\n Trabajar de manera coordinada con el resto del equipo para garantizar un servicio ágil y de calidad a los/as clientes/as.\n Entre otras funciones propias del puesto de trabajo.",
-"flags": [],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "eurofirms",
 "id": "062-017264",
 "title": "Frigorista",
 "town": "Mataró",
@@ -1080,6 +1080,24 @@
 "first_seen": "2026-11-25 23:16",
 "repost_of": "eurofirms:062-017308",
 "repost_first_seen": "2026-11-24 15:42"
+},
+{
+"src": "eurofirms",
+"id": "062-017322",
+"title": "Mecánico/a de maquinaria (Contrato por empresa)",
+"town": "Mataró",
+"town_note": "",
+"url": "https://jobs.eurofirms.com/es/es/mataro/mecanico-a-de-maquinaria--contrato-por-empresa--062-017322",
+"published": "2026-11-26",
+"modified": "",
+"company": "",
+"salary": "37.0-38.0 EUR/YEAR",
+"text": "Buscamos un/a Mecánico/a para incorporar de forma estable (contrato indefinido) en empresa del sector automoción situada en Barcelona. Las tareas que tendrá que realizar son las siguientes:\n Diagnosticar averías mecánicas de la maquinaria de construcción y obra pública.\n Realizar reparaciones mecánicas y trabajos de mantenimiento preventivo y correctivo.\n Desmontar, reparar, sustituir y ajustar los diferentes componentes de los equipos.\n Revisar la maquinaria antes de su entrega para asegurar el correcto funcionamiento y la seguridad.\n Detectar posibles incidencias y proponer las reparaciones necesarias.\n Colaborar con el/la Jefe/a de Taller en la planificación de los trabajos y las prioridades diarias.\n Mantener el taller ordenado y cumplir los procedimientos internos de trabajo.\n Trabajar de manera coordinada con el resto del equipo para garantizar un servicio ágil y de calidad a los/as clientes/as.\n Entre otras funciones propias del puesto de trabajo.",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-26 14:58",
+"repost_of": "eurofirms:062-017240",
+"repost_first_seen": ""
 },
 {
 "src": "eurofirms",
@@ -13729,24 +13747,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "FA92329328",
-"title": "195.TÈCNIC/A DE MANUALS AERONÀUTICS SABADELL",
-"town": "Sabadell",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329328",
-"published": "2026-11-20",
-"modified": "",
-"company": "GROWING UP HR SL",
-"salary": "2083-2083 €/mes",
-"text": "Actualitzar i mantenir els Manuals d’Operacions (OM) i els Manuals de Manteniment (MM).\nVetllar pel compliment de la normativa aeronàutica aplicable.\nDonar suport en la revisió de procediments operatius i tècnics.\nCoordinar-se amb els equips d’operacions i manteniment per incorporar canvis i millores.\nPreparar documentació tècnica i informes interns.\nAssegurar la correcta traçabilitat i arxiu de la documentació aeronàutica\nExperiència: Experiència 2 anys. 2 anys experiència\nRequisits: Disponibilitat de vehicle\nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"exp:2"
-],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "FA92329598",
 "title": "200. ESPECIALISTA EN ESTÈTICA AVANÇADA – INDIBA PRO",
 "town": "Sabadell",
@@ -13855,6 +13855,24 @@
 ],
 "why": {},
 "first_seen": "2026-11-26 13:04"
+},
+{
+"src": "feinaactiva",
+"id": "FA92329761",
+"title": "ANALISTA HIPOTECARIO/A SENIOR",
+"town": "Sabadell",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92329761",
+"published": "2026-11-26",
+"modified": "",
+"company": "Hipotecazo",
+"salary": "2667-5633 €/mes",
+"text": "- Atender a los clientes que te asignamos (100 % inbound, sin puerta fría) y llevarlos de la duda a la decisión: firma del encargo.\n- Mover el expediente hipotecario de principio a fin: análisis de la documentación financiera, estudio de viabilidad y criterios de riesgo de cada banco, negociación con las entidades y gestión de incidencias hasta la firma en notaría.\n- Acompañar al cliente durante todo el proceso, apoyándote en nuestro software e IA para la parte administrativa.\n- Cumplir objetivos de encargos y firmas (mínimo 10 encargos el primer mes y 20 el segundo).\nExperiència: Experiència 2 anys. 2 años de experiencia acreditable en el sector hipotecario (intermediaria o banca) o más de 30 operaciones firmadas, con contacto directo con cliente.\nRequisits: \nEstudis: \nContracte laboral indefinit\nJornada completa",
+"flags": [
+"exp:2"
+],
+"why": {},
+"first_seen": "2026-11-26 14:58"
 },
 {
 "src": "feinaactiva",
@@ -15272,6 +15290,38 @@
 "diploma": "cfgm de automocion o similiar"
 },
 "first_seen": ""
+},
+{
+"src": "iman",
+"id": "operario-a-sector-metal-2cd7e6c9-cc7e-44fe-b674-7a97b67515a9",
+"title": "OPERARIO/A (SECTOR METAL)",
+"town": "Badalona",
+"town_note": "",
+"url": "https://empleo.imancorp.es/jobs/operario-a-sector-metal-2cd7e6c9-cc7e-44fe-b674-7a97b67515a9",
+"published": "2026-11-26",
+"modified": "",
+"company": "",
+"salary": "",
+"text": "Volver\n Volver\n Iniciar sesión\n ¡Aplica ahora!\n Badalona\n 27.000 € - 27.000 €\n Bruto/año\n Calidad, producción e I+D\n Gestión de la calidad\n Fabricación de productos metálicos, hierro, acero\n Intensiva - Mañana\n Presencial\n Empleado\n Otros\n OPERARIO/A (SECTOR METAL)\n Publicada\n 26 de Noviembre\n Desde IMAN Temporing, empresa especializada en RRHH, queremos acompañarte en tu trayectoria laboral.\n #Conectamoseltalentoconlasoportunidades\n Estamos en busqueda de un/a OPERARIO/A (sector metal) para una importante empresa ubicada en Badalona.\n Condiciones:\n Contrato FIJO-DISCONTINUO incorporación inmediata. Renovación semanal.\n Horario lunes a viernes de 6.00 a 14.00h.\n Salario: 15,87 euros brutos/hora.\n Funciones:\n Preparación de pedidos.\n Mantener organizada y limpia el área de trabajo.\n Cambios de formato del producto en línea.\n Control de calidad.\n Requisitos mínimos\n Persona polivalente,\n Experiencia en el sector metal.\n Proximidad al puesto de trabajo.\n Disponibilidad de incorporación inmediata.\n Si crees que cumples con los requisitos ¡Apuntate! ¡ Te estamos esperando !",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-26 14:58"
+},
+{
+"src": "iman",
+"id": "operario-a-sector-metal-e7ac14dd-baf4-4635-ba55-8a000890d4fc",
+"title": "OPERARIO/A (SECTOR METAL)",
+"town": "Badalona",
+"town_note": "",
+"url": "https://empleo.imancorp.es/jobs/operario-a-sector-metal-e7ac14dd-baf4-4635-ba55-8a000890d4fc",
+"published": "2026-11-26",
+"modified": "",
+"company": "",
+"salary": "",
+"text": "Volver\n Volver\n Iniciar sesión\n ¡Aplica ahora!\n Badalona\n 27.000 € - 27.000 €\n Bruto/año\n Calidad, producción e I+D\n Gestión de la calidad\n Fabricación de productos metálicos, hierro, acero\n Intensiva - Mañana\n Presencial\n Empleado\n Otros\n OPERARIO/A (SECTOR METAL)\n Publicada\n 26 de Noviembre\n Desde IMAN Temporing, empresa especializada en RRHH, queremos acompañarte en tu trayectoria laboral.\n #Conectamoseltalentoconlasoportunidades\n Estamos en busqueda de un/a OPERARIO/A (sector metal) para una importante empresa ubicada en Badalona.\n Condiciones:\n Contrato FIJO-DISCONTINUO incorporación inmediata. Renovación semanal.\n Horario lunes a viernes de 6.00 a 14.00h.\n Salario: 15,87 euros brutos/hora.\n Funciones:\n Preparación de pedidos.\n Mantener organizada y limpia el área de trabajo.\n Cambios de formato del producto en línea.\n Control de calidad.\n Requisitos mínimos\n Persona polivalente,\n Experiencia en el sector metal.\n Proximidad al puesto de trabajo.\n Disponibilidad de incorporación inmediata.\n Si crees que cumples con los requisitos ¡Apuntate! ¡ Te estamos esperando !",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-26 14:58"
 },
 {
 "src": "iman",
@@ -21084,10 +21134,10 @@
 {
 "src": "randstad",
 "id": "3022944",
-"title": "Operario/a especias",
+"title": "Operario/a alimentación",
 "town": "Argentona",
 "town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/operario-a-especias-3022944/",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/operario-a-alimentacion-3022944/",
 "published": "2026-11-12",
 "modified": "",
 "company": "",
@@ -23091,27 +23141,6 @@
 ],
 "why": {
 "kitchen_meat_alcohol": "camarero o camarera de eventos fin de semana … formando parte del equipo de camareros tus funciones principales seran … trabajar en equipo con otros camareros y el personal del evento para garantizar un servicio fluido"
-},
-"first_seen": ""
-},
-{
-"src": "randstad",
-"id": "3021364",
-"title": "Auxiliar Sala + TPV Fin de Semana y Festivos",
-"town": "Mataró",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/auxiliar-sala-tpv-fin-semana-y-festivos-3021364/",
-"published": "2026-11-06",
-"modified": "",
-"company": "",
-"salary": "9.55-9.55 EUR/HOUR",
-"text": "Tu objetivo principal será garantizar que nuestros clientes disfruten de un local impecable y un servicio ágil. Tus funciones serán:\nAtención al cliente: Recibir a los comensales con la mejor de tus sonrisas.\nMantenimiento de sala: Recogida y limpieza de mesas de forma rápida y eficiente para que el flujo no pare.\nApoyo en buffet: Reposición de cubiertos, servilletas y apoyo visual en las zonas de comida.\nGestión de residuos: Asegurar que las estaciones de limpieza estén siempre a punto. Requisitos del puesto: Energía positiva: Alguien que se mueva como pez en el agua en entornos con mucho ritmo.\nActitud \"Team Player\": Aquí todos remamos juntos.\nFlexibilidad: Disponibilidad para trabajar en turnos rotativos (comidas, cenas y fines de semana).\nExperiencia: Se valorará positivamente haber trabajado en hostelería o atención al público, pero si no tienes, ¡nosotros te enseñamos!\nResidencia: Preferiblemente cerca del centro de trabajo. Formación: Sin estudios\n Conocimientos: experiencia como camarero sin contrato\n Experiencia: 1 año",
-"flags": [
-"kitchen_meat_alcohol",
-"exp:1"
-],
-"why": {
-"kitchen_meat_alcohol": "experiencia como camarero sin contrato"
 },
 "first_seen": ""
 },
@@ -25894,26 +25923,6 @@
 },
 {
 "src": "xaloc",
-"id": "396630",
-"title": "DEPENDENT/A XARCUTERIA",
-"town": "Badalona",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/396630",
-"published": "2026-10-22",
-"modified": "2026-11-25",
-"company": "",
-"salary": "",
-"text": "Ajudar en l'atenció al públic i a el·laborar productes, Portar matèria prima a l'altra botiga que tenim a badalona, neteja de la maquinària utilitzada. Capacitats requerides Predisposició a aprendre l'ofici. Tasques desenvolupar Fixar els requisits dels clients i assessorar-los sobre la gamma de productes, el seu preu, condicions de lliurament, garanties, ús i manteniment. Explicar als clients els productes i serveis de l'establiment i fer-ne demostracions. Vendre els productes i serveis, cobrar el preu servint-se de diferents mètodes de pagament, preparar les factures i registrar les vendes en caixes registradores. Informació d'interès Data d’incorporació 02/11/2026 Salari mensual 1350€ Horari Partit 40h Atenció al públic Sí Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent",
-"flags": [
-"kitchen_meat_alcohol"
-],
-"why": {
-"kitchen_meat_alcohol": "dependent a xarcuteria"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
 "id": "396830",
 "title": "TÈCNIC/A ELECTROMECÀNIC",
 "town": "Badalona",
@@ -26015,22 +26024,6 @@
 "flags": [],
 "why": {},
 "first_seen": "2026-11-24 08:38"
-},
-{
-"src": "xaloc",
-"id": "397760",
-"title": "DEPENDENT/A DE FORN - PASTISSERIA",
-"town": "Badalona",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/397760",
-"published": "2026-11-25",
-"modified": "2026-11-26",
-"company": "",
-"salary": "",
-"text": "Atenció al client/a. Informació dels productes de forn, Pastisseria, confiteria venda al detall. Cobrament automàtic Capacitats requerides Català parlat. competències propies per a l'atenció al client/a i les vendes. Tasques desenvolupar Fixar els requisits dels clients i assessorar-los sobre la gamma de productes, el seu preu, condicions de lliurament, garanties, ús i manteniment. Explicar als clients els productes i serveis de l'establiment i fer-ne demostracions. Vendre els productes i serveis, cobrar el preu servint-se de diferents mètodes de pagament, preparar les factures i registrar les vendes en caixes registradores. Informació d'interès Data d’incorporació 07/12/2026 Salari mensual 1400€ Horari Dilluns a dissabte de 6:45 a 13.30h Atenció al públic Sí Esforç físic No Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 3 Exclusivament matí",
-"flags": [],
-"why": {},
-"first_seen": "2026-11-25 15:26"
 },
 {
 "src": "xaloc",
@@ -26639,7 +26632,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397178",
 "published": "2026-11-05",
-"modified": "2026-11-19",
+"modified": "2026-11-26",
 "company": "",
 "salary": "",
 "text": "Oficial serraller Muntatge en obra i desplaçaments per a fer muntatges Capacitats requerides Experiència en serralleria Horari: De 8 a 17( Muntatge) de 7 a 16 ( taller) Informació d'interès Data d’incorporació 05/11/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -26984,6 +26977,29 @@
 "lang_level": "nivell independent b2 informacio d interes data dincorporacio 05 12 2026 horari dimarts i divendres de 10 13h esforc fisic si contracte tipus indefinit"
 },
 "first_seen": "2026-11-26 09:32"
+},
+{
+"src": "xaloc",
+"id": "397815",
+"title": "Gerocultor/a",
+"town": "Granollers",
+"town_note": "",
+"url": "https://xaloc.diba.cat/ofertes-de-feina/397815",
+"published": "2026-11-26",
+"modified": "2026-11-26",
+"company": "",
+"salary": "",
+"text": "Empresa de serveis sociosanitaris cerca Gerocultor/a: suport en les activitats bàsiques de la vida diària de persones amb grau de dependència reconegut. Atenció directa (higiene, alimentació, movilitzacions). Seguiment del pla de cures. Foment de l'autonomia i benestar emocional dels residents. S'ofereix contracte de 10 hores setmanals, de dilluns a divendres de 8:30 a 10:30h Salari brut mensual aproximat:307 euros (14 pagues) Capacitats requerides Empatia, Discreció, Responsabilitat, Orientació a col·lectiu de persones grans. Formació en Certificat d'Atenció sociosanitaria a persones dependents, Integració Social o Auxiliar d'infermeria. Castellà o català, Nivell alt de comprensió i parla Requisits Obligatoris Experiència en l'ocupació (mesos) 6 Formació professionalitzadora Atenció sociosanitària a persones dependents en institucions socials Informàtica Programari d'Ofimàtica - Usuari Bàsic Llengua Castellà - Nivell Independent B2 Molt importants Llengua Català - Nivell Independent B2 Informació d'interès Data d’incorporació 01/12/2026 Horari de dilluns a divendres de 8:30 a 10:30h Contracte Tipus Interinitat Durada Durada indeterminada per obra o servei",
+"flags": [
+"lang_level",
+"diploma",
+"exp:6"
+],
+"why": {
+"lang_level": "castella o catala nivell alt de comprensio i parla requisits obligatoris experiencia en l ocupacio mesos 6 formacio professionalitzadora atencio sociosanitaria  … nivell independent b2 molt importants llengua catala … nivell independent b2 informacio d interes data dincorporacio 01 12 2026 horari de dilluns a divendres de 8 30 a 10 30h contracte tipus interinitat durada durad",
+"diploma": "castella o catala nivell alt de comprensio i parla requisits obligatoris experiencia en l ocupacio mesos 6 formacio professionalitzadora atencio sociosanitaria "
+},
+"first_seen": "2026-11-26 14:58"
 },
 {
 "src": "xaloc",
@@ -28623,7 +28639,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397548",
 "published": "2026-11-19",
-"modified": "2026-11-25",
+"modified": "2026-11-26",
 "company": "",
 "salary": "",
 "text": "Assistir i tenir cura de les persones usuàries en les activitats de la vida diària que no poden realitzar per si mateixes i efectuar les acciones necessàries per a la seva atenció personal i del seu entorn: donar suport a l'equip interdisciplinar, col·laborar en la planificació, organització i execució d'activitats preventives, ocupacionals i d'oci, mantenir la higiene personal dels residents. Capacitats requerides Cicle formatiu de cures auxiliars d'infermeria o d'atenció a persones en situació de dependència o un certificat de professionalitat d'atenció sociosanitària a persones dependents en institucions socials. Requisits Obligatoris Nivell acadèmic Cicle formatiu grau mitjà Molt importants Experiència en l'ocupació (mesos) 3 Titulació Cicle formatiu grau mitjà - Serveis socioculturals i a la comunitat - Atenció a Persones en Situació de Dependència Llengua Castellà - Nivell Independent B2 . Català - Nivell Independent B2 Informació d'interès Data d’incorporació 01/12/2026 Horari caps de setmana de divendres a diumenge Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -28646,7 +28662,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397685",
 "published": "2026-11-24",
-"modified": "2026-11-24",
+"modified": "2026-11-26",
 "company": "",
 "salary": "",
 "text": "Electromecànic/a: Muntatge, reparació i manteniment (correctiu i preventiu) d'equips d'envasat al taller i a casa del client es valorarà coneixements d'electricitat i pneumàtica. Capacitat d'interpretar plànols. horari de de dilluns a dijous de 8 a 17.30h, divendres de 8 a 14h. Contracte indefinit amb període de prova. Capacitats requerides Cicle formatiu de grau mig de manteniment electromecànic o Cicle superior de mecatrònica industrial o similar. Requisits Obligatoris Nivell acadèmic Cicle formatiu grau mitjà Experiència en l'ocupació (mesos) 12 Llengua Castellà - Nivell Independent B2 Molt importants Titulació Cicle formatiu grau mitjà - Manteniment de vehicles autopropulsats - Electromecànica de Maquinària Branca C.Formatiu Grau Mitjà Electricitat i Electrònica Informació d'interès Data d’incorporació 01/12/2026 Horari dll a dij. 8 a 17.30h, divendres de 8 a 14h Contracte Tipus Indefinit: ordinari Durada Indefinit",
