@@ -1,47 +1,47 @@
 {
-"built": "2026-11-27 13:22 UTC",
+"built": "2026-11-27 14:53 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
 "count": 163,
-"secs": 328,
-"at": "2026-11-27 13:27"
+"secs": 315,
+"at": "2026-11-27 14:59"
 },
 "feinaactiva": {
 "ok": true,
 "count": 712,
 "secs": 5,
-"at": "2026-11-27 13:27"
+"at": "2026-11-27 14:59"
 },
 "eurofirms": {
 "ok": true,
 "count": 80,
 "secs": 1,
-"at": "2026-11-27 13:27"
+"at": "2026-11-27 14:59"
 },
 "randstad": {
 "ok": true,
-"count": 181,
-"secs": 181,
-"at": "2026-11-27 13:30"
+"count": 182,
+"secs": 184,
+"at": "2026-11-27 15:02"
 },
 "iman": {
 "ok": true,
 "count": 266,
-"secs": 48,
-"at": "2026-11-27 13:31"
+"secs": 47,
+"at": "2026-11-27 15:03"
 },
 "ras": {
 "ok": true,
 "count": 63,
-"secs": 0,
-"at": "2026-11-27 13:31"
+"secs": 3,
+"at": "2026-11-27 15:03"
 },
 "meditempus": {
 "ok": true,
 "count": 38,
 "secs": 1,
-"at": "2026-11-27 13:31"
+"at": "2026-11-27 15:03"
 }
 },
 "offers": [
@@ -2625,27 +2625,6 @@
 "text": "Promoció de la salut, valoració integral dels usuaris.\nAdministrar i fer el seguiment de la medicació i dels tractaments prescrits pel professional mèdic.\nCoordinació amb CAP, Hospital, i serveis especialitzats segons necessitat.\nPresa i control de constants,i extraccions.\nAdministració de medicació, coordinació amb farmàcia segons modificacions i/o prescripcions mèdiques.\nRealització de cures.\nControl de les històries clìniques i expedients.\nControl del correcte estat higiènic de les persones usuàries i de les instal.lacions.\nComunicació continuada amb els familiars dels usuaris.\nDiseny i participació activa del PAI.\nCoordinació amb l'equip interdisciplinar en l'atenció integral dels usuaris.\nFormació sanitària a l'equip i supervisió de les tasques delegades.\nExperiència: \nRequisits: \nEstudis: GRAU INFERMERIA\nContracte laboral indefinit\nJornada completa",
 "flags": [],
 "why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
-"id": "FA92326174",
-"title": "TÉCNICO/A FISCAL CONTABLE",
-"town": "Badalona",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/FA92326174",
-"published": "2026-10-05",
-"modified": "",
-"company": "Hihired Recruitment SL",
-"salary": "",
-"text": "Gestión contable:\nRegistro de facturas de ingresos y gastos.\nConciliaciones bancarias.\nAmortizaciones y provisiones.\nBalance, cuenta de pérdidas y ganancias, y memoria.\nLibros contables (diario, mayor, inventario, etc.).\nGestión fiscal:\nAsesoramiento fiscal.\nPresentación de impuestos de todo el ciclo.\nExperiència: Experiència 2 anys. Experiencia como técnico/a fiscal y contable en asesoría.. Competències / coneixements: Grado Superior Administración y Finanzas o similar.\nRequisits: \nEstudis: \nContracte laboral indefinit\nJornada completa",
-"flags": [
-"diploma",
-"exp:2"
-],
-"why": {
-"diploma": "grado superior administracion y finanzas o similar"
-},
 "first_seen": ""
 },
 {
@@ -7686,6 +7665,22 @@
 },
 {
 "src": "feinaactiva",
+"id": "09202633271",
+"title": "AUXILIAR D'INFERMERIA PER A RESIDÈNCIA DE GENT GRAN - 09/2026/33271",
+"town": "Lliçà de Vall",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202633271",
+"published": "2026-11-27",
+"modified": "",
+"company": "Oficina de Treball del SOC",
+"salary": "1500- €/mes",
+"text": "Tasques a realitzar: atenció personal dels residents, ajudar en les activitats bàsiques de la seva vida diària i donar suport psicofísic i psicoemocional a les persones ateses.\nExperiència: \nRequisits: Permisos de conduir: b\nEstudis: \nContracte laboral temporal (12 mesos)\nJornada completa",
+"flags": [],
+"why": {},
+"first_seen": "2026-11-27 14:53"
+},
+{
+"src": "feinaactiva",
 "id": "FA92324545",
 "title": "PERSONA TRABAJADOR/A PARA PRODUCCIÓN - PUESTO ESTABLE",
 "town": "Lliçà de Vall",
@@ -11377,22 +11372,6 @@
 },
 {
 "src": "feinaactiva",
-"id": "09202628713",
-"title": "ENQUESTADORS/RES",
-"town": "Sabadell",
-"town_note": "",
-"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202628713",
-"published": "2026-09-29",
-"modified": "",
-"company": "Oficina de Treball del SOC",
-"salary": "1068-1424 €/mes",
-"text": "Realització d’entrevistes presencials a domicilis de persones prèviament seleccionades, amb gestió de les rutes assignades i registre de les dades recollides mitjançant dispositius facilitats per l’empresa.\nExperiència: Competències / coneixements: Es requereix parlar català amb fluïdesa.\nEs valorarà experiència prèvia en enquestes, estudis de mercat o atenció al públic.\nRequisits: Disponibilitat de vehicle: moto, automòbil. espanyol (parlat Superior, escrit Superior), català (parlat Superior, escrit Superior)\nEstudis: \nContracte laboral temporal (2 mesos)\nJornada completa",
-"flags": [],
-"why": {},
-"first_seen": ""
-},
-{
-"src": "feinaactiva",
 "id": "09202630760",
 "title": "AUXILIAR ADMINISTRATIU/VA COMPTABLE - 30760",
 "town": "Sabadell",
@@ -11539,6 +11518,24 @@
 ],
 "why": {},
 "first_seen": "2026-11-25 08:50"
+},
+{
+"src": "feinaactiva",
+"id": "09202633395",
+"title": "CONDUCTORS DE FURGONETA, FINS A 3,5 TONES",
+"town": "Sabadell",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202633395",
+"published": "2026-11-27",
+"modified": "",
+"company": "Oficina de Treball del SOC",
+"salary": "2500-2500 €/mes",
+"text": "•\tConducció diària de furgoneta destinada al transport internacional I nacional de mercaderies.\n•\tRealització de les rutes assignades entre els punts de càrrega i descàrrega.\n•\tObertura i tancament de la lona del vehicle quan sigui necessari.\n•\tAssegurament correcte de la mercaderia mitjançant cintes de subjecció (trinxes) i comprovació de la seva estabilitat abans d'iniciar la marxa.\n•\tSupervisió visual de la càrrega i comunicació de qualsevol incidència.\n•\tRepostatge del vehicle mitjançant les targetes facilitades per l'empresa.\n•\tCompliment de la normativa de trànsit, descansos i ús del tacògraf.\n•\tVetllar per la seguretat del vehicle i de la mercaderia, estacionant preferentment en zones segures i vigilades.\n•\tMantenir una conducció responsable, eficient i respectuosa amb la normativa vigent.\n•\tCura bàsica del vehicle i comunicació d'avaries o incidències.\n•\tCompliment dels protocols interns de l'empresa i de la formació en prevenció de riscos laborals.\nExperiència: Experiència 6 mesos. CONDUCTORS DE FURGONETA, FINS A 3,5 TONES. Competències / coneixements: . Carnet de tacògraf.\nRequisits: Permisos de conduir: b\nEstudis: \nContracte laboral indefinit\nJornada completa",
+"flags": [
+"exp:6"
+],
+"why": {},
+"first_seen": "2026-11-27 14:53"
 },
 {
 "src": "feinaactiva",
@@ -19920,23 +19917,25 @@
 },
 {
 "src": "iman",
-"id": "maquinista-giratoria-sector-metal-e8392ef8-fd54-42e3-916b-9cf4f9a5e03b",
+"id": "maquinista-giratoria-sector-metal-6fa35d1e-608b-4639-98eb-efcbc67134ed",
 "title": "MAQUINISTA GIRATORIA ( SECTOR METAL )",
 "town": "Sabadell",
 "town_note": "",
-"url": "https://empleo.imancorp.es/jobs/maquinista-giratoria-sector-metal-e8392ef8-fd54-42e3-916b-9cf4f9a5e03b",
-"published": "2026-10-20",
+"url": "https://empleo.imancorp.es/jobs/maquinista-giratoria-sector-metal-6fa35d1e-608b-4639-98eb-efcbc67134ed",
+"published": "2026-11-27",
 "modified": "",
 "company": "",
 "salary": "",
-"text": "Volver\n Volver\n Iniciar sesión\n ¡Aplica ahora!\n Sabadell\n 26.000 € - 27.000 €\n Bruto/año\n Compras, logística y almacén\n Almacén\n Otras actividades\n Completa\n Presencial\n Empleado\n Otros\n MAQUINISTA GIRATORIA ( SECTOR METAL )\n Publicada\n 20 de Octubre\n Desde IMAN Temporing, empresa especializada en RRHH, queremos acompañarte en tu trayectoria laboral. #Conectamoseltalentoconlasoportunidades\n Desde Iman Temporing Granollers buscamos maquinistas de grúa pulpo giratoria o pala. Empresa ubicada en Sabadell o Granollers dedicada al sector de la chatarrería férrica.\n Funciones:\n - Trasladar, operar, demoler y clasificar piezas de metal dentro de fábrica y fuera.\n- Experiencia con grúa pulpo giratoria o pala cargadora ( o similar )\n- Mantener el orden en el puesto de trabajo\n ¿Qué ofrecemos?\n Horario: de 8 a 17hrs o turnos rotativos de mañana y tarde ( según planta )\n 27k brutos año dividido en 15 pagas\n Contrato indefinido, por empresa.\n Requisitos mínimos\n -Experiencia y carnet en vigor de grúa pulpo giratoria\n-Experiencia en sector metal\n-vehículo propio\n Somos una empresa comprometida con la igualdad y no discriminamos por género, etnia, orientación sexual, diversidad funcional, edad u otros aspectos protegidos por la legislación. Éste proceso de selección se basa en criterios objetivos de profesionalidad, méritos y capacidad.\n Competencias\n Trabajo en equipo",
+"text": "Volver\n Volver\n Iniciar sesión\n ¡Aplica ahora!\n Sabadell\n 26.000 € - 27.000 €\n Bruto/año\n Compras, logística y almacén\n Almacén\n Otras actividades\n Completa\n Presencial\n Empleado\n Otros\n MAQUINISTA GIRATORIA ( SECTOR METAL )\n Publicada\n 27 de Noviembre\n Desde IMAN Temporing, empresa especializada en RRHH, queremos acompañarte en tu trayectoria laboral. #Conectamoseltalentoconlasoportunidades\n Desde Iman Temporing Granollers buscamos maquinistas de grúa pulpo giratoria o pala. Empresa ubicada en Sabadell o Granollers dedicada al sector de la chatarrería férrica.\n Funciones:\n - Trasladar, operar, demoler y clasificar piezas de metal dentro de fábrica y fuera.\n- Experiencia con grúa pulpo giratoria o pala cargadora ( o similar )\n- Mantener el orden en el puesto de trabajo\n ¿Qué ofrecemos?\n Horario: de 8 a 17hrs con disponibilidad de 6 a 17hrs.\n 27k brutos año dividido en 15 pagas\n Contrato indefinido, por empresa.\n Requisitos mínimos\n -Experiencia y carnet en vigor de grúa pulpo giratoria\n-Experiencia en sector metal\n-vehículo propio\n Somos una empresa comprometida con la igualdad y no discriminamos por género, etnia, orientación sexual, diversidad funcional, edad u otros aspectos protegidos por la legislación. Éste proceso de selección se basa en criterios objetivos de profesionalidad, méritos y capacidad.\n Competencias\n Trabajo en equipo",
 "flags": [
 "car"
 ],
 "why": {
 "car": "vehiculo propio"
 },
-"first_seen": ""
+"first_seen": "2026-11-27 14:53",
+"repost_of": "iman:maquinista-giratoria-sector-metal-e8392ef8-fd54-42e3-916b-9cf4f9a5e03b",
+"repost_first_seen": ""
 },
 {
 "src": "iman",
@@ -22416,6 +22415,29 @@
 "first_seen": "2026-11-27 13:02",
 "repost_of": "randstad:3022983",
 "repost_first_seen": ""
+},
+{
+"src": "randstad",
+"id": "3027136",
+"title": "Mozo/a picking con carnet de carretilla TURNO MAÑANA O TARDE",
+"town": "Granollers",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/mozo-a-picking-con-carnet-carretilla-turno-manana-o-tarde-3027136/",
+"published": "2026-11-27",
+"modified": "",
+"company": "",
+"salary": "14.12-14.36 EUR/HOUR",
+"text": "- Gestión de pedidos.\n- Picking y preparación de pedidos\n-Carretilla recogepedidos para ubicar\n- Uso de pistola PDA\n- Uso de transpaleta eléctrica eléctrica. Requisitos del puesto: Formación: Educación Secundaria Obligatoria\nConocimientos: carretilla transpaleta eléctrica\nSe valora disponer de carnet de carretilla recogepedidos y experiéncia con la misma\n Experiencia mínima 3 años\n- Imprescindible experiencia en picking y dominio en carretilla transpaleta eléctrica y CARNET DE CARRETILLA\n- Disponer de vehículo propio para llegar al puesto de trabajo (dificil acceso en transporte público) Formación: Educación Secundaria Obligatoria\n Conocimientos: CSS (Cascading Style Sheets), HTML, ECMAScript\n Experiencia: 3 años\nTus beneficios: - Salario 13,88 euros/bruto hora.\n- Horario fijo de Tarde (Lunes a Viernes de 14:00 a 22:00) o Mañana (lunes a Viernes de 6:00 a 14:00)\n-Incorporación inmediata",
+"flags": [
+"forklift",
+"car",
+"exp:3"
+],
+"why": {
+"forklift": "mozo a picking con carnet de carretilla turno manana o tarde … carretilla recogepedidos para ubicar … carretilla transpaleta electrica",
+"car": "disponer de vehiculo propio para llegar al puesto de trabajo dificil acceso en transporte publico formacion"
+},
+"first_seen": "2026-11-27 14:53"
 },
 {
 "src": "randstad",
@@ -26704,29 +26726,6 @@
 },
 {
 "src": "xaloc",
-"id": "397394",
-"title": "Administratiu/va Back Office Comercial",
-"town": "Caldes d'Estrac",
-"town_note": "list town Caldes d'Estrac, location Caldes de Montbui",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/397394",
-"published": "2026-11-12",
-"modified": "2026-11-27",
-"company": "",
-"salary": "",
-"text": "Administratiu/va de Back Office Comercial, per donar suport a l'equip de vendes d'empresa líder en el seu sector. Funcions: gestió, revisió i posada a punt de la informació fent servir SAGE. Bolcat, actualització i control de dades comercials. Revisió i control de stock. Elaboració d'informes periòdics de vendes i seguiment. Preparació de tarifes i llistes de preus. Suport administratiu general al dept. Horari de dll a dv de 8:30 a 17h. Capacitats requerides CFGM o CFGS en Administració, Comerç o similar. Exp. de dos anys mínim. Sage. Ús avançat d'Excel. Anglès intermig valorable, i coneixements en Power BI. Competències desitjades: facilitat per adaptar-se a nous programes i tecnologies, organització i atenció al detall, proactivitat, treball en equip, comunicació interpersonal. Requisits Obligatoris Informàtica Programari d'Ofimàtica - Usuari Avançat . Programari de gestió - Usuari Avançat Llengua Anglès - Nivell Independent B1 . Castellà - Nivell Experimentat C1 . Català - Nivell Experimentat C1 Informació d'interès Data d’incorporació 30/11/2026 Contracte Tipus Eventuals per circumstàncies de la producció Durada Durada indeterminada per obra o servei Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada partida",
-"flags": [
-"lang_level",
-"diploma",
-"english"
-],
-"why": {
-"lang_level": "nivell independent b1 … nivell experimentat c1 … nivell experimentat c1 informacio d interes data dincorporacio 30 11 2026 contracte tipus eventuals per circumstancies de la produccio durada durada indetermina",
-"diploma": "capacitats requerides cfgm o cfgs en administracio comerc o similar"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
 "id": "397405",
 "title": "Electricista industrial",
 "town": "Caldes d'Estrac",
@@ -26754,7 +26753,7 @@
 "town_note": "list town Caldes d'Estrac, location Caldes de Montbui",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397581",
 "published": "2026-11-19",
-"modified": "2026-11-26",
+"modified": "2026-11-27",
 "company": "",
 "salary": "",
 "text": "Per treballar en empresa líder en el seu sector (industrial). Funcions: Entrada i gestió de comandes de compra (nacional i internacional), gestió d'estocs dels magatzems (propis i subcontractats), suport a logística d'importació, gestionar i fer seguiment del transport internac., informes (costos i ctrol estocs), gestió inventari, comandes de grans comptes (OEM), reportar (setmanal) a direcció d'Operacions. Jornada completa, horari de 8:30 a 17h, incorporació estable. Capacitats requerides LLic en ADE o comerç exterior. 2 anys d'experiència. Coneixements Incoterms i gestió duanes. Excel alt, valorable exp. en A3 ERP i programes de SGA. Anglès FC o superior imprescindible. Disponibilitat per viatjar (puntualment). Competències requerides per l'empresa: que sigui una persona resolutiva, comunicativa, amb iniciativa i capacitat de treball en equip. Requisits Obligatoris Llengua Anglès - Nivell Independent B2 . Castellà - Nivell Experimentat C1 . Català - Nivell Experimentat C1 Molt importants Titulació FPII - - Administració d'empreses Informació d'interès Data d’incorporació 14/12/2026 Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada partida",
@@ -26931,6 +26930,28 @@
 "diploma": "requisits obligatoris vehicle propi si titulacio cicle formatiu grau superior"
 },
 "first_seen": ""
+},
+{
+"src": "xaloc",
+"id": "397864",
+"title": "ADMINISTRATIU/IVA PER SECTOR TEXTIL (DOSRIUS)",
+"town": "Dosrius",
+"town_note": "",
+"url": "https://xaloc.diba.cat/ofertes-de-feina/397864",
+"published": "2026-11-27",
+"modified": "2026-11-27",
+"company": "",
+"salary": "",
+"text": "Atenció a la clientela. Entrada de comandes. Gestió de transportistes/incidències. Facturació. Càlcul de comissions als representants. Seguiment dipòsits a diferents clients. Manteniment asseguradora clients. Tasques derivades dels processos comercials. Tasques bàsiques de comptabilitat (entrar apunts comptables...). SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia Currículum a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397864 Capacitats requerides IMPRESCINDIBLE Vehicle per arribar a Dosrius.Ofimàtica nivell mig (Word i Excel). Haver treballat en tasques de departament comercial (atenció a la clientela, entrada de comandes...). VALORABLE Coneixements de ERP. Salari 12 pagues. Requisits Obligatoris Nivell acadèmic ESO Vehicle propi Sí Informàtica Programari d'Ofimàtica - Usuari Mitjà Llengua Català - Nivell Independent B2 . Castellà - Nivell Independent B2 Informació d'interès Data d’incorporació 14/12/2026 Salari mensual 1450€ Horari De dl a dj de 8-16:30 h (descans dinar), dv 7-15 h Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada partida",
+"flags": [
+"car",
+"lang_level"
+],
+"why": {
+"car": "requisits obligatoris nivell academic eso vehicle propi si informatica programari d ofimatica",
+"lang_level": "nivell independent b2 … nivell independent b2 informacio d interes data dincorporacio 14 12 2026 salari mensual 1450 horari de dl a dj de 8 16 30 h descans dinar dv 7 15 h contracte ti"
+},
+"first_seen": "2026-11-27 14:53"
 },
 {
 "src": "xaloc",
@@ -28208,7 +28229,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397011",
 "published": "2026-11-02",
-"modified": "2026-11-25",
+"modified": "2026-11-27",
 "company": "",
 "salary": "",
 "text": "Preparació i atenció de pacients per a exploracions radiològiques. Realització de panoràmiques, telerradiografies i CBCT, segons les competències professionals i els protocols del centre. Preparació, identificació i gestió dels estudis d'imatge. Aplicació dels protocols de radioprotecció, higiene i qualitat. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia CV a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397011 Capacitats requerides IMPRESCINDIBLE: Titulació de Tècnic/a superior en Imatge per al Diagnòstic i Medicina Nuclear, o equivalent habilitant. Responsabilitat, organització i bon tracte amb els pacients. VALORABLE: Coneixements de radiologia odontològica, CBCT i gestió digital d'imatges. JORNADA: 20h/set de tarda. HORARI: dl a dv de 16 a 20h. SOU: 1.128 euros bruts inicials al mes per 12 pagues. Requisits Obligatoris Llengua Castellà - Nivell Independent B2 . Català - Nivell Independent B2 Molt importants Nivell acadèmic Cicle formatiu grau superior Branca C.Formatiu Grau Superior Sanitat Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 1128€ Horari Dl a dv de 16 a 20h. Contracte Tipus Indefinit: ordinari Durada Indefinit Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada parcial Jornada 3 Exclusivament tarda",
@@ -28255,7 +28276,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397470",
 "published": "2026-11-17",
-"modified": "2026-11-23",
+"modified": "2026-11-27",
 "company": "",
 "salary": "",
 "text": "Intervenir en instal·lacions d'aigua, electricitat de baixa tensió, gas, instal·lacions tèrmiques, telecomunicacions i altres sistemes associats, executant tasques de manteniment correctiu, preventiu i millora. Diagnosticar avaries. Supervisar l'estat de conservació i funcionament dels equips.Gestionar, registrar i fer el seguiment de les incidències.Coordinar i realitzar el seguiment de les actuacions efectuades per empreses mantenidores externes. Utilitzar i mantenir actualitzat el sistema GMAO. Capacitats requerides Si t'interessa: 1) APUNTA'T. 2) ENVIA CURRÍCULUM INDICANT NÚMERO D'OFERTA 397470 A bt@ajmataro.cat. IMPRESCINDIBLE CFGS en Sistemes Electrotècnics i Automatitzats. Nivell C1 de català. Coneixement Word i Excel mig. Carnet B. Haver treballat en les tasques descrites. Requisits Obligatoris Permís de conduir B Titulació Cicle formatiu grau superior - Electricitat i Electrònica - Sistemes Electrotècnics i Automatitzats Recomanables Llengua Català - Nivell Experimentat C1 Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 2242€ Horari horari flexible dl a dv de 8:00 a 15:20h Contracte Tipus Interinitat Durada Més de 3 i menys de 6 mesos Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada intensiva Jornada 3 Exclusivament matí",
@@ -28371,7 +28392,7 @@
 "modified": "2026-11-27",
 "company": "",
 "salary": "",
-"text": "Atenció al client presencial i telefnica. Arxiu de documentació. Entrada d'apunts comptables de persones físiques i societats, moviments bancaris i càlcul de declaracions d'impostos IVA/IRPF. Recolçament de tasques administratives. Contracte per a la Formació i l'Aprenentatge (edat entre 16 i 30 anys). Es faràn 20 h de treball efectiu i 11 h de formació d'àmbit administratiu a l'oficina. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia Currículum a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397722 Capacitats requerides IMPRESCINDIBLE Títol ESO. No tenir formació àmbit administratiu (CP o CF). Català i castellà parlats i escrits correctament, ofimàtica (word, excel i outlook) nivell usuari. Capacitat d'organtizació. Residència a Mataró o rodalies. Estar inscrit/a com Demandant d'Ocupació No Ocupat (DONO). Contracte de 3 ms prorrogable fins 31/01/2028. Requisits Obligatoris Nivell acadèmic ESO Informàtica Programari d'Ofimàtica - Usuari Mitjà Llengua Castellà - Nivell Experimentat C1 . Català - Nivell Experimentat C1 Recomanables Formació professionalitzadora Operacions auxiliars d'enregistrament i tractament de dades i documents Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 750€ Horari De dl a dv 10 a 14h+ 11 h formació setmanals Contracte Tipus Formació i aprenentatge Durada Més de 12 mesos Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada parcial Jornada 3 Exclusivament matí",
+"text": "Atenció al client presencial i telefònica. Arxiu de documentació. Entrada d'apunts comptables de persones físiques i societats, moviments bancaris i càlcul de declaracions d'impostos IVA/IRPF. Recolçament de tasques administratives. Contracte per a la Formació i l'Aprenentatge (edat entre 16 i 30 anys). Es faràn 20 h de treball efectiu i 11 h de formació d'àmbit administratiu a l'oficina. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia Currículum a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397722 Capacitats requerides IMPRESCINDIBLE Títol ESO. No tenir formació àmbit administratiu (CP o CF). Català i castellà parlats i escrits correctament, ofimàtica (word, excel i outlook) nivell usuari. Capacitat d'organtizació. Residència a Mataró o rodalies. Estar inscrit/a com Demandant d'Ocupació No Ocupat (DONO). Contracte de 3 ms prorrogable fins 31/01/2028. Requisits Obligatoris Nivell acadèmic ESO Informàtica Programari d'Ofimàtica - Usuari Mitjà Llengua Castellà - Nivell Experimentat C1 . Català - Nivell Experimentat C1 Recomanables Formació professionalitzadora Operacions auxiliars d'enregistrament i tractament de dades i documents Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 750€ Horari De dl a dv 10 a 14h+ 11 h formació setmanals Contracte Tipus Formació i aprenentatge Durada Més de 12 mesos Jornada Jornada 1 Indiferent de dilluns a divendres Jornada 2 Només jornada parcial Jornada 3 Exclusivament matí",
 "flags": [
 "lang_level",
 "diploma"
