@@ -1,47 +1,47 @@
 {
-"built": "2026-11-27 08:44 UTC",
+"built": "2026-11-27 09:42 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
 "count": 163,
-"secs": 380,
-"at": "2026-11-27 08:51"
+"secs": 401,
+"at": "2026-11-27 09:49"
 },
 "feinaactiva": {
 "ok": true,
-"count": 704,
+"count": 706,
 "secs": 6,
-"at": "2026-11-27 08:51"
+"at": "2026-11-27 09:49"
 },
 "eurofirms": {
 "ok": true,
 "count": 79,
 "secs": 1,
-"at": "2026-11-27 08:51"
+"at": "2026-11-27 09:49"
 },
 "randstad": {
 "ok": true,
-"count": 173,
-"secs": 197,
-"at": "2026-11-27 08:54"
+"count": 175,
+"secs": 223,
+"at": "2026-11-27 09:52"
 },
 "iman": {
 "ok": true,
 "count": 267,
-"secs": 53,
-"at": "2026-11-27 08:55"
+"secs": 57,
+"at": "2026-11-27 09:53"
 },
 "ras": {
 "ok": true,
 "count": 62,
-"secs": 5,
-"at": "2026-11-27 08:55"
+"secs": 6,
+"at": "2026-11-27 09:54"
 },
 "meditempus": {
 "ok": true,
 "count": 38,
-"secs": 87,
-"at": "2026-11-27 08:57"
+"secs": 2,
+"at": "2026-11-27 09:54"
 }
 },
 "offers": [
@@ -9499,6 +9499,42 @@
 "lang_level": "es requereix grau universitari en farmacia quimica biotecnologia enginyeria quimica o estudis afins nivell dangles b2 i coneixements informatics a nivell dusuar"
 },
 "first_seen": "2026-11-26 13:04"
+},
+{
+"src": "feinaactiva",
+"id": "09202633360",
+"title": "CONSULTOR/A INFORMÀTIC/A AMB CERTIFICAT DE DISCAPACITAT - 33274",
+"town": "Mollet del Vallès",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202633360",
+"published": "2026-11-27",
+"modified": "",
+"company": "Oficina de Treball del SOC",
+"salary": "5357-5357 €/mes",
+"text": "Les funcions consisteixen a liderar la transformació digital dels processos de negoci de l’àmbit Healthcare mitjançant solucions ERP, definir processos globals end-to-end eficients i estandarditzats, actuar com a referent funcional d’Order to Cash (O2C), garantir la integració amb Finances (FI), altres processos corporatius i sistemes externs, identificar oportunitats de millora, impulsar projectes de transformació i assegurar que les solucions aportin valor al negoci en termes d’eficiència, productivitat i experiència d’usuari.\nExperiència: \nRequisits: anglès (parlat Mitjà, escrit Mitjà)\nEstudis: \nContracte laboral indefinit\nJornada completa",
+"flags": [
+"english"
+],
+"why": {},
+"first_seen": "2026-11-27 09:42"
+},
+{
+"src": "feinaactiva",
+"id": "09202633373",
+"title": "TÈCNIC/A EN GESTIÓ D'ESTOCS I/O MAGATZEM AMB CERTIFICAT DE DISCAPACITAT - 33373",
+"town": "Mollet del Vallès",
+"town_note": "",
+"url": "https://feinaactiva.gencat.cat/search/offers/detail/09202633373",
+"published": "2026-11-27",
+"modified": "",
+"company": "Oficina de Treball del SOC",
+"salary": "3214-3214 €/mes",
+"text": "Les funcions consisteixen a actuar com a responsable tècnic/a de Magatzem i Distribució, assegurant l'excel·lència operativa, el compliment de les GMP/GDP, la gestió de qualitat, l'optimització dels processos logístics i la transformació digital. També liderarà iniciatives de millora contínua, projectes Lean, suport SAP i accions orientades a incrementar l'eficiència, la qualitat i el nivell de servei.\nExperiència: \nRequisits: anglès (parlat Mitjà, escrit Mitjà)\nEstudis: \nContracte laboral indefinit\nJornada completa",
+"flags": [
+"english"
+],
+"why": {},
+"first_seen": "2026-11-27 09:42"
 },
 {
 "src": "feinaactiva",
@@ -20977,6 +21013,30 @@
 },
 {
 "src": "randstad",
+"id": "3026738",
+"title": "Recepcionista incorporación 30/11",
+"town": "Arenys de Mar",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/recepcionista-incorporacion-30-11-3026738/",
+"published": "2026-11-27",
+"modified": "",
+"company": "",
+"salary": "11.68-11.68 EUR/HOUR",
+"text": "Tus fuciones serán:\n- Recepción de documentación y archivo\n- Recepción de clientes\n- Atención telefónica Requisitos del puesto: - Grado medio o superior\n- Inglés alto\n- Disponibilidad para trabajar el 30 de NOVIEMBRE de 08:30 a 17:30h con 1hora para comer.\n- Experiencia previa en atención al cliente o recepción Formación: Ciclo Formativo Grado Medio\n Idiomas: Inglés\n: B2\n Experiencia: 1 año\nTus beneficios: - Trabajar en una empresa de moda reconocida\n- Salario según convenio\n- Aprender nuevas maneras de trabajo",
+"flags": [
+"lang_level",
+"diploma",
+"english",
+"exp:1"
+],
+"why": {
+"lang_level": "b2",
+"diploma": "grado medio o superior … ciclo formativo grado medio"
+},
+"first_seen": "2026-11-27 09:42"
+},
+{
+"src": "randstad",
 "id": "3019258",
 "title": "Operario u operaria sector textil horario nocturno",
 "town": "Argentona",
@@ -23597,6 +23657,28 @@
 },
 {
 "src": "randstad",
+"id": "3026884",
+"title": "Contable",
+"town": "Parets del Vallès",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/contable-3026884/",
+"published": "2026-11-27",
+"modified": "",
+"company": "",
+"salary": "27000-30000 EUR/YEAR",
+"text": "- Gestión del ciclo contable completo (asientos, provisiones y amortizaciones).\n- Preparación y ejecución de cierres contables trimestrales y anuales.\n- Elaboración de estados financieros: Balance de Situación y Cuenta de Pérdidas y Ganancias.\n- Conciliaciones bancarias periódicas y supervisión de la tesorería diaria.\n- Gestión de proveedores (contabilización y pagos) y clientes (emisión de facturas y seguimiento de cobros). Requisitos del puesto: - Experiencia mínima de 3 años en una posición contable similar.\n- Valorable uso de SAGE 200.\nIdiomas: Valorable Inglés y Francés Formación: Grado\n: Grado en Administración y Dirección de Empresas\n Idiomas: Francés\n: B2\n, Inglés\n: B2\n Conocimientos: Sage 200\n Experiencia: 3 años\nTus beneficios: - Salario Bruto Anual: Entre 27.000¿ y 30.000¿\n- Flexibilidad horaria, con posibilidad de entrada entre las 7h y las 9h",
+"flags": [
+"lang_level",
+"english",
+"exp:3"
+],
+"why": {
+"lang_level": "b2 … b2"
+},
+"first_seen": "2026-11-27 09:42"
+},
+{
+"src": "randstad",
 "id": "3024947",
 "title": "Recambista - La Pineda",
 "town": "Pineda de Mar",
@@ -26147,7 +26229,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397604",
 "published": "2026-11-20",
-"modified": "2026-11-24",
+"modified": "2026-11-27",
 "company": "",
 "salary": "",
 "text": "ATENCIÓ AL CLIENT A PRODUCTES FRESCOS (xarcuteria, forneria, carnisseria, fruiteria i bar): Tall, neteja despatx del producte. Muntatge del taulell i reposició del producte. Manteniment i promoció del gènere. Orientació i assessor al client. Preferiblement persones amb coneixements o experiència però es valorarà si es vol aprendre ofici. SI T'INTERESSA: 1) Apunta't a l'oferta i 2) Envia Currículum a bt@ajmataro.cat indicant a l'assumpte el número d'oferta: 397604 Capacitats requerides IMPRESCINDIBLE MAJOR DE 18 ANYS AMB ESO o equivalent. Bon nivell Castellà o Català. Persona dinàmica. Capacitat d'atenció, aprenentatge i treball en equip. DISPONIBILITAT HORÀRIA de dl a ds (i festius d'obertura) per fer torns: Matí i Tarda o només tarda. Contracte 24-30 hs/setmana 1 desembre fins principis gener. Requisits Obligatoris Nivell acadèmic ESO Llengua Castellà - Nivell Independent B2 Recomanables Llengua Català - Nivell Independent B2 Informació d'interès Data d’incorporació 01/12/2026 Salari mensual 964€ Horari 30 h/setmana. Cal disponibilitat per fer torns Contracte Tipus Eventuals per circumstàncies de la producció Durada Entre 1 i 3 mesos Prorrogable Sí Jornada Jornada 1 Indiferent Jornada 2 Només jornada parcial",
@@ -26789,7 +26871,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397532",
 "published": "2026-11-18",
-"modified": "2026-11-26",
+"modified": "2026-11-27",
 "company": "",
 "salary": "",
 "text": "Donar suport als oficials en tasques de paleta, reformes i manteniment, preparar morters, pastes i adhesius seguint les seves indicacions. Gestionar la càrrega, descàrrega, transport i distribució de materials i eines dins de l'obra. Realitzar picats, retirada de rajoles i paviments, petites demolicions i col·laborar en l'obertura i tapat de regates sota supervisió. Protegir terres, portes, finestres, mobiliari i zones de pas, netejar o preparar superfícies per enrajolar, arrebossar i pintar. Recollir i retirar enderrocs de la zona de treball SB: 1.913 eur (12 pagues) Capacitats requerides Zona de treball: Província de Barcelona. Formació: PRL de paleta de 20 hores Persona responsable, puntual i amb disposició pel treball en equip. Capacitat per seguir les instruccions de l'encarregat i els oficials. Coneixements bàsics de ferramentes i materials de construcció. Compromís amb l'ordre, la neteja i la seguretat a l'obra Requisits Obligatoris Permís de conduir B Vehicle propi Sí Experiència en l'ocupació (mesos) 12 Llengua Castellà - Nivell Independent B1 Informació d'interès Data d’incorporació 01/12/2026 Horari De dilluns a divendres de 8-16h Esforç físic Sí Contracte Tipus Indefinit: ordinari Durada Indefinit",
@@ -26812,7 +26894,7 @@
 "town_note": "",
 "url": "https://xaloc.diba.cat/ofertes-de-feina/397533",
 "published": "2026-11-18",
-"modified": "2026-11-26",
+"modified": "2026-11-27",
 "company": "",
 "salary": "",
 "text": "Companyia i escola de teatre cerca Comptable. Centralitzar la recepció de factures rebudes. Centralitzar l'emissió de factures a clients. Control de Tresoreria, Seguiment de cobraments, Previsió de pagaments, Relació amb gestoria. Comptabilització segons PGC amb programa de comptabilitat. Control de costos per projectes. Confecció d' Impostos. Salari brut anual: entre 13.000-16.000 euros (12 pagues) Capacitats requerides Organització, control de la documentació comptable, bona energia, disposició per créixer dins l'empresa. Certificat lliure d'abusos sexuals en menors. EXCEL i OUTLOOK Requisits Obligatoris Experiència en l'ocupació (mesos) 36 Llengua Castellà - Nivell Independent B2 . Català - Nivell Independent B2 Informació d'interès Data d’incorporació 01/12/2026 Horari De dilluns a divendres de 10 a 14h Contracte Tipus Indefinit: ordinari Durada Indefinit",
