@@ -1,47 +1,47 @@
 {
-"built": "2026-11-27 22:54 UTC",
+"built": "2026-11-28 08:44 UTC",
 "sources": {
 "xaloc": {
 "ok": true,
-"count": 163,
-"secs": 378,
-"at": "2026-11-27 23:01"
+"count": 160,
+"secs": 403,
+"at": "2026-11-28 08:51"
 },
 "feinaactiva": {
 "ok": true,
 "count": 712,
 "secs": 6,
-"at": "2026-11-27 23:01"
+"at": "2026-11-28 08:51"
 },
 "eurofirms": {
 "ok": true,
 "count": 83,
-"secs": 6,
-"at": "2026-11-27 23:01"
+"secs": 2,
+"at": "2026-11-28 08:51"
 },
 "randstad": {
 "ok": true,
-"count": 183,
-"secs": 174,
-"at": "2026-11-27 23:04"
+"count": 179,
+"secs": 162,
+"at": "2026-11-28 08:54"
 },
 "iman": {
 "ok": true,
 "count": 266,
-"secs": 54,
-"at": "2026-11-27 23:05"
+"secs": 49,
+"at": "2026-11-28 08:55"
 },
 "ras": {
 "ok": true,
 "count": 63,
-"secs": 4,
-"at": "2026-11-27 23:05"
+"secs": 0,
+"at": "2026-11-28 08:55"
 },
 "meditempus": {
 "ok": true,
-"count": 38,
-"secs": 1,
-"at": "2026-11-27 23:05"
+"count": 39,
+"secs": 24,
+"at": "2026-11-28 08:55"
 }
 },
 "offers": [
@@ -21011,6 +21011,26 @@
 },
 {
 "src": "meditempus",
+"id": "operario-montaje-de-metal-hmx",
+"title": "OPERARIO MONTAJE DE METAL (HMX)",
+"town": "Vilassar de Dalt",
+"town_note": "",
+"url": "https://www.meditempus.com/oferta/operario-montaje-de-metal-hmx/",
+"published": "2026-11-27",
+"modified": "",
+"company": "",
+"salary": "",
+"text": "OPERARIO MONTAJE DE METAL (HMX) - Meditempus OPERARIO MONTAJE DE METAL (HMX) - Meditempus Soy empresa Busco empleo Franquiciados Sobre nosotros Contacto Login Empleado Cliente Home Soy empresa Busco empleo Franquiciados Sobre nosotros Contacto OPERARIO MONTAJE DE METAL (HMX) Funciones Estamos seleccionando a Operarios/as ( hxm) para montaje de componentes metálicos y con experiencia en utilización de sistemas de metrología ( pie de rey, palmer , etc) del sector metalúrgico para incorporar en una importante empresa situada en Vilassar de Dalt para realizar las siguientes funciones: - Montaje de componentes - Interpretación de planos - Verificación de las piezas con sistemas de medición - Mantenimiento menor de las máquinas - Orden y limpieza del puesto de trabajo. Requisitos Buscamos una persona con al menos 2 años de experiencia . - FPGM en Fabricación Mecánica y/o o mecánica - Sistemas de Metrología ( pie de rey, palmer ) - Muy valorable que tenga conocimientos de cnc ( no imprescindible) - Buscamos persona con actitud , proactiva e iniciativa para el aprendizaje - Vehículo propio - Imprescindible incorporación inmediata - Disponibilidad para trabajar de 06h a 14h Se ofrece - Contrato inicial a través de ETT y posibilidad incorporación directa en la plantilla de la compañía. - Salario 2.350€ aprox b/m - Estabilidad laboral Detalles de la oferta Publicación 27/11/2026 Fecha límite 27/12/2026 Población Vilassar de Dalt Provincia Barcelona Número de vacantes 2 Inscribirme a esta oferta ¡Síguenos en LinkedIn! SOY EMPRESA BU",
+"flags": [
+"car"
+],
+"why": {
+"car": "vehiculo propio"
+},
+"first_seen": "2026-11-28 08:44"
+},
+{
+"src": "meditempus",
 "id": "soldador-tig-hmx",
 "title": "SOLDADOR TIG (HMX)",
 "town": "Vilassar de Dalt",
@@ -21801,26 +21821,6 @@
 ],
 "why": {
 "car": "vehiculo propio"
-},
-"first_seen": ""
-},
-{
-"src": "randstad",
-"id": "3024980",
-"title": "Conductor/a VTC jornada completa turno tarde-noche (Barcelona)",
-"town": "Badalona",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/conductor-a-vtc-jornada-completa-turno-tarde-noche-barcelona-3024980/",
-"published": "2026-11-20",
-"modified": "",
-"company": "",
-"salary": "1400-1800 EUR/MONTH",
-"text": "Te encargarás de recoger clientes con puntualidad asegurando que lleguen correctamente a su destino. Requisitos del puesto: - Carnet de conducir tipo b con 8 o más puntos.\n- 2 años de antigüedad en el carnet de conducir.\n- Se valorará conocimientos en navegador Waze, así como de la ciudad de Barcelona. Formación: Sin estudios\n Conocimientos: Permiso de conducir clase B\nTus beneficios: - Contrato indefinido (directamente con la empresa).\n- Sueldo fijo: 1.424,50¿ brutos / mes + incentivos mensuales por facturación, bonos semanales y propinas.\n- En jornada completa: dos días libres a la semana (Lunes a Jueves) y cada 5 semanas (Domingo y Lunes)\n- Sistema de descansos especiales cada 6 meses y 12 meses.\n- Vehículos de empresa, Todos los coches son CERO o ECO, y cuentan con coches tanto manuales como automáticos.\n - Tarjeta gasolina, seguro para tramitación de multas y teléfono móvil.\n- Formación a cargo de la empresa.\n- Promoción interna y desarrollo dentro de la compañía.\n- Puntos concertados de limpieza de vehículo.\n- Vehículo de empresa, tarjeta gasolina, seguro para tramitación de multas y teléfono móvil.\n- Promoción interna y desarrollo dentro de la compañía.\n- Sesiones de fisioterapia: a domicilio por 8¿ (la compañía pagará el 80% de la sesión)",
-"flags": [
-"car"
-],
-"why": {
-"car": "carnet de conducir tipo b con 8 o mas puntos … 2 anos de antiguedad en el carnet de conducir … permiso de conducir clase b"
 },
 "first_seen": ""
 },
@@ -22926,26 +22926,6 @@
 ],
 "why": {
 "diploma": "fp grado medio"
-},
-"first_seen": ""
-},
-{
-"src": "randstad",
-"id": "3018631",
-"title": "Telefonista/Atención Cliente/ Y Manejo Ofimática",
-"town": "Lliçà de Vall",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/telefonista-atencion-cliente-y-manejo-ofimatica-3018631/",
-"published": "2026-10-28",
-"modified": "",
-"company": "",
-"salary": "12.66-12.66 EUR/HOUR",
-"text": "¿ Atención de consultas por teléfono y correo electrónico\n¿ Registro y actualización de datos en el sistema\n¿ Gestión y seguimiento de solicitudes con otros equipos\n¿ Resolución ágil de incidencias con trato cercano Requisitos del puesto: ¿ Manejo fluido de herramientas informáticas y email\n¿ Actitud resolutiva, empatía y orientación al cliente\n¿ Vehículo propio para acudir al puesto Formación: Educación primaria\n Conocimientos: Atención al cliente\nTus beneficios: ¿ Horario: Partido rotativo (8:00 a 18:00 / 9:00 a 19:00, con 2h para comer)\n¿ Contrato: 3 meses + 3 meses + Indefinido\n¿ Entrevista previa fechas: 4 al 6 de noviembre",
-"flags": [
-"car"
-],
-"why": {
-"car": "vehiculo propio para acudir al puesto formacion"
 },
 "first_seen": ""
 },
@@ -24084,6 +24064,28 @@
 },
 {
 "src": "randstad",
+"id": "3017225",
+"title": "Responsable de Prevención de Riesgos Laborales - Sector Industrial",
+"town": "Sabadell",
+"town_note": "",
+"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/responsable-prevencion-riesgos-laborales-sector-industrial-3017225/",
+"published": "2026-10-23",
+"modified": "",
+"company": "",
+"salary": "",
+"text": "- Liderazgo Estratégico: Definir y ejecutar el plan anual de prevención, traduciendo la estrategia global en planes de acción concretos y monitorizando indicadores para la toma de decisiones directivas.\n- Transformación Cultural: Liderar el cambio hacia una cultura de implicación (accountability), integrando la prevención en las rutinas de gestión diaria e impulsando herramientas de participación para los empleados.\n- Ingeniería y Prevención en Origen: Participar activamente en la modificación de procesos e instalaciones aplicando el principio de prevención desde el diseño (Safety by Design), priorizando medidas que eliminen el riesgo en origen.\n-Gestión de Riesgos Críticos: Identificar, evaluar y controlar riesgos laborales e industriales, poniendo especial foco en los riesgos críticos y en aquellas actividades con potencial de lesiones graves o fatales.\n-Desarrollo de Personas y Coordinación: Liderar, desarrollar y hacer crecer a tu propio equipo interno de prevención, además de coordinar la gestión de contratistas en actividades de alto riesgo y trabajos simultáneos.\n-Mejora Continua: Investigar incidentes y analizar tendencias de datos para identificar oportunidades de mejora, replicando buenas prácticas a nivel corporativo. Requisitos del puesto: Formación universitaria o equivalente, preferiblemente en Ingeniería, Ciencias,\nPrevención de Riesgos Laborales, Seguridad, Medio Ambiente u otras\ndisciplinas técnicas afines.\n¿ Máster en Prevención de Riesgos Laborales, contando con las especialidades\nrequeridas para el desempeño del puesto.\n¿ Experiencia mínima de 7 años en posiciones de Prevención de Riesgos\nLaborales en entornos industriales.\n¿ Experiencia contrastada en entornos productivos.\n¿ Nivel de inglés mínimo B2.\n¿ Conocimientos sólidos en legislación de PRL y Seguridad Industrial.\n¿ Conocimientos de sistemas de gestión de PRL, valorándose preferentemente la\nnorma ISO 45001.\n¿ Experiencia demostrable en transformación de la cultura preventiva,\ncompromiso del liderazgo y gestión de riesgos.\n¿ Experiencia previa en el liderazgo de equipos y en el trabajo transversal con\ndepartamentos como Operaciones, Producción, Ingeniería, Mantenimiento y\nRecursos Humanos.\n¿ Buen nivel en el uso de herramientas digitales y en el análisis de datos.\n¿ Se valorará positivamente la experiencia en la implantación de sistemas de\ngestión, realización de auditorías, gestión de riesgos críticos e iniciativas de\nmejora continua. Formación: Grado\n Idiomas: Inglés\n: B2\n Conoc",
+"flags": [
+"lang_level",
+"english",
+"exp:7"
+],
+"why": {
+"lang_level": "nivel de ingles minimo b2 … b2"
+},
+"first_seen": "2026-11-28 08:44"
+},
+{
+"src": "randstad",
 "id": "3019676",
 "title": "Promotor o promotora cajas de experiencias Sabadell Navidad",
 "town": "Sabadell",
@@ -24523,26 +24525,6 @@
 },
 {
 "src": "randstad",
-"id": "3025021",
-"title": "Conductor/a VTC jornada completa turno tarde-noche (Barcelona)",
-"town": "Sabadell",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/conductor-a-vtc-jornada-completa-turno-tarde-noche-barcelona-3025021/",
-"published": "2026-11-20",
-"modified": "",
-"company": "",
-"salary": "1400-1800 EUR/MONTH",
-"text": "Te encargarás de recoger clientes con puntualidad asegurando que lleguen correctamente a su destino. Requisitos del puesto: - Carnet de conducir tipo b con 8 o más puntos.\n- 2 años de antigüedad en el carnet de conducir.\n- Se valorará conocimientos en navegador Waze, así como de la ciudad de Barcelona. Formación: Sin estudios\n Conocimientos: Permiso de conducir clase B\nTus beneficios: - Contrato indefinido (directamente con la empresa).\n- Sueldo fijo: 1.424,50 euros brutos / mes + incentivos mensuales por facturación, bonos semanales y propinas.\n- En jornada completa: dos días libres a la semana (Lunes a Jueves) y cada 5 semanas (Domingo y Lunes)\n- Sistema de descansos especiales cada 6 meses y 12 meses.\n- Vehículos de empresa, Todos los coches son CERO o ECO, y cuentan con coches tanto manuales como automáticos.\n - Tarjeta gasolina, seguro para tramitación de multas y teléfono móvil.\n- Formación a cargo de la empresa.\n- Promoción interna y desarrollo dentro de la compañía.\n- Puntos concertados de limpieza de vehículo.\n- Vehículo de empresa, tarjeta gasolina, seguro para tramitación de multas y teléfono móvil.\n- Promoción interna y desarrollo dentro de la compañía.\n- Sesiones de fisioterapia: a domicilio por 8¿ (la compañía pagará el 80% de la sesión)",
-"flags": [
-"car"
-],
-"why": {
-"car": "carnet de conducir tipo b con 8 o mas puntos … 2 anos de antiguedad en el carnet de conducir … permiso de conducir clase b"
-},
-"first_seen": ""
-},
-{
-"src": "randstad",
 "id": "3025029",
 "title": "Qa Validations Specialist",
 "town": "Sabadell",
@@ -24664,27 +24646,6 @@
 },
 {
 "src": "randstad",
-"id": "3018450",
-"title": "Operario/a de envasado",
-"town": "Sant Celoni",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/operario-a-envasado-3018450/",
-"published": "2026-10-28",
-"modified": "",
-"company": "",
-"salary": "11.65-11.65 EUR/HOUR",
-"text": "Envasado del producto en sala blanca Requisitos del puesto: -Al menos 2 años de experiencia previa en tareas de envasado\n-Disponibilidad de incorporación inmediata\n-Disponibilidad para trabajar en turnos rotativos. Formación: FP Básica / PCPI / PGS\n, FP Grado Medio\n Conocimientos: Envasado\n Experiencia: 2 años\nTus beneficios: Salario de 11,65 euros/hora\nHorario rotativo de mañana, tarde y noche",
-"flags": [
-"diploma",
-"exp:2"
-],
-"why": {
-"diploma": "fp grado medio"
-},
-"first_seen": ""
-},
-{
-"src": "randstad",
 "id": "3023438",
 "title": "Operario/a de envasado (con experiencia en farma)",
 "town": "Sant Celoni",
@@ -24802,29 +24763,6 @@
 "diploma": "personas con formacion universitaria o formacion profesional … ciclo formativo grado medio … fp grado medio"
 },
 "first_seen": "2026-11-27 13:02"
-},
-{
-"src": "randstad",
-"id": "3018599",
-"title": "Operario u operaria de sala blanca",
-"town": "Vilassar de Dalt",
-"town_note": "",
-"url": "https://www.randstad.es/candidatos/ofertas-empleo/oferta/operario-u-operaria-sala-blanca-3018599/",
-"published": "2026-10-28",
-"modified": "",
-"company": "",
-"salary": "11.67-11.67 EUR/HOUR",
-"text": "-Manipulación en sala blanca\n-Control de calidad\n-Estuchado\n-Etiquetado\n-Encajado Requisitos del puesto: - experiencia previa en manipulación\n- Carnet de conducir y vehículo propio Formación: Sin estudios\n Idiomas: Catalán\n: C1\n, Castellano\n: C1\n Conocimientos: Sin requisitos\n Experiencia: 1 año\nTus beneficios: Contrato inicial semanal, con continuidad de forma quincenal/mensual\nIncorporación inmediata.\nHorario rotativo semanal de mañanas (6-14) y tardes (14-22) y noches (22-6)\n- Salario 11,67 euros b /h",
-"flags": [
-"car",
-"lang_level",
-"exp:1"
-],
-"why": {
-"car": "carnet de conducir y vehiculo propio formacion",
-"lang_level": "c1 … c1"
-},
-"first_seen": ""
 },
 {
 "src": "randstad",
@@ -26891,26 +26829,6 @@
 },
 {
 "src": "xaloc",
-"id": "397356",
-"title": "Atenció domiciliària a persona dependent",
-"town": "Calella",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/397356",
-"published": "2026-11-12",
-"modified": "2026-11-20",
-"company": "",
-"salary": "",
-"text": "Tasques de la llar i cura de persona en situació de dependència. Capacitats requerides Persona amb compromís amb l'empresa, orientació al client. Experiència mínima en lloc similar i curs de formació en l'àmbit de les dependències. Tasques desenvolupar Assistir les persones que requereixen cures personals o terapèutiques en tasques com ara la higiene, menjar o vestir-se, mobilitat física i exercici, comunicació i presa oral de medicaments i canvis d'embenats, generalment d'acord amb plans de cures establertes per professionals de la salut. Mantenir el registre sobre cures personals, canvi en les condicions i resposta a les cures i tractaments; informar o donar referències a professionals de la salut i els serveis socials. Col·locar i aixecar persones amb dificultats de mobilitat física, i ajudar-los a moure's en cadires de rodes i vehicles de motor Prestar als pacients i familiars suport emocional, informació i consell en aspectes com ara higiene, nutrició, exercici, cura dels nens o adaptació a la incapacitat o a la malaltia. Mantenir la higiene a l'entorn dels clients com per exemple el canvi de llençols o la neteja de la roba, els plats i l'habitatge. Prestar ajuda psicològica com ara conversa o lectura en veu alta. Planificar, realitzar les compres, preparar o servir menjars que s'adaptin als requisits nutricionals o dietes que s'han prescrit. Prestar suport als pares i tenir cura dels nounats durant el post part. Programar i acompanyar els clients a les cites amb el metge i altres professionals o realitzar altres tasques. Requisits Obligatoris Llengua Català - Nivell Independent B2 . Castellà - Nivell Independent B2 Informació d'interès Data d’incorporació 15/11/2026 Horari 9-14:00h Contracte Tipus Temporals bonificats Durada Durada indeterminada per obra o servei Prorrogable Sí",
-"flags": [
-"lang_level"
-],
-"why": {
-"lang_level": "nivell independent b2 … nivell independent b2 informacio d interes data dincorporacio 15 11 2026 horari 9 14 00h contracte tipus temporals bonificats durada durada indeterminada per ob"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
 "id": "396560",
 "title": "Monitor de menjador i lleure",
 "town": "Cardedeu",
@@ -28631,33 +28549,6 @@
 },
 {
 "src": "xaloc",
-"id": "395804",
-"title": "Gestor de magatzem",
-"town": "Montornès del Vallès",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/395804",
-"published": "2026-09-28",
-"modified": "2026-11-27",
-"company": "",
-"salary": "",
-"text": "Gestor de magatzem | Xaloc Vés al contingut Menú Login Entra Main navigation Xarxa XALOC Xarxa XALOC Cerques feina Ofereixes feina Servei de Mercat de Treball Ofertes de feina Formació Per a trobar feina Ocupacions més demandades De què puc treballar Competències clau El meu espai El meu municipi Preguntes freqüents Preguntes freqüents Notes legals Fil d'ariadna Ofertes de feina Gestor de magatzem Servei de Mercat de treball Gerència de Serveis de Promoció Econòmica i Ocupació Diputació de Barcelona Contacte ciutadans Contacte empreses Gestor de magatzem Número d'oferta 395804 Publicat - Modificat 28/09/2026 - 27/11/2026 Localització Montornès del Vallès Ocupació 9811 - Peons del transport de mercaderies i descarregadors: Mossos de magatzem Tasques específiques GESTOR DE MAGATZEM: Tasques: realitzar gestions de control de existències de materials, entrades y sortides, càrrega y enviaments a obres. Tot mantenint actualitzats els estats d'existències.També el control de la maquinària i eina d'obres, entrades i sortides de magatzem, gestió de la reparació i el manteniment de la maquinària. Tot mantenint actualitzats els estats d'existències. Manteniment de l'ordre, neteja i estat del magatzem. Gestió dels vehicles de l'empresa, gestió dels serveis de manteniment i neteja, control de kilometratge, combustible, etc... Capacitats requerides Persona amb perfil de confiança, ordre i control, responsable i fidel, amb les següents capacitats:amb coneixements mecànics i elèctrics bàsics. Amb certa experiència en entorns industrials, construcció o manteniment.Planificació, ordre i neteja, autonomia. Requisits Obligatoris Nivell acadèmic Cicle formatiu grau superior Permís de conduir B Vehicle propi Sí Experiència en l'ocupació (mesos) 60 Informàtica Programari d'Ofimàtica - Usuari Bàsic Llengua Català - Nivell Independent B2 . Castellà - Nivell Independent B2 Carnets especials Conductor/a de Carretó Elevador Informació d'interès Data d’incorporació 05/10/2026 Horari de 7 a 15 h",
-"flags": [
-"forklift",
-"car",
-"lang_level",
-"diploma",
-"exp:60"
-],
-"why": {
-"forklift": "nivell independent b2 carnets especials conductor a de carreto elevador informacio d interes data dincorporacio 05 10 2026 horari de 7 a 15 h",
-"car": "requisits obligatoris nivell academic cicle formatiu grau superior permis de conduir b vehicle propi si experiencia en l ocupacio mesos 60 informatica programar",
-"lang_level": "nivell independent b2 … nivell independent b2 carnets especials conductor a de carreto elevador informacio d interes data dincorporacio 05 10 2026 horari de 7 a 15 h",
-"diploma": "requisits obligatoris nivell academic cicle formatiu grau superior permis de conduir b vehicle propi si experiencia en l ocupacio mesos 60 informatica programar"
-},
-"first_seen": ""
-},
-{
-"src": "xaloc",
 "id": "396059",
 "title": "Comercial B2B - Vodafone empresas",
 "town": "Montornès del Vallès",
@@ -29097,31 +28988,6 @@
 "text": "Feines pròpies de paleta dins de la construcció i manteniment d'obra civil. Formació i experiència específica de paleta oficial de 1a, carnets professionals, cursos d'especialització. Entendre plànol, saber la feina que s'ha d'executar. Cursos d'especialització, cursos de PRL 60 hores. Capacitats requerides Busquem una persona responsable, formal i amb iniciativa per fer les feines. Contracte de 6 mesos + Indefinit Informació d'interès Data d’incorporació 02/11/2026 Salari mensual 2000€ Horari De 7:30 a 13 i de 14 a 17 i 30m esmorzar Esforç físic Sí Contracte Tipus Obra o servei Durada Indefinit Prorrogable Sí Jornada Jornada 1 Indiferent de dilluns a divendres",
 "flags": [],
 "why": {},
-"first_seen": ""
-},
-{
-"src": "xaloc",
-"id": "396869",
-"title": "Tècnic Prospecció Empreses",
-"town": "Sant Adrià de Besòs",
-"town_note": "",
-"url": "https://xaloc.diba.cat/ofertes-de-feina/396869",
-"published": "2026-10-28",
-"modified": "2026-11-25",
-"company": "",
-"salary": "",
-"text": "PROSPECCIÓ EMPRESES: anàlisi i selecció d'empreses dels sectors productius. INTERMEDIACIÓ LABORAL: gestió d'ofertes de feina i seguiment de les insercions. SUPORT XARXA SOCIOLABORAL: acompanyament en la recerca de feina per a perfils amb més dificultats, dinamització de monogràfics d'orientació laboral, alfabetització digital i processos de selecció. GESTIÓ INDIRECTA: elaboració de materials de difusió, memòries i registres, seguiment de resultats i gestió d'incidències del servei. Capacitats requerides Treball en equip, habilitats comunicatives, autonomia i capacitat d'organització. Es valorarà el coneixement dels recursos i serveis del territori, així com l'ús de la plataforma telemàtica Xaloc. Requisits Obligatoris Nivell acadèmic Llicenciatura / Enginyeria / Grau Experiència en l'ocupació (mesos) 18 Informàtica Programari d'Ofimàtica - Usuari Avançat Llengua Català - Nivell Experimentat C1 . Castellà - Nivell Experimentat C1 Recomanables Permís de conduir B Vehicle propi Sí Informació d'interès Data d’incorporació 09/11/2026 Horari dl i dc 8-15h; dt i dj 8-17:30h. dv 8:30-14h Atenció al públic Sí Contracte Tipus Interinitat Durada Durada indeterminada per obra o servei Prorrogable No Jornada Jornada 1 Indiferent de dilluns a divendres",
-"flags": [
-"car",
-"lang_level",
-"diploma",
-"exp:18"
-],
-"why": {
-"car": "nivell experimentat c1 recomanables permis de conduir b vehicle propi si informacio d interes data dincorporacio 09 11 2026 horari dl i dc 8 15h",
-"lang_level": "nivell experimentat c1 … nivell experimentat c1 recomanables permis de conduir b vehicle propi si informacio d interes data dincorporacio 09 11 2026 horari dl i dc 8 15h",
-"diploma": "requisits obligatoris nivell academic llicenciatura enginyeria grau experiencia en l ocupacio mesos 18 informatica programari d ofimatica"
-},
 "first_seen": ""
 },
 {
